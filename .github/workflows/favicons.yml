@@ -1,9 +1,9 @@
 name: Radio Favicons Sync
 
 on:
-  schedule:
-    # Run every 3 months (1st day of Jan, Apr, Jul, Oct at midnight)
-    - cron: '0 0 1 1,4,7,10 *'
+#  schedule:
+#     Run every 3 months (1st day of Jan, Apr, Jul, Oct at midnight)
+#    - cron: '0 0 1 1,4,7,10 *'
   workflow_dispatch:
 
 permissions:
