@@ -1,0 +1,55 @@
+name: Radio Favicons Processor
+
+on:
+  workflow_dispatch:
+    inputs:
+      countryCode:
+        description: 'Country code (e.g., ES, US, GB)'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  process-favicons:
+    name: Process Favicons for ${{ inputs.countryCode }}
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 Pillow
+      
+      - name: Create directory structure
+        run: mkdir -p radio/stations/favicons
+      
+      - name: Process favicons
+        env:
+          COUNTRY_CODE: ${{ inputs.countryCode }}
+        run: |
+          python .github/scripts/process_favicons.py
+      
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Commit and push changes
+        run: |
+          country_lower=$(echo "${{ inputs.countryCode }}" | tr '[:upper:]' '[:lower:]')
+          git add radio/stations/favicons/${country_lower}
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update favicons for ${{ inputs.countryCode }}"
+            git push
+          fi
