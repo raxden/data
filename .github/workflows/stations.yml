@@ -1,0 +1,90 @@
+name: Radio Stations Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-countries:
+    name: Fetch Countries
+    runs-on: ubuntu-latest
+    outputs:
+      countries: ${{ steps.get-countries.outputs.countries }}
+    
+    steps:
+      - name: Fetch countries from API
+        id: get-countries
+        run: |
+          response=$(curl -s "http://de1.api.radio-browser.info/json/countries")
+          countries=$(echo "$response" | jq -c '[.[] | .iso_3166_1]')
+          echo "countries=$countries" >> $GITHUB_OUTPUT
+
+  download-stations:
+    name: Download Stations
+    needs: fetch-countries
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        country: ${{ fromJson(needs.fetch-countries.outputs.countries) }}
+      max-parallel: 10
+      fail-fast: false
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Create directory structure
+        run: mkdir -p radio/stations/bycountry
+      
+      - name: Download stations for ${{ matrix.country }}
+        run: |
+          curl -s "https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/${{ matrix.country }}" \
+            -o "radio/stations/bycountry/${{ matrix.country }}.json"
+      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: stations-${{ matrix.country }}
+          path: radio/stations/bycountry/${{ matrix.country }}.json
+          retention-days: 1
+
+  commit-changes:
+    name: Commit and Push Changes
+    needs: download-stations
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Create directory structure
+        run: mkdir -p radio/stations/bycountry
+      
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          pattern: stations-*
+      
+      - name: Move files to correct location
+        run: |
+          find artifacts -name "*.json" -exec mv {} radio/stations/bycountry/ \;
+      
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Commit and push changes
+        run: |
+          git add radio/stations/bycountry/*.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update radio stations data"
+            git push
+          fi
