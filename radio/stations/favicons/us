@@ -25,11 +25,6 @@
         "favicon": "https://www.stlpr.org/apple-touch-icon.png"
     },
     {
-        "name": "Aardvark Blues FM",
-        "url": "http://edge4.peta.live365.net/b77280_128mp3",
-        "favicon": null
-    },
-    {
         "name": "Chill trax",
         "url": "http://server1.chilltrax.com:9000/;",
         "favicon": "https://www.chilltrax.com/images/apple-icon-57x57.png"
@@ -47,7 +42,7 @@
     {
         "name": "KFXR - Talk Radio 1190AM",
         "url": "https://stream.revma.ihrhls.com/zc4276",
-        "favicon": "https://www.google.com/s2/favicons?domain=stream.revma.ihrhls.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/stream.revma.ihrhls.com.ico"
     },
     {
         "name": "NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA",
@@ -97,7 +92,7 @@
     {
         "name": "__1 oldies",
         "url": "https://80sexitos.stream.laut.fm/80sexitos",
-        "favicon": "https://www.google.com/s2/favicons?domain=musica80.radioclub.es&sz=128"
+        "favicon": "https://www.google.com/s2/favicons?domain=musica80.radioclub.es&sz=512"
     },
     {
         "name": "__1oldies",
@@ -112,7 +107,7 @@
     {
         "name": "__80s HITS",
         "url": "http://stream.laut.fm/80sexitos",
-        "favicon": "https://www.google.com/s2/favicons?domain=musica80.radioclub.es&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/musica80.radioclub.es.ico"
     },
     {
         "name": "_Funky Corner Radio (USA)",
@@ -122,7 +117,7 @@
     {
         "name": "_Radio Energy(USA)",
         "url": "https://gmusto.radioca.st/mp3",
-        "favicon": null
+        "favicon": "https://radioenergy.to/wp-content/uploads/2018/03/LogoEnergy.png"
     },
     {
         "name": ". Abdulbasit Abdulsamad",
@@ -137,52 +132,7 @@
     {
         "name": ".100 Hip hop and RNB FM",
         "url": "https://ice64.securenetsystems.net/LFTM",
-        "favicon": null
-    },
-    {
-        "name": ".977 80s",
-        "url": "http://17573.live.streamtheworld.com/977_80_SC",
-        "favicon": null
-    },
-    {
-        "name": ".977 90s",
-        "url": "http://26433.live.streamtheworld.com:3690/977_90_SC",
-        "favicon": null
-    },
-    {
-        "name": ".977 Comedy",
-        "url": "http://26433.live.streamtheworld.com/977_COMEDY_SC",
-        "favicon": null
-    },
-    {
-        "name": ".977 Country",
-        "url": "http://26343.live.streamtheworld.com/977_COUNTRY_SC",
-        "favicon": null
-    },
-    {
-        "name": ".977 Hitz",
-        "url": "http://18863.live.streamtheworld.com/977_HITS_SC",
-        "favicon": null
-    },
-    {
-        "name": ".977 Jamz",
-        "url": "http://15113.live.streamtheworld.com/977_JAMZ_SC",
-        "favicon": null
-    },
-    {
-        "name": ".977 Oldies",
-        "url": "http://27273.live.streamtheworld.com/977_OLDIES_SC",
-        "favicon": null
-    },
-    {
-        "name": ".977 Smooth Jazz",
-        "url": "http://14543.live.streamtheworld.com/977_SMOOJAZZ_SC",
-        "favicon": null
-    },
-    {
-        "name": ".977 The Mix",
-        "url": "http://26343.live.streamtheworld.com:3690/977_MIX_SC",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/ice64.securenetsystems.net.ico"
     },
     {
         "name": "\"The Mighty\"1290 GLI",
@@ -232,7 +182,7 @@
     {
         "name": "1 classic",
         "url": "http://listen.radionomy.com/1classic",
-        "favicon": "https://www.google.com/s2/favicons?domain=i3.radionomy.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/i3.radionomy.com.ico"
     },
     {
         "name": "1-Boss Radio 66",
@@ -242,7 +192,7 @@
     {
         "name": "1-krbx",
         "url": "http://radioboise-ice.streamguys1.com/live",
-        "favicon": "https://i0.wp.com/radioboise.org/wp-content/uploads/2016/04/cropped-RadioBoise_Radio_Favicon_1000x.png?fit=32%2C32&ssl=1"
+        "favicon": "https://icons.duckduckgo.com/ip3/radioboise.org.ico"
     },
     {
         "name": "1-The Eagle 181fm",
@@ -252,7 +202,7 @@
     {
         "name": "100 Hip Hop and RNB FM",
         "url": "http://192.99.41.102:5429/",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.100hiphopandrnb.fm&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.100hiphopandrnb.fm.ico"
     },
     {
         "name": "100 Hip Hop and RNB FM (Official)",
@@ -297,7 +247,7 @@
     {
         "name": "100.3 la ley",
         "url": "http://3.236.41.212/agmedia28-krqkfmmp3-ibc3?session-id=fdb692e8470991f174673aae7ec06260",
-        "favicon": "https://www.google.com/s2/favicons?domain=stream.abacast.net&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/stream.abacast.net.ico"
     },
     {
         "name": "100.3 The Beat",
@@ -370,11 +320,6 @@
         "favicon": "https://i.iheart.com/v3/re/new_assets/0941c4bd-fc5e-426e-b810-c8245cc3fc16?ops=fit(960%2C960)%2Cresize(0%2C390)"
     },
     {
-        "name": "100.7 KGBI",
-        "url": "https://nwmedia-kgbi.streamguys1.com/kgbi-mp3",
-        "favicon": null
-    },
-    {
         "name": "100.7 KKRQ The Fox",
         "url": "https://stream.revma.ihrhls.com/zc2812",
         "favicon": "https://i.iheart.com/v3/re/assets.brands/60c3d3fbed3692b07d9e0519?ops=gravity(%22center%22),contain(32,32),quality(65)"
@@ -387,7 +332,7 @@
     {
         "name": "100.7 The Bay",
         "url": "https://ais-sa1.streamon.fm/7225_48k.aac",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.thebayonline.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.thebayonline.com.ico"
     },
     {
         "name": "100.7 WMMS",
@@ -425,24 +370,19 @@
         "favicon": "https://radiostationusa.fm/assets/image/radio/180/K265CA-KZRR-HD2.jpg"
     },
     {
-        "name": "1000 Chrismas Songs",
-        "url": "https://ais-sa2.cdnstream1.com/2553_128.mp3",
-        "favicon": null
-    },
-    {
         "name": "100hitz - 90's Alternative",
         "url": "http://pureplay.cdnstream1.com/6040_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1OTE4NiwiaXNzIjoidGlzcnYifQ.MLF0T_JezQR4rG8wAnSmznCEsw4KL1TECaKnS2rV2fw%22",
-        "favicon": "https://www.google.com/s2/favicons?domain=100hitz.com&sz=128"
+        "favicon": "https://100hitz.com/favicon.ico"
     },
     {
         "name": "100hitz - 90's Hitz",
         "url": "http://pureplay.cdnstream1.com/6056_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODgyMywiaXNzIjoidGlzcnYifQ.p0ux4zgs6Xj7dhIr3EqVlXAiEOTKtY7snGxgD55apOM",
-        "favicon": "https://www.google.com/s2/favicons?domain=100hitz.com&sz=128"
+        "favicon": "https://100hitz.com/wp-content/uploads/2023/03/cropped-Icon_master-logo-32x32.png"
     },
     {
         "name": "100Hitz - 90s Alternative Hitz",
         "url": "http://pureplay.cdnstream1.com/6040_64.aac/playlist.m3u8",
-        "favicon": "https://www.google.com/s2/favicons?domain=100hitz.com&sz=128"
+        "favicon": "https://100hitz.com/wp-content/uploads/2023/03/cropped-Icon_master-logo-32x32.png"
     },
     {
         "name": "100Hitz - Alternative",
@@ -520,11 +460,6 @@
         "favicon": "https://live.101espn.com/wp-content/uploads/2018/11/101ESPN-Logo.png"
     },
     {
-        "name": "101 Smooth Jazz",
-        "url": "http://jking.cdnstream1.com/b22139_128mp3",
-        "favicon": null
-    },
-    {
         "name": "101 SMOOTH JAZZ",
         "url": "http://jking.cdnstream1.com/b22139_128mp3",
         "favicon": "http://101smoothjazz.com/favicon.ico"
@@ -533,11 +468,6 @@
         "name": "101 Smooth Jazz",
         "url": "http://streamingp.shoutcast.com/JamendoLounge",
         "favicon": "http://www.101smoothjazz.com/favicon.ico"
-    },
-    {
-        "name": "101 Smooth Jazz",
-        "url": "http://jking.cdnstream1.com/b22139_128mp3",
-        "favicon": null
     },
     {
         "name": "101 SMOOTH JAZZ",
@@ -642,7 +572,7 @@
     {
         "name": "101.7 KKIQ",
         "url": "https://live.amperwave.net/direct/alphacorporate-kkiqfmmp3-ibc4",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.kkiq.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.kkiq.com.ico"
     },
     {
         "name": "101.7 KSAM",
@@ -657,7 +587,7 @@
     {
         "name": "101.9 KINK FM",
         "url": "https://live.amperwave.net/direct/alphacorporate-kinkfmmp3-ibc4",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.kink.fm&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.kink.fm.ico"
     },
     {
         "name": "101.9 KISS FM",
@@ -672,7 +602,7 @@
     {
         "name": "101.9 The Eagle",
         "url": "https://live.amperwave.net/direct/alphacorporate-kxglfmaac-ibc4?source=website",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.1009theeagle.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.1009theeagle.com.ico"
     },
     {
         "name": "101.9 The Rock",
@@ -687,12 +617,12 @@
     {
         "name": "1010 KSIR",
         "url": "http://alpha.newerastreaming.com:8016/;",
-        "favicon": "https://ksir.com/wp-content/uploads/2019/03/KSIR-favicon-2-150x150.png"
+        "favicon": "https://icons.duckduckgo.com/ip3/ksir.com.ico"
     },
     {
         "name": "1010 XL",
         "url": "https://ice23.securenetsystems.net/WJXL",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.1010xl.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.1010xl.com.ico"
     },
     {
         "name": "1011 The Beat",
@@ -877,7 +807,7 @@
     {
         "name": "103.5 & 102.9 The Vault",
         "url": "https://ice66.securenetsystems.net/WJKI",
-        "favicon": "https://www.google.com/s2/favicons?domain=thevaultrocks.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/thevaultrocks.com.ico"
     },
     {
         "name": "103.5 KISS FM - WKSC-FM Chicago",
@@ -902,7 +832,7 @@
     {
         "name": "103.5 WEZL",
         "url": "https://stream.revma.ihrhls.com/zc2061",
-        "favicon": "https://www.google.com/s2/favicons?domain=wezl.iheart.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/wezl.iheart.com.ico"
     },
     {
         "name": "103.5 WGRR",
@@ -952,7 +882,7 @@
     {
         "name": "103.9 WYAB",
         "url": "http://www.wyab.com:81/stream",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.wyab.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.wyab.com.ico"
     },
     {
         "name": "1035 KTU The Beat of New York",
@@ -992,7 +922,7 @@
     {
         "name": "104.3 HITfm",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTO_FMAAC.aac",
-        "favicon": "https://www.google.com/s2/favicons?domain=hitfmradio.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/hitfmradio.com.ico"
     },
     {
         "name": "104.3 The Hippo",
@@ -1012,7 +942,7 @@
     {
         "name": "104.5 Radio Latina",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFM_SC",
-        "favicon": "https://www.google.com/s2/favicons?domain=wp.1045radiolatina.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/wp.1045radiolatina.com.ico"
     },
     {
         "name": "104.7 KCLD",
@@ -1042,7 +972,7 @@
     {
         "name": "104.9 FunAsiA",
         "url": "https://funasia.streamguys1.com/live-1",
-        "favicon": "https://funasia.net/wp-content/uploads/2023/08/Funasia-logoF.png"
+        "favicon": "https://funasia.streamguys1.com/favicon.ico"
     },
     {
         "name": "104.9 Max Country",
@@ -1150,11 +1080,6 @@
         "favicon": "https://i.iheart.com/v3/re/new_assets/74c62b92-909d-42a9-a47d-894bb03fb1e5?ops=fit(960%2C960)%2Cresize(0%2C390)"
     },
     {
-        "name": "105.7 R&B Classic",
-        "url": "https://ais-sa1.streamon.fm/7281_64k.aac",
-        "favicon": null
-    },
-    {
         "name": "105.7 The Brew",
         "url": "https://stream.revma.ihrhls.com/zc2946",
         "favicon": "https://i.iheart.com/v3/re/assets.brands/5fbbf66cc2260c86734f6455?ops=gravity(%22center%22),contain(32,32),quality(65)"
@@ -1198,11 +1123,6 @@
         "name": "105.9 The X WXDX",
         "url": "https://stream.revma.ihrhls.com/zc2033",
         "favicon": "https://i.iheart.com/v3/re/assets/images/209d42e7-7f75-4c3f-b948-25c5b9f0ef7b.png"
-    },
-    {
-        "name": "1050 AM KTBL",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTBLAMAAC.aac",
-        "favicon": null
     },
     {
         "name": "106 WCOD",
@@ -1252,7 +1172,7 @@
     {
         "name": "106.3 The Beaver",
         "url": "https://ice25.securenetsystems.net/WBVR",
-        "favicon": "https://www.google.com/s2/favicons?domain=beaverfm.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/beaverfm.com.ico"
     },
     {
         "name": "106.5 & 860 WNOV",
@@ -1278,11 +1198,6 @@
         "name": "106.7 The Bull",
         "url": "https://stream.revma.ihrhls.com/zc7784",
         "favicon": "https://i.iheart.com/v3/re/assets.brands/60cb54939eec8ff06d98ad64?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)"
-    },
-    {
-        "name": "106.7 The Krewe",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNDFMAAC.aac",
-        "favicon": null
     },
     {
         "name": "106.7 WLLZ",
@@ -1332,12 +1247,12 @@
     {
         "name": "107.1 the X",
         "url": "http://sc1.reignradio.net:9302/",
-        "favicon": "https://www.google.com/s2/favicons?domain=1071thex.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/1071thex.com.ico"
     },
     {
         "name": "107.3 Alternative - Cleveland, Ohio",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNWVFMAAC_SC",
-        "favicon": "https://www.google.com/s2/favicons?domain=1073cleveland.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/1073cleveland.com.ico"
     },
     {
         "name": "107.3 The Vibe",
@@ -1410,11 +1325,6 @@
         "favicon": "https://i.iheart.com/v3/re/assets.brands/5f084b68395d434f6da42b6c?ops=gravity(%22center%22),contain(32,32),quality(65)"
     },
     {
-        "name": "113.FM - Awesome 80s",
-        "url": "https://113fm-atunwadigital.streamguys1.com/1003",
-        "favicon": null
-    },
-    {
         "name": "113.FM - Indie Nation",
         "url": "https://113fm-atunwadigital.streamguys1.com/1047",
         "favicon": "https://static.wixstatic.com/media/143966_38c4960b73e9465b9c4b6e2b0b4e01c0~mv2.jpg/v1/fit/w_2500,h_1330,al_c/143966_38c4960b73e9465b9c4b6e2b0b4e01c0~mv2.jpg"
@@ -1428,11 +1338,6 @@
         "name": "113.FM Big Kickin Country",
         "url": "https://113fm-atunwadigital.streamguys1.com/1004",
         "favicon": "https://static.wixstatic.com/media/143966_f8372bd698884501ba44ba96c53c8ade~mv2.jpg"
-    },
-    {
-        "name": "113.FM Big Kickin Country",
-        "url": "https://113fm-atunwadigital.streamguys1.com/1004",
-        "favicon": null
     },
     {
         "name": "113.FM Coffee House",
@@ -1457,12 +1362,12 @@
     {
         "name": "113fm Radio route66",
         "url": "http://113fm-atunwadigital.streamguys1.com/1058",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.radio.de&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.radio.de.ico"
     },
     {
         "name": "1200 WOAI Talk Radio",
         "url": "https://stream.revma.ihrhls.com/zc2361/hls.m3u8",
-        "favicon": "https://www.iheart.com/static/assets/favicon.ico"
+        "favicon": "https://www.iheart.com/public/assets/favicon.ico"
     },
     {
         "name": "1250 WTMA",
@@ -1497,7 +1402,7 @@
     {
         "name": "1450 & 96.1 The Big X",
         "url": "https://ice66.securenetsystems.net/WXVW",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.bigxsportsradio.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.bigxsportsradio.com.ico"
     },
     {
         "name": "1460 AM Deportes Vegas",
@@ -1517,7 +1422,7 @@
     {
         "name": "1480 AM - KQAM - Wichita",
         "url": "http://listento.kqamradio.com:8016/stream",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.stecklinecommunications.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.stecklinecommunications.com.ico"
     },
     {
         "name": "1490 WMRN",
@@ -1527,17 +1432,12 @@
     {
         "name": "1560 The Franchise 2",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBCAMAAC.aac",
-        "favicon": "https://www.google.com/s2/favicons?domain=thefranchiseok.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/thefranchiseok.com.ico"
     },
     {
         "name": "181 Fm The Beat",
         "url": "http://listen.181fm.com/181-beat_128k.mp3",
         "favicon": "http://www.181.fm/favicon.ico"
-    },
-    {
-        "name": "181.fm",
-        "url": "https://listen.181fm.com/181-xoldies_128k.mp3",
-        "favicon": null
     },
     {
         "name": "181.FM - 80's Country",
@@ -1790,11 +1690,6 @@
         "favicon": "http://www.181.fm/favicon.ico"
     },
     {
-        "name": "181.FM - Old School HipHop/RnB",
-        "url": "http://listen.181fm.com/181-oldschool_128k.mp3",
-        "favicon": null
-    },
-    {
         "name": "181.FM - Party 181",
         "url": "http://listen.181fm.com/181-party_128k.mp3",
         "favicon": "http://www.181.fm/favicon.ico"
@@ -1950,19 +1845,9 @@
         "favicon": "http://www.181.fm/favicon.ico"
     },
     {
-        "name": "181.FM 80s R&B",
-        "url": "http://listen.livestreamingservice.com/181-80srnb_64k.aac",
-        "favicon": null
-    },
-    {
         "name": "181.FM 90s Dance",
         "url": "http://listen.livestreamingservice.com/181-90sdance_128k.mp3",
         "favicon": "https://www.181.fm/favicon.ico"
-    },
-    {
-        "name": "181.FM 90s R&B",
-        "url": "http://listen.livestreamingservice.com/181-90srnb_128k.mp3",
-        "favicon": null
     },
     {
         "name": "181.FM Classic Energy",
@@ -1988,16 +1873,6 @@
         "name": "181.FM Energy 98",
         "url": "http://listen.181fm.com/181-energy98_128k.mp3",
         "favicon": "https://www.energy981.com/images/favicon.ico"
-    },
-    {
-        "name": "181.FM Energy 98",
-        "url": "https://listen.181fm.com/181-energy98_64k.aac",
-        "favicon": null
-    },
-    {
-        "name": "181.fm good time oldies",
-        "url": "https://listen.181fm.com/181-goodtime_128k.mp3",
-        "favicon": null
     },
     {
         "name": "181.fm Kickin' Country",
@@ -2062,7 +1937,7 @@
     {
         "name": "2-krbx",
         "url": "http://radioboise-ice.streamguys1.com/live",
-        "favicon": "https://i0.wp.com/radioboise.org/wp-content/uploads/2016/04/cropped-RadioBoise_Radio_Favicon_1000x.png?fit=32%2C32&ssl=1"
+        "favicon": "https://icons.duckduckgo.com/ip3/radioboise.org.ico"
     },
     {
         "name": "2000 FM - Alternative Rock",
@@ -2102,7 +1977,7 @@
     {
         "name": "202.fm 020 Alternative",
         "url": "http://listen.livestreamingservice.com/181-buzz_128k.mp3",
-        "favicon": null
+        "favicon": "http://www.202.fm/images/202_header.png"
     },
     {
         "name": "202.fm 90's Alternative",
@@ -2118,11 +1993,6 @@
         "name": "22 West Media Radio (California State University)",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/22WESTRADIOONLINEAAC.aac",
         "favicon": "https://22westmedia.com/icon.png"
-    },
-    {
-        "name": "24-7 The ‘80s",
-        "url": "http://antares.dribbcast.com:4424/stream",
-        "favicon": null
     },
     {
         "name": "24/7 - Dance",
@@ -2180,31 +2050,6 @@
         "favicon": "https://oetpai.fra1.digitaloceanspaces.com/new_images/radioapp_uapk_osr221316.jpg"
     },
     {
-        "name": "24/7 Polka Heaven",
-        "url": "http://192.99.83.149:8046/",
-        "favicon": null
-    },
-    {
-        "name": "24/7 Polka Heaven",
-        "url": "http://192.99.83.149:8046/stream/;",
-        "favicon": null
-    },
-    {
-        "name": "24/7 Polka Heaven",
-        "url": "http://192.99.83.149:8046/stream",
-        "favicon": null
-    },
-    {
-        "name": "24/7 Polka Heaven",
-        "url": "http://192.99.83.149:8046/stream",
-        "favicon": null
-    },
-    {
-        "name": "24/7 Polka Heaven",
-        "url": "http://192.99.83.149:8046/stream?type=http&nocache=80369",
-        "favicon": null
-    },
-    {
         "name": "247 Mixing",
         "url": "https://listen.radioking.com/radio/558131/stream/617633",
         "favicon": "https://static.wixstatic.com/media/72cca0_f5f2e1cb90af41bf8a85db4882229c44~mv2.png/v1/fill/w_212,h_211,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/247%20app%20icon%201024%20(1).png"
@@ -2212,12 +2057,7 @@
     {
         "name": "2unes Wave Jazz",
         "url": "http://login.webinternetradio.com:1320/stream",
-        "favicon": "https://2unes.net/favicon.ico"
-    },
-    {
-        "name": "300 Live! Niagara Radio",
-        "url": "https://streaming.live365.com/a60417",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/2unes.net.ico"
     },
     {
         "name": "305 MI RADIO",
@@ -2247,7 +2087,7 @@
     {
         "name": "3ABN Radio",
         "url": "http://war.str3am.com:7180/live",
-        "favicon": "https://www.google.com/s2/favicons?domain=3abn.org&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/3abn.org.ico"
     },
     {
         "name": "3ABN Radio Music Channel",
@@ -2257,7 +2097,7 @@
     {
         "name": "3WZ",
         "url": "https://ice9.securenetsystems.net/WZWW",
-        "favicon": "https://www.google.com/s2/favicons?domain=3wz.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/3wz.com.ico"
     },
     {
         "name": "440Music Indie Pop Music Radio",
@@ -2272,7 +2112,7 @@
     {
         "name": "4U Motown",
         "url": "https://str4uice.streamakaci.com/4umotown.mp3",
-        "favicon": "https://www.google.com/s2/favicons?domain=str4uice.streamakaci.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/str4uice.streamakaci.com.ico"
     },
     {
         "name": "4U Rock Live",
@@ -2282,7 +2122,7 @@
     {
         "name": "50's Science Fiction KOTR",
         "url": "https://stream.kf7k.com/listen/scifi/radio.mp3",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/stream.kf7k.com.ico"
     },
     {
         "name": "540 WRGC The River",
@@ -2292,7 +2132,7 @@
     {
         "name": "550 KTSA",
         "url": "https://live.amperwave.net/manifest/alphacorporate-ktsaamaac-ibc4",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ktsa.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ktsa.com.ico"
     },
     {
         "name": "55KRC",
@@ -2362,17 +2202,12 @@
     {
         "name": "70s 80s Disco Funk ModernSoul Boogie",
         "url": "https://discofunk.streamingmedia.it/usa",
-        "favicon": "https://www.google.com/s2/favicons?domain=funky.radio&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/funky.radio.ico"
     },
     {
         "name": "70s 80s Hits",
         "url": "https://azuracast.streams.gr/listen/oldieswebradio/hits70s80sradio.mp3?",
         "favicon": "https://cdn-web.tunein.com/assets/img/apple-touch-icon-180.png"
-    },
-    {
-        "name": "70s All Hits",
-        "url": "http://ec4.yesstreaming.net:2270/",
-        "favicon": null
     },
     {
         "name": "70sRadio (MRG.fm)",
@@ -2410,19 +2245,9 @@
         "favicon": "https://cdn.sanity.io/images/ziyj54q4/production/d0abc5b57a73a6441b862797db6723bef5d45a4c-1256x1256.jpg?h=1000&fit=max&auto=format"
     },
     {
-        "name": "80 Love Classical",
-        "url": "https://strm112.1.fm/loveclassics_mobile_mp3",
-        "favicon": null
-    },
-    {
         "name": "80er 90er und Today's Hitz",
         "url": "https://pureplay.cdnstream1.com/6037_64.aac",
         "favicon": "https://gotradio.com/wp-content/uploads/2023/04/cropped-GotRadio-Station_icon-for-rollover-titles-32x32.png"
-    },
-    {
-        "name": "80s & 90s Mix - BestNet Radio",
-        "url": "https://bigrradio.cdnstream1.com/5143_128",
-        "favicon": null
     },
     {
         "name": "80s America",
@@ -2445,21 +2270,6 @@
         "favicon": "https://static2.mytuner.mobi/media/tvos_radios/s39agjsfxs3v.png"
     },
     {
-        "name": "80s Metal",
-        "url": "http://bigrradio-edge1.cdnstream.com/5146_128",
-        "favicon": null
-    },
-    {
-        "name": "80s Metal FM - BESTNETRADiO",
-        "url": "http://bigrradio-edge1.cdnstream.com/5146_128",
-        "favicon": null
-    },
-    {
-        "name": "80sHits Flac",
-        "url": "http://velocitynetdsl.com:8000/dtrs",
-        "favicon": null
-    },
-    {
         "name": "80sRadio (MRG.fm)",
         "url": "http://listen.mrg.fm:8080/stream",
         "favicon": "https://mrg.fm/img/80sradio125.jpg"
@@ -2468,11 +2278,6 @@
         "name": "830 WEEU",
         "url": "https://ais-sa2.cdnstream1.com/2350_128.mp3",
         "favicon": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1665/2020/10/12160146/logo_black_circle.svg"
-    },
-    {
-        "name": "85.1 WAHH",
-        "url": "https://radio.coolbirds.cc/listen/85.1_wahh/radio.mp3",
-        "favicon": null
     },
     {
         "name": "850 WFTL",
@@ -2512,7 +2317,7 @@
     {
         "name": "88.5 Chuck FM",
         "url": "https://ice23.securenetsystems.net/CHUCKFM",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/ice23.securenetsystems.net.ico"
     },
     {
         "name": "88.5 KQED",
@@ -2532,7 +2337,7 @@
     {
         "name": "88.5 WRAS FM GPB",
         "url": "https://gpb.streamguys1.com/gpb-atlanta-aac-website",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.gpb.org&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.gpb.org.ico"
     },
     {
         "name": "88.7 KTRM (Truman State University, Kirksville, Missouri)",
@@ -2572,7 +2377,7 @@
     {
         "name": "89.1 Ken's FM",
         "url": "http://108.59.11.81:8315/;",
-        "favicon": "https://storage.googleapis.com/wzsitethumbnails/site-49390005/800x500.jpg"
+        "favicon": "https://kensfm.com/favicon.ico"
     },
     {
         "name": "89.1 KLPI | Ruston's Rock Alternative",
@@ -2662,7 +2467,7 @@
     {
         "name": "89.9FM WORT",
         "url": "https://wortcast01.wortfm.org:8443/high.mp3",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/www.wortfm.org.ico"
     },
     {
         "name": "90.1 WMBT The Wombat",
@@ -2673,16 +2478,6 @@
         "name": "90.3 WPLN News",
         "url": "https://wpln.streamguys1.com/wplnfm.mp3.m3u",
         "favicon": "https://wpln.org/wp-content/uploads/sites/7/2021/12/wpln-fav-122321i.png"
-    },
-    {
-        "name": "90.5 KVHS",
-        "url": "http://cast1.sql2.smrn.com:5561/live",
-        "favicon": null
-    },
-    {
-        "name": "90.5 The Edge",
-        "url": "http://kvhs.smrn.com:5561/live",
-        "favicon": null
     },
     {
         "name": "90.5 wes",
@@ -2775,11 +2570,6 @@
         "favicon": "https://mrg.fm/img/90sradio125.jpg"
     },
     {
-        "name": "91,5 Jazz and more",
-        "url": "https://kunv.oit.unlv.edu/stream/1/",
-        "favicon": null
-    },
-    {
         "name": "91.1 KLSU Baton Rouge",
         "url": "https://listen.lsureveille.com/stream",
         "favicon": "https://lsureveille.com/wp-content/uploads/2020/07/4e3f1c0a53f87fa45f9bea94a14bf50a-1-70x70.png"
@@ -2787,17 +2577,17 @@
     {
         "name": "91.1 The Avenue",
         "url": "http://ice5.securenetsystems.net/WOVM",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.avenueradio.com&sz=128"
+        "favicon": "https://www.google.com/s2/favicons?domain=www.avenueradio.com&sz=512"
     },
     {
         "name": "91.3 Ayclt FM",
         "url": "https://radio.913aycltfm.com/listen/91.3_ayclt_fm/radioreg",
-        "favicon": "https://www.google.com/s2/favicons?domain=lh3.googleusercontent.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/lh3.googleusercontent.com.ico"
     },
     {
         "name": "91.3 Ayclt FM",
         "url": "http://stream.zeno.fm/6e5qrm931xhvv",
-        "favicon": "https://lh3.googleusercontent.com/sitesv/APaQ0STA6og51NzK1yDoX5EWvHTjDILTcmrA21TWyKr2vuuOyk49DlvDLbTkYJPFNQCu4JrM4Tq0nDY-HlY1yCIEAPMkXmCAAqSIGbrmGZd0rj7TaT0zwOGYhoGzymAAZc2YoU_b6hEW4eT3NjnAx37XbVSSKwWySB5mAeuWcK-yTbNlKtjL4U4drmx_A0O_h9igRvMq79ryuHvG6HDgXfM"
+        "favicon": "https://lh3.googleusercontent.com/sitesv/APaQ0SQOBe-xnGekRXw5iYgEqfos2yAh4rNYaXh-B3tYzjVugx65MMwYPWEMId6CA0tRpJ06RRX-wnF--GgWsP7urb-e8Q2e_p_Me-IuRmYKiP98FWtOWOBqBLquPsix2FKG7dEN0ly8E5dYLgWKRZg_5QuB9j5M4nLF8IekHxtzcwhtjO-nCSh-nErQcZyMSJZxx31uaB6ze7_224kabWc"
     },
     {
         "name": "91.3 WYEP",
@@ -2847,7 +2637,7 @@
     {
         "name": "91.7 The Curve",
         "url": "https://jasperhi.radioca.st/;",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.curveradio.org&sz=128"
+        "favicon": "https://www.google.com/s2/favicons?domain=www.curveradio.org&sz=512"
     },
     {
         "name": "91.7 WMCN",
@@ -2865,14 +2655,9 @@
         "favicon": "https://www.kasu.org/apple-touch-icon.png"
     },
     {
-        "name": "91.9 KSOI FM Southern Iowa Community Radio",
-        "url": "https://ais-edge104-live365-dal02.cdnstream.com/a01407",
-        "favicon": null
-    },
-    {
         "name": "91.9 KSPB Stevenson Pebble Beach",
         "url": "https://livestream.kspb.org/kspbstream",
-        "favicon": "https://www.google.com/s2/favicons?domain=kspb.org&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/kspb.org.ico"
     },
     {
         "name": "91.9 KUDR",
@@ -2882,7 +2667,7 @@
     {
         "name": "91.9 Positive Life Radio (KGTS)",
         "url": "https://ice10.securenetsystems.net/PLR",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.plr.org&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.plr.org.ico"
     },
     {
         "name": "910 ESPN Billings KBLG",
@@ -2947,7 +2732,7 @@
     {
         "name": "92.3 WXRK Charlottesville, VA",
         "url": "https://ice64.securenetsystems.net/WXRK",
-        "favicon": "https://www.google.com/s2/favicons?domain=923xrk.org&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/923xrk.org.ico"
     },
     {
         "name": "92.5 and 93.3 The Bull",
@@ -3037,17 +2822,17 @@
     {
         "name": "93.1 KFBK 1530AM",
         "url": "https://ample.revma.ihrhls.com/zc217/16_elstp0q9whne02/playlist.m3u8",
-        "favicon": "https://www.google.com/s2/favicons?domain=kfbk.iheart.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/kfbk.iheart.com.ico"
     },
     {
         "name": "93.1 KMKT - KATY COUNTRY",
         "url": "https://live.amperwave.net/direct/alphacorporate-kmktfmmp3-ibc4",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.931kmkt.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.931kmkt.com.ico"
     },
     {
         "name": "93.1 The Fan",
         "url": "https://crystalout.surfernetwork.com:8001/WWSR-FM_MP3",
-        "favicon": "https://www.google.com/s2/favicons?domain=931thefan.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/931thefan.com.ico"
     },
     {
         "name": "93.1 The Mountain",
@@ -3078,11 +2863,6 @@
         "name": "93.3 FLZ",
         "url": "http://stream.revma.ihrhls.com/zc681",
         "favicon": "https://i.iheart.com/v3/re/assets.brands/5ed155c799eec49de34e1023?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)"
-    },
-    {
-        "name": "93.3 FM WXRH",
-        "url": "http://69.8.162.164:8000/hd3.mp3",
-        "favicon": null
     },
     {
         "name": "93.3 Jake FM",
@@ -3157,7 +2937,7 @@
     {
         "name": "93.7 The Ticket",
         "url": "https://ice8.securenetsystems.net/KNTK",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/ice8.securenetsystems.net.ico"
     },
     {
         "name": "93.7 WVLZ Knoxville's ROCK Station",
@@ -3172,7 +2952,7 @@
     {
         "name": "93.9 KSOU",
         "url": "https://ice24.securenetsystems.net/KSOU",
-        "favicon": "https://www.google.com/s2/favicons?domain=siouxcountyradio.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/siouxcountyradio.com.ico"
     },
     {
         "name": "93.9 Lite FM",
@@ -3190,14 +2970,9 @@
         "favicon": "https://i.iheart.com/v3/re/assets.brands/69654f871a69f85e3a14f06b?ops=gravity(%22center%22),contain(32,32),quality(65)"
     },
     {
-        "name": "930 AM WKY ESPN Deportes",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WKYAMAAC.aac",
-        "favicon": null
-    },
-    {
         "name": "930 KOGA",
         "url": "https://stream.revma.ihrhls.com/zc1317/hls.m3u8?streamid=1317",
-        "favicon": "https://www.google.com/s2/favicons?domain=930koga.iheart.com&sz=128"
+        "favicon": "https://www.google.com/s2/favicons?domain=930koga.iheart.com&sz=512"
     },
     {
         "name": "93X",
@@ -3238,11 +3013,6 @@
         "name": "94.1 The Brand",
         "url": "https://ais-sa1.streamon.fm/7244_48k.aac",
         "favicon": "https://media.ruralradio.co/nrr/uploads/sites/3/2021/02/cropped-kneb-1-180x180.png"
-    },
-    {
-        "name": "94.1 The VIBE!",
-        "url": "http://69.8.162.164:8000/vibe.aac",
-        "favicon": null
     },
     {
         "name": "94.1 ZBQ - WZBQ - Carrollton/Tuscaloosa, AL",
@@ -3392,12 +3162,12 @@
     {
         "name": "95 the Met",
         "url": "https://ice66.securenetsystems.net/WMTT",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/95themet.com.ico"
     },
     {
         "name": "95.1 95 WIIL Rock!",
         "url": "https://live.amperwave.net/direct/alphacorporate-wiilfmmp3-ibc4",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.95wiilrock.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.95wiilrock.com.ico"
     },
     {
         "name": "95.1 HOT OLDSCHOOL",
@@ -3515,46 +3285,6 @@
         "favicon": "https://cdnrf.securenetsystems.net/file_radio/stations_large/CC911FM/v5/album-art-default.png"
     },
     {
-        "name": "95alive",
-        "url": "http://95alive.net:8000/radio.mp3",
-        "favicon": null
-    },
-    {
-        "name": "95alive Audio Book Library",
-        "url": "http://95alive.net:8020/radio.mp3",
-        "favicon": null
-    },
-    {
-        "name": "95alive Citizen Soldier 24/7",
-        "url": "http://95alive.net:8050/radio.mp3",
-        "favicon": null
-    },
-    {
-        "name": "95alive Little Lizzards",
-        "url": "http://95alive.net:8040/radio.mp3",
-        "favicon": null
-    },
-    {
-        "name": "95alive Live Mount Point",
-        "url": "http://95alive.net:8000/live",
-        "favicon": null
-    },
-    {
-        "name": "95alive Story Time",
-        "url": "http://95alive.net:8030/radio.mp3",
-        "favicon": null
-    },
-    {
-        "name": "95alive TV & Movies",
-        "url": "http://95alive.net:8010/radio.mp3",
-        "favicon": null
-    },
-    {
-        "name": "95alive TV & Movies",
-        "url": "http://95alive.net:8010/radio.mp3",
-        "favicon": null
-    },
-    {
         "name": "96-1 SRS",
         "url": "https://stream.revma.ihrhls.com/zc1109",
         "favicon": "https://i.iheart.com/v3/re/assets.brands/609001b1fa895b8bc1dc4f42?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)"
@@ -3650,11 +3380,6 @@
         "favicon": "https://i.iheart.com/v3/re/assets.brands/5e5545a557d2515e1fa485e7?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)"
     },
     {
-        "name": "96.9 BOB FM",
-        "url": "https://ais-sa1.streamon.fm/7215_48k.aac",
-        "favicon": null
-    },
-    {
         "name": "96.9 Hits FM",
         "url": "https://ice9.securenetsystems.net/KLTAHD2",
         "favicon": "https://media-cdn.socastsrm.com/uploads/station/1384/squareIcon.png?r=42970"
@@ -3687,12 +3412,12 @@
     {
         "name": "97 UNDERGROUND",
         "url": "https://s6.reliastream.com/proxy/97underground?mp=/stream",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.97underground.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.97underground.com.ico"
     },
     {
         "name": "97-9 Sports Hartford",
         "url": "https://stream.revma.ihrhls.com/zc5238",
-        "favicon": "https://www.google.com/s2/favicons?domain=foxsports979.iheart.com&sz=128"
+        "favicon": "https://i.iheart.com/v3/re/assets.brands/66e459f9aca287f133c0e16e?ops=gravity(%22center%22),contain(32,32),quality(65)"
     },
     {
         "name": "97.1 The Eagle",
@@ -3752,7 +3477,7 @@
     {
         "name": "97.5 WONE Akron's Home of Rock & Roll",
         "url": "http://26143.live.streamtheworld.com:3690/WONEFMAAC_SC",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.wone.net&sz=128"
+        "favicon": "https://www.google.com/s2/favicons?domain=www.wone.net&sz=512"
     },
     {
         "name": "97.5 WPCV",
@@ -3847,7 +3572,7 @@
     {
         "name": "98.1 WTSN",
         "url": "https://ice64.securenetsystems.net/WTSN",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/ice64.securenetsystems.net.ico"
     },
     {
         "name": "98.3 Nash Icon",
@@ -3925,11 +3650,6 @@
         "favicon": "http://listen.986themix.com:8532/favicon.ico"
     },
     {
-        "name": "98.6 the mix server 3: the magnatune and Independant  artist channel",
-        "url": "http://listen.jaredrimer.net:8060/",
-        "favicon": null
-    },
-    {
         "name": "98.7 Arizona Sports KMVP",
         "url": "https://bonneville.cdnstream1.com/2699_48.aac",
         "favicon": "https://cdn.arizonasports.com/arizonasports/wp-content/uploads/2012/04/cropped-azsportsfavicon-32x32.jpg"
@@ -3937,7 +3657,7 @@
     {
         "name": "98.7 The Shark",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WPBBFMAACHI.aac",
-        "favicon": "https://www.google.com/s2/favicons?domain=987theshark.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/987theshark.com.ico"
     },
     {
         "name": "98.7 The Shark",
@@ -3947,7 +3667,7 @@
     {
         "name": "98.7 WMZQ",
         "url": "https://stream.revma.ihrhls.com/zc2513/hls.m3u8",
-        "favicon": "https://www.google.com/s2/favicons?domain=stream.revma.ihrhls.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/stream.revma.ihrhls.com.ico"
     },
     {
         "name": "98.7 WNLC",
@@ -3968,11 +3688,6 @@
         "name": "98.9 Magic FM",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKMGFMAAC.aac",
         "favicon": "https://radiostationusa.fm/assets/image/radio/180/98.9 Magic FM.png"
-    },
-    {
-        "name": "98.9 The Bridge",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WKIMFMAAC.aac",
-        "favicon": null
     },
     {
         "name": "98Q",
@@ -4067,7 +3782,7 @@
     {
         "name": "99.7 & 1450 WHTC",
         "url": "http://26733.live.streamtheworld.com/WHTCAM_SC",
-        "favicon": "https://www.google.com/s2/favicons?domain=whtc.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/whtc.com.ico"
     },
     {
         "name": "99.7 DA HEAT MIAMI",
@@ -4087,12 +3802,12 @@
     {
         "name": "99.7 The Fox",
         "url": "https://stream.revma.ihrhls.com/zc1613",
-        "favicon": "https://www.google.com/s2/favicons?domain=997thefox.iheart.com&sz=128"
+        "favicon": "https://i.iheart.com/v3/re/assets.brands/628c71eb9061c04f16dc01ce?ops=gravity(%22center%22),contain(32,32),quality(65)"
     },
     {
         "name": "99.7 The Fox - Charlotte's Classic Rock WRFX",
         "url": "https://stream.revma.ihrhls.com/zc1613/hls.m3u8",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.wrfx.com&sz=128"
+        "favicon": "https://i.iheart.com/v3/re/assets.brands/628c71eb9061c04f16dc01ce?ops=gravity(%22center%22),contain(32,32),quality(65)"
     },
     {
         "name": "99.7 The Fox - Charlotte's Classic Rock WRFX",
@@ -4152,7 +3867,7 @@
     {
         "name": "A_A Dance",
         "url": "http://62.210.204.2:8000/stream/7/?icy=https",
-        "favicon": "https://www.google.com/s2/favicons?domain=aadance.com&sz=128"
+        "favicon": "https://www.google.com/s2/favicons?domain=aadance.com&sz=512"
     },
     {
         "name": "a.m. ambient",
@@ -4173,11 +3888,6 @@
         "name": "ABC 11",
         "url": "https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8",
         "favicon": "http://cdn.abclocal.go.com/assets/news/wtvd/images/logos/touch-icon-57x57.png"
-    },
-    {
-        "name": "ABC News Live",
-        "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-        "favicon": null
     },
     {
         "name": "ABC News Radio",
@@ -4262,12 +3972,12 @@
     {
         "name": "Abusia Radio",
         "url": "https://ice66.securenetsystems.net/ABUSIA",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.abusiaradio.com&sz=128"
+        "favicon": "https://www.google.com/s2/favicons?domain=www.abusiaradio.com&sz=512"
     },
     {
         "name": "Acapella RAdio Art",
         "url": "http://air.radioart.online/hA_Cappella.mp3?dlid=db5ceb796b3f6b3b40cb449ed670f317",
-        "favicon": "https://www.google.com/s2/favicons?domain=air.radioart.online&sz=128"
+        "favicon": "https://www.google.com/s2/favicons?domain=air.radioart.online&sz=512"
     },
     {
         "name": "ACB Media 1 – Mainstream",
@@ -4322,7 +4032,7 @@
     {
         "name": "Activa Nashville AM 1240 - FM 105.1",
         "url": "https://ice66.securenetsystems.net/WNVL",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/ice66.securenetsystems.net.ico"
     },
     {
         "name": "Activo 199 FM",
@@ -4337,7 +4047,7 @@
     {
         "name": "ADEOM FM Florida",
         "url": "http://s4.mexside.net:2142/;",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/www.adeomfm.com.ico"
     },
     {
         "name": "Adoration from Family Life",
@@ -4397,17 +4107,17 @@
     {
         "name": "AFN 360 Global Country",
         "url": "http://16693.live.streamtheworld.com/AFN_CTY_SC",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.afneurope.net&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.afneurope.net.ico"
     },
     {
         "name": "AFN 360 Global Fans",
         "url": "http://22213.live.streamtheworld.com:3690/AFN_FAN_SC",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.afneurope.net&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.afneurope.net.ico"
     },
     {
         "name": "AFN 360 Global Gravity",
         "url": "http://13743.live.streamtheworld.com:3690/AFN_GRV_SC",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.afneurope.net&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.afneurope.net.ico"
     },
     {
         "name": "AFN 360 Global Holiday",
@@ -4417,7 +4127,7 @@
     {
         "name": "AFN 360 Global The Voice",
         "url": "http://18253.live.streamtheworld.com/AFN_VCE_SC",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.afneurope.net&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.afneurope.net.ico"
     },
     {
         "name": "AFN Go - Freedom Rock",
@@ -4457,7 +4167,7 @@
     {
         "name": "AfterHours FM (ah.fm) 192k MP3",
         "url": "http://fr.ah.fm:8000/;",
-        "favicon": "https://www.google.com/s2/favicons?domain=ah.fm&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/ah.fm.ico"
     },
     {
         "name": "AfterHours FM (ah.fm) 64k aac+",
@@ -4512,7 +4222,7 @@
     {
         "name": "Airstream FM",
         "url": "https://a7.asurahosting.com:7370/radio.mp3",
-        "favicon": "https://a7.asurahosting.com/api/nowplaying/airstream_fm/art/1775062117.jpg"
+        "favicon": "https://a7.asurahosting.com/api/nowplaying/airstream_fm/art/1775068205.jpg"
     },
     {
         "name": "Alameda Community Radio",
@@ -4527,7 +4237,7 @@
     {
         "name": "Album Rock 540 WXYG",
         "url": "https://ice5.securenetsystems.net/WXYG",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/ice5.securenetsystems.net.ico"
     },
     {
         "name": "Alex Jones - Infowars",
@@ -4552,7 +4262,7 @@
     {
         "name": "Alice Cooper",
         "url": "https://stream.pcradio.ru/alice_cooper-hi",
-        "favicon": "https://www.google.com/s2/favicons?domain=pcradio.ru&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/pcradio.ru.ico"
     },
     {
         "name": "ALIENS HR",
@@ -4575,24 +4285,9 @@
         "favicon": "https://www.wix.com/favicon.ico"
     },
     {
-        "name": "Allahu Akbar Radio",
-        "url": "http://66.45.232.132:9996/;",
-        "favicon": null
-    },
-    {
         "name": "Allegheny Mountain Radio",
         "url": "http://amber.streamguys.com:5750/",
         "favicon": "http://www.alleghenymountainradio.org/favicon.ico"
-    },
-    {
-        "name": "AllFunkRadio",
-        "url": "https://stream.laut.fm/54-funk-soul-dance",
-        "favicon": null
-    },
-    {
-        "name": "Alltime Oldies - Theater Channel",
-        "url": "https://kea.cdnstream.com/1295_128",
-        "favicon": null
     },
     {
         "name": "Almavision 87.7 FM",
@@ -4632,7 +4327,7 @@
     {
         "name": "ALT 92.1 Reno",
         "url": "https://ice24.securenetsystems.net/ALT921?playSessionID=3DDA9AD0-E0B8-1B27-7EA358FD0567ACFC",
-        "favicon": "https://www.google.com/s2/favicons?domain=alt921reno.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/alt921reno.com.ico"
     },
     {
         "name": "Alt 92.3",
@@ -4677,17 +4372,12 @@
     {
         "name": "Alternative Reign",
         "url": "http://sc1.reignradio.net:8086/",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.reignradio.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.reignradio.com.ico"
     },
     {
         "name": "AlternativeRadio.us",
         "url": "http://audiovision.cdnstream1.com/2154_128.mp3",
-        "favicon": "https://www.google.com/s2/favicons?domain=alternativeradio.us&sz=128"
-    },
-    {
-        "name": "Altitude Sports 950 AM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKSEAMAAC.aac",
-        "favicon": null
+        "favicon": "https://www.google.com/s2/favicons?domain=alternativeradio.us&sz=512"
     },
     {
         "name": "AltRadio",
@@ -4762,7 +4452,7 @@
     {
         "name": "AM 790",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WPRVAMAAC.aac",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.790business.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.790business.com.ico"
     },
     {
         "name": "AM 800 KXIC",
@@ -4775,19 +4465,9 @@
         "favicon": "https://www.am950radio.com/wp-content/uploads/2016/09/cropped-am950-site-image-1-32x32.png"
     },
     {
-        "name": "Amarillo College FM90",
-        "url": "https://streaming.live365.com/a59335",
-        "favicon": null
-    },
-    {
         "name": "Amazing Facts Radio",
         "url": "https://stream.radio.co/sbdda28f12/listen",
         "favicon": "https://aftv.in/wp-content/uploads/2020/04/Amazing_Facts_Logo.jpg"
-    },
-    {
-        "name": "Amazing Tales",
-        "url": "http://195.201.85.142:8462/stream",
-        "favicon": null
     },
     {
         "name": "AmazingGrace.us - How Sweet the Sound",
@@ -4822,7 +4502,7 @@
     {
         "name": "Ambiente 1030 AM",
         "url": "https://ice41.securenetsystems.net/WGSF",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/ice41.securenetsystems.net.ico"
     },
     {
         "name": "AmbientRadio (MRG.fm)",
@@ -4830,14 +4510,9 @@
         "favicon": "https://mrg.fm/img/ambientradio125.jpg"
     },
     {
-        "name": "America OLD time Radio",
-        "url": "https://kea.cdnstream.com/1893_128",
-        "favicon": null
-    },
-    {
         "name": "America Out Loud",
         "url": "https://ice64.securenetsystems.net/TALKLOUD",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.americaoutloud.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.americaoutloud.com.ico"
     },
     {
         "name": "America's Country",
@@ -4895,11 +4570,6 @@
         "favicon": "https://cp11.serverse.com/favicon.ico"
     },
     {
-        "name": "American Theatre Organ Radio Hi-Def",
-        "url": "http://atosradio.com:8001/stream/2/",
-        "favicon": null
-    },
-    {
         "name": "American Top 40",
         "url": "http://stream.revma.ihrhls.com/zc4802/hls.m3u8",
         "favicon": "https://i.iheart.com/v3/re/new_assets/614b6c8870f6592586b1b5b1"
@@ -4912,7 +4582,7 @@
     {
         "name": "Americana Boogie Radio",
         "url": "http://us2.internet-radio.com:8416/",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.americanaboogie.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.americanaboogie.com.ico"
     },
     {
         "name": "Americas Greatest 80s Hits",
@@ -4922,7 +4592,7 @@
     {
         "name": "ampedOut",
         "url": "https://s12.ssl-stream.com/8006/stream",
-        "favicon": "https://www.google.com/s2/favicons?domain=ampedout.net&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/ampedout.net.ico"
     },
     {
         "name": "Anacortes Music Project",
@@ -4932,47 +4602,42 @@
     {
         "name": "Anarchy Factory",
         "url": "https://cheetah.streemlion.com:2825/stream",
-        "favicon": "https://cheetah.streemlion.com:2825/favicon.ico"
-    },
-    {
-        "name": "ANARCHYRADIO",
-        "url": "https://stream.zeno.fm/gubl3q8o0wxvv",
-        "favicon": null
+        "favicon": "https://icons.duckduckgo.com/ip3/epicfactory.net.ico"
     },
     {
         "name": "Ancient Faith English",
         "url": "https://ancientfaith.streamguys1.com/ancientfaith3",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ancientfaith.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ancientfaith.com.ico"
     },
     {
         "name": "Ancient Faith Ministrie Global Music",
         "url": "https://ancientfaith.streamguys1.com/ancientfaith3",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ancientfaith.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ancientfaith.com.ico"
     },
     {
         "name": "Ancient Faith Ministrie Global Music",
         "url": "https://ancientfaith.streamguys1.com/music",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ancientfaith.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ancientfaith.com.ico"
     },
     {
         "name": "Ancient Faith Ministrie Talk English",
         "url": "https://ancientfaith.streamguys1.com/talk",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ancientfaith.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ancientfaith.com.ico"
     },
     {
         "name": "Ancient Faith Ministrie Talk English",
         "url": "https://ancientfaith.streamguys1.com/talk",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ancientfaith.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ancientfaith.com.ico"
     },
     {
         "name": "Ancient Faith Ministries English language Music",
         "url": "https://ancientfaith.streamguys1.com/ancientfaith3",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ancientfaith.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ancientfaith.com.ico"
     },
     {
         "name": "Ancient Faith Music",
         "url": "https://ancientfaith.streamguys1.com/music",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ancientfaith.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ancientfaith.com.ico"
     },
     {
         "name": "Ancient Faith Radio",
@@ -4997,6 +4662,6 @@
     {
         "name": "Ancient Faith Talk",
         "url": "https://ancientfaith.streamguys1.com/talk",
-        "favicon": "https://www.google.com/s2/favicons?domain=www.ancientfaith.com&sz=128"
+        "favicon": "https://icons.duckduckgo.com/ip3/www.ancientfaith.com.ico"
     }
 ]
