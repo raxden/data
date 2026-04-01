@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import time
 from datetime import datetime, timedelta
 
-def validate_url(url, timeout=10, verbose=False):
+def validate_url(url, timeout=5, verbose=False):
     """Validate if a URL is accessible and returns a valid response."""
     if not url or url.strip() == "":
         if verbose:
@@ -76,7 +76,7 @@ def find_favicon_from_homepage(homepage_url):
         # Use shorter timeout and stream=True to detect content type early
         response = requests.get(
             homepage_url, 
-            timeout=5,  # Reduced timeout
+            timeout=3,  # Reduced timeout
             stream=True,  # Stream to check headers first
             headers={
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -137,10 +137,50 @@ def find_favicon_from_homepage(homepage_url):
             if validate_url(favicon_url, verbose=True):
                 return favicon_url
         
-        # 5. Look for og:image
+        # 5. Look for twitter:image
+        twitter_image = soup.find('meta', attrs={'name': 'twitter:image'})
+        if twitter_image and twitter_image.get('content'):
+            favicon_url = urljoin(homepage_url, twitter_image['content'])
+            if validate_url(favicon_url, verbose=True):
+                return favicon_url
+        
+        # 6. Look for og:image
         og_image = soup.find('meta', property='og:image')
         if og_image and og_image.get('content'):
             favicon_url = urljoin(homepage_url, og_image['content'])
+            if validate_url(favicon_url, verbose=True):
+                return favicon_url
+        
+        # 7. Look for manifest.json
+        manifest_link = soup.find('link', rel='manifest')
+        if manifest_link and manifest_link.get('href'):
+            try:
+                manifest_url = urljoin(homepage_url, manifest_link['href'])
+                manifest_response = requests.get(manifest_url, timeout=3)
+                if manifest_response.status_code == 200:
+                    manifest_data = manifest_response.json()
+                    if 'icons' in manifest_data and len(manifest_data['icons']) > 0:
+                        # Get the largest icon
+                        largest_icon = max(manifest_data['icons'], key=lambda x: int(x.get('sizes', '0x0').split('x')[0]) if 'sizes' in x else 0)
+                        if 'src' in largest_icon:
+                            favicon_url = urljoin(homepage_url, largest_icon['src'])
+                            if validate_url(favicon_url, verbose=True):
+                                return favicon_url
+            except:
+                pass
+        
+        # 8. Try different apple-touch-icon sizes
+        for size in ['180x180', '152x152', '144x144', '120x120', '114x114', '76x76', '72x72', '60x60', '57x57']:
+            apple_icon_sized = soup.find('link', rel=f'apple-touch-icon-{size}')
+            if apple_icon_sized and apple_icon_sized.get('href'):
+                favicon_url = urljoin(homepage_url, apple_icon_sized['href'])
+                if validate_url(favicon_url, verbose=True):
+                    return favicon_url
+        
+        # 9. Look for any image in the header/logo area
+        header_logo = soup.find(['img'], class_=lambda x: x and any(keyword in x.lower() for keyword in ['logo', 'brand', 'header']))
+        if header_logo and header_logo.get('src'):
+            favicon_url = urljoin(homepage_url, header_logo['src'])
             if validate_url(favicon_url, verbose=True):
                 return favicon_url
         
@@ -153,8 +193,8 @@ def find_favicon_from_homepage(homepage_url):
     
     return None
 
-def find_favicon_google(station_name, homepage_url):
-    """Use Google's favicon service as a fallback."""
+def find_favicon_external_services(station_name, homepage_url):
+    """Try external favicon services as fallback."""
     if not homepage_url or homepage_url.strip() == "":
         return None
     
@@ -162,12 +202,35 @@ def find_favicon_google(station_name, homepage_url):
         parsed_url = urlparse(homepage_url)
         domain = parsed_url.netloc
         
-        # Google's favicon service
-        google_favicon = f"https://www.google.com/s2/favicons?domain={domain}&sz=128"
+        if not domain:
+            return None
+        
+        # 1. Try DuckDuckGo favicon service (often better quality)
+        print(f"    → Trying DuckDuckGo favicon service")
+        ddg_favicon = f"https://icons.duckduckgo.com/ip3/{domain}.ico"
+        if validate_url(ddg_favicon, verbose=True):
+            return ddg_favicon
+        
+        # 2. Try Clearbit Logo API
+        print(f"    → Trying Clearbit Logo API")
+        clearbit_logo = f"https://logo.clearbit.com/{domain}"
+        if validate_url(clearbit_logo, verbose=True):
+            return clearbit_logo
+        
+        # 3. Try Google's favicon service
+        print(f"    → Trying Google favicon service")
+        google_favicon = f"https://www.google.com/s2/favicons?domain={domain}&sz=512"
         if validate_url(google_favicon, verbose=True):
             return google_favicon
-    except:
-        pass
+        
+        # 4. Try Favicon Kit
+        print(f"    → Trying Favicon Kit")
+        faviconkit = f"https://api.faviconkit.com/{domain}/512"
+        if validate_url(faviconkit, verbose=True):
+            return faviconkit
+        
+    except Exception as e:
+        print(f"    ⚠️  Error with external services: {type(e).__name__}")
     
     return None
 
@@ -209,13 +272,13 @@ def process_station(station):
             print(f"  ✓ Found favicon from homepage: {found_favicon}")
             return result
     
-    # Step 3: Try Google's favicon service
+    # Step 3: Try external favicon services
     if homepage:
-        print(f"  → Trying Google favicon service")
-        google_favicon = find_favicon_google(name, homepage)
-        if google_favicon:
-            result['favicon'] = google_favicon
-            print(f"  ✓ Found favicon via Google: {google_favicon}")
+        print(f"  → Trying external favicon services")
+        external_favicon = find_favicon_external_services(name, homepage)
+        if external_favicon:
+            result['favicon'] = external_favicon
+            print(f"  ✓ Found favicon via external service: {external_favicon}")
             return result
     
     # Step 4: If still no favicon, try to extract domain from stream URL
@@ -230,11 +293,11 @@ def process_station(station):
                 print(f"  ✓ Found favicon from stream domain: {found_favicon}")
                 return result
             
-            # Try Google service with stream domain
-            google_favicon = find_favicon_google(name, domain_url)
-            if google_favicon:
-                result['favicon'] = google_favicon
-                print(f"  ✓ Found favicon via Google (stream domain): {google_favicon}")
+            # Try external services with stream domain
+            external_favicon = find_favicon_external_services(name, domain_url)
+            if external_favicon:
+                result['favicon'] = external_favicon
+                print(f"  ✓ Found favicon via external service (stream domain): {external_favicon}")
                 return result
         except:
             pass
@@ -312,7 +375,10 @@ def main():
         # Add a small delay to avoid overwhelming servers
         time.sleep(0.5)
     
-    # Save results
+    # Filter out stations without favicons
+    results_with_favicon = [r for r in results if r['favicon']]
+    
+    # Save results (only stations with favicons)
     output_dir = "radio/stations/favicons"
     os.makedirs(output_dir, exist_ok=True)
     
@@ -320,20 +386,20 @@ def main():
     output_file = os.path.join(output_dir, country_lower)
     
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(results, f, ensure_ascii=False, indent=4)
+        json.dump(results_with_favicon, f, ensure_ascii=False, indent=4)
     
     # Final statistics
     total_time = time.time() - start_time
-    with_favicon = sum(1 for r in results if r['favicon'])
+    with_favicon = len(results_with_favicon)
     without_favicon = len(results) - with_favicon
     
     print(f"\n{'='*80}")
     print(f"✅ PROCESSING COMPLETE")
     print(f"{'='*80}")
     print(f"  📁 File: {output_file}")
-    print(f"  📊 Total stations: {len(results)}")
-    print(f"  ✓ With favicon: {with_favicon} ({(with_favicon/len(results))*100:.1f}%)")
-    print(f"  ✗ Without favicon: {without_favicon} ({(without_favicon/len(results))*100:.1f}%)")
+    print(f"  📊 Total stations processed: {len(results)}")
+    print(f"  ✓ Saved with favicon: {with_favicon} ({(with_favicon/len(results))*100:.1f}%)")
+    print(f"  ✗ Excluded (no favicon): {without_favicon} ({(without_favicon/len(results))*100:.1f}%)")
     print(f"  ⏱️  Total time: {timedelta(seconds=int(total_time))}")
     print(f"  ⚡ Avg time/station: {total_time/len(results):.2f}s")
     print(f"{'='*80}\n")
