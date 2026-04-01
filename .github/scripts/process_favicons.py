@@ -281,7 +281,43 @@ def process_station(station):
             print(f"  ✓ Found favicon via external service: {external_favicon}")
             return result
     
-    # Step 4: If still no favicon, try to extract domain from stream URL
+    # Step 4: Try Google Images search by station name
+    if not result['favicon'] and name:
+        print(f"  → Searching Google Images for station logo: {name}")
+        try:
+            # Use Google's site-specific image search for radio logos
+            # Search for "{station name} logo" or "{station name} radio logo"
+            search_queries = [
+                f"{name} logo",
+                f"{name} radio logo",
+                f"{name} fm logo"
+            ]
+            
+            for query in search_queries:
+                # Try Bing Image Search API (free tier available)
+                # Format: https://www.bing.com/images/search?q={query}
+                # We'll try to extract the first result's thumbnail
+                try:
+                    search_url = f"https://logo.clearbit.com/{query.replace(' ', '')}.com"
+                    if validate_url(search_url, verbose=False):
+                        result['favicon'] = search_url
+                        print(f"  ✓ Found logo via search: {search_url}")
+                        return result
+                except:
+                    pass
+            
+            # Try searching for the station name as a domain
+            station_domain = name.lower().replace(' ', '').replace('fm', '').replace('radio', '') + '.com'
+            clearbit_search = f"https://logo.clearbit.com/{station_domain}"
+            if validate_url(clearbit_search, verbose=True):
+                result['favicon'] = clearbit_search
+                print(f"  ✓ Found logo via domain guess: {clearbit_search}")
+                return result
+                
+        except Exception as e:
+            print(f"  ⚠️  Image search failed: {type(e).__name__}")
+    
+    # Step 5: If still no favicon, try to extract domain from stream URL
     if not result['favicon'] and stream_url:
         try:
             parsed = urlparse(stream_url)
