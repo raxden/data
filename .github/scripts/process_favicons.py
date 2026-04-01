@@ -6,6 +6,7 @@ import requests
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 import time
+from datetime import datetime, timedelta
 
 def validate_url(url, timeout=10):
     """Validate if a URL is accessible and returns a valid response."""
@@ -188,13 +189,50 @@ def main():
         sys.exit(1)
     
     print(f"Found {len(stations)} stations")
+    print("=" * 80)
     
     # Process each station
     results = []
+    start_time = time.time()
+    success_count = 0
+    failed_count = 0
+    
     for i, station in enumerate(stations, 1):
-        print(f"\n[{i}/{len(stations)}] Processing: {station.get('name', 'Unknown')}")
+        station_name = station.get('name', 'Unknown')
+        
+        # Progress header
+        percentage = (i / len(stations)) * 100
+        print(f"\n{'='*80}")
+        print(f"[{i}/{len(stations)}] ({percentage:.1f}%) Processing: {station_name}")
+        print(f"{'='*80}")
+        
         result = process_station(station)
         results.append(result)
+        
+        # Track success/failure
+        if result['favicon']:
+            success_count += 1
+        else:
+            failed_count += 1
+        
+        # Show progress summary every 10 stations or at the end
+        if i % 10 == 0 or i == len(stations):
+            elapsed = time.time() - start_time
+            avg_time = elapsed / i
+            remaining = (len(stations) - i) * avg_time
+            eta = datetime.now() + timedelta(seconds=remaining)
+            
+            print(f"\n{'─'*80}")
+            print(f"📊 PROGRESS SUMMARY")
+            print(f"{'─'*80}")
+            print(f"  Processed: {i}/{len(stations)} ({percentage:.1f}%)")
+            print(f"  ✓ Success: {success_count} ({(success_count/i)*100:.1f}%)")
+            print(f"  ✗ Failed:  {failed_count} ({(failed_count/i)*100:.1f}%)")
+            print(f"  ⏱️  Elapsed: {timedelta(seconds=int(elapsed))}")
+            if i < len(stations):
+                print(f"  ⏳ Remaining: ~{timedelta(seconds=int(remaining))}")
+                print(f"  🎯 ETA: {eta.strftime('%H:%M:%S')}")
+            print(f"{'─'*80}\n")
         
         # Add a small delay to avoid overwhelming servers
         time.sleep(0.5)
@@ -209,14 +247,21 @@ def main():
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
     
-    print(f"\n✓ Results saved to: {output_file}")
-    print(f"Total stations processed: {len(results)}")
-    
-    # Statistics
+    # Final statistics
+    total_time = time.time() - start_time
     with_favicon = sum(1 for r in results if r['favicon'])
     without_favicon = len(results) - with_favicon
-    print(f"Stations with favicon: {with_favicon}")
-    print(f"Stations without favicon: {without_favicon}")
+    
+    print(f"\n{'='*80}")
+    print(f"✅ PROCESSING COMPLETE")
+    print(f"{'='*80}")
+    print(f"  📁 File: {output_file}")
+    print(f"  📊 Total stations: {len(results)}")
+    print(f"  ✓ With favicon: {with_favicon} ({(with_favicon/len(results))*100:.1f}%)")
+    print(f"  ✗ Without favicon: {without_favicon} ({(without_favicon/len(results))*100:.1f}%)")
+    print(f"  ⏱️  Total time: {timedelta(seconds=int(total_time))}")
+    print(f"  ⚡ Avg time/station: {total_time/len(results):.2f}s")
+    print(f"{'='*80}\n")
 
 if __name__ == '__main__':
     main()

@@ -35,8 +35,9 @@ jobs:
       - name: Process favicons
         env:
           COUNTRY_CODE: ${{ inputs.countryCode }}
+          PYTHONUNBUFFERED: 1
         run: |
-          python .github/scripts/process_favicons.py
+          python -u .github/scripts/process_favicons.py
       
       - name: Configure Git
         run: |
