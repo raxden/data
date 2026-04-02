@@ -1,10 +1,12 @@
 name: Radio Favicons Sync
 
 on:
-#  schedule:
-#     Run every 3 months (1st day of Jan, Apr, Jul, Oct at midnight)
-#    - cron: '0 0 1 1,4,7,10 *'
   workflow_dispatch:
+    inputs:
+      countryCode:
+        description: 'Country code (e.g., ES, US, GB) - Leave empty to process all countries'
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -23,8 +25,16 @@ jobs:
       - name: Fetch countries from API
         id: get-countries
         run: |
-          response=$(curl -s "http://de1.api.radio-browser.info/json/countries")
-          countries=$(echo "$response" | jq -c '[.[] | .iso_3166_1]')
+          if [ -n "${{ inputs.countryCode }}" ]; then
+            # Single country mode
+            countries='["${{ inputs.countryCode }}"]'
+            echo "Processing single country: ${{ inputs.countryCode }}"
+          else
+            # All countries mode
+            response=$(curl -s "http://de1.api.radio-browser.info/json/countries")
+            countries=$(echo "$response" | jq -c '[.[] | .iso_3166_1]')
+            echo "Processing all countries"
+          fi
           echo "countries=$countries" >> $GITHUB_OUTPUT
 
   process-favicons:
@@ -101,11 +111,17 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
       
       - name: Commit and push changes
+        env:
+          COUNTRY_CODE: ${{ inputs.countryCode }}
         run: |
           git add radio/stations/favicons/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update radio station favicons (quarterly sync)"
+            if [ -n "$COUNTRY_CODE" ]; then
+              git commit -m "Update favicons for $COUNTRY_CODE"
+            else
+              git commit -m "Update radio station favicons (all countries)"
+            fi
             git push
           fi
