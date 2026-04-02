@@ -211,23 +211,35 @@ def find_favicon_external_services(station_name, homepage_url):
         if validate_url(ddg_favicon, verbose=True):
             return ddg_favicon
         
-        # 2. Try Clearbit Logo API
-        print(f"    → Trying Clearbit Logo API")
-        clearbit_logo = f"https://logo.clearbit.com/{domain}"
-        if validate_url(clearbit_logo, verbose=True):
-            return clearbit_logo
-        
-        # 3. Try Google's favicon service
+        # 2. Try Google's favicon service
         print(f"    → Trying Google favicon service")
         google_favicon = f"https://www.google.com/s2/favicons?domain={domain}&sz=512"
         if validate_url(google_favicon, verbose=True):
             return google_favicon
         
-        # 4. Try Favicon Kit
+        # 3. Try Favicon Kit
         print(f"    → Trying Favicon Kit")
         faviconkit = f"https://api.faviconkit.com/{domain}/512"
         if validate_url(faviconkit, verbose=True):
             return faviconkit
+        
+        # 4. Try Iconhorse
+        print(f"    → Trying Iconhorse")
+        iconhorse = f"https://icon.horse/icon/{domain}"
+        if validate_url(iconhorse, verbose=True):
+            return iconhorse
+        
+        # 5. Try Favicon.io
+        print(f"    → Trying Favicon.io")
+        favicon_io = f"https://favicons.githubusercontent.com/{domain}"
+        if validate_url(favicon_io, verbose=True):
+            return favicon_io
+        
+        # 6. Try GetFavicon
+        print(f"    → Trying GetFavicon")
+        getfavicon = f"https://www.google.com/s2/favicons?sz=128&domain={domain}"
+        if validate_url(getfavicon, verbose=True):
+            return getfavicon
         
     except Exception as e:
         print(f"    ⚠️  Error with external services: {type(e).__name__}")
@@ -296,22 +308,18 @@ def process_station(station):
                 # Try Bing Image Search API (free tier available)
                 # Format: https://www.bing.com/images/search?q={query}
                 # We'll try to extract the first result's thumbnail
-                try:
-                    search_url = f"https://logo.clearbit.com/{query.replace(' ', '')}.com"
-                    if validate_url(search_url, verbose=False):
-                        result['favicon'] = search_url
-                        print(f"  ✓ Found logo via search: {search_url}")
-                        return result
-                except:
-                    pass
+                # Skip this iteration - direct query to logo services doesn't work well
+                pass
             
-            # Try searching for the station name as a domain
-            station_domain = name.lower().replace(' ', '').replace('fm', '').replace('radio', '') + '.com'
-            clearbit_search = f"https://logo.clearbit.com/{station_domain}"
-            if validate_url(clearbit_search, verbose=True):
-                result['favicon'] = clearbit_search
-                print(f"  ✓ Found logo via domain guess: {clearbit_search}")
-                return result
+            # Try searching for the station name as a domain with multiple TLDs
+            station_base = name.lower().replace(' ', '').replace('fm', '').replace('radio', '')
+            for tld in ['.com', '.net', '.org', '.fm']:
+                station_domain = station_base + tld
+                iconhorse_search = f"https://icon.horse/icon/{station_domain}"
+                if validate_url(iconhorse_search, verbose=False):
+                    result['favicon'] = iconhorse_search
+                    print(f"  ✓ Found logo via domain guess: {iconhorse_search}")
+                    return result
                 
         except Exception as e:
             print(f"  ⚠️  Image search failed: {type(e).__name__}")

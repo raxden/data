@@ -1,0 +1,128 @@
+name: Generate Favicons with Logo.dev
+
+on:
+  workflow_dispatch:
+    inputs:
+      countryCode:
+        description: 'Country code (e.g., ES, US, GB) - Leave empty to process all countries'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-countries:
+    name: Fetch Countries
+    runs-on: ubuntu-latest
+    outputs:
+      countries: ${{ steps.get-countries.outputs.countries }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Fetch countries from API
+        id: get-countries
+        run: |
+          if [ -n "${{ inputs.countryCode }}" ]; then
+            # Single country mode
+            countries='["${{ inputs.countryCode }}"]'
+            echo "Processing single country: ${{ inputs.countryCode }}"
+          else
+            # All countries mode
+            response=$(curl -s "http://de1.api.radio-browser.info/json/countries")
+            countries=$(echo "$response" | jq -c '[.[] | .iso_3166_1]')
+            echo "Processing all countries"
+          fi
+          echo "countries=$countries" >> $GITHUB_OUTPUT
+
+  generate-favicons:
+    name: Generate Favicons
+    needs: fetch-countries
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        country: ${{ fromJson(needs.fetch-countries.outputs.countries) }}
+      max-parallel: 10
+      fail-fast: false
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Create directory structure
+        run: mkdir -p radio/stations/favicons_logodev
+      
+      - name: Generate favicons for ${{ matrix.country }}
+        env:
+          COUNTRY_CODE: ${{ matrix.country }}
+          LOGO_TOKEN: ${{ secrets.LOGO_TOKEN }}
+          PYTHONUNBUFFERED: 1
+        run: |
+          python -u .github/scripts/generate_favicons_logodev.py
+      
+      - name: Set country variable
+        run: |
+          country_lower=$(echo "${{ matrix.country }}" | tr '[:upper:]' '[:lower:]')
+          echo "country_lower=${country_lower}" >> $GITHUB_ENV
+      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: favicons-logodev-${{ env.country_lower }}
+          path: radio/stations/favicons_logodev/${{ env.country_lower }}
+          retention-days: 1
+          if-no-files-found: ignore
+
+  commit-changes:
+    name: Commit and Push Changes
+    needs: generate-favicons
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      
+      - name: Create directory structure
+        run: mkdir -p radio/stations/favicons_logodev
+      
+      - name: Download all favicon artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          pattern: favicons-logodev-*
+      
+      - name: Move files to correct location
+        run: |
+          find artifacts -type f ! -name ".*" -exec mv {} radio/stations/favicons_logodev/ \;
+      
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Commit and push changes
+        env:
+          COUNTRY_CODE: ${{ inputs.countryCode }}
+        run: |
+          git add radio/stations/favicons_logodev/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            if [ -n "$COUNTRY_CODE" ]; then
+              git commit -m "Generate favicons with logo.dev for $COUNTRY_CODE"
+            else
+              git commit -m "Generate favicons with logo.dev (all countries)"
+            fi
+            git push
+          fi
