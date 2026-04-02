@@ -124,5 +124,7 @@ jobs:
             else
               git commit -m "Generate favicons with logo.dev (all countries)"
             fi
+            # Pull latest changes and push
+            git pull --rebase origin master
             git push
           fi
