@@ -43,7 +43,7 @@ def generate_logodev_url(domain):
     if not domain:
         return None
     
-    return f"https://img.logo.dev/{domain}?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    return f"https://img.logo.dev/{domain}?token={LOGODEV_TOKEN}"
 
 def validate_url(url, timeout=5, verbose=False):
     """Validate if a URL is accessible and returns a valid response."""
@@ -52,6 +52,24 @@ def validate_url(url, timeout=5, verbose=False):
             print(f"    ⚠️  URL is empty")
         return False
     
+    # Logo.dev doesn't support HEAD requests - skip directly to GET
+    if 'logo.dev' in url:
+        try:
+            response = requests.get(url, timeout=timeout, allow_redirects=True, stream=True)
+            if response.status_code < 400:
+                if verbose:
+                    print(f"    ✓ GET request successful (status {response.status_code})")
+                return True
+            else:
+                if verbose:
+                    print(f"    ❌ GET request failed with status {response.status_code}")
+                return False
+        except Exception as e:
+            if verbose:
+                print(f"    ❌ GET request failed: {type(e).__name__}")
+            return False
+    
+    # For other URLs, try HEAD first
     try:
         response = requests.head(url, timeout=timeout, allow_redirects=True)
         if response.status_code < 400:
