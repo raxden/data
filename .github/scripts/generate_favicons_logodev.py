@@ -118,34 +118,20 @@ def process_station(station):
     if homepage:
         domain = extract_domain(homepage)
         if domain:
-            print(f"  → Extracted domain from homepage: {domain}")
             favicon_url = generate_logodev_url(domain)
-            
-            # Validate the generated URL
-            print(f"  → Validating logo.dev URL: {favicon_url}")
-            if validate_url(favicon_url, verbose=True):
+            if validate_url(favicon_url, verbose=False):
                 result['favicon'] = favicon_url
-                print(f"  ✓ Generated valid favicon: {favicon_url}")
                 return result
-            else:
-                print(f"  ✗ Logo.dev URL not valid (domain may not have logo)")
-    else:
-        print(f"  ✗ No homepage provided for {name}")
     
     # If homepage didn't work, try stream URL domain
     if not result['favicon'] and stream_url:
         domain = extract_domain(stream_url)
         if domain:
-            print(f"  → Trying stream domain: {domain}")
             favicon_url = generate_logodev_url(domain)
-            print(f"  → Validating logo.dev URL: {favicon_url}")
-            
-            if validate_url(favicon_url, verbose=True):
+            if validate_url(favicon_url, verbose=False):
                 result['favicon'] = favicon_url
-                print(f"  ✓ Generated valid favicon from stream domain: {favicon_url}")
                 return result
     
-    print(f"  ✗ Could not generate valid favicon for {name}")
     return result
 
 def main():
@@ -179,14 +165,6 @@ def main():
     failed_count = 0
     
     for i, station in enumerate(stations, 1):
-        station_name = station.get('name', 'Unknown')
-        
-        # Progress header
-        percentage = (i / len(stations)) * 100
-        print(f"\n{'='*80}")
-        print(f"[{i}/{len(stations)}] ({percentage:.1f}%) Processing: {station_name}")
-        print(f"{'='*80}")
-        
         result = process_station(station)
         results.append(result)
         
@@ -196,27 +174,18 @@ def main():
         else:
             failed_count += 1
         
-        # Show progress summary every 10 stations or at the end
-        if i % 10 == 0 or i == len(stations):
+        # Show progress summary every 50 stations or at the end
+        if i % 50 == 0 or i == len(stations):
+            percentage = (i / len(stations)) * 100
             elapsed = time.time() - start_time
             avg_time = elapsed / i
             remaining = (len(stations) - i) * avg_time
             eta = datetime.now() + timedelta(seconds=remaining)
             
-            print(f"\n{'─'*80}")
-            print(f"📊 PROGRESS SUMMARY")
-            print(f"{'─'*80}")
-            print(f"  Processed: {i}/{len(stations)} ({percentage:.1f}%)")
-            print(f"  ✓ Success: {success_count} ({(success_count/i)*100:.1f}%)")
-            print(f"  ✗ Failed:  {failed_count} ({(failed_count/i)*100:.1f}%)")
-            print(f"  ⏱️  Elapsed: {timedelta(seconds=int(elapsed))}")
-            if i < len(stations):
-                print(f"  ⏳ Remaining: ~{timedelta(seconds=int(remaining))}")
-                print(f"  🎯 ETA: {eta.strftime('%H:%M:%S')}")
-            print(f"{'─'*80}\n")
+            print(f"[{i}/{len(stations)}] {percentage:.1f}% | ✓ {success_count} | ✗ {failed_count} | {timedelta(seconds=int(elapsed))} elapsed", flush=True)
         
-        # Add a small delay to avoid overwhelming servers
-        time.sleep(0.3)
+        # Small delay to avoid overwhelming servers
+        time.sleep(0.1)
     
     # Filter out stations without favicons
     results_with_favicon = [r for r in results if r['favicon']]
