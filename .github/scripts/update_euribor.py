@@ -147,8 +147,9 @@ def main():
     print("Iniciando actualización de datos de Euribor...")
     
     # Determinar la ruta del archivo de salida
+    # El script está en .github/scripts/, así que subimos 2 niveles para llegar a la raíz
     script_dir = Path(__file__).parent
-    project_root = script_dir.parent
+    project_root = script_dir.parent.parent
     output_file = project_root / 'euribor' / 'data'
     
     # 1. Obtener datos del BCE
