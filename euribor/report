@@ -1,0 +1,22 @@
+{
+  "current_date": "2026-04-20",
+  "daily_reports": [
+    {
+      "date": "2026-04-20",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.702
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.702
+        }
+      ]
+    }
+  ]
+}

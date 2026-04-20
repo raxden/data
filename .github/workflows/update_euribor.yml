@@ -2,8 +2,8 @@ name: Update Euribor Data
 
 on:
   schedule:
-    # Ejecuta todos los días a las 6:00 AM UTC
-    - cron: '0 6 * * *'
+    # Ejecuta de lunes a viernes a las 6:00 AM UTC (8:00 AM CEST)
+    - cron: '0 6 * * 1-5'
   workflow_dispatch:
     # Permite ejecución manual desde GitHub Actions
 
@@ -25,11 +25,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests beautifulsoup4
       
-      - name: Run update script
+      - name: Run daily Euribor scraper
         run: |
-          python .github/scripts/update_euribor.py
+          python .github/scripts/fetch_daily_euribor.py
       
       - name: Check for changes
         id: git-check
