@@ -69,7 +69,7 @@ jobs:
           LOGO_TOKEN: ${{ secrets.LOGO_TOKEN }}
           PYTHONUNBUFFERED: 1
         run: |
-          python -u .github/scripts/generate_favicons_logodev.py
+          python -u .github/scripts/radio/generate_favicons_logodev.py
       
       - name: Set country variable
         run: |

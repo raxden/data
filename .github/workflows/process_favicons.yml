@@ -68,7 +68,7 @@ jobs:
           COUNTRY_CODE: ${{ matrix.country }}
           PYTHONUNBUFFERED: 1
         run: |
-          python -u .github/scripts/process_favicons.py
+          python -u .github/scripts/radio/process_favicons.py
       
       - name: Set country variable
         run: |
