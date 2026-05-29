@@ -9,107 +9,33 @@ permissions:
   contents: write
 
 jobs:
-  fetch-countries:
-    name: Fetch Countries
-    runs-on: ubuntu-latest
-    outputs:
-      countries: ${{ steps.get-countries.outputs.countries }}
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-      
-      - name: Create directory structure
-        run: mkdir -p radio
-      
-      - name: Fetch countries from API
-        id: get-countries
-        run: |
-          response=$(curl -s "http://de1.api.radio-browser.info/json/countries")
-          countries=$(echo "$response" | jq -c '[.[] | .iso_3166_1]')
-          echo "countries=$countries" >> $GITHUB_OUTPUT
-          echo "$response" > radio/countries
-      
-      - name: Upload countries artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: countries-data
-          path: radio/countries
-          retention-days: 1
-
   download-stations:
-    name: Download Stations
-    needs: fetch-countries
+    name: Download All Stations
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        country: ${{ fromJson(needs.fetch-countries.outputs.countries) }}
-      max-parallel: 10
-      fail-fast: false
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-      
-      - name: Create directory structure
-        run: mkdir -p radio/stations/bycountry
-      
-      - name: Download stations for ${{ matrix.country }}
-        run: |
-          country_lower=$(echo "${{ matrix.country }}" | tr '[:upper:]' '[:lower:]')
-          curl -s "https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/${{ matrix.country }}" \
-            -o "radio/stations/bycountry/${country_lower}"
-      
-      - name: Upload artifact
-        run: |
-          country_lower=$(echo "${{ matrix.country }}" | tr '[:upper:]' '[:lower:]')
-          echo "country_lower=${country_lower}" >> $GITHUB_ENV
-      
-      - uses: actions/upload-artifact@v4
-        with:
-          name: stations-${{ env.country_lower }}
-          path: radio/stations/bycountry/${{ env.country_lower }}
-          retention-days: 1
 
-  commit-changes:
-    name: Commit and Push Changes
-    needs: download-stations
-    runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
-      
+
       - name: Create directory structure
-        run: mkdir -p radio/stations/bycountry
-      
-      - name: Download countries artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: countries-data
-          path: radio
-      
-      - name: Download all station artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: artifacts
-          pattern: stations-*
-      
-      - name: Move files to correct location
+        run: mkdir -p radio/stations
+
+      - name: Download all stations
         run: |
-          find artifacts -type f ! -name ".*" -exec mv {} radio/stations/bycountry/ \;
-      
+          curl -s "https://de1.api.radio-browser.info/json/stations" \
+            -o "radio/stations/all"
+
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-      
+
       - name: Commit and push changes
         run: |
           git add radio/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update radio stations and countries data"
+            git commit -m "Update all radio stations data"
             git push
           fi

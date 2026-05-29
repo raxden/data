@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 Generate favicons using Logo.dev API for radio stations.
-This script processes ALL stations (no country filter) and generates favicon URLs
-using the logo.dev service.
+This script processes stations and generates favicon URLs using logo.dev service.
 """
 
 import os
@@ -136,14 +135,20 @@ def process_station(station):
     return result
 
 def main():
-    print("Generating favicons with logo.dev for ALL stations")
+    country_code = os.environ.get('COUNTRY_CODE')
     
-    # Fetch stations from API (all stations, no country filter)
-    api_url = "https://de1.api.radio-browser.info/json/stations"
+    if not country_code:
+        print("Error: COUNTRY_CODE environment variable not set")
+        sys.exit(1)
+    
+    print(f"Generating favicons with logo.dev for country: {country_code}")
+    
+    # Fetch stations from API
+    api_url = f"https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/{country_code}"
     print(f"Fetching stations from: {api_url}")
     
     try:
-        response = requests.get(api_url, timeout=120)
+        response = requests.get(api_url, timeout=30)
         response.raise_for_status()
         stations = response.json()
     except Exception as e:
@@ -189,7 +194,8 @@ def main():
     output_dir = "radio/stations/favicons_logodev"
     os.makedirs(output_dir, exist_ok=True)
     
-    output_file = os.path.join(output_dir, "all")
+    country_lower = country_code.lower()
+    output_file = os.path.join(output_dir, country_lower)
     
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(results_with_favicon, f, ensure_ascii=False, indent=4)
