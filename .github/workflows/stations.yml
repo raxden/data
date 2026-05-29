@@ -22,7 +22,7 @@ jobs:
 
       - name: Download all stations
         run: |
-          curl -s "https://de1.api.radio-browser.info/json/stations" \
+          curl -s "https://de1.api.radio-browser.info/json/stations?limit=1000000" \
             -o "radio/stations/all"
 
       - name: Configure Git

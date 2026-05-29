@@ -352,7 +352,7 @@ def main():
     print("Processing favicons for ALL stations")
     
     # Fetch stations from API (all stations, no country filter)
-    api_url = "https://de1.api.radio-browser.info/json/stations"
+    api_url = "https://de1.api.radio-browser.info/json/stations?limit=1000000"
     print(f"Fetching stations from: {api_url}")
     
     try:
