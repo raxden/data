@@ -1,6 +1,27 @@
 {
-  "current_date": "2026-06-11",
+  "current_date": "2026-06-12",
   "daily_reports": [
+    {
+      "date": "2026-06-12",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.846
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.846
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "source": [
