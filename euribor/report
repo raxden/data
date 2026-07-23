@@ -1,6 +1,699 @@
 {
-  "current_date": "2026-06-08",
+  "current_date": "2026-07-23",
   "daily_reports": [
+    {
+      "date": "2026-07-23",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.912
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.912
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.918
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.918
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.881
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.873
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.881
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.873
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.876
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.876
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.916
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.916
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.825
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.825
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.8
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.831
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.8
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.831
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.831
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.813
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.737
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.737
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.695
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.695
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.695
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.693
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.693
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.709
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.709
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.733
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.727
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.727
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.727
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.728
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.732
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.732
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.732
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.764
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.785
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.785
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.781
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.871
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "HTTPSConnectionPool(host='www.euribordiario.es', port=443): Read timed out. (read timeout=10)"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.817
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.817
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.817
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.809
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.809
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.809
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.789
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.789
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.748
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.759
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.759
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.755
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.755
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.796
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.796
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.874
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.846
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.846
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.841
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.841
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.866
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.866
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "source": [
+        {
+          "name": "euribordiario.es",
+          "error": "Los datos diarios se cargan dinámicamente con JavaScript"
+        },
+        {
+          "name": "euribor.com.es",
+          "value": 2.816
+        },
+        {
+          "name": "expansion.com",
+          "value": 2.816
+        },
+        {
+          "name": "helpmycash.com",
+          "error": "El contenido se carga dinámicamente con JavaScript"
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "source": [
