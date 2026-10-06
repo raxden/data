@@ -1,7 +1,11 @@
 {
-  "current_date": "2026-10-05",
+  "current_date": "2026-10-06",
   "is_provisional": true,
   "daily_rates": [
+    {
+      "date": "2026-10-06",
+      "value": 3.186
+    },
     {
       "date": "2026-10-05",
       "value": 3.323
