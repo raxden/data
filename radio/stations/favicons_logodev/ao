@@ -5,6 +5,11 @@
         "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "LOVE FM:  Músicas pop espanholas clássicas dos anos 80, 90 e 2000",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -20,9 +25,24 @@
         "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "AfriRádio",
+        "url": "https://cast4.asurahosting.com/proxy/afriradi/stream",
+        "favicon": "https://img.logo.dev/afriradio.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Correio da Kianda",
+        "url": "https://audio.serv.pt/8036/stream",
+        "favicon": "https://img.logo.dev/correiokianda.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ebnézer Rádio",
         "url": "http://08.stmip.net:10028/;;",
         "favicon": "https://img.logo.dev/shaloministerio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LAC - Luanda Antena Comercial",
+        "url": "http://live.paineldj.com.br:8662/live",
+        "favicon": "https://img.logo.dev/lacluanda.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Powermix FM",
@@ -35,9 +55,29 @@
         "favicon": "https://img.logo.dev/player.xradios.com.br?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rádio Fé Angola",
-        "url": "http://stream-155.zeno.fm/gsndh1xvczetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnc25kaDF4dmN6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicm81MjdFal9TUi1xN1dwaXNVMFFIQSIsImlhdCI6MTc2ODQzNjI5OCwiZXhwIjoxNzY4NDM2MzU4fQ.8cwpv0x7PvZ-BypcPNxZU0KjySTsaVxXbVDcDhPsNow",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Rádio Benguela",
+        "url": "https://paineldj5.com.br:20096/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Cazenga",
+        "url": "https://paineldj5.com.br:20092/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Cuando Cubango 91.4 FM",
+        "url": "https://stream.zeno.fm/n5r034egx4zuv",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Cuanza Norte",
+        "url": "https://paineldj.com.br:20145/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Cultura Angola",
+        "url": "https://paineldj5.com.br:20091/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Jihenda",
@@ -50,8 +90,103 @@
         "favicon": "https://img.logo.dev/radiokuiabue.us?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio Lobito",
+        "url": "https://paineldj5.com.br:20095/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Luanda",
+        "url": "https://paineldj5.com.br:20089/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Lunda Sul",
+        "url": "https://paineldj6.com.br:20115/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Mais",
+        "url": "https://radios.justweb.pt/8050/stream",
+        "favicon": "https://img.logo.dev/radiomais.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Mais Benguela 96.3 FM",
+        "url": "https://radios.justweb.pt/8046/stream",
+        "favicon": "https://img.logo.dev/radiomais.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Mais Huambo",
+        "url": "https://radios.justweb.pt/8044/stream",
+        "favicon": "https://img.logo.dev/radiomais.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Mais Huíla",
+        "url": "https://radios.justweb.pt/8048/stream",
+        "favicon": "https://img.logo.dev/radiomais.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Malange",
+        "url": "https://paineldj6.com.br:20116/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Marginal",
+        "url": "https://stream-radio-marginal-by.newsgen.io/rmlive.mp3",
+        "favicon": "https://img.logo.dev/marginal.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio MFM",
+        "url": "https://centova87.instainternet.com/proxy/radiomfm?mp=/live",
+        "favicon": "https://img.logo.dev/radiomfmangola.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio MFM Angola",
         "url": "https://centova87.instainternet.com/proxy/mfm?mp=/stream",
         "favicon": "https://img.logo.dev/radiomfmangola.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nacional de Angola - Canal A",
+        "url": "https://paineldj5.com.br:20087/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Nacional de Angola - Rádio 5",
+        "url": "https://paineldj5.com.br:20088/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Namibe",
+        "url": "https://paineldj6.com.br:20118/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rashi",
+        "url": "https://s2.free-shoutcast.com/stream/18214",
+        "favicon": "https://img.logo.dev/radiorashi.alle.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Viana",
+        "url": "https://paineldj5.com.br:20093/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNA - Canal A",
+        "url": "https://stream.pcradio.ru/rna_canala-med",
+        "favicon": "https://img.logo.dev/pcradio.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNA - Rádio Ngola Yetu",
+        "url": "https://live.paineldj.com.br/proxy/yetu?mp=/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNA Canal Internacional",
+        "url": "https://live.paineldj.com.br/proxy/rnangola?mp=/stream",
+        "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zango FM 98.1",
+        "url": "https://servidor26-5.brlogic.com:7036/live",
+        "favicon": "https://img.logo.dev/zango.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

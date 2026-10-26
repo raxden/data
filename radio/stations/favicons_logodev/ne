@@ -5,16 +5,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio BLAU Leipzig (trocken 320kbps)",
-        "url": "http://icecast.radioblau.de:8000/blau_320_dry",
-        "favicon": "https://img.logo.dev/dasha.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Garkuwa 107 Maradi",
-        "url": "https://stream.zeno.fm/x0a1r1qu1nhvv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Wadata Radio 107.4 Niamey",
         "url": "http://stream.zeno.fm/1y2c3qbgbchvv",
         "favicon": "https://img.logo.dev/wadataradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

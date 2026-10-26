@@ -1,5 +1,10 @@
 [
     {
+        "name": "89.7 Bay",
+        "url": "https://stream.v3.network/proxy/897bay/stream.mp3",
+        "favicon": "https://img.logo.dev/bay.com.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -30,9 +35,9 @@
         "favicon": "https://img.logo.dev/christmasradiomalta.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MALTIN BISS",
-        "url": "https://s4.voscast.com:8837/default",
-        "favicon": "https://img.logo.dev/s4.voscast.com:8837?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Magic",
+        "url": "https://s46.myradiostream.com:6076/stream",
+        "favicon": "https://img.logo.dev/magic.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "One Radio",

@@ -35,6 +35,11 @@
         "favicon": "https://img.logo.dev/globalradio995fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kingdom Living Publications & Media Ltd",
+        "url": "https://s4.radio.co/s440e54fd7/listen",
+        "favicon": "https://img.logo.dev/klpmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "LCLHST R1",
         "url": "http://s1.radio.lclhst.net:1437/r1",
         "favicon": "https://img.logo.dev/radio.lclhst.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -46,7 +51,7 @@
     },
     {
         "name": "Minimal, Techno, Electro Sets @ http://radio.lclhst.net/",
-        "url": "http://s1.radio.lclhst.net:1437/r2",
+        "url": "http://radio.lclhst.net:1337/r1",
         "favicon": "https://img.logo.dev/radio.lclhst.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

@@ -20,11 +20,6 @@
         "favicon": "https://img.logo.dev/alphaboysschoolradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "baddajam",
-        "url": "https://dc2.serverse.com/stream/baddajam",
-        "favicon": "https://img.logo.dev/baddajam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Fame 95 FM",
         "url": "https://stream.zeno.fm/wbsd59gcgy5tv",
         "favicon": "https://img.logo.dev/fame95fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -45,16 +40,6 @@
         "favicon": "https://img.logo.dev/fame95fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Fyah 105",
-        "url": "https://listen.radioking.com/radio/459389/stream/514595",
-        "favicon": "https://img.logo.dev/fyah105.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fyah105 FM",
-        "url": "https://play.radioking.io/fyah105-fm/514601",
-        "favicon": "https://img.logo.dev/fyah105.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "GGFM 90.1 Discovery Bay",
         "url": "http://usa14.fastcast4u.com:5192/;",
         "favicon": "https://img.logo.dev/ggfmja.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -68,6 +53,11 @@
         "name": "Gospel FM Jamaica",
         "url": "https://stream-37.zeno.fm/zpksre88rm0uv",
         "favicon": "https://img.logo.dev/gospelfmjamaica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Irie FM",
+        "url": "https://stream.iriefm.net:8008/stream",
+        "favicon": "https://img.logo.dev/iriefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Irie FM",
@@ -85,16 +75,6 @@
         "favicon": "https://img.logo.dev/jamaicadancehallradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KLAS ESPN Sports FM 89",
-        "url": "http://stream.zenolive.com/4uw093pbyvduv",
-        "favicon": "https://img.logo.dev/google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KLAS Sports Radio 89.5 Kingston",
-        "url": "http://ice.audionow.com/6283KLASSportsRadioopus.ogg",
-        "favicon": "https://img.logo.dev/klassportsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Kool 97 FM",
         "url": "https://stream.zeno.fm/we0agoxeeojvv",
         "favicon": "https://img.logo.dev/kool97fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -108,21 +88,6 @@
         "name": "Love 101 FM",
         "url": "https://stream.zeno.fm/webzstrtpy5tv",
         "favicon": "https://img.logo.dev/love101.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mello FM Jamaica",
-        "url": "http://peridot.streamguys.com:5660/live",
-        "favicon": "https://img.logo.dev/mellofmjamaica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mello Radio 88 FM",
-        "url": "http://peridot.streamguys.com:5660/live",
-        "favicon": "https://img.logo.dev/mellofmjamaica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mellow FM",
-        "url": "http://peridot.streamguys.com:5660/live",
-        "favicon": "https://img.logo.dev/mellofmjamaica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nationwide 90FM",
@@ -145,26 +110,6 @@
         "favicon": "https://img.logo.dev/nationwideradiojm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "NCU 91.1 FM",
-        "url": "https://stream.zeno.fm/qvv8y1m06umtv",
-        "favicon": "https://img.logo.dev/ncumediagroup.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Newstalk 93 FM",
-        "url": "http://procyon.shoutca.st:8083/quality196",
-        "favicon": "https://img.logo.dev/newstalk93fm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Newstalk 93 FM",
-        "url": "https://newstalk93fm.radioca.st/stream",
-        "favicon": "https://img.logo.dev/newstalk93fm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Omega KLAS Radio - God and Sports",
-        "url": "https://stream.zeno.fm/4uw093pbyvduv",
-        "favicon": "https://img.logo.dev/omegaklas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "PONdENDS.COM",
         "url": "http://s7.voscast.com:7000/",
         "favicon": "https://img.logo.dev/pondends.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -178,11 +123,6 @@
         "name": "Radio Jamaica 94FM",
         "url": "https://stream.zeno.fm/cub84trbgy5tv",
         "favicon": "https://img.logo.dev/rjr94fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel Radio",
-        "url": "https://streamer.radio.co/s830ce6f36/listen",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Roots 96.1 FM",
@@ -205,6 +145,11 @@
         "favicon": "https://img.logo.dev/suncityradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Tarus Rilyes Radio new",
+        "url": "https://www.jango.com/stations/113321878/tunein",
+        "favicon": "https://img.logo.dev/jango.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "TBC Radio 88.5 FM",
         "url": "https://stream.zeno.fm/004dvn2qqy5tv",
         "favicon": "https://img.logo.dev/tbcradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -223,11 +168,6 @@
         "name": "WORLDWYDE OUTERNATIONAL",
         "url": "http://stream.zeno.fm/g4gf4u13k0hvv",
         "favicon": "https://img.logo.dev/bit.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Worlvybz radio",
-        "url": "http://stream.zeno.fm/mkg0g0t2td0uv",
-        "favicon": "https://img.logo.dev/worlvybzfm.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zip FM 103 FM",

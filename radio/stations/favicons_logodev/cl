@@ -1,8 +1,13 @@
 [
     {
-        "name": "Radio la Sureña",
-        "url": "https://stream-149.zeno.fm/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0xNDkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidHZscG8wZmlSdk9NcFZMeThWckR5ZyIsImlhdCI6MTc2ODQ1MTc0MywiZXhwIjoxNzY4NDUxODAzfQ.3B1uWl4kdk25PXGgpquLR-2ZAb7Jm1NgYsj3k83Cahw",
-        "favicon": "https://img.logo.dev/lasuronline.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "LOVE FM: All you need is Love ♥ Clásicos románticos",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "| COBrOx.RADiO.fm |",
+        "url": "http://65.108.105.26:8672/cobroxradio",
+        "favicon": "https://img.logo.dev/cobrox.radio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "| COBrOx.RADiO.fm |",
@@ -25,19 +30,19 @@
         "favicon": "https://img.logo.dev/13cradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "92Punto3 FM Puerto Montt",
+        "url": "https://archi-us.digitalproserver.com/nueva-belen-fm.aac",
+        "favicon": "https://img.logo.dev/92punto3.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Activa",
-        "url": "http://24483.live.streamtheworld.com/ACTIVA_SC",
-        "favicon": "https://img.logo.dev/24483.live.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "actual fm",
-        "url": "http://archi-us.digitalproserver.com/actual.aac",
-        "favicon": "https://img.logo.dev/actualfm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Acústica",
+        "url": "https://radio.tvstream.cl/8036/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ADN",
@@ -65,9 +70,9 @@
         "favicon": "https://img.logo.dev/alternativafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Amistad stereo",
-        "url": "https://stream-159.zeno.fm/dg69bex4gxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkZzY5YmV4NGd4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImRQUlBTMkczUkRXdmVIUHNhbW1JMHciLCJpYXQiOjE3NDAwNDk3MTAsImV4cCI6MTc0MDA0OTc3MH0.vQVac4IPmjOImU79H_guLZdW1EI2HY1GKKxoIIKYmqU",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Altura FM",
+        "url": "https://club.asdmedios.cl/listen/alturafm/radio.mp3",
+        "favicon": "https://img.logo.dev/alturafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Atractiva 101.3",
@@ -83,11 +88,6 @@
         "name": "Beethoven - Santiago FM",
         "url": "https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio",
         "favicon": "https://img.logo.dev/beethovenfm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Beethoven FM (Relanzada)",
-        "url": "http://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8",
-        "favicon": "https://img.logo.dev/beethvenfm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BeethovenFM",
@@ -115,6 +115,11 @@
         "favicon": "https://img.logo.dev/biobiochile.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Bio-Bio Osorno",
+        "url": "https://redirector.dps.live/biobioosorno/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/vivo.biobiochile.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "BioBio Chile",
         "url": "https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio",
         "favicon": "https://img.logo.dev/biobiochile.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -125,44 +130,9 @@
         "favicon": "https://img.logo.dev/biobiochile.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Blu FM 94.9",
-        "url": "https://sonic.nnw.cl:7009/;",
-        "favicon": "https://img.logo.dev/blufm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BlueRadio",
-        "url": "https://stream.zeno.fm/udk5orfzet5vv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BlueRadio",
-        "url": "https://stream.zeno.fm/udk5orfzet5vv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BlueRadio",
-        "url": "https://stream-175.zeno.fm/udk5orfzet5vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZGs1b3JmemV0NXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFreVNWMThWUlBxbTN4enVOamZpemciLCJpYXQiOjE3MzQyNDIzNzYsImV4cCI6MTczNDI0MjQzNn0.23h_xxF5T74k5SnoUzP_iRfuisaRoMmmmXy_VpKZv3o",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BLUFM",
-        "url": "https://sonic.nnw.cl:7009/;",
-        "favicon": "https://img.logo.dev/blufm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Bonita",
         "url": "https://sonicpanel.chileservidores.cl/8032/stream",
         "favicon": "https://img.logo.dev/bonitafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Boogaclub",
-        "url": "http://stream.zeno.fm/777prr0xfm8uv",
-        "favicon": "https://img.logo.dev/boogaclub.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "C y S Dalcahue",
-        "url": "http://streaming.chiloestreaming.com:9542/",
-        "favicon": "https://img.logo.dev/cysradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cadenza Radio",
@@ -170,14 +140,9 @@
         "favicon": "https://img.logo.dev/cadenzaradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Canciones Lejanas Version Anglo - Zeno.FM",
-        "url": "https://stream.zeno.fm/8hv9e0uqb0hvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Canciones Lejanas Version Latina - Zeno.FM",
-        "url": "https://stream.zeno.fm/5kasc2zta0hvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Canal Sur Patagonia",
+        "url": "https://audio2.tustreaming.cl:10979/stream",
+        "favicon": "https://img.logo.dev/canalsurpatagonia.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Carnaval Aconcagua",
@@ -215,54 +180,19 @@
         "favicon": "https://img.logo.dev/radiocarnaval.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Charanga Latina",
+        "url": "https://sonic.portalfoxmix.club/8046/stream",
+        "favicon": "https://img.logo.dev/charangalatina.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Chercan Radio",
         "url": "https://stream.zeno.fm/es9h0crh74zuv",
         "favicon": "https://img.logo.dev/ratasordarec.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Chillout FM",
-        "url": "https://listen2.myradio24.com/8795?f8f9356c",
-        "favicon": "https://img.logo.dev/listen2.myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "City Radio FLAC",
-        "url": "http://cityradio.ddns.net:8000/cityradio48flac",
-        "favicon": "https://img.logo.dev/cityradiochile.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "City Radio POP",
-        "url": "http://cityradio.ddns.net:8000/citypop",
-        "favicon": "https://img.logo.dev/cityradiochile.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "City Radio POP - Chile",
-        "url": "http://cityradio.ddns.net:8000/citypop",
-        "favicon": "https://img.logo.dev/cityradiochile.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CITYRADIO - CHILE",
-        "url": "http://cityradio.ddns.net:8000/cityradio48flac",
-        "favicon": "https://img.logo.dev/cityradiochile.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CITYRADIO - CHILE",
-        "url": "http://cityradio.ddns.net:8000/cityradio48flac",
-        "favicon": "https://img.logo.dev/cityradiochile.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CLG Radio 93.5 FM",
         "url": "https://sonic.portalfoxmix.club/8012/streamstream",
         "favicon": "https://img.logo.dev/clgradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Club Dance Chile",
-        "url": "https://audio.bitsur.cl/8002/stream",
-        "favicon": "https://img.logo.dev/clubdance.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CLUB DANCE CHILE",
-        "url": "https://stream.clubdance.cl/",
-        "favicon": "https://img.logo.dev/clubdance.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "club retro hits",
@@ -281,7 +211,7 @@
     },
     {
         "name": "Concierto",
-        "url": "http://26643.live.streamtheworld.com/CONCIERTO_SC",
+        "url": "http://24253.live.streamtheworld.com/CONCIERTO_SC",
         "favicon": "https://img.logo.dev/concierto.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -305,19 +235,9 @@
         "favicon": "https://img.logo.dev/cooperativa.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Corazon",
-        "url": "http://27413.live.streamtheworld.com/CORAZON_SC",
-        "favicon": "https://img.logo.dev/27413.live.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CQX PMONTT",
-        "url": "http://5.9.65.9:8083/stream",
-        "favicon": "https://img.logo.dev/5.9.65.9:8083?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CQX-OSORNO",
-        "url": "http://5.9.65.9:8065/stream",
-        "favicon": "https://img.logo.dev/5.9.65.9:8065?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Corazón",
+        "url": "http://24253.live.streamtheworld.com/CORAZON_SC",
+        "favicon": "https://img.logo.dev/corazon.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CTM Radio",
@@ -325,19 +245,19 @@
         "favicon": "https://img.logo.dev/ctmradio.hopto.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CyberNation Radio",
-        "url": "https://stream.zeno.fm/lcj8aoodegouv",
-        "favicon": "https://img.logo.dev/cybernationradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CyS Radio 96.3 FM Dalcahue",
-        "url": "http://streaming.chiloestreaming.com:9542/;",
-        "favicon": "https://img.logo.dev/cysradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Dance FM",
+        "url": "https://video.mediawebchile.com:9332/stream",
+        "favicon": "https://img.logo.dev/dancefm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "De los Recuerdos",
         "url": "http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac",
         "favicon": "https://img.logo.dev/fmdelosrecuerdos.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Desierto FM",
+        "url": "https://broadcast.radio247.net/listen/desierto_web/radio.mp3",
+        "favicon": "https://img.logo.dev/desiertofm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Digital 105.5 FM - CONCEPCIÓN",
@@ -390,19 +310,9 @@
         "favicon": "https://img.logo.dev/s1.jcbroadcast.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Distorsión FM",
-        "url": "https://tunein.radiomaniacos.cl/distorsion.mp3",
-        "favicon": "https://img.logo.dev/distorsion.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Distorsion FM",
         "url": "https://radioemisoras.cl/distorsion.mp3",
         "favicon": "https://img.logo.dev/distortionradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Distorsion FM FLAC",
-        "url": "https://radioemisoras.cl/distorsion.flac",
-        "favicon": "https://img.logo.dev/distorsion.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Duna",
@@ -425,14 +335,19 @@
         "favicon": "https://img.logo.dev/enlanoticia.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ESTACION DEL PODER",
-        "url": "http://stream.zeno.fm/t7cdutykw38uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Estación Latina",
+        "url": "https://video.mediawebchile.com:8004/stream",
+        "favicon": "https://img.logo.dev/estacionlatina.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Estacion Ranchera Chile",
         "url": "https://app.sonicpanelradio.com:8588//;type=mp3",
         "favicon": "https://img.logo.dev/estacionranchera.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Estilo FM",
+        "url": "https://audio3.tustreaming.cl/7120/stream",
+        "favicon": "https://img.logo.dev/estilofm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ESTRELLA DEL MAR",
@@ -455,11 +370,6 @@
         "favicon": "https://img.logo.dev/lapopular.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Exitosa",
-        "url": "https://stream-024.zeno.fm/dg69bex4gxquv?zs=XUpp6K5zR3aUWceZbwXJcQ",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Fanatica CHILL",
         "url": "http://ascl.denial.cl:8004/",
         "favicon": "https://img.logo.dev/fanatica.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -480,11 +390,6 @@
         "favicon": "https://img.logo.dev/fanatica.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Femenina FM",
-        "url": "http://archi-us.digitalproserver.com/femenina.aac",
-        "favicon": "https://img.logo.dev/femeninafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Festival",
         "url": "https://stream.festival.cl/1",
         "favicon": "https://img.logo.dev/radiofestival.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -501,8 +406,13 @@
     },
     {
         "name": "FM Dos",
-        "url": "http://27363.live.streamtheworld.com:3690/FMDOSAAC_SC",
+        "url": "http://24273.live.streamtheworld.com:3690/FMDOSAAC_SC",
         "favicon": "https://img.logo.dev/fmdos.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FM Music",
+        "url": "https://stream.fmmusic.cl/9980/stream",
+        "favicon": "https://img.logo.dev/fmmusic.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FM Okey",
@@ -525,12 +435,7 @@
         "favicon": "https://img.logo.dev/fmplus.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FM Siete Rock",
-        "url": "https://sp1.streamingssl.com/8036/stream",
-        "favicon": "https://img.logo.dev/fm7.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM+ 92.3 Radio Talca",
+        "name": "FM+",
         "url": "https://audio5.tustreaming.cl/8010/fmmas",
         "favicon": "https://img.logo.dev/radiofmmas.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -540,9 +445,24 @@
         "favicon": "https://img.logo.dev/radiofmmas.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Frecuencia Rock 95.3",
-        "url": "http://audio.streaminghd.cl:9206/stream",
-        "favicon": "https://img.logo.dev/audio.streaminghd.cl:9206?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "FM+ 92.3 Radio Talca",
+        "url": "https://audio5.tustreaming.cl/8010/fmmas",
+        "favicon": "https://img.logo.dev/radiofmmas.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FMDOS",
+        "url": "https://www.fmdos.cl/audio",
+        "favicon": "https://img.logo.dev/fmdos.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FMDOS",
+        "url": "https://www.fmdos.cl/audio",
+        "favicon": "https://img.logo.dev/fmdos.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Forever Classic FM",
+        "url": "https://live-audio-lite-1.digitalproserver.com/proxy/foreverclassic/foreverclassic",
+        "favicon": "https://img.logo.dev/foreverclassic.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Frecuencia Rock 95.3",
@@ -551,7 +471,7 @@
     },
     {
         "name": "Futuro",
-        "url": "http://19253.live.streamtheworld.com/FUTUROAAC_SC",
+        "url": "http://27323.live.streamtheworld.com/FUTUROAAC_SC",
         "favicon": "https://img.logo.dev/futuro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -560,19 +480,34 @@
         "favicon": "https://img.logo.dev/futuro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Guitarra Clásica LatAm",
-        "url": "http://stream.zeno.fm/y3428vcm6yzuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Happy Radio Chile",
+        "url": "https://a6.asurahosting.com:8840/radio.mp3",
+        "favicon": "https://img.logo.dev/happyradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ICC RADIO",
+        "url": "https://play8.tikast.com/proxy/iccradio?mp=/1",
+        "favicon": "https://img.logo.dev/iccradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Imagina",
-        "url": "http://24483.live.streamtheworld.com:3690/IMAGINA_SC",
+        "url": "http://24233.live.streamtheworld.com/IMAGINA_SC",
+        "favicon": "https://img.logo.dev/radioimagina.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Imagina 88.1",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC",
         "favicon": "https://img.logo.dev/radioimagina.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Incondicionalmente Retro",
         "url": "https://v4.tustreaming.cl:8128/stream",
         "favicon": "https://img.logo.dev/incondicionalmenteretro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Inicia Radio",
+        "url": "https://sonando-us.digitalproserver.com/iniciaradio.aac",
+        "favicon": "https://img.logo.dev/iniciaradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Isadora",
@@ -610,16 +545,6 @@
         "favicon": "https://img.logo.dev/sdmedia.radioactiva.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "La Karibeña Chile",
-        "url": "http://5.9.65.9:8028/sanvicente",
-        "favicon": "https://img.logo.dev/5.9.65.9:8028?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "La Más Kaliente",
-        "url": "https://audio1stream.com/8002/stream",
-        "favicon": "https://img.logo.dev/lamaskaliente.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "la mega fm",
         "url": "https://sonic.portalfoxmix.club/8478/stream",
         "favicon": "https://img.logo.dev/lamegafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -640,9 +565,19 @@
         "favicon": "https://img.logo.dev/radiolamexicana.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "La Palabra",
+        "url": "https://sonic.streamingchilenos.com/8126/stream:8000",
+        "favicon": "https://img.logo.dev/radiolapalabra.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "La Retro 80s Chile",
         "url": "https://s2.radio.co:80/s9ecef4f68/listen",
         "favicon": "https://img.logo.dev/laretro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "La Voz del Cipres",
+        "url": "https://live.lavozdelcipres.cl/radiomelinka.ogv",
+        "favicon": "https://img.logo.dev/lavozdelcipres.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "La Voz del Cipres de las Guaitecas",
@@ -665,23 +600,13 @@
         "favicon": "https://img.logo.dev/laretro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "LibelulaChile.cl",
-        "url": "https://streaming.viphosting.cl/8278/;",
-        "favicon": "https://img.logo.dev/libelulachile.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibelulaChile.com señal 1",
-        "url": "https://streaming.viphosting.cl:7138/;",
-        "favicon": "https://img.logo.dev/libelulachile.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Llacolén",
         "url": "http://sonando.us.digitalproserver.com/radiollacolen.aac",
         "favicon": "https://img.logo.dev/radiollacolen.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Los 40 Principales Chile",
-        "url": "http://27443.live.streamtheworld.com:3690/LOS40_CHILE_SC",
+        "url": "http://24503.live.streamtheworld.com:3690/LOS40_CHILE_SC",
         "favicon": "https://img.logo.dev/los40.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -690,14 +615,24 @@
         "favicon": "https://img.logo.dev/los40.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "maray",
-        "url": "https://video.mediawebchile.com:2000/stream/8212/stream",
-        "favicon": "https://img.logo.dev/almyda.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Maldonado FM",
+        "url": "https://jm8n.net:7013/stream",
+        "favicon": "https://img.logo.dev/liveonlineradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "María",
         "url": "http://dreamsiteradiocp4.com:8024/",
         "favicon": "https://img.logo.dev/radiomaria.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Más Radio 95.9 FM",
+        "url": "https://broadcast.radio247.net/listen/mas_radio_la_union/radio.mp3",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medios Unidos",
+        "url": "https://stream.polarhost.cl/MediosUnidos",
+        "favicon": "https://img.logo.dev/mediosunidos.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mi Radio",
@@ -710,13 +645,48 @@
         "favicon": "https://img.logo.dev/miradiols.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Mi Radio La Serena",
+        "url": "https://audio0.tustreaming.cl/7540/stream",
+        "favicon": "https://img.logo.dev/miradiols.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mi Radio La Serena - Coquimbo",
+        "url": "http://s6.jcwebnew.com:9020/stream",
+        "favicon": "https://img.logo.dev/miradiols.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mi Radio LS",
+        "url": "https://tls-cl.cdnz.cl/miradio/live/playlist.m3u8",
+        "favicon": "https://img.logo.dev/miradiols.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Millenium Radio Network",
+        "url": "https://centova.neonetwork.cl:9030/stream.aac",
+        "favicon": "https://img.logo.dev/radiomillenium.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Musicoop",
         "url": "https://sonic.portalfoxmix.club/8486/stream",
         "favicon": "https://img.logo.dev/musicoop.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Newen del Lago",
+        "url": "https://sonic.portalfoxmix.club/8072/stream",
+        "favicon": "https://img.logo.dev/newendellago.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ni Tan Retro FM",
+        "url": "https://sonic.portalfoxmix.cl/8090/;",
+        "favicon": "https://img.logo.dev/nitanretro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Nostalgica",
         "url": "https://unlimited5-us.dps.live/nostalgica/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/nostalgica.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nostálgica 2026",
+        "url": "https://video.mediawebchile.com/stream/8032",
         "favicon": "https://img.logo.dev/nostalgica.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -725,14 +695,24 @@
         "favicon": "https://img.logo.dev/oasisfm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PalMundo FM",
-        "url": "https://stream.palmundofm.cl/listen/reggaetonoldschool/stream",
-        "favicon": "https://img.logo.dev/palmundofm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Océano FM",
+        "url": "https://audio2.tustreaming.cl/9025/stream",
+        "favicon": "https://img.logo.dev/oceanofm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Patagonia FM",
+        "url": "https://audio.streaminghd.cl:2000/stream/patagoniaradio/;stream.mp3",
+        "favicon": "https://img.logo.dev/patagoniafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pirinola",
         "url": "http://curiosity.shoutca.st:6451/autodj",
         "favicon": "https://img.logo.dev/radiopirinola.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Play FM",
+        "url": "https://azura.servercast.com.br/listen/radio_fernanda/radio.mp3",
+        "favicon": "https://img.logo.dev/playfm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Positiva",
@@ -751,8 +731,43 @@
     },
     {
         "name": "Pudahuel",
-        "url": "http://26593.live.streamtheworld.com:3690/PUDAHUEL_SC",
+        "url": "http://26593.live.streamtheworld.com/PUDAHUEL_SC",
         "favicon": "https://img.logo.dev/pudahuel.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Punto 7 - Concepción",
+        "url": "https://redirector.dps.live/p7concepcion/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/pagina7.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Punto 7 - Los Ángeles",
+        "url": "https://redirector.dps.live/p7losangeles/mp3/icecast.audio",
+        "favicon": "https://img.logo.dev/pagina7.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Punto 7 - Osorno",
+        "url": "https://redirector.dps.live/p7osorno/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/pagina7.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Punto 7 - Puerto Montt",
+        "url": "https://redirector.dps.live/p7puertomontt/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/pagina7.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Punto 7 - Temuco",
+        "url": "https://redirector.dps.live/p7temuco/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/pagina7.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Punto 7 - Valdivia",
+        "url": "https://redirector.dps.live/p7valdivia/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/pagina7.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Punto 7 - Valparaíso",
+        "url": "https://redirector.dps.live/p7valparaiso/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/pagina7.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Punto 9",
@@ -775,9 +790,9 @@
         "favicon": "https://img.logo.dev/purranquefm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio  Estacion del Poder",
-        "url": "http://stream.zeno.fm/t7cdutykw38uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio 13c",
+        "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b29169d",
+        "favicon": "https://img.logo.dev/radio13c.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 13c 102.1 FM",
@@ -820,14 +835,19 @@
         "favicon": "https://img.logo.dev/radioactiva.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio ADN",
+        "url": "http://26593.live.streamtheworld.com/ADNAAC_SC",
+        "favicon": "https://img.logo.dev/adnradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Agricultura",
         "url": "https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8",
         "favicon": "https://img.logo.dev/radioagricultura.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Alas de Águilas 107.5 FM",
-        "url": "http://stream.alasdeaguilas.cl:9332/;",
-        "favicon": "https://img.logo.dev/alasdeaguilas.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Alborada 106.1",
+        "url": "https://sonic.portalfoxmix.club/8438/stream",
+        "favicon": "https://img.logo.dev/radioalborada.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Alegría del Transporte 90.7 FM",
@@ -840,16 +860,6 @@
         "favicon": "https://img.logo.dev/enlineamaule.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Amiga Fm 100.7",
-        "url": "https://streams.radiomast.io/aff8c0f0-5d0c-41d6-83b2-71daff574701",
-        "favicon": "https://img.logo.dev/amigafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Amiga Fm 100.7",
-        "url": "https://streams.radiomast.io/aff8c0f0-5d0c-41d6-83b2-71daff574701",
-        "favicon": "https://img.logo.dev/amigafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Ancoa La Radio de Linares",
         "url": "https://audio2.tustreaming.cl:10991/;",
         "favicon": "https://img.logo.dev/radioancoa.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -858,6 +868,11 @@
         "name": "Radio Angelina 730 AM",
         "url": "https://sonic.portalfoxmix.cl:7025/;",
         "favicon": "https://img.logo.dev/radioangelina.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio arcoiris FM",
+        "url": "https://audio2.tustreaming.cl/7210/stream",
+        "favicon": "https://img.logo.dev/fmarcoiris.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio arcoiris FM 99.3",
@@ -870,9 +885,39 @@
         "favicon": "https://img.logo.dev/radioarmonia.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Aun estamos vivos",
+        "url": "https://radio.tvstream.cl:7075/stream",
+        "favicon": "https://img.logo.dev/aunestamosvivos.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Aún estamos vivos",
+        "url": "https://radio.tvstream.cl:7075/stream",
+        "favicon": "https://img.logo.dev/aunestamosvivos.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Austral",
+        "url": "http://archi-us.digitalproserver.com/austral.aac",
+        "favicon": "https://img.logo.dev/radioaustralvaldivia.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Austral",
+        "url": "https://archi-us.digitalproserver.com/austral.aac",
+        "favicon": "https://img.logo.dev/radioaustralvaldivia.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Austral CD97",
         "url": "http://archi-us.digitalproserver.com/austral.aac",
         "favicon": "https://img.logo.dev/radioaustralvaldivia.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Azul",
+        "url": "http://streaming.fmokey.cl/razul.mp3",
+        "favicon": "https://img.logo.dev/e.radios-chilenas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Azul",
+        "url": "http://streaming.fmokey.cl/razul.mp3",
+        "favicon": "https://img.logo.dev/e.radios-chilenas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio BBN",
@@ -913,11 +958,6 @@
         "name": "Radio Carabineros",
         "url": "https://streaming.prositel.cl/8374/stream",
         "favicon": "https://img.logo.dev/carabineros.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Caramelo San Vicente",
-        "url": "https://cast.radioservicios.cl:8316/sanvicente",
-        "favicon": "https://img.logo.dev/caramelofm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Caribe FM 95.5",
@@ -966,12 +1006,7 @@
     },
     {
         "name": "Radio Club 80",
-        "url": "https://stream.radioclub80.cl:8002/clasicos80.flac",
-        "favicon": "https://img.logo.dev/radioclub80.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Club 80",
-        "url": "https://stream.radioclub80.cl:8002/clasicos80.mp3",
+        "url": "https://stream.radioclub80.cl:8022/retro80.mp3",
         "favicon": "https://img.logo.dev/radioclub80.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -986,8 +1021,23 @@
     },
     {
         "name": "Radio Club 80 Trance FLAC",
-        "url": "http://stream.radioclub80.cl:8050/trance80.flac",
+        "url": "https://stream.radioclub80.cl:8052/trance80.flac",
         "favicon": "https://img.logo.dev/radioclub80.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Club 80: Euro Hits",
+        "url": "http://stream.radioclub80.cl:8030/stream.euro80flac",
+        "favicon": "https://img.logo.dev/radioclub80.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Club 80: Retro",
+        "url": "https://stream.radioclub80.cl:8022/retro80.flac",
+        "favicon": "https://img.logo.dev/stations.radioclub80.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Club Instrumental/Jazz",
+        "url": "https://stream.radioclub80.cl:8072/peliculas80.flac24",
+        "favicon": "https://img.logo.dev/stations.radioclub80.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Club Retro Hits",
@@ -1020,19 +1070,14 @@
         "favicon": "https://img.logo.dev/concierto.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Contexto Ñuble",
-        "url": "https://streaming.viphosting.cl/8028/stream",
-        "favicon": "https://img.logo.dev/contextonuble.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Contigo",
         "url": "http://streaming.comunicacioneschile.net:9318/stream",
         "favicon": "https://img.logo.dev/radiocontigo.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO COOPERATIVA",
-        "url": "https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio",
-        "favicon": "https://img.logo.dev/unlimited3-cl.dps.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Cristiana Manantial de Vida",
+        "url": "https://audio3.tustreaming.cl/7080/stream",
+        "favicon": "https://img.logo.dev/radiomdv.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Crucero",
@@ -1060,9 +1105,9 @@
         "favicon": "https://img.logo.dev/radiodestino.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Dinámica 100.7 FM",
-        "url": "https://streaming.comunicacioneschile.net/8030/stream",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Diferencia",
+        "url": "https://sp002.servidoresph.com:8026/stream",
+        "favicon": "https://img.logo.dev/diferencia.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Dulce 95.3 en La Ligua",
@@ -1100,24 +1145,19 @@
         "favicon": "https://img.logo.dev/dulcefm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Edelweiss",
-        "url": "https://encoder.stationlink.cl/listen/edelweiss/radio.mp3",
-        "favicon": "https://img.logo.dev/edelweiss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Edelweiss",
-        "url": "https://encoder.stationlink.cl/listen/edelweiss/radio.mp3",
-        "favicon": "https://img.logo.dev/edelweiss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Duna",
+        "url": "https://mdstrm.com/audio/67f42f96e464d19a6eda3c7d/icecast.audio",
+        "favicon": "https://img.logo.dev/duna.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio El Carbón",
         "url": "https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio",
-        "favicon": "https://img.logo.dev/elcarbon.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/unlimited11-cl.dps.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio El Carbon",
         "url": "https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio",
-        "favicon": "https://img.logo.dev/elcarbon.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/unlimited11-cl.dps.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio El Conquistador",
@@ -1140,29 +1180,24 @@
         "favicon": "https://img.logo.dev/radioencanto.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Estallido Tuitero",
-        "url": "https://stream.zeno.fm/ws9z11fhrd0uv",
-        "favicon": "https://img.logo.dev/mobile.twitter.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Estrella del Norte",
-        "url": "http://sonic.portalfoxmix.cl:8424/;",
-        "favicon": "https://img.logo.dev/actiweb.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Éxitos La Popular 106.1 FM",
         "url": "http://livehd.cdn.felpysolutions.us/proxy/sc_relpcl",
         "favicon": "https://img.logo.dev/lapopular.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Favorita 89.9 y 102.3 FM",
+        "name": "Radio Éxitos La Popular 106.1 FM",
+        "url": "http://livehd.cdn.felpysolutions.us/proxy/sc_relpcl",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Favorita",
         "url": "https://zeus.miradio.pro/hls/favorita/live.m3u8",
         "favicon": "https://img.logo.dev/radiofavorita.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Fernanda",
-        "url": "https://azura.servercast.com.br/listen/radio_fernanda/radio.mp3",
-        "favicon": "https://img.logo.dev/linktr.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Favorita 89.9 y 102.3 FM",
+        "url": "https://zeus.miradio.pro/hls/favorita/live.m3u8",
+        "favicon": "https://img.logo.dev/radiofavorita.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Festival",
@@ -1190,6 +1225,11 @@
         "favicon": "https://img.logo.dev/envivo.futuro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Futuro FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac",
+        "favicon": "https://img.logo.dev/futuro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Fututo",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3",
         "favicon": "https://img.logo.dev/futuro.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1213,6 +1253,16 @@
         "name": "Radio Ignacio Serrano",
         "url": "https://sonic.portalfoxmix.club/8242/stream/",
         "favicon": "https://img.logo.dev/radioprensa.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Imagina",
+        "url": "http://23243.live.streamtheworld.com/IMAGINA_SC",
+        "favicon": "https://img.logo.dev/radioimagina.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Infinita",
+        "url": "https://mdstrm.com/audio/639b791cea22540890cd1d8b/icecast.audio",
+        "favicon": "https://img.logo.dev/infinita.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Interamericana",
@@ -1250,14 +1300,19 @@
         "favicon": "https://img.logo.dev/observador.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio la Palabra FM",
+        "name": "Radio La Mexicana",
+        "url": "https://audio0.tustreaming.cl/7160/aire",
+        "favicon": "https://img.logo.dev/radiolamexicana.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio La Palabra",
         "url": "https://sonic.streamingchilenos.com/8126/stream:8000/;?download=false",
         "favicon": "https://img.logo.dev/radiolapalabra.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio la Sureña",
-        "url": "https://stream-150.zeno.fm/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0xNTAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnR1N2ZTZVRRbTJaZ3U1VXF2V3M1ZyIsImlhdCI6MTc3MDUxNDcyOSwiZXhwIjoxNzcwNTE0Nzg5fQ.etp-0heY75fJEBowKdyVRLYt7Buyg0U73B2MkBbPct0",
-        "favicon": "https://img.logo.dev/lasuronline.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio la Palabra FM",
+        "url": "https://sonic.streamingchilenos.com/8126/stream:8000/;?download=false",
+        "favicon": "https://img.logo.dev/radiolapalabra.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio la Voz del Mar",
@@ -1268,6 +1323,11 @@
         "name": "Radio Las Nieves",
         "url": "https://audio2.tustreaming.cl:10987/stream",
         "favicon": "https://img.logo.dev/rln.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Latin-Amerika",
+        "url": "https://stream.radiolatinamerika.no/latam_hq",
+        "favicon": "https://img.logo.dev/radiolatinamerika.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Lautaro Talca",
@@ -1288,6 +1348,16 @@
         "name": "RADIO MANANTIAL DE VIDA",
         "url": "https://audio3.tustreaming.cl/7080/stream",
         "favicon": "https://img.logo.dev/radiomdv.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mapuche Aukinko",
+        "url": "https://p.liveonlineradio.net/?p=radio-mapuche-aukinko",
+        "favicon": "https://img.logo.dev/p.liveonlineradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mar FM",
+        "url": "https://cp.sonicpanel.stream:8204/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO MARAY",
@@ -1315,6 +1385,11 @@
         "favicon": "https://img.logo.dev/radiomarisol.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Millenium",
+        "url": "http://5.9.65.9:8030/stream.aac",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Millenium Network",
         "url": "http://5.9.65.9:8030/stream.aac",
         "favicon": "https://img.logo.dev/radiomillenium.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1325,6 +1400,11 @@
         "favicon": "https://img.logo.dev/mirador.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Montecarlo",
+        "url": "https://sonic.mallocohosting.cl/8032/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Municipal Iquique",
         "url": "https://audio.streaminghd.cl:2000/stream/radiomunicipaliquique/;stream.mp3",
         "favicon": "https://img.logo.dev/radiomunicipal.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1333,6 +1413,16 @@
         "name": "Radio Municipal Iquique 93.3 FM",
         "url": "http://audio.streaminghd.cl:9202/;",
         "favicon": "https://img.logo.dev/radiomunicipal.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nativa FM",
+        "url": "https://audio.streaminghd.cl:9136/",
+        "favicon": "https://img.logo.dev/nativafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nativa FM",
+        "url": "http://stm3.srvif.com:8090/;",
+        "favicon": "https://img.logo.dev/nativafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Naval",
@@ -1400,6 +1490,16 @@
         "favicon": "https://img.logo.dev/pauta.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Pauta",
+        "url": "https://unlimited5-us.dps.live/radiopauta/gotardis/audio/now/livestream1.m3u8",
+        "favicon": "https://img.logo.dev/pauta.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Perla del Maule",
+        "url": "https://grupcomunicados.us:8084/;",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Picados",
         "url": "https://a10.asurahosting.com:7630/radio.mp3",
         "favicon": "https://img.logo.dev/picados.beer?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1430,6 +1530,16 @@
         "favicon": "https://img.logo.dev/radiopicaronachile.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Pilmaiquén",
+        "url": "https://streaming.chiloestreaming.com:10977/;",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Placeres",
+        "url": "https://sonic.streamingchilenos.com/9856/;",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO PODER PENTECOSTAL",
         "url": "https://streaming2.locucionar.com/proxy/poderpentecostal?mp=/stream",
         "favicon": "https://img.logo.dev/radiopoderpentecostal.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1438,6 +1548,11 @@
         "name": "Radio Portales 1180 AM",
         "url": "http://audio3.tustreaming.cl:7350/stream",
         "favicon": "https://img.logo.dev/radioportales.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Primavera",
+        "url": "https://sonic.streamingchilenos.com/8240/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Principios",
@@ -1460,6 +1575,11 @@
         "favicon": "https://img.logo.dev/observador.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Rara",
+        "url": "https://sonicpanel.chileservidores.cl/8004/stream",
+        "favicon": "https://img.logo.dev/radiorara.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Rebuena 95.7FM",
         "url": "https://audio5.tustreaming.cl/7930/stream",
         "favicon": "https://img.logo.dev/radiorebuena.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1473,6 +1593,11 @@
         "name": "Radio Refugio Limache",
         "url": "http://procyon.shoutca.st:8114/stream",
         "favicon": "https://img.logo.dev/radiorefugio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Remusica",
+        "url": "https://v4.tustreaming.cl:8144/stream",
+        "favicon": "https://img.logo.dev/remusica.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Retro Online",
@@ -1505,6 +1630,16 @@
         "favicon": "https://img.logo.dev/eldiariodesantiago.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Sembrador",
+        "url": "https://sonic.portalfoxmix.cl/9884/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sinfónica",
+        "url": "https://stream-177.surfernetwork.com/9wzpfshiu2nvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5d3pwZnNoaXUybnZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkFTSTQxOWlTVHN1ejFaWlRrNHlhLUEiLCJpYXQiOjE3OTI2NDYwMDEsImV4cCI6MTc5MjY0NjA2MX0.aXB57cToo02mz3_KhVWzE7BomimkXddwEp5PyRfW6hI",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO SOL",
         "url": "https://us9.maindigitalstream.com/ssl/7389",
         "favicon": "https://img.logo.dev/radiosol.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1533,6 +1668,16 @@
         "name": "Radio Stella Maris",
         "url": "http://audio4.tustreaming.cl:7170/stream",
         "favicon": "https://img.logo.dev/radiostellamaris.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Súper Sol Osorno",
+        "url": "https://sonic-us.fhost.cl/8366/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Toconao",
+        "url": "https://server.radiostreaming.com.ar/8086/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Tornagaleones",
@@ -1570,14 +1715,39 @@
         "favicon": "https://img.logo.dev/unap.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Universal FM",
+        "url": "https://s02.azuracast.cl/radio/8010/universal",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Universidad de Antofagasta",
+        "url": "https://sonicstream-puntual.grupozgh.cl/8040/radioua",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Universidad de Chile",
         "url": "https://sonic-us.arkeo.cl/8186/stream",
+        "favicon": "https://img.logo.dev/radio.uchile.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Universidad de Chile",
+        "url": "http://streamuchile.teslati.com/liveruch",
         "favicon": "https://img.logo.dev/radio.uchile.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Universidad del Bío-Bío",
         "url": "http://146.83.195.22:8000/stream.ogg",
         "favicon": "https://img.logo.dev/ubiobio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Urbana FM",
+        "url": "https://sonic-us.arkeo.cl/8574/stream",
+        "favicon": "https://img.logo.dev/radiourbanafm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio USM",
+        "url": "https://stream99.usastreams.com:8012/stream",
+        "favicon": "https://img.logo.dev/radio.usm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio UTalca Clásica",
@@ -1600,6 +1770,11 @@
         "favicon": "https://img.logo.dev/radiovale.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Valentin Letelier",
+        "url": "http://streaming.prositel.cl:8068/stream",
+        "favicon": "https://img.logo.dev/rvl.uv.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Violeta - La música de ayer y hoy las 24 h/d",
         "url": "https://server01.heplayer.com/9390/stream",
         "favicon": "https://img.logo.dev/radiovioleta.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1611,18 +1786,13 @@
     },
     {
         "name": "Radioactiva",
-        "url": "http://23043.live.streamtheworld.com:3690/ACTIVA_SC",
+        "url": "http://24423.live.streamtheworld.com:3690/ACTIVA_SC",
         "favicon": "https://img.logo.dev/radioactiva.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radioactiva 92.5 FM",
-        "url": "http://24443.live.streamtheworld.com/ACTIVAAAC_SC",
+        "url": "http://26563.live.streamtheworld.com/ACTIVAAAC_SC",
         "favicon": "https://img.logo.dev/radioactiva.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioClub 80 Retro",
-        "url": "http://stream.radioclub80.cl:8020/retro80.mp3",
-        "favicon": "https://img.logo.dev/radioclub80.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "radioclub80 rock",
@@ -1630,19 +1800,9 @@
         "favicon": "https://img.logo.dev/radioclub80.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radiofavoritaranchera",
-        "url": "https://stream.zeno.fm/pdlp0sxtdjkvv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radiofavoritaranchera",
-        "url": "https://stream.zeno.fm/pdlp0sxtdjkvv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioMiX",
-        "url": "https://video.mediawebchile.com:2000/stream/radiomixsc/stream",
-        "favicon": "https://img.logo.dev/patodj.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RadioMDV",
+        "url": "https://audio3.tustreaming.cl/7080/stream",
+        "favicon": "https://img.logo.dev/radiomdv.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "radiorara",
@@ -1650,14 +1810,24 @@
         "favicon": "https://img.logo.dev/radiorara.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radioroins",
-        "url": "https://stream.zeno.fm/dd3rxeuxznhvv",
-        "favicon": "https://img.logo.dev/mystreamroin.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "radiorara",
+        "url": "https://sonicpanel.chileservidores.cl/8004/stream",
+        "favicon": "https://img.logo.dev/radiorara.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Raudal FM97.1",
+        "url": "https://audio.streaminghd.cl:9164/;",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raxies FM",
         "url": "https://stream.zeno.fm/annpmyskb4jtv",
         "favicon": "https://img.logo.dev/raxiesfm.neocities.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Retro Clásicos Radio",
+        "url": "https://streamtotal.net/proxy/oajaime/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Retro Plus Señal 1",
@@ -1685,24 +1855,14 @@
         "favicon": "https://img.logo.dev/ritoquefm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rock & Pop m",
-        "url": "http://27583.live.streamtheworld.com/ROCK_AND_POP_SC",
-        "favicon": "https://img.logo.dev/27583.live.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rock and Pop",
-        "url": "http://24443.live.streamtheworld.com:3690/ROCK_AND_POP_SC",
+        "url": "http://14073.live.streamtheworld.com/ROCK_AND_POP_SC",
         "favicon": "https://img.logo.dev/rockandpop.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock and Pop",
-        "url": "http://14073.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+        "url": "http://24493.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
         "favicon": "https://img.logo.dev/rockandpop.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rock&Pop Chile",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC_SC",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rockaxis Radio",
@@ -1720,6 +1880,16 @@
         "favicon": "https://img.logo.dev/ruidosfm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "San Bernardo Radio",
+        "url": "https://streaming01.xhost.cl/8172/stream",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Señal Dance Chile",
+        "url": "https://stream-285.surfernetwork.com/12qqry2t0nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxMnFxcnkydDBuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjRVX1NOWkVhUVotaHBCeERjVVd3SWciLCJpYXQiOjE3OTI2NjQ3MzYsImV4cCI6MTc5MjY2NDc5Nn0.8Krvap7nLTyVVvuWGSo7JM-HBB_PrUJ7FIR0qQWaDqo",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Silens Clamor",
         "url": "https://www.silensclamor.com/live",
         "favicon": "https://img.logo.dev/silensclamor.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1735,26 +1905,6 @@
         "favicon": "https://img.logo.dev/sonarfm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Star Radio",
-        "url": "https://stream.zeno.fm/sowa6evoo9kvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sunrise",
-        "url": "https://sonic-cl.arkeo.cl/8044/stream",
-        "favicon": "https://img.logo.dev/radiosunrisechile.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sunrise Dance",
-        "url": "https://sonic-cl.arkeo.cl/8054/stream",
-        "favicon": "https://img.logo.dev/sunrisedancemix.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sunrise Lounge",
-        "url": "https://sonic-cl.arkeo.cl/8098/stream",
-        "favicon": "https://img.logo.dev/radiosunriselounge.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Super Stereo 5",
         "url": "https://streams.radiomast.io/radioblues-flac",
         "favicon": "https://img.logo.dev/superstereo24bit.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1768,6 +1918,11 @@
         "name": "Super45.fm",
         "url": "https://s4.radio.co/s421105570/listen",
         "favicon": "https://img.logo.dev/super45.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SuperStereo Network",
+        "url": "https://icecast.centaury.cl:7610/SSDEMO",
+        "favicon": "https://img.logo.dev/superstereohires.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tele13 Radio 103.3",
@@ -1795,6 +1950,11 @@
         "favicon": "https://img.logo.dev/trendingradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "UC Radio Beethoven",
+        "url": "https://unlimited5-us.dps.live/beethovenfm/aac/icecast.audio",
+        "favicon": "https://img.logo.dev/beethovenfm.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "UCV Radio",
         "url": "https://sonando-us.digitalproserver.com/ucvradio",
         "favicon": "https://img.logo.dev/ucvradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1805,9 +1965,9 @@
         "favicon": "https://img.logo.dev/ucvradio.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "UCV radio vivan los lentos",
-        "url": "https://sonando-us.digitalproserver.com/ucvradio2",
-        "favicon": "https://img.logo.dev/sonando-us.digitalproserver.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "ufro clásica",
+        "url": "https://s02.azuracast.cl/radio/8190/ufro-clasica",
+        "favicon": "https://img.logo.dev/emisora.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "UFRO Radio",
@@ -1828,6 +1988,11 @@
         "name": "Universidad Católica de Valparaíso",
         "url": "http://sonando.us.digitalproserver.com/ucvradio",
         "favicon": "https://img.logo.dev/ucvmedios.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universo FM",
+        "url": "http://unlimited3-cl.dps.live/universo/mp3/icecast.audio",
+        "favicon": "https://img.logo.dev/unlimited3-cl.dps.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Venus Radio Fm Chile",
@@ -1851,7 +2016,7 @@
     },
     {
         "name": "VocaloPlus! Vocaloid & More",
-        "url": "http://play.isla.ovh/vocaloplus",
+        "url": "http://link.zeno.fm/h77s0pfrcseuv/source",
         "favicon": "https://img.logo.dev/vocaloplus.isla.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {

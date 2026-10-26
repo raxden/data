@@ -5,16 +5,6 @@
         "favicon": "https://img.logo.dev/liferadio.tirol?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "1000 ELECTRONIC DANCE MUSIC",
-        "url": "http://stream.laut.fm/1000-electronic-dance-music",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1000-ELECTRONIC-DANCE-MUSIC",
-        "url": "http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?pl=m3u&t302=2026-01-15_07-00-37&uuid=723aa614-de54-4e48-af9b-a44bd7f9884b",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "111",
         "url": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8",
         "favicon": "https://img.logo.dev/oe1dd.mdn.ors.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -33,6 +23,16 @@
         "name": "28Radio - Rock",
         "url": "https://streaming.28radio.cc:8000/rock.mp3",
         "favicon": "https://img.logo.dev/28radio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "60er70er MEGAMIX",
+        "url": "https://web.radio.antennevorarlberg.at/mm-60er70ermegamix",
+        "favicon": "https://img.logo.dev/80er90ermegamix.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "80er90er Megamix",
+        "url": "https://web.radio.antennevorarlberg.at/mm-80er90ermegamix",
+        "favicon": "https://img.logo.dev/80er90ermegamix.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "88.6",
@@ -85,13 +85,8 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "AIR-Radio",
-        "url": "https://streamsrv-airradio.kechit.eu/128",
-        "favicon": "https://img.logo.dev/air-radio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Antenna Österreich",
-        "url": "https://edge70.streamonkey.net/antoesterreich-live",
+        "url": "https://edge20.streamonkey.net/antoesterreich-live",
         "favicon": "https://img.logo.dev/antenneoesterreich.oe24.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -102,6 +97,11 @@
     {
         "name": "Antenne Kärnten",
         "url": "http://live.antenne.at/ak",
+        "favicon": "https://img.logo.dev/antenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Antenne Kärnten 80er Pop",
+        "url": "https://live.antenne.at/80s",
         "favicon": "https://img.logo.dev/antenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "name": "Antenne Österreich",
-        "url": "https://edge08.streamonkey.net/antoesterreich-live",
+        "url": "https://edge70.streamonkey.net/antoesterreich-live",
         "favicon": "https://img.logo.dev/antenneoesterreich.oe24.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -130,9 +130,24 @@
         "favicon": "https://img.logo.dev/antenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Antenne Steiermark",
+        "url": "https://www.antenne.at/radioplayer/steiermark/urlaubshits/",
+        "favicon": "https://img.logo.dev/antenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Antenne Steiermark (werbefrei)",
         "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
         "favicon": "https://img.logo.dev/antenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Antenne Voralber",
+        "url": "https://web.radio.antennevorarlberg.at/av-live/stream/mp3",
+        "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Antenne Vorarlber Partymix",
+        "url": "https://www.antennevorarlberg.at/player/?channel=17",
+        "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Antenne Vorarlber Partymix",
@@ -195,6 +210,16 @@
         "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Antenne Vorarlberg Classic Rock",
+        "url": "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3",
+        "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ANTENNE VORARLBERG Coffee Hits",
+        "url": "https://web.radio.antennevorarlberg.at/av-coffee/stream/mp3",
+        "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Antenne Vorarlberg Coffee Hits",
         "url": "https://web.radio.antennevorarlberg.at/av-coffee",
         "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -250,6 +275,11 @@
         "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Arabella",
+        "url": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile",
+        "favicon": "https://img.logo.dev/frontend.streams.arabella.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Arabella 70 r",
         "url": "https://frontend.streams.arabella.at/arabella-70er?aggregator=arabella-playlistfile",
         "favicon": "https://img.logo.dev/arabella.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -282,6 +312,11 @@
     {
         "name": "Arabella holiday",
         "url": "https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile",
+        "favicon": "https://img.logo.dev/arabella.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Arabella Holiday",
+        "url": "http://arabella.at/",
         "favicon": "https://img.logo.dev/arabella.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -331,23 +366,13 @@
     },
     {
         "name": "Atnnene sSterewich",
-        "url": "https://edge24.streamonkey.net/antoesterreich-live",
+        "url": "https://edge60.streamonkey.net/antoesterreich-live",
         "favicon": "https://img.logo.dev/antenneoesterreich.oe24.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AUSTRIA FIRST – Österreichs Patriotenradio",
         "url": "https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q",
         "favicon": "https://img.logo.dev/austriafirst.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Austria-Kult-Radio",
-        "url": "http://austria-kultradio.stream.laut.fm/austria-kultradio?pl=m3u&t302=2026-01-15_08-15-17&uuid=41be93fd-05d3-41f4-9ec9-d0e02fbcf9c6",
-        "favicon": "https://img.logo.dev/austria-kultradio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "AustriaKult-Radio",
-        "url": "http://stream.laut.fm/austria-kultradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Austrian Rock Radio",
@@ -396,7 +421,7 @@
     },
     {
         "name": "Bluffphonica",
-        "url": "http://bluffphonica.stream.laut.fm/bluffphonica?pl=m3u&t302=2026-01-15_04-07-01&uuid=f4cd16a7-6754-46a4-a414-f815d67d4f76",
+        "url": "http://bluffphonica.stream.laut.fm/bluffphonica",
         "favicon": "https://img.logo.dev/bluffphonica.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -415,11 +440,6 @@
         "favicon": "https://img.logo.dev/cr944.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Chromatique-Sky",
-        "url": "http://stream.laut.fm/chromatique-sky",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "City Jazz",
         "url": "https://stream.radiotechnikum.at/CITYJAZZ",
         "favicon": "https://img.logo.dev/cityjazz.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -435,14 +455,9 @@
         "favicon": "https://img.logo.dev/fhstp.ac.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Dark Synth Radio",
-        "url": "http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Darksynth Radio",
-        "url": "http://stream.laut.fm/darksynthradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "dbFM Radio",
+        "url": "https://stream.dbfmradio.org:8030/stream",
+        "favicon": "https://img.logo.dev/dbfmradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Diks Дикс",
@@ -460,11 +475,6 @@
         "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DrumandBass.FM",
-        "url": "http://stream.laut.fm/drumandbass_fm",
-        "favicon": "https://img.logo.dev/stream.laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "emap.fm",
         "url": "https://s2.stationplaylist.com:9470/listen.aac",
         "favicon": "https://img.logo.dev/emap.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -480,9 +490,9 @@
         "favicon": "https://img.logo.dev/energy.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ERF Plus Oesterreich 128k",
-        "url": "http://stream.erf.at:8000/erfplus_128",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "ENERGY ÖSTERREICH",
+        "url": "https://streaming.nrjaudio.fm/ouvfydoarp52",
+        "favicon": "https://img.logo.dev/energy.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ERF Plus Oesterreich 192k",
@@ -490,29 +500,9 @@
         "favicon": "https://img.logo.dev/erf.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ERF Plus Oesterreich 192k (A1)",
-        "url": "http://stream.erf.at:8000/erfplus_a1",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ERF Plus Oesterreich 320k",
-        "url": "http://stream.erf.at:8000/erfplus_320",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ERF Plus Oesterreich 96k",
-        "url": "http://stream.erf.at:8000/erfplus_96",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ERF Süd",
         "url": "https://erfradio.com/ERF_Sued",
         "favicon": "https://img.logo.dev/erfsued.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ERF Suedtirol 192k",
-        "url": "http://stream.erf.at:8000/erfplus_192",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Eurodance-X-Press",
@@ -560,14 +550,24 @@
         "favicon": "https://img.logo.dev/freiesradio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "FREIRAD",
+        "url": "https://stream.freirad.at/live.mp3",
+        "favicon": "https://img.logo.dev/freirad.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Gamesboro Radio - Video Game Music 24/7",
         "url": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
         "favicon": "https://img.logo.dev/radio.gamesboro.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Garage Sounds",
-        "url": "http://audio.gendercriminals.gay/listen/garage_sounds/radio.mp3",
-        "favicon": "https://img.logo.dev/audio.gendercriminals.gay?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Gamesboro Radio - Video Game Music 24/7",
+        "url": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.gamesboro.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gamesboro Radio - Video Game Music 24/7",
+        "url": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.gamesboro.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Grün-Weiss",
@@ -583,16 +583,6 @@
         "name": "Grün-Weiss",
         "url": "https://live.gruen-weiss.at/rgw.aac",
         "favicon": "https://img.logo.dev/live.gruen-weiss.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "halil haydar telci",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hardstyle and Hardcore",
-        "url": "http://stream.laut.fm/hardstyle-and-hardcore",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Heiligenkreuz_101 (102k)",
@@ -606,13 +596,18 @@
     },
     {
         "name": "I-love-Radio-104",
-        "url": "https://ilm.stream18.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDMzMDMzJmQ9ZTFjMThiMmUzZGRlY2YxMzc4ZTE",
-        "favicon": "https://img.logo.dev/ilm.stream18.radiohost.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://ilm.stream35.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyNjIzMzc5JmQ9ZGFkZmZlZjU3MjY4MTJhN2NjM2I",
+        "favicon": "https://img.logo.dev/ilm.stream35.radiohost.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Infora Austria",
-        "url": "https://s35.derstream.net/inforadio.mp3",
-        "favicon": "https://img.logo.dev/s35.derstream.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "InfiniSync",
+        "url": "https://icecast.infinisync.at/stream",
+        "favicon": "https://img.logo.dev/infinisync.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "JazzW3",
+        "url": "http://air.jazz.w3.at/jazzw3.mp3",
+        "favicon": "https://img.logo.dev/jazz.w3.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "JazzW3",
@@ -626,12 +621,12 @@
     },
     {
         "name": "Jö.Live",
-        "url": "https://edge85.stream.maxfive.com/max5-joelive",
+        "url": "https://edge70.stream.maxfive.com/max5-joelive",
         "favicon": "https://img.logo.dev/joe-club.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "jö.live - Mein Tag. Meine Musik.",
-        "url": "https://edge80.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage",
+        "url": "https://edge68.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage",
         "favicon": "https://img.logo.dev/maxfive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -662,6 +657,16 @@
     {
         "name": "KroneHit Digital",
         "url": "http://onair-ha1.krone.at/kronehit1058.mp3",
+        "favicon": "https://img.logo.dev/kronehit.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kronehit Hardstyle",
+        "url": "https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557",
+        "favicon": "https://img.logo.dev/kronehit.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kronehit Latino",
+        "url": "http://onair-ha1.krone.at/kronehit-latino.mp3",
         "favicon": "https://img.logo.dev/kronehit.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -740,6 +745,11 @@
         "favicon": "https://img.logo.dev/liferadio.tirol?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Life Radio Tirol",
+        "url": "https://stream.liferadio.tirol/oldies/acc-128/link",
+        "favicon": "https://img.logo.dev/liferadio.tirol?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Life Radio Tirol - Schlagerpuls",
         "url": "https://stream.liferadio.tirol/schlager/mp3-192/link",
         "favicon": "https://img.logo.dev/liferadio.tirol?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -750,14 +760,9 @@
         "favicon": "https://img.logo.dev/liferadio.tirol?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Lo-Fi Halloween and Chill",
-        "url": "http://audio.gendercriminals.gay/listen/lo-fi_halloween_and_chill/radio-browser",
-        "favicon": "https://img.logo.dev/audio.gendercriminals.gay?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Lo-Fi Halloween and Chill",
-        "url": "http://audio.gendercriminals.gay/listen/lo-fi_halloween_and_chill/radio-browser",
-        "favicon": "https://img.logo.dev/audio.gendercriminals.gay?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Lounge FM Digital",
+        "url": "http://188.138.9.183/digital.mp3",
+        "favicon": "https://img.logo.dev/lounge.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Lounge.FM - 100% Austria",
@@ -770,9 +775,14 @@
         "favicon": "https://img.logo.dev/lounge.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "LoungeFM",
+        "url": "http://188.138.9.183/digital.mp3",
+        "favicon": "https://img.logo.dev/lounge.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Metal Radio",
         "url": "https://stream.radiotechnikum.at:80/METALRadio",
-        "favicon": "https://img.logo.dev/metalradio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/metal-radio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Metal Radio",
@@ -780,9 +790,9 @@
         "favicon": "https://img.logo.dev/metal-radio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Mountain Reggae Radio",
-        "url": "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio",
-        "favicon": "https://img.logo.dev/mountainreggae-radio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Modular Station",
+        "url": "https://broadcast.modular-station.com/listen/modular_station/radio.aac",
+        "favicon": "https://img.logo.dev/modular-station.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "museumsradio",
@@ -792,7 +802,7 @@
     {
         "name": "museumsradio",
         "url": "https://museum.streamserver24.com:8080/stream",
-        "favicon": "https://img.logo.dev/museum.streamserver24.com:8080?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/museum.streamserver24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "museumsradio",
@@ -815,29 +825,9 @@
         "favicon": "https://img.logo.dev/njoyradio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Now Radio 128k",
-        "url": "http://stream.erf.at:8000/nowradio_128",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Now Radio 192k",
         "url": "http://stream.erf.at/nowradio_192",
         "favicon": "https://img.logo.dev/erf.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Now Radio 192k",
-        "url": "http://stream.erf.at:8000/nowradio_192",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Now Radio 320k",
-        "url": "http://stream.erf.at:8000/nowradio_320",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Now Radio 96k",
-        "url": "http://stream.erf.at:8000/nowradio_96",
-        "favicon": "https://img.logo.dev/stream.erf.at:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Now Radio 96k",
@@ -868,6 +858,11 @@
         "name": "Oldie Party",
         "url": "http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/",
         "favicon": "https://img.logo.dev/streams.norawebstreams.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ORANGE 94.0",
+        "url": "https://securestream.o94.at/live.mp3",
+        "favicon": "https://img.logo.dev/o94.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ORANGE 94.0",
@@ -985,6 +980,16 @@
         "favicon": "https://img.logo.dev/steiermark.orf.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ORF Radio Tirol (128k)",
+        "url": "https://orf-live.ors-shoutcast.at/tir-q1a",
+        "favicon": "https://img.logo.dev/tirol.orf.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ORF Radio Tirol (192k)",
+        "url": "https://orf-live.ors-shoutcast.at/tir-q2a",
+        "favicon": "https://img.logo.dev/tirol.orf.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "ORF Radio Vorarlberg",
         "url": "https://orf-live.ors-shoutcast.at/vbg-q2a",
         "favicon": "https://img.logo.dev/vorarlberg.orf.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1031,18 +1036,13 @@
     },
     {
         "name": "ÖsterreichRadio",
-        "url": "https://oesterreichradio.stream.laut.fm/oesterreichradio?t302=2026-01-15_02-12-00&uuid=e1297043-bed7-49a0-9812-1be8a36b941e",
+        "url": "http://oesterreichradio.stream.laut.fm/oesterreichradio?uuid=3ddd492b-faa2-6ec9-608c-befa4dfcb78f&t302=2026-10-22_15-46-48",
         "favicon": "https://img.logo.dev/xn--radio-iua.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "PENNY live",
         "url": "http://listen.radiomax.technology/penny",
         "favicon": "https://img.logo.dev/maxfive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "PetersPlattentek",
-        "url": "https://server7524.streamplus.de/stream.mp3",
-        "favicon": "https://img.logo.dev/petersplattenthek.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pfarr-Radio Enzersfeld",
@@ -1095,6 +1095,11 @@
         "favicon": "https://img.logo.dev/purzelradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radi",
+        "url": "https://edge22.streamonkey.net/oe24-live",
+        "favicon": "https://img.logo.dev/oe24radio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radino - Mein Kinderradio Wien 103,2",
         "url": "http://stream01.zogl.net:8906/stream",
         "favicon": "https://img.logo.dev/meinkinderradio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1130,9 +1135,19 @@
         "favicon": "https://img.logo.dev/arabella.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Austria",
+        "url": "http://server19943.streamplus.de/stream.mp3",
+        "favicon": "https://img.logo.dev/oe24radio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Balkan EU",
         "url": "http://cast2.name.ba:8185/",
         "favicon": "https://img.logo.dev/radiobalkaneu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bollerwagen",
+        "url": "https://player.ffn.de/radiobollerwagen.mp3",
+        "favicon": "https://img.logo.dev/player.ffn.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Burgenland HQ",
@@ -1230,9 +1245,9 @@
         "favicon": "https://img.logo.dev/helsinki.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Himmelberg",
-        "url": "http://stream.laut.fm/radio-himmelberg",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Helsinki 92.6 FM",
+        "url": "http://live.helsinki.at:8088/live160.ogg",
+        "favicon": "https://img.logo.dev/helsinki.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Klassik Stephansdom",
@@ -1280,6 +1295,11 @@
         "favicon": "https://img.logo.dev/radioop.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Nachtvogel",
+        "url": "https://stream.tramp-cast.ch/8012/stream",
+        "favicon": "https://img.logo.dev/phonostar.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio OP",
         "url": "https://server4.streamserver24.com:26250/stream",
         "favicon": "https://img.logo.dev/radioop.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1310,6 +1330,11 @@
         "favicon": "https://img.logo.dev/radiosol.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Steiermark",
+        "url": "https://orf-live.ors-shoutcast.at/stm-q2a",
+        "favicon": "https://img.logo.dev/steiermark.orf.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Steiermark 80er POP",
         "url": "https://live.antenne.at/80s",
         "favicon": "https://img.logo.dev/antenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1318,6 +1343,11 @@
         "name": "Radio Studio Enns",
         "url": "https://server4.streamserver24.com:61414/",
         "favicon": "https://img.logo.dev/studioenns.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Surprise The Live DJ Radio",
+        "url": "https://a12.asurahosting.com/listen/radio_surprise/radio.mp3",
+        "favicon": "https://img.logo.dev/calltv4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio U1 Tirol",
@@ -1420,34 +1450,34 @@
         "favicon": "https://img.logo.dev/res.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Revisited",
-        "url": "https://revisited.stream.laut.fm/revisited",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rock Antenne (Austria)",
         "url": "https://s6-webradio.webradio.de/rockantenne-oesterreich",
         "favicon": "https://img.logo.dev/rockantenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock Antenne Österreich",
-        "url": "http://s1-webradio.webradio.de/rockantenne-oesterreich",
+        "url": "http://s3-webradio.webradio.de/rockantenne-oesterreich",
         "favicon": "https://img.logo.dev/rockantenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock Antenne Österreich",
-        "url": "https://s1-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3",
+        "url": "https://s7-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3",
         "favicon": "https://img.logo.dev/rockantenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock Antenne Österreich (AAC)",
-        "url": "https://s7-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp",
+        "url": "https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp",
         "favicon": "https://img.logo.dev/rockantenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rockantenne Österreich live",
-        "url": "https://s5-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp",
+        "url": "https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp",
         "favicon": "https://img.logo.dev/rockantenne.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rockantenne Vorarlberg",
+        "url": "https://web.radio.antennevorarlberg.at/av-rock/stream/mp3",
+        "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rockhuhn",
@@ -1456,7 +1486,7 @@
     },
     {
         "name": "RRTH Austria",
-        "url": "https://rrth.stream.laut.fm/rrth?pl=pls&t302=2026-01-15_03-08-56&uuid=1a4d041d-a3ec-4872-908c-a7a55a58ee15",
+        "url": "https://rrth.stream.laut.fm/rrth",
         "favicon": "https://img.logo.dev/rrth.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1465,9 +1495,9 @@
         "favicon": "https://img.logo.dev/rtvunirea.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Schwendermarkt",
-        "url": "https://laut.fm/schwendermarkt",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Schlager Antenne Österreich",
+        "url": "https://edge68.streamonkey.net/antschlager-live",
+        "favicon": "https://img.logo.dev/edge68.streamonkey.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Soundportal",
@@ -1481,18 +1511,13 @@
     },
     {
         "name": "Soundstorm Radio",
-        "url": "https://stream.soundstorm-radio.com/listen/soundstorm/aac",
+        "url": "http://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3",
         "favicon": "https://img.logo.dev/soundstorm-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Spirit Live Radio",
         "url": "http://server7606.streamplus.de/;",
         "favicon": "https://img.logo.dev/spiritlive.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Splatoon Station Seven",
-        "url": "http://audio.gendercriminals.gay/listen/splatoon_station_seven/radio-browser",
-        "favicon": "https://img.logo.dev/audio.gendercriminals.gay?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stadtradio Krems",
@@ -1530,6 +1555,11 @@
         "favicon": "https://img.logo.dev/superfly.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Superfly Radio",
+        "url": "https://web.stream.superfly.fm/superfly-live?aggregator=Website",
+        "favicon": "https://img.logo.dev/superfly.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Superfly webradio Easy",
         "url": "https://edge81.stream.superfly.fm/superfly-easy",
         "favicon": "https://img.logo.dev/superfly.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1537,6 +1567,11 @@
     {
         "name": "Superfly Webradio Pure",
         "url": "https://edge81.stream.superfly.fm/superfly-pure",
+        "favicon": "https://img.logo.dev/superfly.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Superfly.fm",
+        "url": "https://edge66.stream.superfly.fm/superfly-live",
         "favicon": "https://img.logo.dev/superfly.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1575,11 +1610,6 @@
         "favicon": "https://img.logo.dev/radiotechnikum.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "transhits",
-        "url": "http://radiorecord.hostingradio.ru/trancehits96.aacp",
-        "favicon": "https://img.logo.dev/radiorecord.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "U1 Tirol",
         "url": "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
         "favicon": "https://img.logo.dev/u1-radio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1588,11 +1618,6 @@
         "name": "U1 Tirol",
         "url": "https://live.u1-radio.at/u1-tirol-live/mp3-192/?ref=u1-website",
         "favicon": "https://img.logo.dev/u1-radio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "UP THE IRONS",
-        "url": "https://uptheirons.stream.laut.fm/up_the_irons?pl=m3u&t302=2026-01-15_07-23-30&uuid=eeb3ddd4-0adf-4a11-bf6f-eac3fb8206ff",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Viyana FM",
@@ -1605,14 +1630,14 @@
         "favicon": "https://img.logo.dev/viyanafm.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Vogal FM",
+        "url": "https://stream.vogalfunk.com/stream/vogalfm/vogalfm.mp3",
+        "favicon": "https://img.logo.dev/acousticlakeside.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Vorarlberg 80s",
         "url": "https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer",
         "favicon": "https://img.logo.dev/antennevorarlberg.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WEL 105,5",
-        "url": "http://wel105point5.stream.laut.fm/wel105point5",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WELLE 1 - Oberöstereich",
@@ -1632,7 +1657,12 @@
     {
         "name": "Welle 1 - Salzburg - HQ",
         "url": "https://live.welle1.at:18256/stream",
-        "favicon": "https://img.logo.dev/live.welle1.at:18256?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/live.welle1.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WELLE 1 Wien & DAB+ – WELLE 1",
+        "url": "https://live.welle1.at:19000/live",
+        "favicon": "https://img.logo.dev/welle1.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Yeshua.at Radio",
@@ -1643,5 +1673,10 @@
         "name": "Yu Radio",
         "url": "https://stream.radiotechnikum.at:80/YURADIO",
         "favicon": "https://img.logo.dev/yuradio.at?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yves Joseph",
+        "url": "https://us1.streamingpulse.com/stream/trinity3",
+        "favicon": "https://img.logo.dev/radiotelesentinel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

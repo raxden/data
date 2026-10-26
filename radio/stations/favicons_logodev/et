@@ -5,44 +5,14 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Addis Music",
-        "url": "https://stream.zeno.fm/umguj2baxdctv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ahadu Radio",
         "url": "https://stream-155.zeno.fm/txxpndf1wwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eHhwbmRmMXd3enV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ilp6VmgwOG5XUUFtWXQySm5OYk5XbXciLCJpYXQiOjE3MzAyMjY1NTksImV4cCI6MTczMDIyNjYxOX0.AnMCHL-Etgnu9fOBcU_h1hawhJJv_PcXGHBS2BOlzV0",
         "favicon": "https://img.logo.dev/ahaduradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Amharic Live Sport የኳስ  ኮሜኔታተር",
-        "url": "https://stream.zeno.fm/bqtruhn4q98uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Christian Mezmur Ethiopia",
-        "url": "https://stream.zeno.fm/0bws6ct0ey8uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Daily Hype Radio",
-        "url": "https://stream.zeno.fm/apzzddhstbruv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DW Amharic",
-        "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
-        "favicon": "https://img.logo.dev/yonaskassahun011.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "EBC Radio 104.7 Addis Abeba",
         "url": "https://stream-25.zeno.fm/2xguamap7yzuv",
         "favicon": "https://img.logo.dev/ebc.et?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ethio FM 107.8",
-        "url": "https://stream.zeno.fm/72y045deqeruv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ethio Oldies",
@@ -60,74 +30,19 @@
         "favicon": "https://img.logo.dev/ethioldies.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ethiopian Orthodox Church Mezmur",
-        "url": "https://stream.zeno.fm/pfaho9uockwuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM ADDIS 97-1",
-        "url": "https://stream.zeno.fm/rb6wbrap7yzuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "fm addis 97.1",
         "url": "http://stream.zeno.fm/7tzrhrap7yzuv",
         "favicon": "https://img.logo.dev/vymaps.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Halaal Media",
-        "url": "https://stream.zeno.fm/rqx24qj7offvv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Halaal Radio",
-        "url": "https://stream.zeno.fm/rqx24qj7offvv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "hip hop",
-        "url": "http://stream.rtlradio.de/rnb/mp3-192/",
-        "favicon": "https://img.logo.dev/yonaskassahun011.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Jano FM",
-        "url": "https://stream-54.zeno.fm/1cyn1as4v68uv?zs=6ALEcBPQR5Wq6_T-zr8TDw",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "jazz",
-        "url": "http://mediaserv38.live-streams.nl:8006/live",
-        "favicon": "https://img.logo.dev/yonaskassahun011.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "jazz",
-        "url": "http://mediaserv38.live-streams.nl:8006/live",
-        "favicon": "https://img.logo.dev/youtu.be?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "jazz Ethiopia world",
         "url": "http://mediaserv38.live-streams.nl:8006/live",
-        "favicon": "https://img.logo.dev/mediaserv38.live-streams.nl:8006?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/mediaserv38.live-streams.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jazz Ethopia World",
         "url": "http://mediaserv38.live-streams.nl:8006/live",
-        "favicon": "https://img.logo.dev/mediaserv38.live-streams.nl:8006?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Jazz Ethopia World",
-        "url": "http://mediaserv38.live-streams.nl:8006/",
-        "favicon": "https://img.logo.dev/mediaserv38.live-streams.nl:8006?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mirt Internet Radio",
-        "url": "http://stream.zeno.fm/akmuznguawzuv",
-        "favicon": "https://img.logo.dev/mirtmirt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "music",
-        "url": "http://mediaserv38.live-streams.nl:8006/live",
-        "favicon": "https://img.logo.dev/yonaskassahun011.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/mediaserv38.live-streams.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sheger FM",
@@ -150,33 +65,8 @@
         "favicon": "https://img.logo.dev/taemmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TIRITA 97.6 FM",
-        "url": "https://stream.zeno.fm/x751reg18zhvv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tizta ትዝታ FM",
-        "url": "https://stream.zeno.fm/55nlq5yzqlftv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Voice of Ethiopia",
-        "url": "https://node-34.zeno.fm/hubm64kkr2zuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "YeneVibe Radio",
         "url": "https://stream.zeno.fm/5mz3qqftsnhvv",
         "favicon": "https://img.logo.dev/radio.yenevibe.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "yonjon",
-        "url": "http://stream.zeno.fm/tkkjml4sqsguv",
-        "favicon": "https://img.logo.dev/yonaskassahun011.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "اذاعة القرآن الكريم",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

@@ -5,39 +5,19 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Afia FM 93.0 Dakar",
-        "url": "https://stream.zeno.fm/skjrn6kzzxptv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bamtaare FM 103.4 Dodel",
-        "url": "https://stream.zeno.fm/n1mugn1am1duv",
-        "favicon": "https://img.logo.dev/bamtaarefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Central FM 107.1 Thiés",
-        "url": "https://stream.zeno.fm/t2e45xqkunhvv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Dakar Musique",
         "url": "http://listen.senemultimedia.net:8090/stream",
         "favicon": "https://img.logo.dev/dakarmusique.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dakar Musique",
+        "url": "https://stream.dakarmusique.com/",
+        "favicon": "https://img.logo.dev/radio.dakarmusique.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dakar Musique",
         "url": "http://listen.senemultimedia.net:8090/stream",
         "favicon": "https://img.logo.dev/dakarmusique.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Diassing FM 93.9 Marsassoum",
-        "url": "https://stream.zeno.fm/veaguaqvvk8uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM Sénégal 103.1 Dakar",
-        "url": "https://stream-154.zeno.fm/t8gcyq6ts0quv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GMS FM 89.3 Ziguinchor",
@@ -55,24 +35,9 @@
         "favicon": "https://img.logo.dev/h24.sn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Love FM 107.3 Dakar",
-        "url": "https://stream.zeno.fm/7cru7g7rcwzuv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Manooré FM 89.4 Dakar",
         "url": "https://stream.zeno.fm/sad0xwh0mg8uv",
         "favicon": "https://img.logo.dev/manoorefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Metraf FM 103.7 Dakar",
-        "url": "https://stream.zeno.fm/66yrv69ffv8uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Or FM 89.6 Orkadiéré",
-        "url": "https://stream.zeno.fm/gy7fpc2am1duv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pikine Diaspora Radio",
@@ -80,24 +45,19 @@
         "favicon": "https://img.logo.dev/pikinediaspora.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio AI",
+        "url": "https://a13.asurahosting.com/listen/radio_ai/radio.mp3",
+        "favicon": "https://img.logo.dev/radioai.mobirisesite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Al Fayda 90.1 Kaolack",
         "url": "https://usa5.fastcast4u.com/proxy/lyartech?mp=/stream/1/",
         "favicon": "https://img.logo.dev/radioalfayda.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Fulbe FM 102.6 Dakar",
-        "url": "https://stream.zeno.fm/e0grbn8e3rquv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Keur Massar",
         "url": "https://stream.keurmassar.info/",
         "favicon": "https://img.logo.dev/keurmassar.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Oxy Jeunes 103.4 Pikine",
-        "url": "http://s9.voscast.com:7994/;stream.nsv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Thiossane",
@@ -120,11 +80,6 @@
         "favicon": "https://img.logo.dev/rts.sn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RTS Kaolack 103",
-        "url": "https://stream.zeno.fm/2fkd4h0ts1duv.m4a",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RTS Matam 89.1",
         "url": "https://stream.zeno.fm/kxud8vhqt1duv",
         "favicon": "https://img.logo.dev/rts.sn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -143,25 +98,5 @@
         "name": "Sweet Radio",
         "url": "https://stream.zeno.fm/jemecjfbczhuv",
         "favicon": "https://img.logo.dev/sweetradiosenegal.mystrikingly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Timtimol FM 91.9 Ourossogui",
-        "url": "https://stream.zeno.fm/4yx608hnu1duv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Waar Fi FM 104.9 Sébikhotane",
-        "url": "https://stream.zeno.fm/rmg4rfewweruv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zig FM 100.3 Kolda",
-        "url": "https://stream.zeno.fm/akh0t25nc18uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zig FM 100.8 Ziguinchor",
-        "url": "https://stream.zeno.fm/zfdk0c69d3quv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

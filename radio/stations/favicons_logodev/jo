@@ -10,24 +10,29 @@
         "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "#إذاعة القرآن الكريم",
-        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Alnas FM",
-        "url": "http://stream.zeno.fm/yawenmfp64zuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Ain FM",
+        "url": "https://radio.ainfm.site/ainfm",
+        "favicon": "https://img.logo.dev/ainfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Beat FM",
-        "url": "https://securestreams2.autopo.st:1242/live",
-        "favicon": "https://img.logo.dev/securestreams2.autopo.st:1242?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Drdchati Radio",
+        "url": "https://radio.gorlk.net/drdchati",
+        "favicon": "https://img.logo.dev/drdchati.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FABULOUSXM",
+        "url": "http://s3.voscast.com:9830/;stream.mp3",
+        "favicon": "https://img.logo.dev/fabulousxm.pwastore.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fusha FM 102.9 - Jordan Academy of Arabic",
+        "url": "https://eu9.fastcast4u.com/proxy/arabicla?mp=/1",
+        "favicon": "https://img.logo.dev/arabic.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hayat FM",
@@ -35,9 +40,9 @@
         "favicon": "https://img.logo.dev/hayat.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Hussain fm",
-        "url": "http://s2.voscast.com:10444/stream",
-        "favicon": "https://img.logo.dev/s2.voscast.com:10444?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Husna FM",
+        "url": "https://s10.voscast.com:10441/stream",
+        "favicon": "https://img.logo.dev/husna.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jordan Melody FM",
@@ -53,6 +58,11 @@
         "name": "JRRadio",
         "url": "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8",
         "favicon": "https://img.logo.dev/jrtv-live.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "JU FM 94.9 - University of Jordan Radio",
+        "url": "https://stream.streamgenial.stream/42t0df9z0f8uv",
+        "favicon": "https://img.logo.dev/jufm.ju.edu.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Main Jo",
@@ -95,21 +105,6 @@
         "favicon": "https://img.logo.dev/mood.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "noursat jordan",
-        "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/svs.itworkscdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Noursat Jordan TV",
-        "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/noursatjordan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "noursat jorden",
-        "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/svs.itworkscdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "noursat jorden",
         "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
         "favicon": "https://img.logo.dev/svs.itworkscdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -125,9 +120,24 @@
         "favicon": "https://img.logo.dev/dahab.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Hala",
+        "url": "https://hala-alrayamedia.radioca.st/;",
+        "favicon": "https://img.logo.dev/hala.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Jordan 96.3",
         "url": "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8",
         "favicon": "https://img.logo.dev/jrtv.gov.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TTU FM - Tafila Technical University",
+        "url": "http://fm.ttu.edu.jo:88/broadwavehigh.mp3",
+        "favicon": "https://img.logo.dev/fm.ttu.edu.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yarmouk University FM",
+        "url": "https://yufm.yu.edu.jo/broadwave.mp3",
+        "favicon": "https://img.logo.dev/yu.edu.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "تفسير بن عثيمين",

@@ -20,6 +20,11 @@
         "favicon": "https://img.logo.dev/brnradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "From The Heart Radio",
+        "url": "https://global2.citrus3.com:2020/stream/fromtheheartradio",
+        "favicon": "https://img.logo.dev/fromtheheartradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hiphop",
         "url": "http://listen.181fm.com/181-oldschool_128k.mp3",
         "favicon": "https://img.logo.dev/listen.181fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -33,10 +38,5 @@
         "name": "WSTX-FM 100.3 Christiansted",
         "url": "http://wstxradio.serverroom.net:7490/;",
         "favicon": "https://img.logo.dev/wstxradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WTJX",
-        "url": "https://quarrel.streamguys1.com:7405/wtjxfm",
-        "favicon": "https://img.logo.dev/quarrel.streamguys1.com:7405?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

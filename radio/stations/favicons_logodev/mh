@@ -8,5 +8,10 @@
         "name": "Offshore Radio",
         "url": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3",
         "favicon": "https://img.logo.dev/offshoreradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Offworld Radio",
+        "url": "https://a4.asurahosting.com:7310/radio.mp3",
+        "favicon": "https://img.logo.dev/a4.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

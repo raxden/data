@@ -5,6 +5,11 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Dheenuge Adu",
+        "url": "https://radio.psm.mv/dheenugeaduair",
+        "favicon": "https://img.logo.dev/psmnews.mv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Dhivehi FM",
         "url": "https://radio.psm.mv/fmair",
         "favicon": "https://img.logo.dev/psmnews.mv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -20,8 +25,18 @@
         "favicon": "https://img.logo.dev/psmnews.mv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Dhivehi Raajjeyge Adu",
+        "url": "https://radio.psm.mv/draair",
+        "favicon": "https://img.logo.dev/psmnews.mv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dhivehi Raajjeyge Adu",
+        "url": "https://radio.psm.mv/draair",
+        "favicon": "https://img.logo.dev/psmnews.mv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Kinozal.TV",
-        "url": "https://listen4.myradio24.com/kinozaltv",
+        "url": "https://listen7.myradio24.com/kinozaltv",
         "favicon": "https://img.logo.dev/kinozal.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

@@ -80,69 +80,14 @@
         "favicon": "https://img.logo.dev/antenazagreb.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Banovina Turbo",
-        "url": "https://audio.radio-banovina.hr:7010/stream",
+        "name": "Banovina Light",
+        "url": "https://audio.radio-banovina.hr:7008/stream",
         "favicon": "https://img.logo.dev/radio-banovina.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Bijelo Plavi radio",
-        "url": "http://s8.iqstreaming.com:8028/stream",
-        "favicon": "https://img.logo.dev/bijeloplaviradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bijelo-plavi radio",
-        "url": "http://s8.iqstreaming.com:8028/stream",
-        "favicon": "https://img.logo.dev/bijeloplaviradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Braniteljski radio \"Nepokoreni grad\"",
-        "url": "http://s3.radio.co/se83499ee0/listen",
-        "favicon": "https://img.logo.dev/embed.radio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Braniteljski radio \"Nepokoreni grad\"  - Osijek",
-        "url": "http://s3.radio.co/se83499ee0/listen",
-        "favicon": "https://img.logo.dev/braniteljski.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bravo",
-        "url": "http://c5.hostingcentar.com:8059/stream",
-        "favicon": "https://img.logo.dev/br.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bravo",
-        "url": "http://c5.hostingcentar.com:8059/;",
-        "favicon": "https://img.logo.dev/br.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "bravo!",
-        "url": "http://c5.hostingcentar.com:8059/stream?4960",
-        "favicon": "https://img.logo.dev/br.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bravo!",
-        "url": "http://c5.hostingcentar.com:8059/;",
-        "favicon": "https://img.logo.dev/br.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "bravo! balade",
-        "url": "http://c5.hostingcentar.com:8360/stream?1510",
-        "favicon": "https://img.logo.dev/br.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "bravo! kids",
-        "url": "https://audio.social3.hr/listen/bravo_kids/stream?3367",
-        "favicon": "https://img.logo.dev/br.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "bravo! pop",
-        "url": "http://c5.hostingcentar.com:8354/stream?2340",
-        "favicon": "https://img.logo.dev/br.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "bravo! rock",
-        "url": "http://c5.hostingcentar.com:8348/stream?1996",
-        "favicon": "https://img.logo.dev/br.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Banovina Turbo",
+        "url": "https://audio.radio-banovina.hr:7010/stream",
+        "favicon": "https://img.logo.dev/radio-banovina.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CITY RADIO",
@@ -250,19 +195,24 @@
         "favicon": "https://img.logo.dev/radiocrash.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Cro International DJ Radio",
-        "url": "http://stream.zeno.fm/t47dykadrchvv",
-        "favicon": "https://img.logo.dev/crointernational.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "cVrai.com - That's your webradio",
+        "url": "https://stream.cvrai.com:8010/stream",
+        "favicon": "https://img.logo.dev/cvrai.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Drama radio Dubrovnik",
-        "url": "https://listen.radioking.com/radio/626884/stream/689500",
-        "favicon": "https://img.logo.dev/dramaradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "dvb.digital",
+        "url": "https://radio.dvb.digital/listen/dvb.digital/hq.mp3",
+        "favicon": "https://img.logo.dev/dvb.digital?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ENTER Zagreb",
         "url": "http://live.enterzagreb.hr:8023/",
         "favicon": "https://img.logo.dev/prvi.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Extra FM",
+        "url": "https://relay2.social3.hr/radio/8190/radio.mp3?&_ic2=1?8707",
+        "favicon": "https://img.logo.dev/extrafm.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EXTRA FM",
@@ -275,14 +225,9 @@
         "favicon": "https://img.logo.dev/extrafm.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Folk Radio Kneginec",
-        "url": "https://stream.zeno.fm/yetzdv442k8uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FolkyTon Radio",
-        "url": "https://ec2s.crolive.com.hr:6035/stream",
-        "favicon": "https://img.logo.dev/folkyton.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "GalacticFM - Progressive House & Trance",
+        "url": "https://a1.asurahosting.com/listen/galacticfm_-_progressive_house__trance/radio.mp3",
+        "favicon": "https://img.logo.dev/a1.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Gold - Velika Gorica",
@@ -370,38 +315,28 @@
         "favicon": "https://img.logo.dev/happyfm.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "HIT RADIO",
-        "url": "http://s8.iqstreaming.com:8012/stream",
-        "favicon": "https://img.logo.dev/hitradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hit Radio",
-        "url": "http://s8.iqstreaming.com:8012/;stream.mp3",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hit Rado Sinj",
-        "url": "http://s8.iqstreaming.com:8012/stream",
-        "favicon": "https://img.logo.dev/hitradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "HKR",
         "url": "http://stream.hkr.hr:8000/hkr.mp3",
         "favicon": "https://img.logo.dev/hkr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "HRT Drugi program",
+        "url": "https://25453.live.streamtheworld.com/PROGRAM2AAC.aac",
+        "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "HRT Glas Hrvatske",
-        "url": "http://21633.live.streamtheworld.com/VOICEOFCROATIAAAC_SC",
+        "url": "http://28503.live.streamtheworld.com:3690/VOICEOFCROATIAAAC_SC",
         "favicon": "https://img.logo.dev/glashrvatske.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT HR 1 - Prvi program",
-        "url": "http://27863.live.streamtheworld.com/PROGRAM1AAC_SC",
+        "url": "http://28503.live.streamtheworld.com/PROGRAM1AAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT HR 1 - Prvi program",
-        "url": "http://27743.live.streamtheworld.com/PROGRAM1_SC",
+        "url": "http://25453.live.streamtheworld.com:3690/PROGRAM1_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -411,42 +346,47 @@
     },
     {
         "name": "HRT HR 2 - Drugi program",
-        "url": "http://28033.live.streamtheworld.com/PROGRAM2AAC_SC",
+        "url": "http://14153.live.streamtheworld.com:3690/PROGRAM2AAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT HR 3 - Treći program",
-        "url": "http://25603.live.streamtheworld.com/PROGRAM3AAC_SC",
+        "url": "http://25443.live.streamtheworld.com:3690/PROGRAM3AAC_SC",
+        "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HRT Prvi program",
+        "url": "https://27743.live.streamtheworld.com/PROGRAM1AAC.aac",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT Radio Dubrovnik",
-        "url": "http://27873.live.streamtheworld.com:3690/DUBROVNIKAAC_SC",
+        "url": "http://28503.live.streamtheworld.com/DUBROVNIKAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT Radio Knin",
-        "url": "http://23543.live.streamtheworld.com:3690/KNINAAC_SC",
+        "url": "http://25603.live.streamtheworld.com:3690/KNINAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT Radio Osijek",
-        "url": "http://22733.live.streamtheworld.com:3690/OSIJEKAAC_SC",
+        "url": "http://14153.live.streamtheworld.com:3690/OSIJEKAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT Radio Pula",
-        "url": "http://28513.live.streamtheworld.com/PULAAAC_SC",
+        "url": "http://29341.live.streamtheworld.com/PULAAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT Radio Rijeka",
-        "url": "http://22193.live.streamtheworld.com/RIJEKAAAC_SC",
+        "url": "http://27743.live.streamtheworld.com:3690/RIJEKAAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT Radio Sljeme",
-        "url": "http://27873.live.streamtheworld.com/SLJEMEAAC_SC",
+        "url": "http://29344.live.streamtheworld.com/SLJEMEAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -456,12 +396,12 @@
     },
     {
         "name": "HRT Radio Split",
-        "url": "http://28513.live.streamtheworld.com:3690/SPLITAAC_SC",
+        "url": "http://23623.live.streamtheworld.com/SPLITAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HRT Radio Zadar",
-        "url": "http://27863.live.streamtheworld.com:3690/ZADARAAC_SC",
+        "url": "http://28563.live.streamtheworld.com:3690/ZADARAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -476,17 +416,22 @@
     },
     {
         "name": "Hrvatski radio - Klasik",
-        "url": "http://22653.live.streamtheworld.com/HR_CLASSICS_SC",
+        "url": "http://25633.live.streamtheworld.com:3690/HR_CLASSICS_SC",
+        "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hrvatski radio - Klasik (HRT)",
+        "url": "http://29073.live.streamtheworld.com:3690/HR_CLASSICSAAC_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hrvatski radio - Pop glazba",
-        "url": "http://27783.live.streamtheworld.com:3690/HR_POP_SC",
+        "url": "http://28513.live.streamtheworld.com/HR_POP_SC",
         "favicon": "https://img.logo.dev/radio.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hrvatski radio - Rock",
-        "url": "http://25683.live.streamtheworld.com/HR_ROCK_SC",
+        "url": "http://29345.live.streamtheworld.com/HR_ROCK_SC",
         "favicon": "https://img.logo.dev/hrti.hrt.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -550,24 +495,9 @@
         "favicon": "https://img.logo.dev/klfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kneginec",
-        "url": "http://stream.zeno.fm/yetzdv442k8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Krugoval",
         "url": "http://144.76.172.23:7043/",
         "favicon": "https://img.logo.dev/garesnica.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Laganini FM",
-        "url": "http://194.145.208.251:8000/start/lfmzg",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Laganini FM - Rijeka",
-        "url": "http://194.145.208.251:8004/stream?type=http&nocache=149",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Laganini FM Rijeka",
@@ -580,9 +510,14 @@
         "favicon": "https://img.logo.dev/laganini.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Laganini FM Zagreb NEW",
+        "url": "http://sky.doscast.com:8331/stream?",
+        "favicon": "https://img.logo.dev/laganini.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Laganini Folk Narodni Radio",
         "url": "https://sonic1-rbx.cloud-center.ro:8026/stream",
-        "favicon": "https://img.logo.dev/sonic1-rbx.cloud-center.ro:8026?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sonic1-rbx.cloud-center.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Laganini Narodni i Folk Radio",
@@ -635,6 +570,11 @@
         "favicon": "https://img.logo.dev/narodni.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Narodni Radio Goga",
+        "url": "https://cmr-hosting.com:7013/;",
+        "favicon": "https://img.logo.dev/narodniradiogoga.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Naxi House",
         "url": "http://naxidigital-house128.streaming.rs:8000/",
         "favicon": "https://img.logo.dev/naxi.rs?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -658,11 +598,6 @@
         "name": "Obiteljski Radio Ivanić",
         "url": "http://s8.iqstreaming.com:8080/stream",
         "favicon": "https://img.logo.dev/ori.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Online Radio Kneginec",
-        "url": "http://stream.zeno.fm/yetzdv442k8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Otvoreni - Live",
@@ -760,6 +695,11 @@
         "favicon": "https://img.logo.dev/petrinjskiradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Podravski Radio",
+        "url": "https://streaming.podravskiradio.hr/live",
+        "favicon": "https://img.logo.dev/podravskiradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Pomorski Radio Bakar",
         "url": "http://matrix-server.hr:8010/live.mp3",
         "favicon": "https://img.logo.dev/pomorskiradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -835,11 +775,6 @@
         "favicon": "https://img.logo.dev/radio808.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 92 FM",
-        "url": "https://onlineradiobox.com/json/hr/92fm/play?platform=web",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Banovina",
         "url": "http://stream1.radio-banovina.hr:8008/;",
         "favicon": "https://img.logo.dev/radio-banovina.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -890,11 +825,6 @@
         "favicon": "https://img.logo.dev/radio-bnm.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Boom Hits",
-        "url": "https://stream.zeno.fm/7n7hwy8s9k0uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Brac",
         "url": "http://s8.iqstreaming.com:8066/stream",
         "favicon": "https://img.logo.dev/radiobrac.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -937,7 +867,7 @@
     {
         "name": "Radio Dalmacija - Oliver",
         "url": "http://c5.hostingcentar.com:8275/stream",
-        "favicon": "https://img.logo.dev/c5.hostingcentar.com:8275?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c5.hostingcentar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Dalmacija - Oliver",
@@ -1031,18 +961,8 @@
     },
     {
         "name": "Radio Kaj",
-        "url": "http://s8.iqstreaming.com:8050/stream",
-        "favicon": "https://img.logo.dev/kaj.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Kaj",
         "url": "https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream",
         "favicon": "https://img.logo.dev/radio-kaj.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Kaj",
-        "url": "http://s8.iqstreaming.com:8050/stream",
-        "favicon": "https://img.logo.dev/kaj.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Kampus",
@@ -1083,11 +1003,6 @@
         "name": "Radio Labin",
         "url": "http://radiolabin.streamradio.com.hr:9100/",
         "favicon": "https://img.logo.dev/radiolabin.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Ludnica",
-        "url": "http://192.111.140.6:8222/",
-        "favicon": "https://img.logo.dev/192.111.140.6:8222?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Maestral",
@@ -1131,18 +1046,13 @@
     },
     {
         "name": "Radio Max",
-        "url": "https://azuracast.novi-net.net/listen/radiomax/radiomax.aac",
+        "url": "https://azuracast.novi-net.net/listen/radiomax/radiomax.mp3",
         "favicon": "https://img.logo.dev/radiomax.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Max 99.3 (Cerje Nebojse, Maruševec)",
         "url": "https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=1676766574706",
         "favicon": "https://img.logo.dev/radiomax.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Media Servis",
-        "url": "http://live.mediaservis.hr:8084/stream?type=http&nocache=557757",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Megaton",
@@ -1160,14 +1070,14 @@
         "favicon": "https://img.logo.dev/radiong.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio NU",
+        "url": "https://slusaj.hr:10445/stream?type=http&nocache=634",
+        "favicon": "https://img.logo.dev/nu.net.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Orahovica",
         "url": "https://ec2s.crolive.com.hr:2595/stream",
         "favicon": "https://img.logo.dev/radioorahovica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Otocac",
-        "url": "http://s8.iqstreaming.com:8024/stream",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Otok Krk",
@@ -1208,6 +1118,11 @@
         "name": "Radio Rojc",
         "url": "https://cf.widecastcdn.live/Z07ww1NUNl/live.m3u8",
         "favicon": "https://img.logo.dev/radio.rojc.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Roža",
+        "url": "http://stream.radio-roza.org/live.ogg",
+        "favicon": "https://img.logo.dev/radio-roza.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Samobor",
@@ -1260,24 +1175,9 @@
         "favicon": "https://img.logo.dev/uzivoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Techno Dance Kneginec",
-        "url": "http://stream.zeno.fm/8d2pyzm5wp8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Techno Zagreb",
-        "url": "http://mercury.reliastream.com:8085/stream.mp3",
-        "favicon": "https://img.logo.dev/kapital3.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Tvornica",
         "url": "https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001",
         "favicon": "https://img.logo.dev/radiotvornica.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Vinkovci",
-        "url": "https://onlineradiobox.com/json/hr/vinkovci/play?platform=web",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Vrbovec 94.5",
@@ -1295,6 +1195,16 @@
         "favicon": "https://img.logo.dev/radio-zlatar.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Zlatar",
+        "url": "https://audio.alter-media.hr:7025/stream",
+        "favicon": "https://img.logo.dev/radio-zlatar.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Županja",
+        "url": "https://audio.alter-media.hr:7019/stream",
+        "favicon": "https://img.logo.dev/radiozupanja.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio101",
         "url": "http://live.radio101.hr:9531/",
         "favicon": "https://img.logo.dev/radio101.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1308,6 +1218,11 @@
         "name": "REPLAY NEWS - Hrvatski         Radio informacija svakih 5 minuta",
         "url": "https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3",
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Room FM",
+        "url": "http://65.108.198.245:8856/;",
+        "favicon": "https://img.logo.dev/roomfm.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rovinj FM",
@@ -1335,14 +1250,9 @@
         "favicon": "https://img.logo.dev/superradio.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tamburaški radio",
-        "url": "https://listen.radioking.com/radio/552965/stream/612287",
-        "favicon": "https://img.logo.dev/listen.radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tamburaški radio",
-        "url": "https://listen.radioking.com/radio/552965/stream/612287",
-        "favicon": "https://img.logo.dev/listen.radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "TheRoom FM",
+        "url": "http://65.108.198.245:8856/",
+        "favicon": "https://img.logo.dev/roomfm.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Thompson 24/7 - Radio NU",
@@ -1432,6 +1342,21 @@
     {
         "name": "Yammat FM",
         "url": "https://stream.yammat.fm/radio/8000/yammat.mp3",
+        "favicon": "https://img.logo.dev/yammat.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yammat FM Romantic Rebels & Pop Waves",
+        "url": "https://stream.yammat.fm/listen/romantic_rebels__pop_waves/radio.mp3",
+        "favicon": "https://img.logo.dev/yammat.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yammat FM Soul Sayer",
+        "url": "https://stream.yammat.fm/listen/soul_sayer/radio.mp3",
+        "favicon": "https://img.logo.dev/yammat.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yammat FM Street Spitta",
+        "url": "https://stream.yammat.fm/listen/street_spitta/radio.mp3",
         "favicon": "https://img.logo.dev/yammat.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {

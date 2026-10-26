@@ -20,19 +20,9 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "achkid fm",
-        "url": "https://stream.zeno.fm/7nqu31p6xg0uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Adwaafm",
         "url": "http://stream.zeno.fm/5bxh2nh0x1zuv?1681882617017",
         "favicon": "https://img.logo.dev/adwaafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Al quran radio",
-        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Aswat FM",
@@ -40,6 +30,11 @@
         "favicon": "https://img.logo.dev/radioaswat.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "aswatalweb",
+        "url": "http://78.129.252.13:24460/stream",
+        "favicon": "https://img.logo.dev/aswatalweb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Atlantic Radio",
         "url": "https://atlantic-sonic.nindohost.net:9300/stream",
         "favicon": "https://img.logo.dev/atlanticradio.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -52,12 +47,12 @@
     {
         "name": "Aziz Mustaphi",
         "url": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3",
-        "favicon": "https://img.logo.dev/infoplus60.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/d3ctxlq1ktw2nl.cloudfront.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Aziz Mustaphi",
         "url": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3",
-        "favicon": "https://img.logo.dev/infoplus60.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/d3ctxlq1ktw2nl.cloudfront.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "bldi",
@@ -70,9 +65,19 @@
         "favicon": "https://img.logo.dev/capradiotv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Chada FM",
+        "url": "https://stream.bodkas.com/playlist?id=chadafmradio",
+        "favicon": "https://img.logo.dev/chada.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Fayroz",
         "url": "https://stream.zeno.fm/zv3e5wykprhvv.mp3",
         "favicon": "https://img.logo.dev/radio.ma.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HIT RADIO",
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+        "favicon": "https://img.logo.dev/hitradio.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hit Radio (Morocco)",
@@ -80,19 +85,14 @@
         "favicon": "https://img.logo.dev/hitradio.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MA:-Hit Radio Maroc",
-        "url": "https://stream.zeno.fm/une3a02mb",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MA:-Radio Sawt Alamal",
-        "url": "https://stream.zeno.fm/d4u7zbqh5qruv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Marrakechplus",
         "url": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
         "favicon": "https://img.logo.dev/webradio.marrakechplus.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Med Radio",
+        "url": "http://medradio.ice.infomaniak.ch/medradio-128.mp3",
+        "favicon": "https://img.logo.dev/medradio.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Medi 1 Classique",
@@ -110,44 +110,24 @@
         "favicon": "https://img.logo.dev/medi1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Mefi1 tarab",
+        "name": "Medi1 Hits",
+        "url": "https://cdn.live.easybroadcast.io/medi1radio/Hits",
+        "favicon": "https://img.logo.dev/medi1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medi1 Radio",
+        "url": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+        "favicon": "https://img.logo.dev/medi1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medi1 Tarab",
         "url": "http://live.medi1.com/Tarab",
         "favicon": "https://img.logo.dev/medi1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MRC:-Hip Hop Soul Radio \tRadio Music",
-        "url": "https://stream.zeno.fm/k7cdrm450s8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MRC:-Radio Adwaa ATFAL 4",
-        "url": "https://stream.zeno.fm/8wrs2bh0x1zuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MRC:-Radio Adwaa FM 2",
-        "url": "https://stream.zeno.fm/5bxh2nh0x1zuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MRC:-Radio Adwaa MaZika 5",
-        "url": "https://stream.zeno.fm/ezxx195gq2zuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MRC:-Radio Adwaa Music 3",
-        "url": "https://stream.zeno.fm/x4451xh0x1zuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MRC:-Radio plus",
-        "url": "https://stream.radio.co/s8cc7a5da4/listen",
-        "favicon": "https://img.logo.dev/stream.radio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MRC:-Sawt Al Amal",
-        "url": "http://stream.zeno.fm/qgw73bqh5qruv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Mefi1 tarab",
+        "url": "http://live.medi1.com/Tarab",
+        "favicon": "https://img.logo.dev/medi1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ness Radio",
@@ -160,9 +140,14 @@
         "favicon": "https://img.logo.dev/urbanhit.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "radio achkid fm راديوأشكيدإف إم",
-        "url": "https://stream.zeno.fm/7nqu31p6xg0uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Adwaa FM 6",
+        "url": "https://stream.zeno.fm/tvxvud2kpm0uv",
+        "favicon": "https://img.logo.dev/radio.co.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Adwaa FM6",
+        "url": "https://stream.zeno.fm/tvxvud2kpm0uv",
+        "favicon": "https://img.logo.dev/radio.co.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Aswat",
@@ -173,6 +158,16 @@
         "name": "Radio Atbir",
         "url": "https://stream-156.zeno.fm/bqdbb6hd0neuv?zs=VGAZo-zKSX-08bLa8RiUVg",
         "favicon": "https://img.logo.dev/radio.co.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Azawan",
+        "url": "https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac",
+        "favicon": "https://img.logo.dev/radioazawan.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Azawan (192 kbps)",
+        "url": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
+        "favicon": "https://img.logo.dev/radioazawan.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Manarat",
@@ -193,16 +188,6 @@
         "name": "Radio Plus Agadir FM 92.4",
         "url": "https://stream-158.zeno.fm/bqdbb6hd0neuv",
         "favicon": "https://img.logo.dev/radioplus.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio yan plus",
-        "url": "https://stream.zeno.fm/7nqu31p6xg0uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rap Lbeldi Maroc - Hip Hop Music from Morocco FR AR",
-        "url": "https://stream.zeno.fm/ivdufrl7q0quv",
-        "favicon": "https://img.logo.dev/web.facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Skyrock Casablanca",
@@ -228,11 +213,6 @@
         "name": "إذاعة طريق السلف",
         "url": "https://airtime.salafwayfm.ly/",
         "favicon": "https://img.logo.dev/airtime.salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "اذاعة القرآن الكريم",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "تفسير بن عثيمين",

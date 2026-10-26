@@ -1,5 +1,10 @@
 [
     {
+        "name": "LOVE FM: All you need is Love ♥ Amor en tu radio",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -20,14 +25,19 @@
         "favicon": "https://img.logo.dev/atb.com.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Atlántida FM 903",
+        "url": "https://radio.atlantidafm903.com:8020/atlantida_radio.mp3",
+        "favicon": "https://img.logo.dev/atlantidafm903.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Atlantida Radio Online",
+        "url": "https://radio.atlantidafm903.com:8020/radio.mp3",
+        "favicon": "https://img.logo.dev/atlantidafm903.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Big Radio Bolivia",
         "url": "http://stream.zeno.fm/cb4zhgss538uv",
         "favicon": "https://img.logo.dev/bigradio.top?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ciudad Radio 101.5 FM",
-        "url": "https://emiteradio.com/proxy/monteroradio?mp=/stream",
-        "favicon": "https://img.logo.dev/ciudadradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Clásica 100.3 Cochabamba",
@@ -48,16 +58,6 @@
         "name": "Cristo Viene La Red",
         "url": "https://stream20.usastreams.com:7000/stream",
         "favicon": "https://img.logo.dev/radios-bolivia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Diana D 102.1 FM",
-        "url": "https://cesarradio.realserver.es/listen/diana_d_/radio.mp3",
-        "favicon": "https://img.logo.dev/dianadfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "El Derribador Radio",
-        "url": "http://sc10.conectarhosting.com/proxy/derribadorradio/;",
-        "favicon": "https://img.logo.dev/elderribadorradio.disweb.top?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "El Fin del Silencio",
@@ -95,6 +95,11 @@
         "favicon": "https://img.logo.dev/online.radiofides.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "FM La Paz",
+        "url": "https://spanel.gcomstreaming.com:7008/stream",
+        "favicon": "https://img.logo.dev/fmlapaz.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Fm La Paz 96.7",
         "url": "https://spanel.gcomstreaming.com/8018/stream",
         "favicon": "https://img.logo.dev/fmlapaz.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -130,9 +135,9 @@
         "favicon": "https://img.logo.dev/tropical90.emisora.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO 24 DE JULIO 97.1 FM VILLA MONTES - TRAIJA",
-        "url": "https://stream.zeno.fm/tu8weq69fwzuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Acer",
+        "url": "https://live.turadiotv.com/8004/stream",
+        "favicon": "https://img.logo.dev/radioacer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Acer",
@@ -140,14 +145,14 @@
         "favicon": "https://img.logo.dev/radioacer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Activa Guanay 105.4 Fm",
-        "url": "https://sonic.dattassd.com:10902/stream",
-        "favicon": "https://img.logo.dev/tiktok.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Aymara",
         "url": "http://stream.zeno.fm/du0x9skxum0uv",
         "favicon": "https://img.logo.dev/radioaymara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio centro cochabamba",
+        "url": "https://radio.yoemito.net/listen/centrofm/stream",
+        "favicon": "https://img.logo.dev/grupocentro.com.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Chacaltaya",
@@ -160,24 +165,19 @@
         "favicon": "https://img.logo.dev/ciudad91.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Constelación",
-        "url": "https://stream-178.zeno.fm/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM005UEhDSXJSNkNZX1QtWVA1QWlNUSIsImlhdCI6MTc2ODQ1MTE3MiwiZXhwIjoxNzY4NDUxMjMyfQ.RywYy3NuqBI3bUy4O1743EqKJIOevTgDHUJvu3GMe5c",
-        "favicon": "https://img.logo.dev/radioconstelacionbolivia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Conquistador FM 99.1",
+        "url": "http://sp2.servidorrprivado.com:6648/stream",
+        "favicon": "https://img.logo.dev/radioconquistadorsucre.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Cumbia 90s",
-        "url": "https://emiteradio.com/proxy/cumbia90s?mp=/stream",
-        "favicon": "https://img.logo.dev/cumbia90.emisora.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Constelación",
+        "url": "https://stream-289.surfernetwork.com/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IldiT1E5OHEwUXRpTGJDSndKRlJBR0EiLCJpYXQiOjE3OTI3MTExNTYsImV4cCI6MTc5MjcxMTIxNn0._7Y_ndGJMXlQkDoKaK3Ev1h6H1DfEtSZjgRG_qczSCw",
+        "favicon": "https://img.logo.dev/radioconstelacionbolivia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Disney - La Paz FM 102.7",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac?dist=web-radiodisney",
         "favicon": "https://img.logo.dev/bo.radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Estrella 93.1 FM",
-        "url": "https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Éxito (Bolivia)",
@@ -201,6 +201,11 @@
     },
     {
         "name": "Radio Fides La Paz",
+        "url": "https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1",
+        "favicon": "https://img.logo.dev/radiofides.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fides La Paz",
         "url": "http://192.95.23.89:6358/stream",
         "favicon": "https://img.logo.dev/radiofides.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -215,9 +220,14 @@
         "favicon": "https://img.logo.dev/uyuni.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RADIO FRONTERA FM 100.3 MHz",
+        "url": "https://stream.inliveserver.com:2020/8140/stream",
+        "favicon": "https://img.logo.dev/radiofronterayacuiba.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio GAM Viacha",
-        "url": "https://radio.viacha.gob.bo/radio-stream/",
-        "favicon": "https://img.logo.dev/radio-browser.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://server1.fex.red/letanias/stream",
+        "favicon": "https://img.logo.dev/viacha.gob.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Gente",
@@ -230,6 +240,11 @@
         "favicon": "https://img.logo.dev/radiogigantebolivia.com.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Horizontes 93.1",
+        "url": "https://ares.disfrutaenlared.com:9060/",
+        "favicon": "https://img.logo.dev/horizontes.com.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Kollasuyo FM",
         "url": "https://azura2.bitstreaming.net:8000/radio128.aac",
         "favicon": "https://img.logo.dev/radiokollasuyo.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -238,6 +253,11 @@
         "name": "RADIO MARIA BOLIVIA",
         "url": "http://dreamsiteradiocp4.com:8022/stream",
         "favicon": "https://img.logo.dev/radiomaria.org.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mega Rurrenabaque",
+        "url": "https://live.turadiotv.com/8030/stream",
+        "favicon": "https://img.logo.dev/radiomegatv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Monumental Bolivia",
@@ -285,19 +305,34 @@
         "favicon": "https://img.logo.dev/radiosanrafael.com.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Supermix",
-        "url": "https://stream.zeno.fm/v93yq4bmpm0uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Wiracocha",
         "url": "https://stream.zeno.fm/rtui1p0xscetv",
         "favicon": "https://img.logo.dev/radio.wiracocha.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RadioSat FM - Bolivia",
+        "url": "https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3",
+        "favicon": "https://img.logo.dev/radiosatbolivia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioSat FM - Bolivia",
+        "url": "https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3",
+        "favicon": "https://img.logo.dev/radiosatbolivia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Red Uyuni: Radio Recuerdos",
         "url": "https://emiteradio.com/proxy/uyuni2?mp=/stream",
         "favicon": "https://img.logo.dev/radiorecuerdo.uyuni.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RKC RADIO",
+        "url": "https://sonic.dattassd.com/8198/stream",
+        "favicon": "https://img.logo.dev/kawsachuncoca.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Stereo 97",
+        "url": "https://stream.consultoradas.com:8340/stream",
+        "favicon": "https://img.logo.dev/stereo97.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stereo97",
@@ -313,6 +348,11 @@
         "name": "Tuti internacional (cliza)",
         "url": "https://stream.zeno.fm/nplf6hpufi5uv",
         "favicon": "https://img.logo.dev/vavizacli.es.tl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal FM 106.9",
+        "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
+        "favicon": "https://img.logo.dev/grupocentro.com.bo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zoy Milton",

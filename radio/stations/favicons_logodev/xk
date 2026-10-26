@@ -10,21 +10,6 @@
         "favicon": "https://img.logo.dev/clubfmkosova.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Glam Radio",
-        "url": "https://stream.glamradio.fm:8443/glamradio",
-        "favicon": "https://img.logo.dev/glamradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "GlamRADIO",
-        "url": "https://stream.glamradio.fm:8443/glamradio",
-        "favicon": "https://img.logo.dev/glamradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KLAN Kosova FM",
-        "url": "http://s4.radio.co/sd1d1904dc/listen",
-        "favicon": "https://img.logo.dev/s4.radio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Kolektiv Radio",
         "url": "https://studio28.radiolize.com/radio/8100/radio.mp3",
         "favicon": "https://img.logo.dev/kolektivradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -66,7 +51,7 @@
     },
     {
         "name": "Radio Zëri i Shtimes",
-        "url": "http://radio.1dhe1.com:8090/radio.mp3",
+        "url": "http://radio.1dhe1.com:8090/stream",
         "favicon": "https://img.logo.dev/radiozeri.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {

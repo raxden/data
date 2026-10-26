@@ -1,8 +1,58 @@
 [
     {
+        "name": "3 FM 97.3",
+        "url": "https://stream.zeno.fm/7fwg1ezf0d0uv",
+        "favicon": "https://img.logo.dev/3fmzambia.godaddysites.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "5fm Radio Zambia",
+        "url": "http://ca9.rcast.net:8014/;stream.mp3",
+        "favicon": "https://img.logo.dev/5fm.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Anointed Voice FM",
+        "url": "https://stream.zeno.fm/xiih9uyj16jvv",
+        "favicon": "https://img.logo.dev/anointed-voice-fm.infinityfreeapp.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AVET – Ubuntu Vision Studio",
+        "url": "https://halo.streamerr.co/listen/avet/radio.mp3",
+        "favicon": "https://img.logo.dev/halo.streamerr.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bola radio",
+        "url": "http://s9.myradiostream.com:47470/listen.mp3",
+        "favicon": "https://img.logo.dev/bolabet.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Breeze FM Zambia",
+        "url": "https://stream-163.zeno.fm/pwythexn1v8uv",
+        "favicon": "https://img.logo.dev/breezefmchipata.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Chikuni Community Radio Station",
+        "url": "https://chikunir.radioca.st/live",
+        "favicon": "https://img.logo.dev/chikuniradiozm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Chimfwembe FM",
+        "url": "https://stream.zeno.fm/welaq7p7d1buv",
+        "favicon": "https://img.logo.dev/chimfwembefm.infy.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Flava Radio & TV",
+        "url": "https://s8.yesstreaming.net:7021/stream",
+        "favicon": "https://img.logo.dev/flavaradioandtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hone FM Radio 94.1",
+        "url": "https://s5.radio.co/sd5df7c98b/listen",
+        "favicon": "https://img.logo.dev/evelynhone.ac.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hot 102.7FM",
@@ -15,14 +65,49 @@
         "favicon": "https://img.logo.dev/hot877.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hype FM",
+        "url": "https://stream.zeno.fm/dupvt1fgcewvv",
+        "favicon": "https://img.logo.dev/hypefmzambia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Joy FM Zambia",
+        "url": "https://stream.zeno.fm/17vmi8zjtt3vv",
+        "favicon": "https://img.logo.dev/joyfm.ptvzambia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "K-FM 95.5",
+        "url": "http://uk7freenew.listen2myradio.com:29485/;",
+        "favicon": "https://img.logo.dev/kfmmansa.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Komboni Radio",
+        "url": "http://165.56.11.238:4590/Komboni",
+        "favicon": "https://img.logo.dev/kombonipobo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mafken FM",
+        "url": "https://listen.streamaudio.co/proxy/mafkenfm/stream",
+        "favicon": "https://img.logo.dev/mafken.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "One Love Radio",
         "url": "https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1&1745660099290",
         "favicon": "https://img.logo.dev/onelovezambia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Power FM Zambia",
+        "url": "http://41.60.195.11:8000/stream.ogg",
+        "favicon": "https://img.logo.dev/lusaka.powerhousemediazm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Christian Voice",
         "url": "https://streaming.shoutcast.com/rcv",
         "favicon": "https://img.logo.dev/rcv.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Phoenix FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_PHOENIXAAC_SC",
+        "favicon": "https://img.logo.dev/phoenixfm.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sun Fm Zambia",

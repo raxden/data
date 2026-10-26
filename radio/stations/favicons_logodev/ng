@@ -1,15 +1,5 @@
 [
     {
-        "name": "#Radio Quran",
-        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1Radio International",
-        "url": "https://fm.imediaport.com/1radio",
-        "favicon": "https://img.logo.dev/1radio.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,6 +8,11 @@
         "name": "Adamimogo FM",
         "url": "http://stream.zeno.fm/sywy4vua6zhvv",
         "favicon": "https://img.logo.dev/adamimogofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Afrobeats Gospel Radio",
+        "url": "https://a6.asurahosting.com:8880/radio.mp3",
+        "favicon": "https://img.logo.dev/afrobeatsgospelradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Afrobeats Gospel Radio",
@@ -35,6 +30,11 @@
         "favicon": "https://img.logo.dev/radio.nitro-server.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Agidigbo 88.7 FM",
+        "url": "https://agidigbostream.com.ng/radio/8000/radio.mp3",
+        "favicon": "https://img.logo.dev/agidigbo887fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Air Gospel",
         "url": "https://stream.zeno.fm/qkgrhugy908uv",
         "favicon": "https://img.logo.dev/airtv.world?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -50,14 +50,34 @@
         "favicon": "https://img.logo.dev/liveonlineradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Blast 98.3 FM",
-        "url": "https://stream.zeno.fm/94a8u4h2uhhvv",
-        "favicon": "https://img.logo.dev/blasturban983fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Bond 92.9 FM",
         "url": "https://go.webgateready.com/bondfm",
         "favicon": "https://img.logo.dev/radionigerialagos.gov.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bourdex 97.9 FM Abiriba",
+        "url": "https://a8.asurahosting.com:9080/radio.mp3",
+        "favicon": "https://img.logo.dev/bourdex979fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cool FM",
+        "url": "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969",
+        "favicon": "https://img.logo.dev/coolfm.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cool FM: Lagos",
+        "url": "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969",
+        "favicon": "https://img.logo.dev/coolfm.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Diamond 101.1 FM",
+        "url": "https://cast1.asurahosting.com/proxy/brightb1/stream",
+        "favicon": "https://img.logo.dev/diamondfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Domi Radio",
+        "url": "http://radio.shoutcastmedia.net:8302/",
+        "favicon": "https://img.logo.dev/domimedia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Domi Radio",
@@ -70,9 +90,24 @@
         "favicon": "https://img.logo.dev/dciradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Esan binoculars",
+        "url": "https://fm.imediaport.com/ebradio",
+        "favicon": "https://img.logo.dev/esanbinoculars.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "FAD FM",
         "url": "https://radio.gotright.net/listen/fadfm/radio.mp3",
         "favicon": "https://img.logo.dev/fadfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fresh 105.9 FM",
+        "url": "https://stream.zeno.fm/e9x2n97b9uduv",
+        "favicon": "https://img.logo.dev/fresh1059fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fresh 105.9 FM Ibadan",
+        "url": "https://stream.zenolive.com/e9x2n97b9uduv",
+        "favicon": "https://img.logo.dev/freshfmnigeria.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GanGan Radio",
@@ -120,6 +155,11 @@
         "favicon": "https://img.logo.dev/informmeradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "InterSpace Sound System",
+        "url": "https://radio.interspacemusic.com/stream.mp3",
+        "favicon": "https://img.logo.dev/radio.interspacemusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "KCity Radio",
         "url": "https://radio.gotright.net/radio/8010/radio.mp3",
         "favicon": "https://img.logo.dev/kcityradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -127,12 +167,12 @@
     {
         "name": "Konga103.7FM",
         "url": "https://lunar.citrus3.com:8124/stream",
-        "favicon": "https://img.logo.dev/kongafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/lunar.citrus3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Konga103.7FM",
         "url": "https://lunar.citrus3.com:8124/stream",
-        "favicon": "https://img.logo.dev/kongafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/lunar.citrus3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LagosJump Radio",
@@ -140,39 +180,19 @@
         "favicon": "https://img.logo.dev/lagosjumpradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MajorFM",
-        "url": "http://stream.zeno.fm/pkza99xshkhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Metro 97.7 FM",
         "url": "https://go.webgateready.com/metrofm",
         "favicon": "https://img.logo.dev/radionigerialagos.gov.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "METRO FM LAGOS",
-        "url": "https://go.webgateready.com/metrofm/radio.mp3",
-        "favicon": "https://img.logo.dev/go.webgateready.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nagari Radio",
-        "url": "http://stream.zeno.fm/287z97ksdg8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nagari Radio",
-        "url": "http://stream.zeno.fm/287z97ksdg8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nagari Radio",
-        "url": "http://stream.zeno.fm/287z97ksdg8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "NCBN Abuja",
         "url": "https://stream.zeno.fm/1zur4ycs6x8uv",
         "favicon": "https://img.logo.dev/news.ncbn.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nigeria Info",
+        "url": "https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993",
+        "favicon": "https://img.logo.dev/nigeriainfo.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nigerian Gospel Music Radio (MP3)",
@@ -181,8 +201,23 @@
     },
     {
         "name": "Obong Radio",
-        "url": "https://stream.zeno.fm/vlssnjcwkisvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://eu4.fastcast4u.com/proxy/obonguniversity?mp=/1",
+        "favicon": "https://img.logo.dev/obonguniversity.edu.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Obong University Radio",
+        "url": "https://a10.asurahosting.com:7150/radio.mp3",
+        "favicon": "https://img.logo.dev/obonguniversity.edu.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Obong University Radio",
+        "url": "https://a10.asurahosting.com:7150/radio.mp3",
+        "favicon": "https://img.logo.dev/obonguniversity.edu.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pidgin Radio",
+        "url": "https://stream.rcast.net/66702",
+        "favicon": "https://img.logo.dev/pidginradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Praiseworld Radio",
@@ -197,17 +232,7 @@
     {
         "name": "RadioTiwa",
         "url": "https://stream.zeno.fm/tvqvamkwe5zuv",
-        "favicon": "https://img.logo.dev/instagram.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioTiwa",
-        "url": "https://stream.zeno.fm/tvqvamkwe5zuv",
         "favicon": "https://img.logo.dev/radiotiwa.com.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RCCG Central Parish Radio",
-        "url": "https://s2.radio.co/s82911d13a/low",
-        "favicon": "https://img.logo.dev/centralparishradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RFI Haoussa",
@@ -218,36 +243,6 @@
         "name": "Rose FM",
         "url": "http://ec1.everestcast.host:4730/stream",
         "favicon": "https://img.logo.dev/radio-nigeria.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Softlife Afrofusion Radio",
-        "url": "https://eu4.fastcast4u.com/proxy/softlife?mp=/1",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Softlife Afrofusion Radio",
-        "url": "http://eu4.fastcast4u.com:3768/stream?type=http&nocache=1",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Softlife Afrofusion Radio",
-        "url": "http://eu4.fastcast4u.com:3768/stream?type=http&nocache=11",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Softlife Afrofusion Radio",
-        "url": "http://eu4.fastcast4u.com:3768/stream?type=http&nocache=11",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Softlife Afrofusion Radio",
-        "url": "https://eu4.fastcast4u.com/proxy/softlife/stream",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Softlife Afrofusion Radio",
-        "url": "https://a10.asurahosting.com:7540/radio.mp3",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Splash FM 105.5",
@@ -270,11 +265,6 @@
         "favicon": "https://img.logo.dev/radio.thetodayafrica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Trove Radio Station",
-        "url": "https://stream.zeno.fm/c4ghegiwnkcvv",
-        "favicon": "https://img.logo.dev/march3rdmedia.com.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "URBAN RADIO ENUGU",
         "url": "https://edge.mixlr.com/channel/cfldr",
         "favicon": "https://img.logo.dev/urbanradio945.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -285,6 +275,11 @@
         "favicon": "https://img.logo.dev/usakufm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Vybz 94.5 FM",
+        "url": "https://mpc.my-control-panel.eu/stream/8138",
+        "favicon": "https://img.logo.dev/vybzfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "YES 101.7 FM",
         "url": "https://stream.zenolive.com/kqgbf9g3mfhvv",
         "favicon": "https://img.logo.dev/yesfmibadan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -293,5 +288,40 @@
         "name": "Yes FM 101.7",
         "url": "https://stream.zeno.fm/kqgbf9g3mfhvv",
         "favicon": "https://img.logo.dev/yesfmibadan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZamRock Radio",
+        "url": "https://wild-haze-hifi.deathsmack-a51.workers.dev/",
+        "favicon": "https://img.logo.dev/zamrock.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZamRock Radio [Mega Relay]",
+        "url": "https://megason-radioinfo.deathsmack-a51.workers.dev/",
+        "favicon": "https://img.logo.dev/zamrock.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZamRock Radio [Nigeria Relay]",
+        "url": "https://megason-radioinfo.deathsmack-a51.workers.dev/",
+        "favicon": "https://img.logo.dev/zamrock.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZamRock Radio [Nigeria Relay]",
+        "url": "https://megason-radioinfo.deathsmack-a51.workers.dev/hifi.aac",
+        "favicon": "https://img.logo.dev/zamrock.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZamRock Radio [Nigeria Relay]",
+        "url": "https://megason-radioinfo.deathsmack-a51.workers.dev/hifi.aac",
+        "favicon": "https://img.logo.dev/zamrock.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZamRock Radio [Nigeria Relay]",
+        "url": "https://mega-public-relay.deathsmack-a51.workers.dev/",
+        "favicon": "https://img.logo.dev/zamrock.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZamRock Radio [Nigeria Relay]",
+        "url": "https://mega-public-relay.deathsmack-a51.workers.dev/hifi.aac",
+        "favicon": "https://img.logo.dev/zamrock.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

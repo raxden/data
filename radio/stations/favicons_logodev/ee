@@ -5,39 +5,54 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "All The Best Radio",
-        "url": "https://c4.radioboss.fm/stream/537",
-        "favicon": "https://img.logo.dev/allthebestradio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Äripäeva Raadio",
         "url": "https://www.aripaev.ee/raadio/stream.mp3",
         "favicon": "https://img.logo.dev/aripaev.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Chat Raadio",
+        "url": "https://puma.streemlion.com:1830/stream",
+        "favicon": "https://img.logo.dev/jasva.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Duo Country",
-        "url": "http://le09.euddn.net/65895ff446f29baa300ade8193108aba74bb58b20e601f6b2ee7c69e00c05c4d71571b9c9ea55367e98560428822c3980c0faabd92a4814bd275d4db32c303ca851c6587f68911c558f37da588cbaf7d85036ef69835aa238f7fd2f6501a11e917587a91b84d7e6aed47a24f2f4b5762498333850d66807634761a659b4255694b560f43726fef9e155211b637abe18ae73621a8c4b1bf88bfb8ceddff5db8f5a4548c4e1236665f0075344977f89821beb81151b1586a41f801c8cf4f377b0d/dc_duocountry.aac",
+        "url": "http://le303.euddn.net/2785bb3d72fd27efb7b26770e24299e00fc6e8ca329e3592f691e97fe01ac74e22f4fd8a1e85b0fd811057de84c3fd785a97d2613d7dcf2cfd6aeb9d7011503944ae63020b8ebf3a04b12d895956d05cd2eb1871c726a102d43472a68777a95c4655e3c5aaead5e387e5a9ade89e05e0fc3a5bc50956f257e9acfddef69c8492e707b7df9b5aaa82748c0137a2ab24aed7ff5f482060a64502ce57a29561f36bcd98fb10ed94425eb79f44fd53543b0af4331a5fe801b6db39723f253f804fcc/dc_duocountry.aac",
         "favicon": "https://img.logo.dev/raadioduo.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Duo Gold (Estonia)",
-        "url": "https://le03.euddn.net/4df6a80de9754b0e96ad4f84e1c81111811f7aba47d2379509ac3cbf474a04b02b5cc342cbe85748a652849ef6b557dda027a1725d936e8d1f25fd0e841b894709b70f0f525144b33433c8b11a853594c38c2f95f06d924d1909db25332562e9198fa4958617b73f0901c7b4bdee50e54299aed5b34df299926ffc79562e4040987dd1987c98e6f11b4b79430ce2294e9d29e186016d517792d06519c9185df1/kuld.aac",
+        "url": "https://le302.euddn.net/99fd1781a308a39872316309e3588ff1171f033030819929ab3a54be0ba8dd6bff904b59edc7f64c6538c00ba2ccaadb63e0061dbbfa418d2d7a628f9182805b87423c460b7b28030126103c9b454ab6648b05e2c72d8dbbe8930b40d6950d694598fefa3b4bc9a2c3ecdd3ef67d55ff1fb5fc9fb82580b8650c7830e6c3a494fa4ffdae9bfe442fad754d7ed5a4ca86b50b57578af628b46122435eb6f480db4dc288531af2bd23c17fad605077be16/kuld.aac",
         "favicon": "https://img.logo.dev/raadioduo.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Duo GreatestHits (Estonia)",
-        "url": "http://le05.euddn.net/7645bcdfabdc43b61734d3ee52ccd371dca16916ba069981f225cda718e1af94108f0f5193eb727fb5b60c12fb5b27a1ddacaf27ff4da84559347b7f1b888bc79362fb99619ff449190cf9c34fb67afa158fa59d8456788050f76821853d1529ea8abbb616ad55ab63f49cda88ec1e626836880b6e5a3b33924c43a11e873ea0c662c85cab4afce94edf474c1e66819b777fd588cd8ed718ab2954c3688e31a19a082c050b71e902958b4134ddc5fe93/hitmix.aac",
+        "url": "http://le306.euddn.net/a5731fc77d99cdf19376dbde3dfe4ab17dc4a6a0134bbd79dc77445ba495ede3d514ba7a0ebfd06f1243c1f72a38cd90dab00793379d546c8de3ea496e032465f284e7b8586d6de0c29d0f601ce0c93ad71d116fac19257610f566654fe755faf7ad9d030ee6583475237c3c5a0803e25cfb5f9fe436f03d6986c977b0dd055cfaceef9f5a70cbd6017d00dd773a3da1d08052efad3b59b5a343583081b9bd1a0c0497ac745b1729878aa0ce846b3603/hitmix.aac",
         "favicon": "https://img.logo.dev/raadioduo.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Duo Party",
-        "url": "https://le06.euddn.net/279bb1630f135084caa1ff583ca3033a5af28635cd98c5054a0fa7c91d1158b29ddd2089f845c9a2cbffc0490e8dd2fc22e20f561ca25b616e663652a55374ce5dc45b1a5aede252bf5e3df5574a261d1657c8f31cd2492f484ee70a1ccfd63c5f5a77195682bf1efcafdd9ff711aa0c243bdfdeedcc8d2a9c1a3a8721597acaa1313ac70837a5a0d415257abb29501f1253b9b029063a9ba2ef175e8c8f26935285961fd373a829ad4ab2607c39b7b9/duodance.aac",
+        "url": "https://le306.euddn.net/12adc6c1ef71f40125f83cb93b3b539a1521d14c55ca31085cf153adffd19967ac3458aab5109c9d99c244d61b6ad040bfc72c266dbd969d0e0559327f4ecc2912fa07c34d18f3093dd2cd865f794db13b460bdc86766983b9b325d34d9984bbd44f247e89f446a7618d212f7db451d50c88d3ae00bfe2c8be2f5f4fe088d2b4e64f125b9f0750ab9bc6241f42bdf4dbbbea6514737e3d60c92852ded26f2d61bef6fa052d5334d5039437dd7e97e89b/duodance.aac",
         "favicon": "https://img.logo.dev/raadioduo.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Duo Rock",
-        "url": "http://le08.euddn.net/fe9f39555c5d7604eca568a5fe3171dd3b7cb629b4f775dcf08dde1307ae0e542131378493063be6a955dd5275dbc92e4553156600ae5fa51b6fbdffd0e130399765e13e32b6a1a1a8608bc737b15c47bd148a08010ca5fc522d80c578de4f64b4b80232c090247732ba0a2926ac10c71900ee104c5f984743b159774528f4c077d822d54f7486295a454209c864a7467325995c339a8e02231c3232af47d7906f4e11415b32123cbcebdc2e6ea2d76e/rokk.aac",
+        "url": "http://le306.euddn.net/3f3ca4f5c6e50e905d94099a45a834a26c3b58853f956426eb83af3bb57933ee5331b4b54c5a31f63c47daa26d14893fe4f7c241db7acd10b25a41311ac09b2cbafeaa3db04e80af013d46b9dd0b87fb551d7a6ca08c5ef774e46bf4dc155dce56744c5c8bfe8cb207caadc3bcb622b457ae132ef5cc5847eae030cd5db308ec2e4d7c3bccd8bea5b884d970fc6ce4483e8e062d973960796426c82b84462167ebc51f32c4bb440723046410fec1ddc2/rokk.aac",
         "favicon": "https://img.logo.dev/raadioduo.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Elmari ballaadid",
+        "url": "https://le304.euddn.net/e7b5170358a685d35d1ebbb89f239ebaa7490fb806e7a245cddbcce829b3e0efd3d929159c5fc53c33b0415b1d326bedc5b4a335c23214a9761a891a078a6e7ee89c7cde0352fce3d97921528d382afa9077f4f43de94fcca6979f08e9bb226202d9d42a70da3b4870fba3fcfe5304940a12f7c6c3ac4a610d6f4987e897f4c99d8555ee7af55c9750bb043907427abf36374811d332bb8d9b1d665c3386ede679a7f114ede7e87d85f7def315cfadaa279417174c7bddb4ae1f97a1903e4bb8/EB_elmariballaadid.aac",
+        "favicon": "https://img.logo.dev/elmar.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Elmari Kuld",
+        "url": "https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac",
+        "favicon": "https://img.logo.dev/elmar.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Elmari tantsuõhtu",
+        "url": "https://le301.euddn.net/c7510c5fabc16682bb64e3734b840f2860ec6675735ecdddee270047ceec76889bba4c0ee6d7b1fbb26bc591f7fbbd789b4517ad912b66213bae2a70bebbdc9a800074e7b09f82b447eb8b915865791e9280b5963dc0963f1acee208ff38ae8b05e52ecd5f6313490dca845bf57c2ee673950bde3ace4cbfdf16b7137ca982e389e30a697ff640b8c034627a2934c645e396c38546ce3c66c44ab540da15a59b8220c1e18acbac9b0a6c698c1d4426234f9a519a7d1a599ff37ec0c99240be82/elmaritantsuohtu.aac",
+        "favicon": "https://img.logo.dev/elmaritantsuohtu.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Elmari tantsuõhtu 24/7",
@@ -75,6 +90,11 @@
         "favicon": "https://img.logo.dev/finestfm.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hardcore Predictor FM",
+        "url": "https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3",
+        "favicon": "https://img.logo.dev/hpsbassline.club?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hitmix",
         "url": "https://stream.hitmix.ee:8443/HIT_320",
         "favicon": "https://img.logo.dev/hitmix.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -90,9 +110,9 @@
         "favicon": "https://img.logo.dev/hitsradio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Hits Show Radio",
-        "url": "https://stream.zeno.fm/7sreyeyustkuv",
-        "favicon": "https://img.logo.dev/kuula-raadiojaama.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "HPS Bassline",
+        "url": "https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3",
+        "favicon": "https://img.logo.dev/hpsbassline.club?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "IDA",
@@ -110,6 +130,16 @@
         "favicon": "https://img.logo.dev/idaidaida.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Jumor FM Estonia",
+        "url": "https://a10.asurahosting.com:7640/radio.mp3",
+        "favicon": "https://img.logo.dev/jumorfm.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kaguraadio",
+        "url": "https://radio.vlevelscdn.net/radio/kaguraadio.stream/chunklist_w936127105.m3u8",
+        "favicon": "https://img.logo.dev/kaguraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Kaguraadio",
         "url": "https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/kaguraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -123,6 +153,11 @@
         "name": "Kiss FM",
         "url": "https://edge02.cdn.bitflip.ee:8888/KISS",
         "favicon": "https://img.logo.dev/sky.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kiss FM Eurovision",
+        "url": "https://edge04.cdn.bitflip.ee:8888/KISS_AAC?_i=2e955b68",
+        "favicon": "https://img.logo.dev/kissfm.sky.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kiss FM Eurovision",
@@ -170,11 +205,6 @@
         "favicon": "https://img.logo.dev/klassikaraadio.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kuma FM 101.0",
-        "url": "http://5.39.16.62:8004/tre",
-        "favicon": "https://img.logo.dev/kuma.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Legendaarne Raadio",
         "url": "https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92",
         "favicon": "https://img.logo.dev/sky.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -186,8 +216,23 @@
     },
     {
         "name": "MyHits",
-        "url": "http://le05.euddn.net/571bc7e6e3dea1dcb2bad2c223b7fc4535a649e3e7a6957d9ad2b790abf78a108844f4e65d9fb3f25be9f0d3c962a3c717d339e9eec97ed7b60e26de4b5fbea17df38e25e79a74d24e4a53604c15a75b7cbedf3479ccbb76cf319e98b9090e81f49b0a5eddf67796c75ee835e34df178c27d359a6db29b280c18177d792340d856dabf2fd1558d8dc5bcf6f9dacc7f06a74d49ef1b15abdb5f51312c59913b4d44ab1b569028aed853b51114acb443a6/myhits.aac",
+        "url": "http://le306.euddn.net/4141792de5b9194c05f45a1a5a20ba1858ebb6e222a213a581f51937d24c7ab08fcc688f7aed863a7cb9fd73690c344f5ae7ef1bdc8300198cd04a91fcbc5b92fc940e21acef8c9f126bf9ef1f9e87233bac40ab21cbb35aa73a999fcf4ca44574bad0e2935544cc395e988684f1fece4cfa8ea223abab07b016ce7ae76fd22709493b5054d64cfaf588a358ee33273ae65f57f969a97c61e08f350a40f62e82f5109d5c0ccca2efee0902d50aba9d25/myhits.aac",
         "favicon": "https://img.logo.dev/myhits.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MyHits Dance",
+        "url": "https://le305.euddn.net/aa0f7d5d0d91aedebb64537a46b6f235e1374e98dee2446ce2ee75c7e9e4a85b863861d1b85a0c675a01ce4a8e56aae7fc27f38880073635a0a2d6074cae887ac761b3e16b6a977403828578918690942361afed45372f2861895cd16a638269e6df6a0d3719acbaf55c61c16830dfe6c96d49a2f97b42435a73435cf007546f8af475becf62934c70322ccc09d42f9807579bbd8f280b5d54e91aaa135e83fe670c240e8987328c76a8192c7bc79c4a/md_mhdance.aac",
+        "favicon": "https://img.logo.dev/myhitsdance.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MyHits Rock",
+        "url": "https://le304.euddn.net/54e2dea80ebf0c7697f2b8f050330b0c14112f23cd496302ae119d241b266654fdad69040207cbc532d307f70406b572fc82e546282368e08f7e2fd55597cc1edc3fbfc13d8b1b3db84de57ea1872706ef707a6ebb8b3deae2256a1b939dcbfe364e38140d088d4f6abda37774a0747daae683a9a928dcd37c6d99d6b3b5dde088c7ce7f1c47e1454dfa8bfbee2a7af92c7781e27d80c516700472a592155a1bc665362957ea0e2d23a3141f4ef52e8660a4cb56713e6641dd9f7c520d33c2f0/MHR_myhitsrock.aac",
+        "favicon": "https://img.logo.dev/myhitsrock.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NikRadofem",
+        "url": "https://live.nikradofem.online/live",
+        "favicon": "https://img.logo.dev/nikradofem.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NRJ",
@@ -195,39 +240,19 @@
         "favicon": "https://img.logo.dev/sky.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "NRJ DnB",
+        "url": "https://stream.skymedia.ee/live/NRJdnb",
+        "favicon": "https://img.logo.dev/nrj.sky.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRJ Estonia",
+        "url": "https://stream.skymedia.ee/live/NRJ",
+        "favicon": "https://img.logo.dev/nrj.sky.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "NRJ Tallinn",
         "url": "https://edge03.cdn.bitflip.ee:8888/NRJ",
         "favicon": "https://img.logo.dev/nrj.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pereraadio Kuressaare",
-        "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pereraadio Kuressaare",
-        "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pereraadio Tallinn",
-        "url": "http://icecast.pereraadio.ee:8000/Tallinn",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pereraadio Tallinn",
-        "url": "http://icecast.pereraadio.ee:8000/Tallinn",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pereraadio Tartu",
-        "url": "http://icecast.pereraadio.ee:8000/Tartu",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pereraadio Tartu",
-        "url": "http://icecast.pereraadio.ee:8000/Tartu",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Power Hit Radio",
@@ -245,6 +270,11 @@
         "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "R2 Rock",
+        "url": "http://icecast.err.ee/r2rock.mp3",
+        "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "R2Altpop",
         "url": "http://icecast.err.ee/r2alternatiiv.opus",
         "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -252,6 +282,31 @@
     {
         "name": "r2chill",
         "url": "http://icecast.err.ee/r2chill.opus",
+        "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "R2Extra - AltPop",
+        "url": "https://live.err.ee/live/r2alt.m3u8?short=true",
+        "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "R2Extra - Chill",
+        "url": "https://sb.err.ee/live/r2chill.m3u8?short=true",
+        "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "R2Extra - Rap",
+        "url": "http://icecast.err.ee/r2pkorge.mp3",
+        "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "R2Extra - Rock",
+        "url": "https://sb.err.ee/live/r2rock.m3u8",
+        "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "R2Extra Pop",
+        "url": "https://live.err.ee/live/r2pop.m3u8?short=true",
         "favicon": "https://img.logo.dev/r2extra.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -275,14 +330,9 @@
         "favicon": "https://img.logo.dev/r2.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Raadio 2 (HQ)",
-        "url": "http://icecast.err.ee/raadio2korge.mp3",
-        "favicon": "https://img.logo.dev/icecast.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Raadio 2 HQ",
-        "url": "http://icecast.err.ee/raadio2korge.mp3",
-        "favicon": "https://img.logo.dev/icecast.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Raadio 4",
+        "url": "http://icecast.err.ee/r4retro.mp3",
+        "favicon": "https://img.logo.dev/r4.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raadio 7",
@@ -296,28 +346,33 @@
     },
     {
         "name": "Raadio Elmar",
-        "url": "https://le06.euddn.net/06c6e9fec40c66f08e914c03863f9414453544f91420595482312a9fc4000bf6d1f2e38af14516a218d89b5a897a16f9500a64a80ed0da449f729d7f78de8bc5dcd07fb3a5925334697756f363102f773f78583b0e9c83bec1004f9b69bd211a11d59a39d295ac79d1f8c9848c83f83ffe16c9a65cb41f122ddcdc8c974c35a5f8d85b07cbd33b90325ddfd49b6a3e5666c05d27f019b6f1128741421b3d1e84/elmar.aac",
+        "url": "https://le303.euddn.net/be741407b8c2c8d0fad9de450d90df5cd75d547611ae73310480a35c15512ec04b8edc34e03c2e1aa5eb7ea1964bbd1a0346b75c5f70cbfda64533d87f7c214a1d476cccf77656a6b6a9ed6ff5099065438eac66ad4a8a55ac8241a5f8818d175f881863563129eb32eac6833057d90e689f52c5f96c8b1fd3744f265824294b0449346bc21d2f5499fa7955bcf84d6d1130565b30e9ba5833e55c0064b4b0fce61238294885be4ade2544d641327084/elmar.aac",
         "favicon": "https://img.logo.dev/elmar.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Raadio Kadi",
-        "url": "https://edge06.cdn.bitflip.ee:8888/kadi",
-        "favicon": "https://img.logo.dev/kadi.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Raadio HappyU",
+        "url": "https://radio.streemlion.com:2525/stream",
+        "favicon": "https://img.logo.dev/happyu.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raadio Kidzone",
-        "url": "https://le01.euddn.net/d3234a63af1bebda7d8bf0638f93824f6667da6c452d3a510c06997367525934f604f84c3e966dfa65e330d3b40a4bb1a0ee63ae0f23e6a0203776e0a42bb03365cf559300967b9a4c739e5e9ab4f3f9fb8b5755ab42aaad4507cf3e35c5f5a23cd197d1b435a8c66c22298f65e41ec8a0e8818d86273bd1713706c829829d0e80a749ca4f59004ff5d62b3573eccf55420c548828e0157c66d487a91ab0c488e680b84ac7ae25af76ef1494f6032a9c/kidzone.aac",
+        "url": "https://le301.euddn.net/508d898ddc0910a8976f2740b2200fad41e42c39bb0134e774f1ca92e2596d2d8bbca56a57e20cd026f9e5c1cd897109808416f637a709d1a9267373b6403f50c3c5daa2c7f0d183444d17fe7ac08111a87d647a00e21c30275183ca84b303f1431eef6cc4eea7c41c667c88a9c9183997e194d0e3d43034d4d712158608220626a136f08fff32b2b976c13c07cc07d10ed9721b7cbe11ab5ce3d66c4248fcdce12228b28c752a666b74b1f461590fd1/kidzone.aac",
         "favicon": "https://img.logo.dev/raadioduo.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raadio KUKU",
-        "url": "http://le08.euddn.net/9f90862fb9d2787afa20eaa7b1d6762143442790aa807e96fd2a9ef7398e1653d7f21bd2959d52047d03e1324a71d9316e58d02d280bf92b0ecaf6b55664f093b6060823916c0dcae3adf5b64ea998263f211dc125d07d95f82a337c3432d16b6c499f9ab818e7a56f4fe397d87ce6ff733d5b212a9570f1df9eeed94d6db680510e2f39577ed285ff769fa7c8786ebc4588ee75b562644469dbc72b108fbb979a599107b89b05b331e39bc9ea0b8273/kuku_low.mp3",
+        "url": "http://le304.euddn.net/fb0a8820356de27ae7a3b2ba8b997bcdb364167a4d8f9f26d0c3d169a5bd9c04e3636d6cd07404e946c74214ccd10a078a82a32c6fd6fd30475631c72a21d952031c2c277e010605f7cd89c47f646028cbd44290136a57f0dfdf0f46ab351e9b688c8c6d223c5d4c06405198f471e1fbdd94c3012d1a249464d4952c5952d866e840f81c0d5f39254bd46f5b6269092c7c34a9a437d25ee9bdb1b8e37467d0fb33a836828189e234260fa00cbfdb35ca/kuku_low.mp3",
         "favicon": "https://img.logo.dev/kuku.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raadio Kuku",
-        "url": "https://le06.euddn.net/c609d0fe2c72e9cd5237bd29bd9df83655ffab5d1c823d610d7ba65586a9433d4680ee5ab2704d2a15e826688f7267bdcf1ab20c25f6a4027d431be03d4d08107068c83415cf662173818d566f11a6eb7e2d37b015d77c3826e05b56899004fb469967cad9b2aa9c24d1ef5ecf67c01b868e48619b6fbd2137d6299f134a78e3ba9210c4266bfcb3085ca9ee7e25eb89c8b83e72c58f081bc6aa9ae33c2b487bff81ba61fee769267c7b4818b209f23a/kuku_high.mp3",
+        "url": "https://le306.euddn.net/63dad6426736298e2810593142c250443b2273c549b762cac469be691b3ccdb80f37d10fb5ecc876a76bf3366bd1f71dcd7b59cd61b3b02f7591fa208e240dbd8b587c274ba828a6a65d9c3ae8101ae5942025a674c8a446511e6a46e26efdcd6ca26fa506858379da7e3c6d52fbd632cedde6c57b98c8b42ee0e68c98e0a3a54ca1fa8b5c47ebca90ba71d221789fe9bbe36828facc1437b2dca4e0ed741846043a66047b3342e574bb56def800325c/kuku_high.mp3",
         "favicon": "https://img.logo.dev/kuku.pleier.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Raadio PRT",
+        "url": "https://jvrywgaxjrdgauspdrvr.supabase.co/functions/v1/stream-proxy",
+        "favicon": "https://img.logo.dev/raadioprt.rf.gd?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raadio Relax FM",
@@ -350,17 +405,12 @@
         "favicon": "https://img.logo.dev/cast4.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Eli",
-        "url": "http://icecast.pereraadio.ee:8000/RadioEli",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Eli",
-        "url": "http://icecast.pereraadio.ee:8000/RadioEli",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Nostalgia",
+        "url": "https://c16.radioboss.fm:8327/stream",
+        "favicon": "https://img.logo.dev/radionostalgia.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nostalgia Estonia",
         "url": "https://c16.radioboss.fm:8327/stream",
         "favicon": "https://img.logo.dev/radionostalgia.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -383,11 +433,6 @@
         "name": "Relax FM Eesti",
         "url": "https://stream.relaxfm.ee/relax",
         "favicon": "https://img.logo.dev/sky.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Retro fm disco",
-        "url": "https://edge05.cdn.bitflip.ee:8888/retro1.mp3?",
-        "favicon": "https://img.logo.dev/edge05.cdn.bitflip.ee:8888?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Retro FM Estonia",
@@ -423,16 +468,6 @@
         "name": "RUUT FM",
         "url": "https://a1.asurahosting.com/listen/ruut_fm/radio.mp3",
         "favicon": "https://img.logo.dev/ruutfm.treraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Semeinoje Radio",
-        "url": "http://icecast.pereraadio.ee:8000/Semeinoje",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Semeinoje Radio",
-        "url": "http://icecast.pereraadio.ee:8000/Semeinoje",
-        "favicon": "https://img.logo.dev/pereraadio.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sky Plus",
@@ -535,6 +570,11 @@
         "favicon": "https://img.logo.dev/vikerraadio.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Vikerraadio",
+        "url": "https://icecast.err.ee/vikerraadiokorge.mp3",
+        "favicon": "https://img.logo.dev/vikerraadio.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Vikerraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | vikerraadio.err.ee",
         "url": "http://icecast.err.ee/vikerraadio.opus",
         "favicon": "https://img.logo.dev/vikerraadio.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -550,14 +590,29 @@
         "favicon": "https://img.logo.dev/xfm.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "XFM Eesti",
+        "url": "https://sc2.treraadio.ee/xfm-tallinn",
+        "favicon": "https://img.logo.dev/xfm.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "XFM ESTONIA",
         "url": "https://sc2.flamebox.org/XFM",
         "favicon": "https://img.logo.dev/xfm.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Пирамида FM",
+        "url": "https://listen9.myradio24.com/93928",
+        "favicon": "https://img.logo.dev/piramidafm.tilda.ws?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Радио 4 / Raadio 4 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r4.err.ee",
         "url": "http://icecast.err.ee/raadio4.opus",
         "favicon": "https://img.logo.dev/r4.err.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радіо DrUzi",
+        "url": "https://druzi.fm:8443/192mp3",
+        "favicon": "https://img.logo.dev/druzi.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Семейное Радио Эли. Тарту 1035 КГц",

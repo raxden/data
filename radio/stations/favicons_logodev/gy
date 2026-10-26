@@ -5,34 +5,14 @@
         "favicon": "https://img.logo.dev/ncnguyana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "104.1 Guyana Lite FM",
-        "url": "https://n08.radiojar.com/nh42m158d4duv?rj-ttl=5&rj-tok=AAABlyfWxAgAw4EgJHYs7gEKgA",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "97.5 FM MAAD",
-        "url": "https://streaming.broadcastradio.com/brutal",
-        "favicon": "https://img.logo.dev/maad97.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "88.5 Rock FM",
+        "url": "https://s2.radio.co/s77716fe53/listen",
+        "favicon": "https://img.logo.dev/885rockfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM 89.1 NTN Radio",
-        "url": "https://auds1.intacs.com/ntnradio",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "HJ94.1 Boom FM Georgetown",
-        "url": "http://192.99.8.192:3630/stream",
-        "favicon": "https://img.logo.dev/hj941.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NTN Radio 89.1 Georgetown",
-        "url": "http://auds1.intacs.com/ntnradio",
-        "favicon": "https://img.logo.dev/ntntv-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM",

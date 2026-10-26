@@ -15,6 +15,11 @@
         "favicon": "https://img.logo.dev/radio.audiomastering.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "BEVEIK RADIJAS",
+        "url": "https://halo.streamerr.co/listen/beveikradijas/radio.mp3",
+        "favicon": "https://img.logo.dev/beveikradijas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Cold Tear Radio",
         "url": "https://radio.rad10x.com/listen/coldtear/coldtear.mp3",
         "favicon": "https://img.logo.dev/radio.coldtear.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -33,6 +38,11 @@
         "name": "Easy FM",
         "url": "https://netradio.ziniur.lt/easyfm.mp3",
         "favicon": "https://img.logo.dev/ziniuradijas.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "estakada99",
+        "url": "https://live.e99.live/main",
+        "favicon": "https://img.logo.dev/e99.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "European Hit Radio",
@@ -70,14 +80,19 @@
         "favicon": "https://img.logo.dev/goldfm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KAB Radio",
-        "url": "https://node-25.zeno.fm/29xtapvkzhhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "GoldFM",
+        "url": "http://stream.goldfm.lt/goldfm.aac",
+        "favicon": "https://img.logo.dev/goldfm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kapsai",
-        "url": "http://91.211.246.42:8000/Kapsai-HD",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Haze Pub Radio",
+        "url": "https://live.leproradio.com/rocks.ogg",
+        "favicon": "https://img.logo.dev/kalaver.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jazz FM",
+        "url": "https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8",
+        "favicon": "https://img.logo.dev/jazzfm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kelyje Kaunas",
@@ -120,9 +135,9 @@
         "favicon": "https://img.logo.dev/lrt.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "lsg radijas",
-        "url": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
-        "favicon": "https://img.logo.dev/streamingp.shoutcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "LRT Radijas",
+        "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
+        "favicon": "https://img.logo.dev/lrt.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "m-1",
@@ -150,14 +165,19 @@
         "favicon": "https://img.logo.dev/pliusas.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "M-1 Radio",
+        "url": "https://stream.m-1.fm/m1/mp3",
+        "favicon": "https://img.logo.dev/m-1.15min.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Mano",
         "url": "http://klausyk.manofm.lt:8000/Icecast2",
-        "favicon": "https://img.logo.dev/klausyk.manofm.lt:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/klausyk.manofm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mano FM",
         "url": "http://klausyk.manofm.lt:8000/Icecast2",
-        "favicon": "https://img.logo.dev/klausyk.manofm.lt:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/klausyk.manofm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MANO FM",
@@ -170,9 +190,9 @@
         "favicon": "https://img.logo.dev/manofm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Marijos radijas",
-        "url": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
-        "favicon": "https://img.logo.dev/marijosradijas.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Mantra Radio",
+        "url": "https://whsh4u-panel.com/proxy/gsedemag?mp=/stream",
+        "favicon": "https://img.logo.dev/mantraradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Marijos radijas",
@@ -185,19 +205,14 @@
         "favicon": "https://img.logo.dev/marijosradijas.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Mazeikiai FM",
-        "url": "http://91.211.246.42:8000/Mazeikiai",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Marijos radijas",
+        "url": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
+        "favicon": "https://img.logo.dev/marijosradijas.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Mažeikių Aidas",
-        "url": "http://maidas.kli.lt:8000/admin.mp3",
-        "favicon": "https://img.logo.dev/maidas.kli.lt:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Neringa FM",
-        "url": "http://radio.15min.lt:8000/neringafm",
-        "favicon": "https://img.logo.dev/radio.15min.lt:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Marso Radijas",
+        "url": "https://radijas.marsas.me/live",
+        "favicon": "https://img.logo.dev/marsas.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Neringa fm *",
@@ -205,34 +220,29 @@
         "favicon": "https://img.logo.dev/neringafm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "NeringaFM",
-        "url": "http://185.11.24.72:8000/neringafm",
-        "favicon": "https://img.logo.dev/185.11.24.72:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Palanga Street Radio",
         "url": "https://stream.palanga.live:8443/palanga128.mp3",
         "favicon": "https://img.logo.dev/palanga.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Patejago",
-        "url": "https://stream-46.zeno.fm/f6m1zbud5p8uv",
-        "favicon": "https://img.logo.dev/stream-46.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Play Radio",
-        "url": "https://n08.radiojar.com/d9cm273ystzuv",
-        "favicon": "https://img.logo.dev/n08.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "PMR",
-        "url": "http://pmr.lt/streams/pmr-1",
+        "url": "http://pmr.lt/streams/pmr-2",
+        "favicon": "https://img.logo.dev/pmr.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PMR.lt",
+        "url": "https://stream.pmr.lt/pmr.mp3",
         "favicon": "https://img.logo.dev/pmr.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "pmr.lt - world music radio",
         "url": "http://pmr.lt/streams/pmr-1",
         "favicon": "https://img.logo.dev/pmr.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Power Gold LT",
+        "url": "https://n12-eu.rcs.revma.com/asdpz3qfbhuvv",
+        "favicon": "https://img.logo.dev/powerhitradio.tv3.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Power Hit Radio LT",
@@ -250,6 +260,16 @@
         "favicon": "https://img.logo.dev/powerradio.yourwebsitespace.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "PowerHitRadio Lithuania",
+        "url": "https://stream.rcs.revma.com/f31w7e0fveuvv",
+        "favicon": "https://img.logo.dev/powerhitradio.tv3.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pūkas 2",
+        "url": "http://212.95.39.164:8074/stream",
+        "favicon": "https://img.logo.dev/pukas.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Pukas Lt",
         "url": "http://212.95.45.82:8000/stream",
         "favicon": "https://img.logo.dev/pukas.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -265,14 +285,44 @@
         "favicon": "https://img.logo.dev/pulsas.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radijo Klubas",
+        "url": "http://didzdvaris.vinlita.lt:8009/stream.aac",
+        "favicon": "https://img.logo.dev/didzdvaris.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radijo Musikii",
         "url": "https://stream.radijo-musikii.net/radio/8000/radio.mp3",
         "favicon": "https://img.logo.dev/radijo-musikii.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radijo stotis FM99",
+        "url": "https://securestream.casthost.net:8617/fm99",
+        "favicon": "https://img.logo.dev/fm99.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radijo Stotis Kelyje",
+        "url": "https://solid55.streamupsolutions.com/proxy/opcubjpd/stream",
+        "favicon": "https://img.logo.dev/radijaskelyje.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radijo Stotis Kelyje",
+        "url": "https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream",
+        "favicon": "https://img.logo.dev/radijaskelyje.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radijo stotis Lietus",
         "url": "https://radio.m-1.fm/LIETUS",
         "favicon": "https://img.logo.dev/lietus.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radijo stotis Lietus",
+        "url": "https://radio.m-1.fm/Lietus",
+        "favicon": "https://img.logo.dev/lietus.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radijo stotis M-1",
+        "url": "https://stream.m-1.fm/m1/aacp64",
+        "favicon": "https://img.logo.dev/m-1.15min.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Fiesta",
@@ -290,6 +340,11 @@
         "favicon": "https://img.logo.dev/laluna.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Lietus",
+        "url": "https://stream.m-1.fm/lietus/mp3",
+        "favicon": "https://img.logo.dev/lietus.15min.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO R",
         "url": "https://stream1.rusradio.lt/rrb128.mp3",
         "favicon": "https://img.logo.dev/radior.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -298,6 +353,11 @@
         "name": "RADIO R",
         "url": "https://stream1.rusradio.lt/rrb128.mp3",
         "favicon": "https://img.logo.dev/rusradio.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio R",
+        "url": "https://stream1.relaxfm.lt/rrb128.mp3",
+        "favicon": "https://img.logo.dev/radior.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio RU",
@@ -310,6 +370,11 @@
         "favicon": "https://img.logo.dev/laluna.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "radio.audiomastering.lt",
+        "url": "https://transliacija.audiomastering.lt/pure",
+        "favicon": "https://img.logo.dev/radio.audiomastering.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radiocentras",
         "url": "https://stream2.rockfm.lt/crf128.mp3",
         "favicon": "https://img.logo.dev/rc.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -318,6 +383,16 @@
         "name": "Radiocentras",
         "url": "https://stream2.rc.lt/rc128.mp3",
         "favicon": "https://img.logo.dev/rc.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIOR ENERGY",
+        "url": "https://klausyk.radijas.lt/listen/energy/live",
+        "favicon": "https://img.logo.dev/radior.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Relax FM",
+        "url": "https://stream4.radijas.lt/relaxfm",
+        "favicon": "https://img.logo.dev/relaxfm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Relax FM 100 Hitu",
@@ -400,16 +475,6 @@
         "favicon": "https://img.logo.dev/tavobalsas.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "thisislit",
-        "url": "https://litradio.org/listen/thisislit/radio.mp3",
-        "favicon": "https://img.logo.dev/litradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "thisislit",
-        "url": "https://litradio.org/listen/thisislit/radio.mp3",
-        "favicon": "https://img.logo.dev/litradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "TOP FM",
         "url": "https://radio.topfm.lt/listen/topfm/topfm-320",
         "favicon": "https://img.logo.dev/topfm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -440,14 +505,14 @@
         "favicon": "https://img.logo.dev/vaikuradijas.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Valdas",
+        "url": "https://radio.m-1.fm/Lietus",
+        "favicon": "https://img.logo.dev/lietus.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Vilnius fm",
         "url": "https://stream.vilniusfm.lt/stream",
         "favicon": "https://img.logo.dev/vilniusfm.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "X-RADIO",
-        "url": "http://185.8.60.5:8000/;",
-        "favicon": "https://img.logo.dev/185.8.60.5:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "XFM Radijas",
@@ -497,6 +562,11 @@
     {
         "name": "Радио Сигнал",
         "url": "https://streaming.broadcastrd.com/audio/radio-singnal.mp3",
+        "favicon": "https://img.logo.dev/radiosignal.news?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио Сигнал",
+        "url": "https://media-edge2.hostin.live/radio-singnal.mp3",
         "favicon": "https://img.logo.dev/radiosignal.news?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

@@ -1,18 +1,13 @@
 [
     {
-        "name": "102.1 Trinidad",
-        "url": "http://psn3.prostreaming.net:8310/;",
-        "favicon": "https://img.logo.dev/psn3.prostreaming.net:8310?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "103.1 FM Trinidad",
-        "url": "http://psn3.prostreaming.net:8310/;",
-        "favicon": "https://img.logo.dev/psn3.prostreaming.net:8310?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "95 the ultimate one",
         "url": "https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen",
         "favicon": "https://img.logo.dev/tbcradionetwork.co.tt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "95.1 Remix live",
+        "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6",
+        "favicon": "https://img.logo.dev/radio-trinidad.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Abdulbasit Abdulsamad",
@@ -28,31 +23,6 @@
         "name": "BOOM 94FM",
         "url": "https://s8.yesstreaming.net:17103/stream",
         "favicon": "https://img.logo.dev/boomchampionstt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BurningSoca:",
-        "url": "http://176.9.121.230:8000/soca",
-        "favicon": "https://img.logo.dev/burningrockers.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Freedom FM 106.5",
-        "url": "https://media.slactech.com:8012/stream?1597658711680",
-        "favicon": "https://img.logo.dev/freedomskn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fully Catholic Radio",
-        "url": "https://usa10.fastcast4u.com/fullycat2?x=1740578197868",
-        "favicon": "https://img.logo.dev/fullycatholic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hot 93 - 93.5 - Port of Spain",
-        "url": "http://ice41.securenetsystems.net/HOTT93",
-        "favicon": "https://img.logo.dev/hott93.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Isaac 98.1fm",
-        "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
-        "favicon": "https://img.logo.dev/isaac981.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LIT 102.3FM",
@@ -100,14 +70,14 @@
         "favicon": "https://img.logo.dev/tbcradionetwork.co.tt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Star 94.7",
+        "url": "https://fms.ttrn.org/live/star947.sdp/chunklist_w2060647527.m3u8",
+        "favicon": "https://img.logo.dev/ojoworldtt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Talk City 91.1 FM",
         "url": "https://media.streambrothers.com:8450/stream",
         "favicon": "https://img.logo.dev/talkcity91fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TAMBRIN",
-        "url": "https://ice42.securenetsystems.net/TAMBRIN",
-        "favicon": "https://img.logo.dev/ice42.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Vibe CT (Port of Spain)",

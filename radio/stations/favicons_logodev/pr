@@ -1,8 +1,8 @@
 [
     {
-        "name": "104.1 FM Redentor",
-        "url": "https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "LOVE FM: All you need is Love ♥ Clásicos del pop",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Abdulbasit Abdulsamad",
@@ -22,12 +22,7 @@
     {
         "name": "Batanga Radio",
         "url": "https://radio.wowzahosting.com/listen/batanga_radio/radio.mp3",
-        "favicon": "https://img.logo.dev/batangaclassics.casa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Caribe Clásico",
-        "url": "https://das-edge12-live365-dal02.cdnstream.com/a59816",
-        "favicon": "https://img.logo.dev/caribeclasico.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radio.wowzahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Catolica Radio",
@@ -35,14 +30,14 @@
         "favicon": "https://img.logo.dev/catolicaradiopr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CNN en Español",
+        "url": "https://tunein.cdnstream1.com/3517_96_nn.mp3",
+        "favicon": "https://img.logo.dev/cnnespanol.cnn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Cumbre 1470 AM - 106.3 FM",
         "url": "https://sp.unoredcdn.net/8158/stream",
         "favicon": "https://img.logo.dev/cumbre1470am.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Echo 355",
-        "url": "http://stream.zeno.fm/hssq9ydayf9uv",
-        "favicon": "https://img.logo.dev/echo355.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Exa FM",
@@ -80,9 +75,29 @@
         "favicon": "https://img.logo.dev/salseoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "KQ 105",
+        "url": "https://televicentro.streamguys1.com/wkaqfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/kq105.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KQ 105",
+        "url": "https://televicentro.streamguys1.com/wkaqfm/playlist.m3u8?key=96bc32e12ecb6b1bafd065de263d64235ff13cc93b57ff806196d3ecd0891325&aw_0_1st.playerId=kq105&source=kq105.com&us_privacy=1YNY&clientType=web&callLetters=WKAQ-FM&devicename=web-desktop&stationid=1846&dist=kq105.com&subscription_type=free&aw_0_1st.version=1.0_html5&aw_0_1st.playerid=kq105_floating_player](https://televicentro.streamguys1.com/wkaqfm/playlist.m3u8?key=96bc32e12ecb6b1bafd065de263d64235ff13cc93b57ff806196d3ecd0891325&aw_0_1st.playerId=kq105&source=kq105.com&us_privacy=1YNY&clientType=web&callLetters=WKAQ-FM&devicename=web-desktop&stationid=1846&dist=kq105.com&subscription_type=free&aw_0_1st.version=1.0_html5&aw_0_1st.playerid=kq105_floating_player",
+        "favicon": "https://img.logo.dev/kq105.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "La Mega 106.9",
+        "url": "https://liveaudio.lamusica.com/PR_WMEG/playlist.m3u8",
+        "favicon": "https://img.logo.dev/lamusica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "La Nueva 94 (WODA FM)",
         "url": "https://liveaudio.lamusica.com/PR_WODA_icy",
         "favicon": "https://img.logo.dev/lamusica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "La X",
+        "url": "https://stream.eleden.com:8230/lax.aac",
+        "favicon": "https://img.logo.dev/lax.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LA X",
@@ -95,9 +110,29 @@
         "favicon": "https://img.logo.dev/lax.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Nova Wave Radio",
+        "url": "https://stream.zeno.fm/aqsp8qfxry8vv.aac",
+        "favicon": "https://img.logo.dev/novawaveradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "OldiVille",
         "url": "https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3",
         "favicon": "https://img.logo.dev/radio.wowzahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PR Magic 97.3",
+        "url": "https://a4.asurahosting.com:6760/radio.mp3",
+        "favicon": "https://img.logo.dev/magic973.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PR Radio Oro",
+        "url": "https://streams.proftsc.com/listen/woro/woro.mp3",
+        "favicon": "https://img.logo.dev/empiezatudia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pura Gracia Radio | WRPG-DB",
+        "url": "https://26343.live.streamtheworld.com:443/SAM05AAC459_SC",
+        "favicon": "https://img.logo.dev/puragracia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Atenas 1500 AM",
@@ -120,14 +155,14 @@
         "favicon": "https://img.logo.dev/radioisla.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Oro",
+        "url": "https://www.empiezatudia.com/en-vivo.html",
+        "favicon": "https://img.logo.dev/empiezatudia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Paraiso 92.9 FM",
         "url": "http://stream.eleden.com:8240/wtpm.aac",
         "favicon": "https://img.logo.dev/wtpm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Pozo de la Salsa",
-        "url": "https://cast4.my-control-panel.com/proxy/elpozosalsa/;",
-        "favicon": "https://img.logo.dev/elpozodelasalsa.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Tropical",
@@ -148,11 +183,6 @@
         "name": "Salseo Radio",
         "url": "https://stream.radio.co/s579ede15c/listen",
         "favicon": "https://img.logo.dev/salseoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Samui Island Radio",
-        "url": "https://us2new.listen2myradio.com:2199/listen.php?port=10040&type=s2&mount=/stream",
-        "favicon": "https://img.logo.dev/new.samuiislandradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Spot Radio",
@@ -206,7 +236,7 @@
     },
     {
         "name": "WRPG-DB Pura Gracia",
-        "url": "https://26343.live.streamtheworld.com:443/SAM05AAC459_SC",
+        "url": "https://24293.live.streamtheworld.com:443/SAM05AAC459_SC",
         "favicon": "https://img.logo.dev/puragracia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -228,6 +258,11 @@
         "name": "Yunque93",
         "url": "http://server7.servistreaming.com:10021/stream?type=.mp3",
         "favicon": "https://img.logo.dev/yunque93.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Z93 FM",
+        "url": "https://liveaudio.lamusica.com/PR_WZNT_icy?listenerid=1778631221513_0.024688872299043596&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.12%3Ahtml5&aw_0_1st.playerid=lamusica.web.desktop&aw_0_1st.skey=1778631222&sw_bp=1",
+        "favicon": "https://img.logo.dev/liveaudio.lamusica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zeta 93",

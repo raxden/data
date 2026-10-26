@@ -1,23 +1,28 @@
 [
     {
+        "name": "3FM (128Kbps MP3)",
+        "url": "https://n07a-eu.rcs.revma.com/0kv9v43t87zuv",
+        "favicon": "https://img.logo.dev/three.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "3FM (48Kbps AAC+)",
+        "url": "https://n07a-eu.rcs.revma.com/s1q7dc4c0znwv",
+        "favicon": "https://img.logo.dev/three.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
-        "url": "http://stream.laut.fm/alive",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Energy FM (Isle Of Man)",
+        "url": "http://ukwesta.streaming.broadcast.radio:15580/energyfm",
+        "favicon": "https://img.logo.dev/energyfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EnergyFM",
         "url": "https://ukwesta.streaming.broadcast.radio/energyfm",
         "favicon": "https://img.logo.dev/energyfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Isle of Man Free Radio",
-        "url": "https://play.radioking.io/ian-byrne",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Manx Radio FM",

@@ -10,19 +10,9 @@
         "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ".al quran radio",
-        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "caltexmusic",
-        "url": "http://n13.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABeB5OHJQA07FIiDdZAZNHWw",
-        "favicon": "https://img.logo.dev/n13.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "enationFM",
@@ -32,17 +22,7 @@
     {
         "name": "Faz",
         "url": "http://www.radiofaaz.com:8000/radiofaaz",
-        "favicon": "https://img.logo.dev/radiofaaz.com:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "go",
-        "url": "https://stream.zeno.fm/v5kxmagseg0uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "go",
-        "url": "https://stream.zeno.fm/v5kxmagseg0uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiofaaz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "hamsafar",
@@ -55,9 +35,19 @@
         "favicon": "https://img.logo.dev/iranintl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Iran Intl (Iran International)",
+        "url": "https://radio.iraninternational.app/iintl_c",
+        "favicon": "https://img.logo.dev/iranintl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Iran On Air",
         "url": "http://ice41.securenetsystems.net/KIRN",
         "favicon": "https://img.logo.dev/iranonair.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Iran Radio English",
+        "url": "https://live.iranradio.ir:8000/live-en.mp3",
+        "favicon": "https://img.logo.dev/iranradio.ir?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "iraninternational",
@@ -90,6 +80,11 @@
         "favicon": "https://img.logo.dev/iranintl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Iran International",
+        "url": "https://radio.iraninternational.app/iintl_c",
+        "favicon": "https://img.logo.dev/iranintl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Mojahed - رادیو مجاهد",
         "url": "https://s2.radio.co/s830691c74/listen",
         "favicon": "https://img.logo.dev/radio.mojahedin.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -103,11 +98,6 @@
         "name": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
         "url": "https://ic2326.c1261.fastserv.com/rm128",
         "favicon": "https://img.logo.dev/radiomojdeh.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sarcheshme",
-        "url": "http://sarcheshmeh.icdndhcp.com:18452/stream",
-        "favicon": "https://img.logo.dev/sarcheshmeh.icdndhcp.com:18452?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Simorgh",
@@ -148,10 +138,5 @@
         "name": "ایران‎  Radio Liberty (Iran) (official stream)",
         "url": "https://stream.radiojar.com/cp13r2cpn3quv",
         "favicon": "https://img.logo.dev/radiofarda.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "رادیو میثانیا",
-        "url": "https://stream.zeno.fm/axjxyv1tn84uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

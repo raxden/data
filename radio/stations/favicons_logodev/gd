@@ -5,19 +5,14 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Boss FM 104.1-104.9 - Grenada",
-        "url": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
-        "favicon": "https://img.logo.dev/bossfmgrenada.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Boss FM Grenada",
-        "url": "http://cp.usa8.fastcast4u.com:5195/;",
-        "favicon": "https://img.logo.dev/bossfmgrenada.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "City Sound 97.5 FM",
+        "url": "https://citysoundfm.com/",
+        "favicon": "https://img.logo.dev/citysoundfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hot Shotz Radio - Grenada",
         "url": "http://usa1.fastcast4u.com:3292/stream",
-        "favicon": "https://img.logo.dev/hotshotzradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/usa1.fastcast4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Real FM - Grenada",

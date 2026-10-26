@@ -2,7 +2,7 @@
     {
         "name": "=KECO=70s ROCK",
         "url": "http://jfm1.hostingradio.ru:14536/rock70.mp3",
-        "favicon": "https://img.logo.dev/jfm1.hostingradio.ru:14536?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/jfm1.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "=KECO=ROCK BALLADS",
@@ -70,6 +70,11 @@
         "favicon": "https://img.logo.dev/jazzfm.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Jazz FM",
+        "url": "https://radio.jazzfm.mk/listen/jazzfm/live",
+        "favicon": "https://img.logo.dev/jazzfm.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Just Music Radio",
         "url": "https://radiostream.neotel.mk/justmusicradio",
         "favicon": "https://img.logo.dev/justmusicradio.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -77,7 +82,7 @@
     {
         "name": "Kanal 103",
         "url": "http://radiostream.neotel.mk/kanal103",
-        "favicon": "https://img.logo.dev/kanal103.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiostream.neotel.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Lider FM 107,4",
@@ -95,34 +100,9 @@
         "favicon": "https://img.logo.dev/life.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Life Radio 89.1 Macedonia",
-        "url": "http://liferadio.ddns.net:8000/;",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Maestro FM",
-        "url": "https://maestrofm.md/maestro",
-        "favicon": "https://img.logo.dev/maestrofm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Makedonsko Radio 1 - Radio Skopje",
         "url": "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8",
         "favicon": "https://img.logo.dev/mrt.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Metropolis Radio Network",
-        "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
-        "favicon": "https://img.logo.dev/metropolisradio.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio 22",
-        "url": "https://radio.server14.kariha.net:8008/",
-        "favicon": "https://img.logo.dev/radio22prilep.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio 22",
-        "url": "https://radio.server14.kariha.net:8008/",
-        "favicon": "https://img.logo.dev/radio22prilep.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Bravo Smooth Jazz Mix Radio",
@@ -133,11 +113,6 @@
         "name": "Radio Buba Mara 105.2 FM",
         "url": "http://88.85.99.2/live-128.mp3",
         "favicon": "https://img.logo.dev/play.radiobubamara.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bubamara 105.2 Skopje, Macedonia",
-        "url": "https://stream.bubamara.com.mk/live",
-        "favicon": "https://img.logo.dev/cdn.onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Fortuna 96.8 FM",
@@ -163,11 +138,6 @@
         "name": "Radio Maria Macedonia",
         "url": "http://dreamsiteradiocp.com:8118/stream",
         "favicon": "https://img.logo.dev/radiomaria.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Meff",
-        "url": "https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551",
-        "favicon": "https://img.logo.dev/s32.myradiostream.com:16040?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIOBAR",
@@ -206,7 +176,7 @@
     },
     {
         "name": "Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
-        "url": "http://s1.skyradio.com.mk:8000/",
+        "url": "http://s1.skyradio.com.mk:8002/",
         "favicon": "https://img.logo.dev/skyradio.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -226,7 +196,7 @@
     },
     {
         "name": "Star Radio (Boemi) Skopje, Macedonia",
-        "url": "https://a2.asurahosting.com/listen/stil_radio/starboem",
+        "url": "https://radiostar.pro/stream/boemi.php",
         "favicon": "https://img.logo.dev/radiostar.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -280,23 +250,13 @@
         "favicon": "https://img.logo.dev/timefm.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Urban FM 90.8 Skopje",
-        "url": "https://securestreams4.autopo.st:1668/stream",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Експрес Радио 101.1 Струмица, Македонија",
-        "url": "http://ekspresradio.dyndns.org:8000/",
-        "favicon": "https://img.logo.dev/ekspresradio.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Канал 77 Радио Мрежа",
         "url": "https://radiocnd.mms.mk/proxy/player/stream",
         "favicon": "https://img.logo.dev/kanal77.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Скај Радио",
-        "url": "http://s1.skyradio.com.mk:8000/",
+        "url": "http://s1.skyradio.com.mk:8002/",
         "favicon": "https://img.logo.dev/skyradio.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

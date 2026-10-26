@@ -5,24 +5,9 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "101.8 Radio Maria",
-        "url": "http://dreamsiteradiocp.com:8052/stream",
-        "favicon": "https://img.logo.dev/dreamsiteradiocp.com:8052?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "101.8 Radio maria",
         "url": "http://dreamsiteradiocp.com:8052/stream",
         "favicon": "https://img.logo.dev/radiomaria.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "104.1 Favour FM - Gulu - 104.1 FM",
-        "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
-        "favicon": "https://img.logo.dev/favourfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "104.1 Favour FM - Gulu - 104.1 FM (MP3)",
-        "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
-        "favicon": "https://img.logo.dev/favourfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "104.4 Kaboozi Fm",
@@ -35,54 +20,9 @@
         "favicon": "https://img.logo.dev/nextradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "106.1 NxtRadio",
-        "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
-        "favicon": "https://img.logo.dev/stream-154.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "106.1 NxtRadio",
-        "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
-        "favicon": "https://img.logo.dev/stream-154.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "107.3 BBC Radio Uganda",
-        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
-        "favicon": "https://img.logo.dev/bbc.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "107.3 BBC Radio Uganda",
-        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
-        "favicon": "https://img.logo.dev/bbc.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "107.9 Pearl Fm",
-        "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
-        "favicon": "https://img.logo.dev/dc4.serverse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "107.9 Pearl Fm",
-        "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
-        "favicon": "https://img.logo.dev/dc4.serverse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "107.9 Pearl Fm",
         "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
         "favicon": "https://img.logo.dev/pearlfmuganda.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "107.9 Pearl Fm",
-        "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
-        "favicon": "https://img.logo.dev/dc4.serverse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "80's 90's old music radio",
-        "url": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
-        "favicon": "https://img.logo.dev/100-greatest-network.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "87.9 Kaboozi Fm",
-        "url": "http://162.244.80.52:8732/;stream.mp3",
-        "favicon": "https://img.logo.dev/162.244.80.52:8732?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "87.9 Kaboozi fm",
@@ -105,11 +45,6 @@
         "favicon": "https://img.logo.dev/mynoise.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "88.2 Sanyu Fm",
-        "url": "http://s44.myradiostream.com:8138/stream",
-        "favicon": "https://img.logo.dev/s44.myradiostream.com:8138?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "88.2 Sanyu FM - 88.2 FM (MP3)",
         "url": "http://s44.myradiostream.com/8138/listen.mp3",
         "favicon": "https://img.logo.dev/sanyufm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -120,21 +55,6 @@
         "favicon": "https://img.logo.dev/sanyufm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "88.6 Kiira Fm",
-        "url": "http://stream.zeno.fm/iydttapi8rguv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "88.6 Kiira FM",
-        "url": "http://stream.zeno.fm/iydttapi8rguv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "89.5 Klas sports radio Jamaica",
-        "url": "http://ice.audionow.com/6283KLASSportsRadioopus.ogg",
-        "favicon": "https://img.logo.dev/klassportsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "90.0 Kingston fm Jamaica",
         "url": "http://ice.audionow.com/4692NationwideNewsNetworkLtdopus.ogg",
         "favicon": "https://img.logo.dev/nationwideradiojm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -143,36 +63,6 @@
         "name": "90.1 Discovery fm Jamaica",
         "url": "http://usa14.fastcast4u.com:5192/;",
         "favicon": "https://img.logo.dev/ggfmja.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "90.6 Busoga One",
-        "url": "https://stream.zeno.fm/xna2aad7gc9uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "90.6 Busoga One",
-        "url": "https://stream.zeno.fm/xna2aad7gc9uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "90.6 Busoga One",
-        "url": "https://stream.zeno.fm/xna2aad7gc9uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "90.6 Busoga One Fm",
-        "url": "https://stream.zeno.fm/xna2aad7gc9uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "90.6 Busoga One Fm",
-        "url": "https://stream.zeno.fm/xna2aad7gc9uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "90.6 Busoga one fm",
-        "url": "https://stream.zeno.fm/xna2aad7gc9uv",
-        "favicon": "https://img.logo.dev/busogaone.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "91. 3 Capital fm",
@@ -192,7 +82,7 @@
     {
         "name": "91.3 Capital Fm",
         "url": "http://5229.cloudrad.io:8316/;",
-        "favicon": "https://img.logo.dev/5229.cloudrad.io:8316?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/5229.cloudrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "91.3 Lift Worship US",
@@ -210,14 +100,9 @@
         "favicon": "https://img.logo.dev/holycityentebbe.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "91.6 Christ Fm",
-        "url": "http://5.135.154.69:15664/;",
-        "favicon": "https://img.logo.dev/5.135.154.69:15664?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "94.0 Jamaica fm",
-        "url": "https://stream.zeno.fm/cub84trbgy5tv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "94.8 XFM Kampala",
+        "url": "http://stream.hydeinnovations.com:2020/stream/xfm/stream",
+        "favicon": "https://img.logo.dev/xfm.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "95.0 Fame fm Jamaica",
@@ -237,22 +122,7 @@
     {
         "name": "96.3 Beat Fm",
         "url": "http://5230.cloudrad.io:8354/",
-        "favicon": "https://img.logo.dev/5230.cloudrad.io:8354?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "96.3 Beat fm",
-        "url": "http://5230.cloudrad.io:8354/",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "96.3 Beat fm",
-        "url": "http://5230.cloudrad.io:8354/",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "96.3 Beat Fm Ekintabuli",
-        "url": "http://5230.cloudrad.io:8354/",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/5230.cloudrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "97 Radio City",
@@ -260,39 +130,19 @@
         "favicon": "https://img.logo.dev/radioone.loftuganda.tech?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "97.0 Radio City",
+        "url": "https://cast1.asurahosting.com/proxy/richar16/stream",
+        "favicon": "https://img.logo.dev/radiocity.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "98.1 Isaiah FM Trinidad",
         "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
         "favicon": "https://img.logo.dev/ice66.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "98.7 MCF Radio",
-        "url": "http://ice.audionow.com/6283KLASSportsRadioopus.ogg",
-        "favicon": "https://img.logo.dev/mutundwechristianfellowship.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "98.7 MCF Radio",
-        "url": "http://streams.radio.co/s79fbbb432/listen",
-        "favicon": "https://img.logo.dev/streams.radio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "98.7 Mutundwe Christian Fellowship",
-        "url": "https://streams.radio.co/s79fbbb432/listen",
-        "favicon": "https://img.logo.dev/mutundwechristianfellowship.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "98.7 Mutundwe Christian Fellowship",
-        "url": "https://streams.radio.co/s79fbbb432/listen",
-        "favicon": "https://img.logo.dev/mutundwechristianfellowship.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "98.8 Buddu Fm",
         "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
         "favicon": "https://img.logo.dev/radiobuddufm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "98.8 Radio Buddu",
-        "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
-        "favicon": "https://img.logo.dev/dc4.serverse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "99.5 Global Fm Bahamas",
@@ -360,11 +210,6 @@
         "favicon": "https://img.logo.dev/stream.live.vc.bbcmedia.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "BBC UGANDA",
-        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
-        "favicon": "https://img.logo.dev/bbc.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "BBC WORLD SERVICE",
         "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -382,22 +227,12 @@
     {
         "name": "BEAT FM",
         "url": "http://5230.cloudrad.io:8354/",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BEAT FM",
-        "url": "http://5230.cloudrad.io:8354/",
-        "favicon": "https://img.logo.dev/5230.cloudrad.io:8354?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/5230.cloudrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BEAT FM",
         "url": "http://5230.cloudrad.io:8354/",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BEAT FM",
-        "url": "http://5230.cloudrad.io:8354/",
-        "favicon": "https://img.logo.dev/tunein.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Beat FM - Kampala - 96.3 FM (MP3)",
@@ -405,24 +240,14 @@
         "favicon": "https://img.logo.dev/beatradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Beat FM 96.3",
-        "url": "http://5230.cloudrad.io:8354/",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "BIBLE 24/7",
         "url": "http://c28.radioboss.fm:8335/stream",
-        "favicon": "https://img.logo.dev/c28.radioboss.fm:8335?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c28.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bible 24/7",
         "url": "http://c28.radioboss.fm:8335/stream",
-        "favicon": "https://img.logo.dev/c28.radioboss.fm:8335?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bible 24/7",
-        "url": "http://c28.radioboss.fm:8335/stream",
-        "favicon": "https://img.logo.dev/dashradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c28.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BIBLE 24/7",
@@ -433,11 +258,6 @@
         "name": "Bible Indepth Radio",
         "url": "https://stream.radiojar.com/n6c576nrga0uv",
         "favicon": "https://img.logo.dev/bibleindepth.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bible Trivia",
-        "url": "https://streamer.radio.co/se1aece429/listen",
-        "favicon": "https://img.logo.dev/streamer.radio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BLOCK FM 103.2",
@@ -455,39 +275,14 @@
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Bugwere Fm",
-        "url": "https://stream-174.zeno.fm/jddn0e0z9f0uv?zt",
-        "favicon": "https://img.logo.dev/stream-174.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bugwere Fm",
-        "url": "https://stream-174.zeno.fm/jddn0e0z9f0uv?zt",
-        "favicon": "https://img.logo.dev/stream-174.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BUSOGA ONE",
-        "url": "https://stream.zeno.fm/xna2aad7gc9uv",
-        "favicon": "https://img.logo.dev/busogaone.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Bukedde FM",
+        "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+        "favicon": "https://img.logo.dev/bukedde.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BUSOGA ONE FM",
         "url": "https://stream.zeno.fm/xna2aad7gc9uv",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BUSOGA ROYAL RADIO",
-        "url": "https://cast5.my-control-panel.com/proxy/busogaroyalradio/stream",
-        "favicon": "https://img.logo.dev/cast5.my-control-panel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Buyinza Fm",
-        "url": "http://stream.zeno.fm/wcancipcbrevv",
-        "favicon": "https://img.logo.dev/buyinzafm.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Buyinza FM (MP3)",
-        "url": "http://stream.zeno.fm/wcancipcbrevv",
-        "favicon": "https://img.logo.dev/buyinzafm.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Canton News Radio China",
@@ -585,44 +380,9 @@
         "favicon": "https://img.logo.dev/chinaplus.cri.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CHENNAI LIVE",
-        "url": "http://216.55.178.11:8008/",
-        "favicon": "https://img.logo.dev/chennailive.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Chosen Radio Uganda (MP3)",
-        "url": "http://stream.zeno.fm/6uxwuag3srhvv",
-        "favicon": "https://img.logo.dev/chosenradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Chosen Radio Uganda (MP3)",
-        "url": "http://stream.zeno.fm/6uxwuag3srhvv",
-        "favicon": "https://img.logo.dev/chosenradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CHRIST FM",
         "url": "http://s39.myradiostream.com/:15664/;",
         "favicon": "https://img.logo.dev/s39.myradiostream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Christ FM 91.6 - Kampala - 91.6 FM (AAC)",
-        "url": "http://s39.myradiostream.com/:15664/;",
-        "favicon": "https://img.logo.dev/christfm.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Christ Love Radio (MP3)",
-        "url": "http://stream.zeno.fm/orioba9siustv",
-        "favicon": "https://img.logo.dev/christloveug.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Christ Radio - Lira (MP3)",
-        "url": "http://stream.zeno.fm/zupkzgrj4dauv",
-        "favicon": "https://img.logo.dev/christradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Christ Radio - Lira (MP3)",
-        "url": "http://stream.zeno.fm/zupkzgrj4dauv",
-        "favicon": "https://img.logo.dev/christradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Christian fm",
@@ -665,34 +425,14 @@
         "favicon": "https://img.logo.dev/thechurchradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Cloud Radio Uganda - Kampala (MP3)",
-        "url": "http://stream.zeno.fm/eq0vu571ekhvv",
-        "favicon": "https://img.logo.dev/cloudmusicuganda.simdif.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CNN INTERNATIONAL",
         "url": "https://tunein.cdnstream1.com/2868_96.mp3",
         "favicon": "https://img.logo.dev/tunein.cdnstream1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Country Music",
-        "url": "http://ais-sa2.cdnstream1.com/2365_128.mp3",
-        "favicon": "https://img.logo.dev/ais-sa2.cdnstream1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Country Music",
-        "url": "http://ais-sa2.cdnstream1.com/2365_128.mp3",
-        "favicon": "https://img.logo.dev/ais-sa2.cdnstream1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Country music (80's)",
         "url": "http://listen.181fm.com/181-80scountry_128k.mp3",
         "favicon": "https://img.logo.dev/listen.181fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "crooze fm",
-        "url": "https://stream-159.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt4VUtoZGRnU0dLRGdSc0NkOE1CRHciLCJpYXQiOjE",
-        "favicon": "https://img.logo.dev/stream-159.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dema Gospel Promotions (MP3)",
@@ -725,19 +465,9 @@
         "favicon": "https://img.logo.dev/ice64.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DW News",
-        "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
-        "favicon": "https://img.logo.dev/dw.audiostream.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "DW NEWS",
         "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
         "favicon": "https://img.logo.dev/dw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "East Africa Radio",
-        "url": "https://eatv.radioca.st/;",
-        "favicon": "https://img.logo.dev/eatv.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EJAZZ Radio",
@@ -750,34 +480,14 @@
         "favicon": "https://img.logo.dev/extra.ejazzug.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "EMC Radio - Kampala (MP3)",
-        "url": "http://c22.radioboss.fm:18040/stream",
-        "favicon": "https://img.logo.dev/edenmiracleministries.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "English Premier League",
         "url": "http://13.54.221.214:8000/sen.mp3",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Enjiri Radio",
-        "url": "http://stream.zeno.fm/xdb8nazajqcvv",
-        "favicon": "https://img.logo.dev/enjiriradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Enjiri Radio (MP3)",
-        "url": "http://stream.zeno.fm/xdb8nazajqcvv",
-        "favicon": "https://img.logo.dev/enjiriradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Exodus Comfort Radio",
         "url": "http://stream.zeno.fm/k2zma0qewtjvv",
         "favicon": "https://img.logo.dev/mynoise.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Exodus Comfort Radio - Mbarara (MP3)",
-        "url": "http://stream.zeno.fm/k2zma0qewtjvv",
-        "favicon": "https://img.logo.dev/exoduscomfortradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FAITH RADIO",
@@ -800,11 +510,6 @@
         "favicon": "https://img.logo.dev/brightonandhovealbion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Free Sports Radio",
-        "url": "https://stream.zeno.fm/31nnibfpnxktv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Fun Kids Radio",
         "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
         "favicon": "https://img.logo.dev/listen-funkids.sharp-stream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -820,11 +525,6 @@
         "favicon": "https://img.logo.dev/galaxyfm.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Glory FM Maganjo - Kampala (MP3)",
-        "url": "http://stream.zeno.fm/bn7dbg8w0nhvv",
-        "favicon": "https://img.logo.dev/gloryfmmaganjo.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Good News Radio",
         "url": "http://node-01.zeno.fm/km203bn6qnruv",
         "favicon": "https://img.logo.dev/goodnewsradio.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -833,11 +533,6 @@
         "name": "Gospel Kingz (MP3)",
         "url": "http://stream.zeno.fm/vstzctms6rhvv",
         "favicon": "https://img.logo.dev/gospelkingz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gospel Radio East Africa",
-        "url": "https://c32.radioboss.fm:18451/stream?1641237600584",
-        "favicon": "https://img.logo.dev/gospelradioeastafrica.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Great Hits Manchester",
@@ -855,21 +550,6 @@
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Heathafro FM",
-        "url": "http://stream.zeno.fm/rdf0qac95p8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Heaven FM Radio",
-        "url": "http://stream.zeno.fm/eequgfw72hhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Heavenly Altar Church Radio - Kampala (MP3)",
-        "url": "http://stream.zeno.fm/6s8719ctbphvv",
-        "favicon": "https://img.logo.dev/heavenlyaltarchurch.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Isaiah Fm",
         "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
         "favicon": "https://img.logo.dev/ice66.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -885,24 +565,9 @@
         "favicon": "https://img.logo.dev/flashscore.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Islands FM",
-        "url": "http://radio.canstream.co.uk:8040/live.mp3",
-        "favicon": "https://img.logo.dev/radio.canstream.co.uk:8040?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Jembe Fm",
         "url": "https://cast3.asurahosting.com/proxy/jembemed/stream",
         "favicon": "https://img.logo.dev/cast3.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Jesus radio",
-        "url": "https://streaming.radio.co/s1dc8ab02e/listen",
-        "favicon": "https://img.logo.dev/jesusradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Jewish Music",
-        "url": "https://stream.jewishmusicstream.com:8000/",
-        "favicon": "https://img.logo.dev/stream.jewishmusicstream.com:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jewish music channel",
@@ -935,11 +600,6 @@
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
-        "url": "http://stream.zeno.fm/f3y3up2k07zuv",
-        "favicon": "https://img.logo.dev/jubileeradiouganda.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "KABOOZI FM",
         "url": "http://162.244.80.52:8732/stream.mp3",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -947,7 +607,7 @@
     {
         "name": "KCF",
         "url": "https://c24.radioboss.fm:18185/stream",
-        "favicon": "https://img.logo.dev/c24.radioboss.fm:18185?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c24.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KFM - Kampala - 93.3 FM (MP3)",
@@ -980,19 +640,9 @@
         "favicon": "https://img.logo.dev/rovers.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kitintale Christian Fellowship",
-        "url": "https://c24.radioboss.fm:18185/stream",
-        "favicon": "https://img.logo.dev/kcfch.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "KITINTALE CHRISTIAN FELLOWSHIP",
         "url": "https://c24.radioboss.fm:18185/stream",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KLAS RADIO JAMAICA",
-        "url": "http://ice.audionow.com/6283KLASSportsRadioopus.ogg",
-        "favicon": "https://img.logo.dev/klassportsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Klas Sports",
@@ -1015,11 +665,6 @@
         "favicon": "https://img.logo.dev/ice.audionow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kyoga Veritas Radio - Soroti - 91.5 FM (MP3)",
-        "url": "http://stream.zeno.fm/hyyzuphrsg0uv",
-        "favicon": "https://img.logo.dev/kvr.ssoccom.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "LBC News",
         "url": "http://media-ice.musicradio.com/LBCUK",
         "favicon": "https://img.logo.dev/media-ice.musicradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1035,16 +680,6 @@
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MCF FM",
-        "url": "https://streams.radio.co/s79fbbb432/listen",
-        "favicon": "https://img.logo.dev/mutundwechristianfellowship.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MCF RADIO",
-        "url": "https://streams.radio.co/s79fbbb432/listen",
-        "favicon": "https://img.logo.dev/mutundwechristianfellowship.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "MCF Radio - Kampala - 98.7 FM (MP3)",
         "url": "http://streams.radio.co/s79fbbb432/listen",
         "favicon": "https://img.logo.dev/mcfradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1053,11 +688,6 @@
         "name": "MCF RADIO UG",
         "url": "http://streams.radio.co/s79fbbb432/listen",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mello fm Jamaica",
-        "url": "http://peridot.streamguys.com:5660/live",
-        "favicon": "https://img.logo.dev/mellofmjamaica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Music for kids",
@@ -1078,11 +708,6 @@
         "name": "Nakawa Online Radio - Kampala (MP3)",
         "url": "http://stream.zeno.fm/6hs5suuvqfhvv",
         "favicon": "https://img.logo.dev/radio.nakawapentecostal.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Namaste Radio",
-        "url": "https://node-25.zeno.fm/cqak4ap7by8uv",
-        "favicon": "https://img.logo.dev/node-25.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NBC NEWS",
@@ -1120,6 +745,11 @@
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "NRG Radio Uganda",
+        "url": "https://dc4.serverse.com/proxy/nrgugstream/stream",
+        "favicon": "https://img.logo.dev/nrgug.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "NRG Uganda 106.5",
         "url": "https://dc4.serverse.com/proxy/nrgugstream/stream",
         "favicon": "https://img.logo.dev/nrgug.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1140,19 +770,9 @@
         "favicon": "https://img.logo.dev/ilikeitoldskool.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Open Gate FM 103.2",
-        "url": "https://139.162.195.139:8010/radio.mp3?1722393699669",
-        "favicon": "https://img.logo.dev/opengatefmmbale.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "PEARL FM",
         "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "PEARL FM",
-        "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
-        "favicon": "https://img.logo.dev/dc4.serverse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Prayer Alter Radio",
@@ -1170,39 +790,9 @@
         "favicon": "https://img.logo.dev/prayertowerradio.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PREMIER LEAGUE",
-        "url": "http://13.54.221.214:8000/sen.mp3",
-        "favicon": "https://img.logo.dev/13.54.221.214:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Premier League Live",
-        "url": "http://13.54.221.214:8000/sen.mp3",
-        "favicon": "https://img.logo.dev/13.54.221.214:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Premier League Live",
-        "url": "http://13.54.221.214:8000/sen.mp3",
-        "favicon": "https://img.logo.dev/13.54.221.214:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Premier League Live",
-        "url": "http://13.54.221.214:8000/sen.mp3",
-        "favicon": "https://img.logo.dev/13.54.221.214:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Progressive Radio Network",
-        "url": "http://216.55.165.146:8000/;",
-        "favicon": "https://img.logo.dev/216.55.165.146:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Promise Radio UG (MP3)",
         "url": "http://stream.zeno.fm/hkzgeqlcjoxuv",
         "favicon": "https://img.logo.dev/christsheart.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Benediction Dominican",
-        "url": "https://samuel.i-radio.co:9000/radiobendicion",
-        "favicon": "https://img.logo.dev/samuel.i-radio.co:9000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO BUDDU",
@@ -1215,6 +805,11 @@
         "favicon": "https://img.logo.dev/radiobuddufm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio City",
+        "url": "https://cast1.asurahosting.com/proxy/richar16/stream",
+        "favicon": "https://img.logo.dev/radiocity.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO CITY FM",
         "url": "http://radioone.loftuganda.tech/stream",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1225,11 +820,6 @@
         "favicon": "https://img.logo.dev/radioeast.com.ng?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio for Jesus",
-        "url": "http://s2.stationplaylist.com:7132/listen.aac",
-        "favicon": "https://img.logo.dev/s2.stationplaylist.com:7132?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RADIO MARIA UG",
         "url": "http://dreamsiteradiocp.com:8052/stream",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1238,11 +828,6 @@
         "name": "RADIO MARIA UGANDA",
         "url": "http://dreamsiteradiocp.com:8052/stream",
         "favicon": "https://img.logo.dev/radiomaria.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio One",
-        "url": "http://162.244.80.52:8740/stream",
-        "favicon": "https://img.logo.dev/162.244.80.52:8740?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio one",
@@ -1270,8 +855,18 @@
         "favicon": "https://img.logo.dev/radioonefm90.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Pacis",
+        "url": "http://148.251.43.231:8308/stream",
+        "favicon": "https://img.logo.dev/radiopacis.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Pacis 90.9",
         "url": "https://radiopacisuganda.radioca.st/stream",
+        "favicon": "https://img.logo.dev/radiopacis.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Pacis 94.5",
+        "url": "http://136.243.44.41:8182/stream",
         "favicon": "https://img.logo.dev/radiopacis.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1288,6 +883,11 @@
         "name": "Radio Yoo (MP3)",
         "url": "http://stream.zeno.fm/v73tc5gwaphvv",
         "favicon": "https://img.logo.dev/radioyoo.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIOCITY.UG",
+        "url": "https://cast1.asurahosting.com/proxy/richar16/stream",
+        "favicon": "https://img.logo.dev/radiocity.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rafa  radio music",
@@ -1360,34 +960,9 @@
         "favicon": "https://img.logo.dev/sanyufm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "SBN",
-        "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
-        "favicon": "https://img.logo.dev/live.radio.sonlife.olympusatmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SBN",
-        "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
-        "favicon": "https://img.logo.dev/live.radio.sonlife.olympusatmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Scripture for America",
-        "url": "http://67.225.254.37:5530/",
-        "favicon": "https://img.logo.dev/dashradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "SDA Missions radio",
         "url": "https://stream-57.zeno.fm/mkkr2bcgkf9uv",
         "favicon": "https://img.logo.dev/sdamissionug.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SDA Radio",
-        "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1",
-        "favicon": "https://img.logo.dev/dashradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SEN Sports",
-        "url": "http://13.54.221.214:8000/sen.mp3",
-        "favicon": "https://img.logo.dev/13.54.221.214:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Shalom Radio Jinja (MP3)",
@@ -1418,16 +993,6 @@
         "name": "SKY NEWS UK",
         "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SKYNET FM",
-        "url": "https://stream-44.zeno.fm/1uhqawtfk5zuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Skynet Radio",
-        "url": "https://stream-44.zeno.fm/1uhqawtfk5zuv",
-        "favicon": "https://img.logo.dev/stream-44.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Skynews Radio",
@@ -1515,24 +1080,14 @@
         "favicon": "https://img.logo.dev/storage.sardius.media?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sound City",
-        "url": "http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRu",
-        "favicon": "https://img.logo.dev/24503.live.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sport Fm",
-        "url": "http://n0b.radiojar.com/yb7bcbkfewzuv?rj-ttl=5&rj-tok=AAABhE8OfscAWLZ-gC5hhZqxPA",
-        "favicon": "https://img.logo.dev/n0b.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sport Fm",
-        "url": "http://n0b.radiojar.com/yb7bcbkfewzuv?rj-ttl=5&rj-tok=AAABhE8OfscAWLZ-gC5hhZqxPA",
-        "favicon": "https://img.logo.dev/n0b.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Sport Live",
         "url": "https://radio.talksport.com/stream",
         "favicon": "https://img.logo.dev/radio.talksport.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "StreamUG Radio",
+        "url": "https://c22.radioboss.fm:8814/stream",
+        "favicon": "https://img.logo.dev/streamugradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Street Deejays Radio - Mbarara (MP3)",
@@ -1558,11 +1113,6 @@
         "name": "talkRADIO",
         "url": "https://radio.talkradio.co.uk/stream",
         "favicon": "https://img.logo.dev/talkradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "talkRADIO",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Talksport",
@@ -1645,11 +1195,6 @@
         "favicon": "https://img.logo.dev/live.talksport.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Teshuvah radio",
-        "url": "https://stream.zeno.fm/3qpkku63z5quv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "THROWBACK RADIO",
         "url": "https://ilikeitoldskool.radioca.st/stream",
         "favicon": "https://img.logo.dev/livescore.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1712,17 +1257,7 @@
     {
         "name": "Trace Gospel",
         "url": "https://c25.radioboss.fm:8130/4rm8tzo7qirtv",
-        "favicon": "https://img.logo.dev/c25.radioboss.fm:8130?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Trace Urban",
-        "url": "http://hydra.cdnstream.com/1531_backup",
-        "favicon": "https://img.logo.dev/hydra.cdnstream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Trace Urban",
-        "url": "http://hydra.cdnstream.com/1531_backup",
-        "favicon": "https://img.logo.dev/hydra.cdnstream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c25.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Turn Radio",
@@ -1763,11 +1298,6 @@
         "name": "Voice Of Heaven - Kampala (MP3)",
         "url": "http://stream.zeno.fm/s961sfesdmntv",
         "favicon": "https://img.logo.dev/voiceofheaven.co.ug?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Voice of Kyankwanzi - Kiboga - 89.7 FM (MP3)",
-        "url": "http://stream.zeno.fm/eyzf4ddwqcmvv",
-        "favicon": "https://img.logo.dev/kyankwanzifm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Way To God Radio (MP3)",

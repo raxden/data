@@ -10,6 +10,11 @@
         "favicon": "https://img.logo.dev/mambokadzidreamradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Ndeke Luka",
+        "url": "https://stream.radiondekeluka.org/ndekeluka",
+        "favicon": "https://img.logo.dev/radiondekeluka.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Ndeke Luka FM",
         "url": "http://stream.radiondekeluka.org:8001/ndekeluka",
         "favicon": "https://img.logo.dev/radiondekeluka.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

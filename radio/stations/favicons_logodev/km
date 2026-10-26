@@ -5,6 +5,11 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Chifa",
+        "url": "http://www.radiochifa.fr:8000/main",
+        "favicon": "https://img.logo.dev/tinyurl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Domoni Inter",
         "url": "http://www.domoni-inter.org:8000/live",
         "favicon": "https://img.logo.dev/domoni-inter.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

@@ -8,5 +8,10 @@
         "name": "National Radio of Kampuchea",
         "url": "http://119.82.252.6:8080/broadwave.mp3",
         "favicon": "https://img.logo.dev/rnk.gov.kh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sweet FM 88 (Siem Reap)",
+        "url": "https://n12.rcs.revma.com/whn9hqwstk3vv",
+        "favicon": "https://img.logo.dev/n12.rcs.revma.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

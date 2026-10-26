@@ -1,8 +1,18 @@
 [
     {
+        "name": "263 HiT Radio",
+        "url": "https://altair.streamerr.co/8180/stream",
+        "favicon": "https://img.logo.dev/263hitradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Breeze FM 91.2",
+        "url": "https://stream.zeno.fm/d1vbtsfem98uv",
+        "favicon": "https://img.logo.dev/breezefm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Capitalk 100.4FM Harare",
@@ -10,9 +20,49 @@
         "favicon": "https://img.logo.dev/capitalkfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CENTRAL RADIO 98.5",
-        "url": "https://centralstream.zbc.co.zw:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/centralradio.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Classic 263",
+        "url": "https://mainradiostreaming.zbc.co.zw:8030/radio.mp3",
+        "favicon": "https://img.logo.dev/classic263.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Diamond FM",
+        "url": "https://edge.iono.fm/xice/160_medium.aac",
+        "favicon": "https://img.logo.dev/diamondfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hevoi FM",
+        "url": "https://s27.myradiostream.com:17754/;;",
+        "favicon": "https://img.logo.dev/hevoifm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kasambabezi FM",
+        "url": "https://stream.zeno.fm/5b5i6nuqbxtvv",
+        "favicon": "https://img.logo.dev/kasambabezifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Khulumani FM 95.0",
+        "url": "https://khulumanistream.zbc.co.zw:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/khulumanifm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kingdom Live Radio 247 Gospel",
+        "url": "https://radio.meeknesstapera.co.zw/listen/kingdom_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/meeknesstapera.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Luzibo Radio",
+        "url": "https://backupradiostreaming.zbc.co.zw:8010/radio.mp3",
+        "favicon": "https://img.logo.dev/luziboradio.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MSU RADIO 90.3 FM",
+        "url": "https://listen.radioking.com/radio/873191/stream/943246",
+        "favicon": "https://img.logo.dev/radio.msu.ac.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "National FM ZBC",
+        "url": "https://mainradiostreaming.zbc.co.zw:8020/national.mp3",
+        "favicon": "https://img.logo.dev/nationalfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nehanda Radio",
@@ -20,13 +70,18 @@
         "favicon": "https://img.logo.dev/nehandaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Star FM 89.7",
-        "url": "https://edge.iono.fm/xice/159_medium.aac",
+        "name": "nust.fm",
+        "url": "https://stream.zeno.fm/zz40oe1wtfwtv",
+        "favicon": "https://img.logo.dev/nust.ac.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star FM",
+        "url": "https://stream.zeno.fm/66qwf50nw98uv",
         "favicon": "https://img.logo.dev/starfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Star FM 89.7",
         "url": "https://edge.iono.fm/xice/159_medium.aac",
-        "favicon": "https://img.logo.dev/streema.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/starfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

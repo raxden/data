@@ -5,9 +5,14 @@
         "favicon": "https://img.logo.dev/aliman.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Gadingharjo Core",
-        "url": "http://79.120.77.11:8002/blackmetal",
-        "favicon": "https://img.logo.dev/gadingharjo-core.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Dark Symphony Radio",
+        "url": "https://streaming.live365.com/a02267",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Looks Radio",
+        "url": "https://proxy.rctiplus.com/?name=http://8.215.206.157:8010/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mosh Head Black Metal ID",
@@ -20,9 +25,19 @@
         "favicon": "https://img.logo.dev/most1058fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "StarStream Radio - The Vinyl Vibe",
+        "url": "https://streaming.live365.com/a29175",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "_Wawa Radio 101.2 FM",
         "url": "https://xn--tmz.xn--6frz82g/streams",
         "favicon": "https://img.logo.dev/xn--tmz.xn--6frz82g?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "100 Rock",
+        "url": "https://100rock.stream.laut.fm/100rock",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "100,8 Insania FM Makassar",
@@ -50,6 +65,31 @@
         "favicon": "https://img.logo.dev/cakrawalafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "102.7 MQFM Bandung",
+        "url": "https://mqfmstreaming.kamil.web.id/;",
+        "favicon": "https://img.logo.dev/mqfmnetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "104.2 MSTRI FM",
+        "url": "https://c2.siar.us:8120/live",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "106.1 Geronimo FM",
+        "url": "https://ig.idstreamer.com:8090//live",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "107 Dakta FM",
+        "url": "http://175.103.48.4:9302/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "181.FM Rock 181",
+        "url": "https://listen.181fm.com/181-rock_128k.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "1921 BALI HEADBANGER",
         "url": "https://stream.zeno.fm/vbyq86vnsp8uv",
         "favicon": "https://img.logo.dev/1921baliheadbanger.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -60,9 +100,9 @@
         "favicon": "https://img.logo.dev/1921baliheadbanger.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "666 Forgotten Castle",
-        "url": "https://stream.zeno.fm/j9tx7izezf4vv",
-        "favicon": "https://img.logo.dev/malangundergroundfest.wordpress.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "80s Metal FM",
+        "url": "https://ais-edge81-bigr-dal03.cdnstream.com/5257_128",
+        "favicon": "https://img.logo.dev/bigrradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "87,6 Insania FM Mataram",
@@ -78,6 +118,11 @@
         "name": "88.0  Mustang FM Jakarta",
         "url": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
         "favicon": "https://img.logo.dev/mustang88fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "889 FMberlin",
+        "url": "https://889fmberlin.stream.laut.fm/889fmberlin",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "89.2 FM Jakarta, Campur sari",
@@ -115,6 +160,21 @@
         "favicon": "https://img.logo.dev/swadesifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "97.1 RDI FM - Jakarta",
+        "url": "http://8.215.206.157:8004/;",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "97.2 My Radio FM - Banjarbaru",
+        "url": "https://a3.alhastream.com:5038/radio",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "97.9 Insania FM Gorontalo",
+        "url": "https://stream-sg1.galuhmedia.co.id/listen/insaniagorontalo/979gorontalo",
+        "favicon": "https://img.logo.dev/insaniafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "98,4 Suara Giri FM Gresik",
         "url": "http://streaming.girifm.com:8010/;stream.nsv",
         "favicon": "https://img.logo.dev/girifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -125,14 +185,14 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Akurat FM Solo",
-        "url": "http://c1.siar.us:9350/stream",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "ACDC",
+        "url": "https://stream.pcradio.app/ac_dc-hi",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Al-Faruq Purwokerto Banyumas <24kb aac+>",
-        "url": "http://alfaruq.radioislam.my.id:12000/",
-        "favicon": "https://img.logo.dev/alfaruq.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Akurat FM Solo",
+        "url": "http://c1.siar.us:9350/stream",
+        "favicon": "https://img.logo.dev/c1.siar.us?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Alternatif radio jakarta",
@@ -140,14 +200,14 @@
         "favicon": "https://img.logo.dev/pemancar99.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Amandit 93.9 FM",
+        "url": "https://b.alhastream.com:5035/radio",
+        "favicon": "https://img.logo.dev/amanditmedia.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "AMANDIT FM",
         "url": "https://live.amanditfm.com/listen/amanditfm/onair",
         "favicon": "https://img.logo.dev/live.amanditfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ananda radio bandung",
-        "url": "http://sx.alhasmedia.com/radio/8220/radio",
-        "favicon": "https://img.logo.dev/anandaradiobandung.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Andika FM Kediri",
@@ -155,9 +215,14 @@
         "favicon": "https://img.logo.dev/andikafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ARB FM JAKARTA",
-        "url": "https://void.idserverhost.com/8018/stream",
-        "favicon": "https://img.logo.dev/arbfmbogor.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Anime FM",
+        "url": "https://animefm.stream.laut.fm/animefm",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ardan",
+        "url": "https://ardanradio.com/",
+        "favicon": "https://img.logo.dev/ardanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ardan",
@@ -165,8 +230,28 @@
         "favicon": "https://img.logo.dev/ardanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ARDAN 105.9 FM BANDUNG",
+        "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
+        "favicon": "https://img.logo.dev/ardanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ARDAN RADIO",
+        "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
+        "favicon": "https://img.logo.dev/ardanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "At 40",
+        "url": "https://at40.stream.laut.fm/at40",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Avenged Sevenfold",
+        "url": "https://stream.pcradio.app/avenged_sevenfold-hi",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "AXR Jakarta",
-        "url": "http://22283.live.streamtheworld.com/AXR_JAKARTA_SC",
+        "url": "http://22273.live.streamtheworld.com:3690/AXR_JAKARTA_SC",
         "favicon": "https://img.logo.dev/axr.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -175,24 +260,14 @@
         "favicon": "https://img.logo.dev/bilitonesefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "B-RADIO 95.6 FM BANDUNG",
+        "url": "https://stream.rcs.revma.com/9yp8b9pd6k3vv",
+        "favicon": "https://img.logo.dev/bradio956.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Bahana FM Ngawi",
         "url": "http://bahanafm.onlivestreaming.net:10450/live",
         "favicon": "https://img.logo.dev/bahanafmngawi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bahtera Yudha FM Surabaya",
-        "url": "http://streaming.bahterayudhafm.com:8050/;rojer.mp3",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Balai Budaya Minomartani FM",
-        "url": "https://stream-155.zeno.fm/kchb1gp3a1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrY2hiMWdwM2ExZHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InhKeGtmZGJKUXpxVDlYVnp0SEg4SFEiLCJpYXQiOjE3NzEzODAwNjIsImV4cCI6MTc3MTM4MDEyMn0.BHMIYwNRyjr35E_2KgS9nmA6vYLHHhWZpfHGGEYSrn0&1771380061722",
-        "favicon": "https://img.logo.dev/balaibudayaminomartani.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bandung Death Metal Syndicate",
-        "url": "https://stream.zeno.fm/t9wdzppre5zuv",
-        "favicon": "https://img.logo.dev/zonacadas.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bass FM 93.2 Salatiga",
@@ -205,9 +280,54 @@
         "favicon": "https://img.logo.dev/thebeatbali.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Beat Radio Dangdut",
+        "url": "https://stream.beatradioid.com:8000//dangdut",
+        "favicon": "https://img.logo.dev/beatradioid.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Beat Radio Indonesia",
+        "url": "https://stream.beatradioid.com:8000/stream",
+        "favicon": "https://img.logo.dev/beatradioid.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bellasalam 87.6 FM Tasikmalaya",
+        "url": "https://listen.bellasalamfm.com/listen/radiobellasalam/live",
+        "favicon": "https://img.logo.dev/bellasalamfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bellasalam 87.6 FM Tasikmalaya",
+        "url": "https://listen.bellasalamfm.com/listen/radiobellasalam/live",
+        "favicon": "https://img.logo.dev/bellasalamfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BENS RADIO",
+        "url": "https://streaming.bensradio.com:8522/stream",
+        "favicon": "https://img.logo.dev/bensradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bens Radio",
+        "url": "https://streaming.bensradio.com:8522/stream",
+        "favicon": "https://img.logo.dev/bensradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Bharata Radio",
         "url": "https://c1.siar.us:8800/live",
         "favicon": "https://img.logo.dev/bharataradio738.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bintan Radio (96.5 FM)",
+        "url": "http://202.43.230.4:8000/live",
+        "favicon": "https://img.logo.dev/965fm.bintankab.go.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bob Marley",
+        "url": "https://stream.pcradio.ru/bob_marley-hi",
+        "favicon": "https://img.logo.dev/fmcube.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Brava Radio",
+        "url": "http://n04.radiojar.com/5k7t0rq3bnzuv.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Brava Radio",
@@ -225,11 +345,6 @@
         "favicon": "https://img.logo.dev/brayaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Cakra Radio Bandung 90.5 FM",
-        "url": "https://stream.zeno.fm/yoengdcdzyauv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Campursari FM",
         "url": "https://streaming.campursarifm.com/listen/campursari/campursari892",
         "favicon": "https://img.logo.dev/campursarifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -238,6 +353,16 @@
         "name": "Campursari FM Jakarta",
         "url": "https://streaming.campursarifm.com/listen/campursari/campursari892",
         "favicon": "https://img.logo.dev/campursarifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Chinese Music World",
+        "url": "https://radio.chinesemusicworld.com/chinesemusic.ogg",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "City Radio 959 FM",
+        "url": "https://live.cityradio.id/cityradio.ogg",
+        "favicon": "https://img.logo.dev/cityradio.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "City Radio 959 FM",
@@ -250,9 +375,24 @@
         "favicon": "https://img.logo.dev/cityradio.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "City Radio Mandarin",
+        "url": "https://live.cityradio.id/cr-mandarin.ogg",
+        "favicon": "https://img.logo.dev/cityradio.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "CityRadio 959 FM",
         "url": "https://sc.cityradio.id/;",
         "favicon": "https://img.logo.dev/cityradio.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Classic Rock",
+        "url": "https://classicrock.stream.laut.fm/classicrock",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Classic Rock Florida",
+        "url": "https://streaming.live365.com/a06375",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Classy FM",
@@ -273,21 +413,6 @@
         "name": "CNN Indonesia TV",
         "url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w275412545_b384000_sleng.m3u8",
         "favicon": "https://img.logo.dev/cnnindonesia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "COCOJO RADIO",
-        "url": "https://live.cocojoradio.com/listen/cocojoradio/cocojoradio",
-        "favicon": "https://img.logo.dev/cocojoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Cosmic Indo",
-        "url": "https://stream.zeno.fm/jw6ys87h2dguv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Cosmo Radio 101.9 FM Bandung",
-        "url": "http://scg.streamingmurah.com:8074/stream",
-        "favicon": "https://img.logo.dev/instagram.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cosmopolitan",
@@ -315,18 +440,33 @@
         "favicon": "https://img.logo.dev/radiodakwahmustofa.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DANGDUT",
-        "url": "https://stream.zeno.fm/sgvq5xniobhuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Dark Symphony",
+        "url": "https://dsr.ytrvpvt.workers.dev/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Dangdut2",
-        "url": "https://stream.zeno.fm/vwhplynnpfjtv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "DEHILLS RADIO",
+        "url": "https://live.dehills.id/listen/dehills/stream",
+        "favicon": "https://img.logo.dev/dehills.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Delta FM",
+        "url": "https://stream.rcs.revma.com/k02rmq48kxcwv",
+        "favicon": "https://img.logo.dev/deltafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Delta FM | Hits Terenak",
         "url": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3",
+        "favicon": "https://img.logo.dev/deltafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Delta FM Bandung",
+        "url": "https://stream-pd-bdg.dimasalfaridzi.my.id/delta",
+        "favicon": "https://img.logo.dev/deltafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Delta FM Jakarta",
+        "url": "http://s1.cloudmu.id:8030/radio.mp3",
         "favicon": "https://img.logo.dev/deltafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -340,9 +480,14 @@
         "favicon": "https://img.logo.dev/denger.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DJ BARU",
-        "url": "https://stream.zeno.fm/iwcyhq56nwiuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "DENGERIN MUSIK INDONESIA",
+        "url": "https://stream.denger.in/",
+        "favicon": "https://img.logo.dev/denger.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Diozz FM",
+        "url": "https://stream-ssl.arenastreaming.com:8046/live",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Djati FM",
@@ -360,9 +505,9 @@
         "favicon": "https://img.logo.dev/dnafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "EL JHON FM Palembang",
-        "url": "http://103.28.149.117:8032/stream",
-        "favicon": "https://img.logo.dev/eljohnfm.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Dua Tujuh FM",
+        "url": "http://uk16freenew.listen2myradio.com:13460/stream",
+        "favicon": "https://img.logo.dev/duatujuhfm.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EL SHADDAI FM SOLO",
@@ -370,9 +515,19 @@
         "favicon": "https://img.logo.dev/elshaddaifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ELEGAN RADIO",
+        "url": "https://a3.alhastream.com:1265/eleganradio",
+        "favicon": "https://img.logo.dev/basmedianet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Elgangga FM",
         "url": "https://b.alhastream.com:5140/radio",
         "favicon": "https://img.logo.dev/radioelgangga.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ELPAS RADIO",
+        "url": "https://live.elpasradio.com/listen/elpasradio/stream",
+        "favicon": "https://img.logo.dev/elpasradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "elshinta  jakarta",
@@ -390,24 +545,14 @@
         "favicon": "https://img.logo.dev/fajrifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Female FM",
-        "url": "http://onlineradiobox.com/json/id/female/play",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Female FM",
-        "url": "http://onlineradiobox.com/json/id/female/play",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Female Radio",
         "url": "https://s1.cloudmu.id/listen/female_radio/radio.mp3",
         "favicon": "https://img.logo.dev/femaleradio.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Firza Medan Radio",
-        "url": "http://stream.zeno.fm/vtoxx0qaqeltv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "FeMale Radio",
+        "url": "https://stream.rcs.revma.com/9thenqqd2ncwv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Firza MPC Radio",
@@ -415,19 +560,29 @@
         "favicon": "https://img.logo.dev/firzadankiaradio,blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Firza Radio Madina",
-        "url": "http://stream.zeno.fm/p63ug1un92quv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Fourtyfive Radio Jakarta 107.8",
+        "url": "https://a5.siar.us/listen/fourtyfiveradio/stream",
+        "favicon": "https://img.logo.dev/fourtyfiveradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Firza Radio Padang",
-        "url": "https://stream-029.zeno.fm/ptkeryrsu0ttv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Free FM - Jakarta",
+        "url": "https://rocafmadrid.radioca.st/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Firza Radio Tapsel",
-        "url": "http://stream.zeno.fm/ol4zzo5bvistv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Fresh Radio",
+        "url": "https://relay.gemini101fm.com/listen/fresh_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/fresh959fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "fress fm",
+        "url": "https://streaming.fressfm.com:11185/stream",
+        "favicon": "https://img.logo.dev/fressfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fress FM",
+        "url": "http://162.244.80.106:11185/stream",
+        "favicon": "https://img.logo.dev/fressfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fress FM",
@@ -445,9 +600,9 @@
         "favicon": "https://img.logo.dev/gajahmadafm.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Galuh Media Streaming Cianjur Indonesia",
-        "url": "https://stream-sg1.galuhmedia.co.id/listen/galuhmedia/stream",
-        "favicon": "https://img.logo.dev/stream-sg1.galuhmedia.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Gajahmada FM Semarang",
+        "url": "https://server.radioimeldafm.co.id/radio/8040/gajahmadafm",
+        "favicon": "https://img.logo.dev/gajahmadafm.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Galuh Media Streaming Cianjur Indonesia",
@@ -455,14 +610,19 @@
         "favicon": "https://img.logo.dev/stream-sg1.galuhmedia.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "GCD Yogyakarta 98.6 FM",
-        "url": "https://studio1.indostreamers.com:8014/stream/1/",
-        "favicon": "https://img.logo.dev/gcdfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Galuh Media Streaming Cianjur Indonesia",
+        "url": "https://stream-sg1.galuhmedia.co.id/listen/galuhmedia/stream",
+        "favicon": "https://img.logo.dev/stream-sg1.galuhmedia.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Gema Surya FM Ponorogo",
         "url": "https://r5.siar.us:9420/aac.m4a?_=1",
         "favicon": "https://img.logo.dev/gemasuryafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GEMINI 101 FM",
+        "url": "https://relay.gemini101fm.com/listen/gemini_fm/radio.mp3",
+        "favicon": "https://img.logo.dev/gemini101fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Gen 103.1 FM Surabaya",
@@ -475,34 +635,54 @@
         "favicon": "https://img.logo.dev/gen1031fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Gen 98.7 FM Jakarta",
-        "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8",
-        "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gen 98.7 FM Jakarta",
-        "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gen 98.7 FM Jakarta",
-        "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gen 98.7 FM Jakarta",
-        "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
+        "name": "Gen 98.7 FM",
+        "url": "https://ic.mari.co.id:8443/genfm",
         "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Gen 98.7 FM Jakarta",
         "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8",
+        "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gen 98.7 FM Jakarta",
+        "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
+        "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gen 98.7 FM Jakarta",
+        "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
+        "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gen 98.7 FM Jakarta",
+        "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
+        "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gen 98.7 FM Jakarta",
+        "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8",
+        "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GEN 987 FM",
+        "url": "https://ic.mari.co.id:8443/genfm",
         "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "gen 987 FM",
         "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
         "favicon": "https://img.logo.dev/gen987fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gen FM",
+        "url": "https://ic.mari.co.id:8443/genfm",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gen FM",
+        "url": "https://ic.mari.co.id:8443/genfm",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Genta FM Bali",
@@ -520,18 +700,43 @@
         "favicon": "https://img.logo.dev/gobersradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Hang 106 FM",
-        "url": "http://185.47.62.52:8000/listen.mp3/stats?sid=1&json=1&callback=jQuery1124046759743595637016_1677813104799&_=1677813104800",
-        "favicon": "https://img.logo.dev/hangmedia.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Gothic",
+        "url": "https://gothic.stream.laut.fm/gothic",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "HANG 106FM",
+        "name": "Gothica",
+        "url": "https://gothica.stream.laut.fm/gothica",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Guns N' Roses",
+        "url": "https://stream02.pcradio.biz/guns_n_roses-hi",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hang FM",
         "url": "http://185.47.62.52:8000/listen.mp3",
-        "favicon": "https://img.logo.dev/panel.hangmedia.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hard Rock FM",
+        "url": "https://n06.radiojar.com/7csmg90fuqruv",
+        "favicon": "https://img.logo.dev/hardrockfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "hard rock FM surabaya",
         "url": "https://n0c.radiojar.com/yg8ne2v80k8uv",
+        "favicon": "https://img.logo.dev/hardrockfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hard Rock Heaven",
+        "url": "https://ais-sa2.cdnstream1.com/1521_128",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hardrock 87.6 FM Jakarta",
+        "url": "http://stream.radiojar.com/7csmg90fuqruv",
         "favicon": "https://img.logo.dev/hardrockfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -547,7 +752,7 @@
     {
         "name": "Harmoni FM Blitar",
         "url": "http://cbnradio.streamguys1.com/praise-128K",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/cbnradio.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Heartline Tangerang",
@@ -555,9 +760,9 @@
         "favicon": "https://img.logo.dev/heartline.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Hits Unikom Radio",
-        "url": "https://streaming.hitsunikomradio.com/",
-        "favicon": "https://img.logo.dev/hitsunikomradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Hitradio 4 Ever",
+        "url": "https://hitradio4ever.stream.laut.fm/hitradio4ever",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hits Unikom Radio",
@@ -570,14 +775,49 @@
         "favicon": "https://img.logo.dev/hitsunikomradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Hitz 91.2 FM Belitung",
+        "name": "Hits Unikom Radio",
+        "url": "https://streaming.hitsunikomradio.com/",
+        "favicon": "https://img.logo.dev/hitsunikomradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hits Unikom Radio",
+        "url": "https://streaming.hitsunikomradio.com/",
+        "favicon": "https://img.logo.dev/hitsunikomradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HITZ 91.2 FM",
         "url": "https://play.bilitonesefm.com/listen/radiohitzfm/stream",
-        "favicon": "https://img.logo.dev/hitzfmbelitung.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/bilitonesefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hot 93.2 FM",
         "url": "http://103.246.184.62:1935/noice_hotfm/hotfm/chunklist_w167204702.m3u8",
         "favicon": "https://img.logo.dev/hot932fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hot 93.2 FM",
+        "url": "https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/hot932fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hot 93.2 FM Jakarta",
+        "url": "https://ic.mari.co.id:8443/hotfm",
+        "favicon": "https://img.logo.dev/hot932fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "https://ardanradio.com/",
+        "url": "https://ardanradio.com/",
+        "favicon": "https://img.logo.dev/ardanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "I Love Music - I♥K-POP",
+        "url": "https://ilm.stream35.radiohost.de/ilm-ilovekpop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyNjQyNTg5JmQ9ZjcwMTViYzc2ZmE1MjE1YmM3ZmM",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "I Love Music - I♥TOP 100 CHARTS",
+        "url": "https://ilm.stream12.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyNjUxNzA0JmQ9MDI2NDVkMTQ4YmM2NmI0MmMwODQ",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "I-Radio Jakarta",
@@ -588,6 +828,11 @@
         "name": "Imelda FM",
         "url": "https://server.radioimeldafm.co.id:8030/imeldafm",
         "favicon": "https://img.logo.dev/radioimeldafm.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Inayah Radio Suryalaya",
+        "url": "https://s3.alhastream.com/listen/station_38/radio",
+        "favicon": "https://img.logo.dev/inayahradio.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Insania FM Ternate",
@@ -605,13 +850,68 @@
         "favicon": "https://img.logo.dev/radioistara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Jagakarsa smooth jazz",
-        "url": "https://stream.zenolive.com/u8fk7pgds8quv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "iSWARA BANDUNG",
+        "url": "https://stream.radiojar.com/u6ppe6hswk8uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iSWARA BANJARMASIN",
+        "url": "https://stream.radiojar.com/qfqd2aw80k8uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iSWARA JAKARTA",
+        "url": "https://stream.radiojar.com/4ywdgup3bnzuv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iSWARA JOGJA",
+        "url": "https://stream.radiojar.com/hnf2cbv80k8uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iSWARA MAKASSAR",
+        "url": "https://stream.radiojar.com/seqmzfeu5k8uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iSWARA MEDAN",
+        "url": "https://stream.radiojar.com/hkuevehswk8uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iSWARA SEMARANG",
+        "url": "https://stream.radiojar.com/fr9zqhv80k8uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iSWARA SURABAYA",
+        "url": "https://stream.radiojar.com/yg8ne2v80k8uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "J Nation",
+        "url": "https://j-nation.stream.laut.fm/j-nation",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "J-Pop Powerplay",
+        "url": "https://kathy.torontocast.com:3560/stream/1/",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "J-Pop Project Radio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC139.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jak 101",
         "url": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/jak101fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "JAK 101 FM",
+        "url": "https://ic.mari.co.id:8443/jakfm",
         "favicon": "https://img.logo.dev/jak101fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -625,9 +925,24 @@
         "favicon": "https://img.logo.dev/jak101fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Jiz 89.5 FM",
-        "url": "https://pu.klikhost.com/proxy/jizfm/stream",
-        "favicon": "https://img.logo.dev/895jizfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Jak FM 101",
+        "url": "https://wz.mari.co.id:1936/noice_jakfm/jakfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jak! 101 FM",
+        "url": "https://ic.mari.co.id:8443/jakfm",
+        "favicon": "https://img.logo.dev/jak101fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Japanese Music ID",
+        "url": "https://stream.japanesemusicid.com/live/1/;",
+        "favicon": "https://img.logo.dev/japanesemusicid.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Japanimradio Music",
+        "url": "https://stream.zeno.fm/swoxwhtmuo4uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Joss 885 AM",
@@ -645,6 +960,11 @@
         "favicon": "https://img.logo.dev/radio.kaj.or.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kawaii Music",
+        "url": "https://kawaii-music.stream.laut.fm/kawaii-music",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "KBR Jakarta",
         "url": "https://pu.klikhost.com/proxy/kbr/kbr",
         "favicon": "https://img.logo.dev/kbr.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -655,28 +975,13 @@
         "favicon": "https://img.logo.dev/kbr.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KIARA 4U",
-        "url": "https://eu1.fastcast4u.com/proxy/kiarafm?mp=/1",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KIARA 4U",
-        "url": "https://eu1.fastcast4u.com/proxy/kiarafm?mp=/1",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KIARA FM IKIP PADANG",
-        "url": "https://stream.zeno.fm/cn1fanz7hkeuv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KIARA MPC RADIO",
-        "url": "http://mpc1.mediacp.eu/stream/kiara-radio",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Kharisma FM Kediri",
+        "url": "http://stream.kharismafm.com:9550/kharismafm",
+        "favicon": "https://img.logo.dev/kharismafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kinozal.TV",
-        "url": "https://listen4.myradio24.com/kinozaltv",
+        "url": "https://listen7.myradio24.com/kinozaltv",
         "favicon": "https://img.logo.dev/kinozal.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -687,6 +992,16 @@
     {
         "name": "Kis 95.1 FM Jakarta",
         "url": "http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8",
+        "favicon": "https://img.logo.dev/kis951fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KIS FM",
+        "url": "https://stream.radiokis.id/kisfm2",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kis FM 95.1",
+        "url": "https://ic.mari.co.id:8443/kisfm",
         "favicon": "https://img.logo.dev/kis951fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -701,7 +1016,7 @@
     },
     {
         "name": "KLCBS",
-        "url": "https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd",
+        "url": "https://streaming.klcbs.id/listen/klcbs/klcbsfm",
         "favicon": "https://img.logo.dev/klcbsofficial.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -725,9 +1040,24 @@
         "favicon": "https://img.logo.dev/klcbsofficial.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kosmonita FM Malanf",
-        "url": "http://202.58.200.26:1055/live",
-        "favicon": "https://img.logo.dev/202.58.200.26:1055?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Klik Radio",
+        "url": "https://pu.klikhost.com/proxy/klikhost/autodj",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Korea, Today & Tomorrow",
+        "url": "https://worldradio.gscdn.kbs.co.kr/worldradio_192_4_48038494.aac",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KPFM Balikpapan",
+        "url": "https://pu.klikhost.com/proxy/kpfmbpn/stream",
+        "favicon": "https://img.logo.dev/live.kapefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KPFM Balikpapan",
+        "url": "https://pu.klikhost.com/proxy/kpfmbpn/stream",
+        "favicon": "https://img.logo.dev/live.kapefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KRADIO HSS",
@@ -735,29 +1065,29 @@
         "favicon": "https://img.logo.dev/kradionews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "KRADIO HSS",
+        "url": "https://live.kradionews.com/listen/kradio/stream",
+        "favicon": "https://img.logo.dev/kradionews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Linkin Park - Радио Maximum",
+        "url": "https://maximum-linkinpark.hostingradio.ru/linkinpark96.aacp",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Linkin Park Radio",
+        "url": "https://linkinpark-radio.stream.laut.fm/linkin_park-radio",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "LIVE - RRI PRO 2 Tanjung Pinang",
         "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Lodiko MuLo",
-        "url": "https://stream-063.zeno.fm/sktzuxbiw5qvv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Lodiko Sodonyo",
-        "url": "https://stream-047.zeno.fm/nztzeroxluuuv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Loker Musik Indonesia",
         "url": "https://stream.lokermusik.com/listen/lokermusik/lokermusik",
         "favicon": "https://img.logo.dev/lokermusik.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Lopo Par85",
-        "url": "https://stream-047.zeno.fm/wbwfh9niu2fvv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LPPL BATARA",
@@ -780,11 +1110,6 @@
         "favicon": "https://img.logo.dev/app.mradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "M-Stream Indo",
-        "url": "https://stream.zeno.fm/iln4upodbvuuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "mandarin station",
         "url": "https://stream01-ssl.arenastreaming.com:8043/stream",
         "favicon": "https://img.logo.dev/mandarinstation983.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -793,6 +1118,26 @@
         "name": "Mandarin Station 98.3 FM",
         "url": "https://stream01-ssl.arenastreaming.com:8043/stream",
         "favicon": "https://img.logo.dev/mandarinstation983.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mandarin station FM 98.3",
+        "url": "https://stream01-ssl.arenastreaming.com:8043/stream",
+        "favicon": "https://img.logo.dev/mandarinstation983.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Marilyn Manson Radio",
+        "url": "https://stream.pcradio.ru/Marilyn_Manson-hi",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mash",
+        "url": "https://mash.stream.laut.fm/mash",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Megadeth",
+        "url": "https://stream.pcradio.ru/megadeth-hi",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Megaswara Bogor",
@@ -825,9 +1170,74 @@
         "favicon": "https://img.logo.dev/merdekafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Metal Hammer",
+        "url": "https://metal-hammer.stream.laut.fm/metal-hammer",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Metalcore",
+        "url": "https://metalcore.stream.laut.fm/metalcore",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MetalFM",
+        "url": "http://channels.fluxfm.de/metal-fm/stream.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Metallica",
+        "url": "https://stream.pcradio.app/Metallica-hi",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Metrum Radio",
+        "url": "https://ssg.streamingmurah.com:8400/;",
+        "favicon": "https://img.logo.dev/metrum.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Mettaswara 2000",
         "url": "https://mettaswara.com:8700//theonest",
         "favicon": "https://img.logo.dev/mettaswara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Campursari",
+        "url": "https://mettaswara.com:8700/cps",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Dangdut",
+        "url": "https://mettaswara.com:8700/d4d",
+        "favicon": "https://img.logo.dev/mettaswara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara DhutKop Remix",
+        "url": "https://mettaswara.com:8700/mix",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Hits",
+        "url": "https://mettaswara.com:8700/hits",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Indo 2000",
+        "url": "https://mettaswara.com:8700//indo00",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Indonesia",
+        "url": "https://mettaswara.com:8700/indo",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Indonesia Gold",
+        "url": "https://mettaswara.com:8700//disco",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Java",
+        "url": "https://mettaswara.com:8700//java",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mettaswara Koplo",
@@ -835,9 +1245,34 @@
         "favicon": "https://img.logo.dev/mettaswara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Mettaswara Relax",
+        "url": "https://mettaswara.com:8700//metta",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "mettaswara slow rock",
         "url": "https://mettaswara.com:8700//slowrock",
         "favicon": "https://img.logo.dev/mettaswara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Smooth",
+        "url": "https://mettaswara.com:8700/smooth",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara SoftRock",
+        "url": "https://mettaswara.com:8700/slowrock",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara Throwback 80",
+        "url": "https://mettaswara.com:8700//mettatrow",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mettaswara TOP 40",
+        "url": "https://mettaswara.com:8700/theone",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MFM 101.3",
@@ -855,9 +1290,29 @@
         "favicon": "https://img.logo.dev/mgtradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "MGTRadio",
+        "url": "https://s1.gntr.net/listen/mgtradio/mgtradio",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "MNC Trijaya FM",
         "url": "https://proxy.rctiplus.com/?name=http://8.215.206.157:8002/;",
-        "favicon": "https://img.logo.dev/mnctrijaya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/proxy.rctiplus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Montini 106 FM Manado",
+        "url": "https://stream.montiniradio.com:8443/manado_radiomontini_dual?ver=338735",
+        "favicon": "https://img.logo.dev/montiniradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Most 1058",
+        "url": "https://ic.mari.co.id:8443/mostfm",
+        "favicon": "https://img.logo.dev/most1058fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MOST Radio",
+        "url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/most1058fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Most Radio 105.8 FM",
@@ -865,9 +1320,19 @@
         "favicon": "https://img.logo.dev/most1058fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Most Radio FM 105.8 Jakarta",
+        "url": "https://wz.mari.co.id:1936/noice_mostfm/mostfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Most Radio Jakarta",
         "url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8",
         "favicon": "https://img.logo.dev/most1058fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Motion FM",
+        "url": "https://cast1.my-control-panel.com/proxy/radioso4/stream",
+        "favicon": "https://img.logo.dev/motionradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MQFM Bandung - Indonesia",
@@ -875,12 +1340,17 @@
         "favicon": "https://img.logo.dev/mqfmnetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Muarasipongi",
-        "url": "http://stream.zeno.fm/eus8arb1mkeuv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "MTB FM Surabaya",
+        "url": "https://103.123.98.58/listen/1027_mtb_fm_surabaya/radio.mp3",
+        "favicon": "https://img.logo.dev/mtbfm.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mustang 88 FM",
+        "url": "https://ic.mari.co.id:8443/mustangfm",
+        "favicon": "https://img.logo.dev/mustang88fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mustang 88.0",
         "url": "https://ic.mari.co.id:8443/mustangfm",
         "favicon": "https://img.logo.dev/mustang88fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -890,29 +1360,14 @@
         "favicon": "https://img.logo.dev/mustang88fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "NAGASWARA Pop",
-        "url": "https://streaming.brol.tech/jamendolounge?https://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendolounge",
-        "favicon": "https://img.logo.dev/youtube.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Ncs Radio",
+        "url": "https://ncsradio.stream.laut.fm/ncsradio",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "NAGASWARA RADIOTEMEN",
-        "url": "https://streaming.brol.tech/jamendolounge?https://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendolounge",
-        "favicon": "https://img.logo.dev/youtube.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NAGASWARA World",
-        "url": "https://streaming.brol.tech/jamendolounge?https://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendolounge",
-        "favicon": "https://img.logo.dev/youtube.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NAGASWARA World",
-        "url": "https://streaming.brol.tech/jamendolounge?https://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendoloungehttps://streaming.brol.tech/jamendolounge",
-        "favicon": "https://img.logo.dev/youtube.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nindy Radio 98.2 FM",
-        "url": "http://radio.garden/api/ara/content/listen/823zxnHk/channel.mp3",
-        "favicon": "https://img.logo.dev/youtube.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Nightwish Radio",
+        "url": "https://stream.pcradio.ru/Nightwish-hi",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Norrm",
@@ -925,14 +1380,14 @@
         "favicon": "https://img.logo.dev/live.nurfmrembang.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Nusa FM",
-        "url": "https://stream.zeno.fm/n5tergcf4v8uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "NXS WEB RADIO",
+        "url": "https://centova.dukahosting.com/proxy/nxsradio/stream?1650565787793",
+        "favicon": "https://img.logo.dev/netwymanblogs.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Nusa FM Yogyakarta",
-        "url": "https://stream.zeno.fm/n5tergcf4v8uv",
-        "favicon": "https://img.logo.dev/nusafm.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Otaku World",
+        "url": "https://otaku-world.stream.laut.fm/otaku-world",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Paddygrooves",
@@ -955,23 +1410,43 @@
         "favicon": "https://img.logo.dev/pasfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PEACE RADIO 102.4FM",
-        "url": "https://svara-stream.radioddns.net/ciamis_pissfm_stereo",
-        "favicon": "https://img.logo.dev/pissradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "PASFM Pati",
+        "url": "http://scg.streamingmurah.com:8886/mp3/;",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Pejuang Kopi",
-        "url": "https://stream.zeno.fm/sthgzynfcd0uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Phoenix Radio Bali",
+        "url": "https://live.phoenixradiobali.com:8250/phoenixradio",
+        "favicon": "https://img.logo.dev/phoenixradiobali.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Pendopo Nusantara FM",
-        "url": "https://stream-157.zeno.fm/n5tergcf4v8uv?zs=uFe_dzMYTQa3K-vQ8r7log",
-        "favicon": "https://img.logo.dev/nusafm.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Phoenix Radio Bali 91.00 FM",
+        "url": "https://live.phoenixradiobali.com:8250/phoenixradio",
+        "favicon": "https://img.logo.dev/phoenixradiobali.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Prambors Bandung 98.4 FM",
+        "url": "https://stream-pd-bdg.dimasalfaridzi.my.id/prambors",
+        "favicon": "https://img.logo.dev/pramborsfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Prambors FM",
+        "url": "https://stream.rcs.revma.com/h77wwp48kxcwv",
+        "favicon": "https://img.logo.dev/pramborsfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Prambors FM Jakarta 102.2",
+        "url": "https://s1.cloudmu.id/listen/prambors/radio.mp3?age=18%2B",
+        "favicon": "https://img.logo.dev/pramborsfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Prambors FM Jakarta 102.2",
         "url": "http://103.24.105.90:9300/pjkt",
+        "favicon": "https://img.logo.dev/pramborsfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Prambors FM Solo 99.2 FM",
+        "url": "https://s1.cloudmu.id/listen/prambors/radio.mp3?city=Surakarta",
         "favicon": "https://img.logo.dev/pramborsfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -980,9 +1455,19 @@
         "favicon": "https://img.logo.dev/prameswarafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "PrimaFM 95.8",
+        "url": "http://live.primafmindramayu.com:9580/primafm",
+        "favicon": "https://img.logo.dev/primafmindramayu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "PRO 1 RRI MAKASSAR",
         "url": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pro 5 Makassar",
+        "url": "https://stream.streamaudio.de:8000/teststream3",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pro1 RRI Jakarta",
@@ -1015,6 +1500,11 @@
         "favicon": "https://img.logo.dev/ptpnradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "R-lisa FM",
+        "url": "https://a4.siar.us/radio/8360/radio.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "R2B Rembang",
         "url": "https://i.klikhost.com:8892/stream",
         "favicon": "https://img.logo.dev/r2brembang.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1035,11 +1525,6 @@
         "favicon": "https://img.logo.dev/radioadzanfmbandung.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO ALTERNATIF FM 98.1 MHZ JAKARTA",
-        "url": "https://void.idserverhost.com:8016/stream/1/",
-        "favicon": "https://img.logo.dev/tokopemancar99.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio ananda",
         "url": "http://sx.alhasmedia.com/radio/8220/radio",
         "favicon": "https://img.logo.dev/radioanandabandung.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1050,27 +1535,52 @@
         "favicon": "https://img.logo.dev/andikafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Andy",
-        "url": "https://stream.zeno.fm/w6tqbtdvt4zuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio AR Bali",
         "url": "https://live.radioarbali.com:8450/radioar",
         "favicon": "https://img.logo.dev/radioarbali.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO CAKRA 90.5 FM",
-        "url": "https://stream.zeno.fm/yoengdcdzyauv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Asa FM",
+        "url": "https://stream.zeno.fm/2x8c8cnq2zhvv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Campursari Yogyakarta",
-        "url": "https://a8.siar.us/listen/campursari/stream",
-        "favicon": "https://img.logo.dev/radiomaya.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Bantul 89.10 FM",
+        "url": "https://stream.swadesifm.com/radio/8130/radio.mp3",
+        "favicon": "https://img.logo.dev/swadesifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bantul 89.10 FM",
+        "url": "https://stream.swadesifm.com/radio/8130/radio.mp3",
+        "favicon": "https://img.logo.dev/swadesifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bintang Tenggara",
+        "url": "https://asv.alhastream.com:4070/rbtfm",
+        "favicon": "https://img.logo.dev/bintangtenggara.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bola",
+        "url": "https://live.radiobola.co.id/listen/radiobola/stream",
+        "favicon": "https://img.logo.dev/radiobola.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bola",
+        "url": "https://live.radiobola.co.id/listen/radiobola/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Budi Luhur",
+        "url": "https://c2.siar.us/listen/radiobudiluhur/stream",
+        "favicon": "https://img.logo.dev/radiobudiluhur.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio CBB",
+        "url": "https://stream01-ssl.arenastreaming.com:8056/live",
+        "favicon": "https://img.logo.dev/cbbradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO CBB 105,4 FM",
         "url": "https://stream01-ssl.arenastreaming.com:8056/live",
         "favicon": "https://img.logo.dev/cbbradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -1080,7 +1590,7 @@
         "favicon": "https://img.logo.dev/cbbradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO CMN | STREAM HITS | NO 1",
+        "name": "Radio CMN",
         "url": "https://stream.coolkas.com/listen/radiocmn/radiocmn",
         "favicon": "https://img.logo.dev/cmn.coolkas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -1090,14 +1600,19 @@
         "favicon": "https://img.logo.dev/radiodahliafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Dakwah Islam",
-        "url": "https://i.klikhost.com/8260/;radio.mp3",
-        "favicon": "https://img.logo.dev/dais1079fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Dangdut 97.1 FM Jakarta",
         "url": "http://202.147.199.99:8000/;",
         "favicon": "https://img.logo.dev/rdifm.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Dangdut Indonesia",
+        "url": "http://202.147.199.99:8000/",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Dangdut Indonesia",
+        "url": "http://202.147.199.99:8000/;stream/1",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Dangdut Indonesia",
@@ -1108,11 +1623,6 @@
         "name": "RADIO DMS AMBON",
         "url": "https://a3.alhastream.com:1290/dms",
         "favicon": "https://img.logo.dev/radiodms.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO DUTA FM AMBON",
-        "url": "https://asv.alhastream.com:1265/rdafm?1730896063069",
-        "favicon": "https://img.logo.dev/dutafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Elfara Malang",
@@ -1135,8 +1645,23 @@
         "favicon": "https://img.logo.dev/elshinta.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Fress FM",
+        "url": "https://streaming.fressfm.com:11185/stream",
+        "favicon": "https://img.logo.dev/fressfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gema Randik",
+        "url": "https://gemarandik.mubakab.go.id:8443/stream",
+        "favicon": "https://img.logo.dev/gemarandik.mubakab.go.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gemas Rasisonia",
+        "url": "https://a7.alhastream.com:4090/radio",
+        "favicon": "https://img.logo.dev/alhastream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Gentara",
-        "url": "https://s1.gntr.net/listen/radio_gentara/gentara64",
+        "url": "https://s1.gntr.net/listen/radio_gentara/gentara",
         "favicon": "https://img.logo.dev/radiogentara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1145,9 +1670,19 @@
         "favicon": "https://img.logo.dev/radiogentara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Hang FM",
-        "url": "http://185.47.62.52:8000/",
-        "favicon": "https://img.logo.dev/hangmedia.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Gentara",
+        "url": "https://s1.gntr.net/listen/radio_gentara/gentara",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gentara",
+        "url": "https://s1.gntr.net/listen/radio_gentara/gentara64",
+        "favicon": "https://img.logo.dev/radiogentara.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gentara Campursari",
+        "url": "https://s1.gntr.net/listen/gentara_campursari/radio",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Hidayah 103.4 FM",
@@ -1161,8 +1696,23 @@
     },
     {
         "name": "Radio Idola Semarang",
+        "url": "https://livestreaming.radioidola.com/live.mp3",
+        "favicon": "https://img.logo.dev/radioidola.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Idola Semarang",
         "url": "https://stream.radioidola.com/listen/idolafm/live",
         "favicon": "https://img.logo.dev/streaming.radioidola.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Idola Semarang",
+        "url": "https://livestreaming.radioidola.com/live.mp3",
+        "favicon": "https://img.logo.dev/radioidola.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Imelda FM",
+        "url": "https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm",
+        "favicon": "https://img.logo.dev/radioimeldafm.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Indah Siar Cirebon",
@@ -1182,37 +1732,17 @@
     {
         "name": "Radio Islam Malang 1",
         "url": "http://malang.radioislam.my.id:11132/",
-        "favicon": "https://img.logo.dev/malang.radioislam.my.id:11132?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/malang.radioislam.my.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Islam Malang 1",
         "url": "http://malang.radioislam.my.id:11132/",
-        "favicon": "https://img.logo.dev/malang.radioislam.my.id:11132?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/malang.radioislam.my.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Islam Malang 1",
         "url": "http://malang.radioislam.my.id:11132/",
-        "favicon": "https://img.logo.dev/malang.radioislam.my.id:11132?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Islam Malang 1",
-        "url": "http://siaran.radioislam.my.id:11132/",
-        "favicon": "https://img.logo.dev/siaran.radioislam.my.id:11132?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Islam Malang 1",
-        "url": "http://siaran.radioislam.my.id:11132/",
-        "favicon": "https://img.logo.dev/siaran.radioislam.my.id:11132?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Islam Malang 1",
-        "url": "http://siaran.radioislam.my.id:11132/",
-        "favicon": "https://img.logo.dev/siaran.radioislam.my.id:11132?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Islam Malang 1",
-        "url": "http://siaran.radioislam.my.id:11132/",
-        "favicon": "https://img.logo.dev/siaran.radioislam.my.id:11132?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/malang.radioislam.my.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO K-LITE 107.1 FM BANDUNG",
@@ -1220,9 +1750,14 @@
         "favicon": "https://img.logo.dev/klite.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Kardopa",
+        "url": "https://i.klikhost.com/8602/;stream.mp3",
+        "favicon": "https://img.logo.dev/kardopafm.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Kasih",
-        "url": "https://onlineradiobox.com/json/id/kasih/play",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://hello.citrus3.com:2020/stream/radiokasih",
+        "favicon": "https://img.logo.dev/radiokasih.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Kita 94.3 FM Cirebon Indonesia",
@@ -1235,19 +1770,49 @@
         "favicon": "https://img.logo.dev/radiokitafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio KLIK FM",
+        "url": "https://radio.dukahosting.com:7046/;",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Klik FM Surabaya",
+        "url": "https://c1.alhastream.com:3210/radio",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kotaperak 94,6FM",
+        "url": "http://streaming.radiokotaperak.com:8000/kotaperak",
+        "favicon": "https://img.logo.dev/radiokotaperak.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Latanza",
         "url": "https://ssg.streamingmurah.com:9300/;",
         "favicon": "https://img.logo.dev/radiolatanza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Losta FM Blitar 89.2 MHz",
-        "url": "https://stream.zeno.fm/ar3nv92ahfhvv",
-        "favicon": "https://img.logo.dev/radiolostasetia.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Manggarai 88",
+        "url": "https://radiomanggarai88.online/listen/rm88/radio.mp3",
+        "favicon": "https://img.logo.dev/radiomanggarai88.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Manggarai 88",
+        "url": "https://radiomanggarai88.online/listen/rm88/radio.mp3",
+        "favicon": "https://img.logo.dev/radiomanggarai88.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Muara Jakarta",
         "url": "http://45.64.97.82:8778/stream/1/",
         "favicon": "https://img.logo.dev/y2mate.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Music Indonesia",
+        "url": "https://stream.zeno.fm/wvq442iwm6ztv",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio NUR FM Rembang",
+        "url": "https://ssi.streamingmurah.com:8002/live",
+        "favicon": "https://img.logo.dev/nurfmrembang.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Online Sulita",
@@ -1270,6 +1835,11 @@
         "favicon": "https://img.logo.dev/radiopensiunan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Pinguin FM",
+        "url": "https://live.radiopinguinfm.com:8350/;stream.mp3",
+        "favicon": "https://img.logo.dev/radiopinguinfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio PRO FM Purwakarta",
         "url": "https://ig.idstreamer.com:8020/stream",
         "favicon": "https://img.logo.dev/lppl.purwakartakab.go.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1278,11 +1848,6 @@
         "name": "Radio Purwodadi FM",
         "url": "http://103.119.139.41:9000/;",
         "favicon": "https://img.logo.dev/grobogan.go.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Rhema Surgawi",
-        "url": "https://sv7.crownmediacenter.my.id:8050/radio.aac",
-        "favicon": "https://img.logo.dev/sv7.crownmediacenter.my.id:8050?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Rodja 756 AM",
@@ -1320,19 +1885,19 @@
         "favicon": "https://img.logo.dev/serambifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Seribatu",
-        "url": "http://radioseribatu.out.airtime.pro:8000/radioseribatu_a",
-        "favicon": "https://img.logo.dev/radioseribatu.out.airtime.pro:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sholawat",
-        "url": "https://stream.zeno.fm/us5bsznu3rptv",
-        "favicon": "https://img.logo.dev/temborocity.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RADIO STREAMING SEHATI",
         "url": "https://c4.siar.us:8092/autodj",
         "favicon": "https://img.logo.dev/radiosehati.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Suara Al-Iman 846 AM Surabaya",
+        "url": "https://radioislamindonesia.com/aliman.mp3",
+        "favicon": "https://img.logo.dev/aliman.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio suara itmi",
+        "url": "https://radio.itmi.or.id:8190/radio",
+        "favicon": "https://img.logo.dev/radio.itmi.or.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Swara Semarang",
@@ -1345,14 +1910,19 @@
         "favicon": "https://img.logo.dev/radiotarbiyahsunnah.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio VOSS Voice Of Sabilurrosyad",
-        "url": "https://live.voss.my.id/listen/voss/voss",
-        "favicon": "https://img.logo.dev/voss.my.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Waton Muni",
+        "url": "https://stream.zeno.fm/z2y9glm5bi7uv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Wijang Songko",
         "url": "https://static-s8.xajist.com:8787/live?title=Hello%20Dangdut%20RWS&timestamp=1701054762",
         "favicon": "https://img.logo.dev/radiowijangsongko.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Wisata FM",
+        "url": "https://c2.siar.us:9889/live",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Xtra FM Singkil",
@@ -1368,6 +1938,11 @@
         "name": "RadioQu Bogor",
         "url": "https://ssg.streamingmurah.com:8398/stream",
         "favicon": "https://img.logo.dev/radioqubogor.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioStream FM",
+        "url": "https://radiofm.ytrvpvt.workers.dev/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rajawali Radio - Bandung, Indonesia",
@@ -1405,6 +1980,11 @@
         "favicon": "https://img.logo.dev/rasikafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "rava Radio",
+        "url": "http://n04.radiojar.com/5k7t0rq3bnzuv.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RDI 97.1 FM",
         "url": "http://202.147.199.99:8000/;stream/1",
         "favicon": "https://img.logo.dev/rdifm.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1440,6 +2020,21 @@
         "favicon": "https://img.logo.dev/retjobuntungfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RETJO BUNTUNG FM",
+        "url": "https://ssg.streamingmurah.com:9940/stream",
+        "favicon": "https://img.logo.dev/retjobuntungfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Retrosquad Radio",
+        "url": "https://radio.retrosquad.id/listen/retrosquad/mid",
+        "favicon": "https://img.logo.dev/retrosquad.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Retrosquad Radio",
+        "url": "https://radio.retrosquad.id/listen/retrosquad/mid",
+        "favicon": "https://img.logo.dev/retrosquad.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RMK Radio Ciamis",
         "url": "https://ini.radiomasakini.com/listen/rmk/rmk",
         "favicon": "https://img.logo.dev/radiomasakini.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1455,6 +2050,11 @@
         "favicon": "https://img.logo.dev/ronggohadi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RRI - Pro 1 Surabaya",
+        "url": "https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro1.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RRI Channel 5",
         "url": "https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3",
         "favicon": "https://img.logo.dev/radio-online.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1463,6 +2063,11 @@
         "name": "RRI Channel 5",
         "url": "https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3",
         "favicon": "https://img.logo.dev/radio-online.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 1",
+        "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RRI Pro 1 - Kupang",
@@ -1481,6 +2086,21 @@
     },
     {
         "name": "RRI Pro 1 Jakarta",
+        "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 1 Jakarta",
+        "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 1 Jakarta 91.2 FM",
+        "url": "http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 1 Jakarta 91.2 FM",
         "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -1510,6 +2130,11 @@
         "favicon": "https://img.logo.dev/rri.go.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RRI PRO 1 Surakarta",
+        "url": "https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro1.mp3",
+        "favicon": "https://img.logo.dev/digital.rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RRI Pro 1 Tanjungpinang",
         "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro4.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1520,6 +2145,16 @@
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RRI Pro 1 Yogyakarta",
+        "url": "https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro1.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 2 - Purwokerto",
+        "url": "https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RRI Pro 2 92.1 FM Tanjungpinang",
         "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1527,6 +2162,16 @@
     {
         "name": "RRI Pro 2 Bandung",
         "url": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 2 Jakarta",
+        "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 2 Jakarta 105 FM",
+        "url": "http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1550,6 +2195,16 @@
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RRI Pro 2 Yogyakarta",
+        "url": "https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro2.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 3",
+        "url": "https://stream-node0.rri.go.id/streaming/14/9014/kbrn.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RRI PRO 3",
         "url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1557,6 +2212,11 @@
     {
         "name": "RRI Pro 3 KBRN",
         "url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 3 Palembang",
+        "url": "https://stream-node0.rri.go.id/streaming/14/9014/kbrn.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1575,6 +2235,16 @@
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RRI Pro 4 Jakarta",
+        "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 4 Jakarta 92.8 FM",
+        "url": "http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RRI Pro 4 Manado",
         "url": "https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1582,6 +2252,11 @@
     {
         "name": "RRI PRO 4 Palembang",
         "url": "https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro4.mp3",
+        "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RRI Pro 4 Yogyakarta",
+        "url": "https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro4.mp3",
         "favicon": "https://img.logo.dev/rri.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1605,6 +2280,11 @@
         "favicon": "https://img.logo.dev/voinews.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sabaton Radio",
+        "url": "https://stream.pcradio.ru/sabaton-hi",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Safasindo FM",
         "url": "https://radio.safasindo.com/listen/radio_safasindo/radio.mp3",
         "favicon": "https://img.logo.dev/radio.safasindo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1625,6 +2305,11 @@
         "favicon": "https://img.logo.dev/sbfmparepare.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Scorpions",
+        "url": "https://stream.pcradio.app/Scorpions-hi",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Sebayu FM Tegal",
         "url": "https://radio-streaming.tegalkota.go.id/stream.mp3",
         "favicon": "https://img.logo.dev/sebayufm.tegalkota.go.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1635,16 +2320,6 @@
         "favicon": "https://img.logo.dev/sensasi.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sindo Trijaya 104.6 FM Jakarta",
-        "url": "http://202.147.199.101:8000/;stream.nsv",
-        "favicon": "https://img.logo.dev/mnctrijayafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SISNET RADIO",
-        "url": "https://i.klikhost.com/8716/stream?1709089914379",
-        "favicon": "https://img.logo.dev/sisnetradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Slawi FM Tegal",
         "url": "https://i.klikhost.com/9032/;",
         "favicon": "https://img.logo.dev/slawifm.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1658,6 +2333,21 @@
         "name": "Slawi FM Tegal",
         "url": "https://i.klikhost.com/9032/;",
         "favicon": "https://img.logo.dev/slawifm.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Slipknot",
+        "url": "https://stream.pcradio.app/SlipKnot-hi",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Slipknot",
+        "url": "https://stream.pcradio.app/SlipKnot-hi",
+        "favicon": "https://img.logo.dev/radiofm.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Smart FM Balikpapan",
+        "url": "https://cast3.asurahosting.com/proxy/radios32/stream",
+        "favicon": "https://img.logo.dev/smartfm.sonora.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SmartRadio Indonesia",
@@ -1670,8 +2360,18 @@
         "favicon": "https://img.logo.dev/forumcerdas.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Solopos FM",
+        "url": "https://live.solopos.com:2020/8002/stream",
+        "favicon": "https://img.logo.dev/radio.solopos.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Sonora 92.0 FM Jakarta",
         "url": "https://cast1.my-control-panel.com/proxy/radioso1/stream",
+        "favicon": "https://img.logo.dev/sonora.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sonora 92.0 FM Jakarta",
+        "url": "https://sonora-radio.arenastreaming.com/8130/stream",
         "favicon": "https://img.logo.dev/sonora.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1690,6 +2390,11 @@
         "favicon": "https://img.logo.dev/sonora.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sonora FM Palembang",
+        "url": "https://mediacp-sg2.arenastreaming.com:8004/stream",
+        "favicon": "https://img.logo.dev/sonora.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Spirit Online",
         "url": "https://a11.asurahosting.com:7470/spirit_online",
         "favicon": "https://img.logo.dev/spirittoc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1698,6 +2403,26 @@
         "name": "Spirit Online",
         "url": "https://radio.spirittoc.com:8060/spirit_online",
         "favicon": "https://img.logo.dev/spirittoc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SSFM 100",
+        "url": "https://c5.siar.us/proxy/ssfm/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "StarStream Radio - Alternative Rock 2010 to Now",
+        "url": "https://streaming.live365.com/a72059",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "StarStream Radio - The Classic Rock Rewind",
+        "url": "https://streaming.live365.com/a76931",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "StarStream Radio - The Classic Rock Rewind",
+        "url": "https://streaming.live365.com/a76931",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Start Radio Tangerang",
@@ -1710,9 +2435,29 @@
         "favicon": "https://img.logo.dev/stifmnunukan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Suara Al Jihad FM Banjarmaein",
-        "url": "http://i.klikhost.com:8044/;stream.mp3",
-        "favicon": "https://img.logo.dev/i.klikhost.com:8044?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Streaming Murah",
+        "url": "https://ssg.streamingmurah.com:7777/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Style 94.6 FM Tasikmalaya",
+        "url": "https://stream-sg1.galuhmedia.co.id:9460/stream",
+        "favicon": "https://img.logo.dev/stylefmtasik.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Style 94.6 FM Tasikmalaya",
+        "url": "https://stream-sg1.galuhmedia.co.id:9460/stream",
+        "favicon": "https://img.logo.dev/stylefmtasik.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Style 94.6 FM Tasikmalaya",
+        "url": "https://stream.stylefmtasik.com/listen/stylefmtasik/stream",
+        "favicon": "https://img.logo.dev/stylefmtasik.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Suara Giri",
+        "url": "https://streaming.girifm.com:8010/;",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Suara Giri 98.4 FM",
@@ -1730,6 +2475,11 @@
         "favicon": "https://img.logo.dev/suaragraciafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Suara Gracia FM",
+        "url": "https://pu.klikhost.com/proxy/gracia/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "SUARA GRATIA FM",
         "url": "https://ssg.streamingmurah.com:8224/;",
         "favicon": "https://img.logo.dev/suaragratiafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1738,11 +2488,6 @@
         "name": "Suara Inspirasi",
         "url": "https://audiostreamserver.indonesiastreaming.com/suarainspirasi",
         "favicon": "https://img.logo.dev/indonesiastreaming.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Suara Mekarindah",
-        "url": "http://stream.zeno.fm/d2k0ptw4kkeuv",
-        "favicon": "https://img.logo.dev/firzadankiaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Suara Muslim Surabaya",
@@ -1795,6 +2540,11 @@
         "favicon": "https://img.logo.dev/sundaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Suzana FM 91.3",
+        "url": "https://streaming.suzanafm.com:8000/;stream.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "SWARA BERSUJUD",
         "url": "https://a2.siar.us/listen/swarabersujud/radio.mp3",
         "favicon": "https://img.logo.dev/radio-swarabersujud.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1803,6 +2553,11 @@
         "name": "Swara Kendal",
         "url": "https://i.klikhost.com/8822/;",
         "favicon": "https://img.logo.dev/swarakendal.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SWARA MAPPI FM",
+        "url": "https://a2.alhastream.com/listen/station_13/radio",
+        "favicon": "https://img.logo.dev/swaramappifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Swara Radio",
@@ -1818,6 +2573,11 @@
         "name": "Synchronize Radio",
         "url": "https://streaming.shoutcast.com/synchronizeradio",
         "favicon": "https://img.logo.dev/synchronizeradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "talkSPORT",
+        "url": "https://radio.talksport.com/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tarakan FM",
@@ -1845,9 +2605,39 @@
         "favicon": "https://img.logo.dev/thebeatbali.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tidar Sakti FM Batu",
-        "url": "http://pu.klikhost.com:8770/stream",
-        "favicon": "https://img.logo.dev/pu.klikhost.com:8770?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "The Metallica Report",
+        "url": "https://streaming.live365.com/a92114",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Rock! (Hard Rock)",
+        "url": "https://listen.181fm.com/181-hardrock_128k.mp3",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "THE ROCKIN LIFE - BALI",
+        "url": "https://stream.radiojar.com/9k28wsbu5k8uv",
+        "favicon": "https://img.logo.dev/therockinlife.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "THE ROCKIN LIFE - BANDUNG",
+        "url": "https://stream.radiojar.com/fnex9bkswk8uv",
+        "favicon": "https://img.logo.dev/therockinlife.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "THE ROCKIN LIFE - JAKARTA",
+        "url": "https://stream.radiojar.com/7csmg90fuqruv",
+        "favicon": "https://img.logo.dev/therockinlife.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TikTok Hits",
+        "url": "https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Toss FM",
+        "url": "https://stream.zeno.fm/gzrrn7tyafhvv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Trangkil FM",
@@ -1860,14 +2650,14 @@
         "favicon": "https://img.logo.dev/traxfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "trax fm semarang",
-        "url": "http://n0f.radiojar.com/fr9zqhv80k8uv",
-        "favicon": "https://img.logo.dev/n0f.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Trax FM - Jakarta",
+        "url": "https://stream.radiojar.com/rrqf78p3bnzuv",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TraxFM Jakarta",
-        "url": "https://stream.radiojar.com/rrqf78p3bnzuv.mp3",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Trend Digital Radio",
+        "url": "https://ig.idstreamer.com:8010/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Unisi Radio",
@@ -1875,9 +2665,29 @@
         "favicon": "https://img.logo.dev/jogjastreamers.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "UTAINDO RADIO",
+        "url": "https://streaming.classynetradio.com/listen/utaindo_radio/utaindo-aac",
+        "favicon": "https://img.logo.dev/utaindoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "UTAINDO Radio",
+        "url": "https://s1.gntr.net/listen/utaindo_radio/utaindo-aac",
+        "favicon": "https://img.logo.dev/utaindoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "V Radio",
         "url": "http://202.147.199.100:8000/;stream.nsv",
         "favicon": "https://img.logo.dev/vradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "V Radio - Jakarta",
+        "url": "http://8.215.206.157:8008/;",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "V Radio - Jakarta",
+        "url": "https://proxy.rctiplus.com/?name=http://8.215.206.157:8008/;",
+        "favicon": "https://img.logo.dev/proxy.rctiplus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "V.O.S Radio SMANSA-MOZAR",
@@ -1890,9 +2700,34 @@
         "favicon": "https://img.logo.dev/radiovenusfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Vocaloid Radio",
+        "url": "http://curiosity.shoutca.st:8019/stream",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Voice of Indonesia",
+        "url": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
+        "favicon": "https://img.logo.dev/voinews.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Voice of Indonesia RRI world service",
+        "url": "https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3",
+        "favicon": "https://img.logo.dev/voinews.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "VOKS RADIO BANDUNG",
         "url": "https://svara-stream.radioddns.net/bandung_voksradio",
         "favicon": "https://img.logo.dev/voksradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOS RADIO",
+        "url": "https://live.voss.my.id/listen/voss/voss",
+        "favicon": "https://img.logo.dev/voss.my.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOS RADIO",
+        "url": "https://live.voss.my.id/listen/voss/voss",
+        "favicon": "https://img.logo.dev/voss.my.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Warna 91.6 FM Padang",
@@ -1915,6 +2750,11 @@
         "favicon": "https://img.logo.dev/radiowijayafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "XD RADIO 90.2 FM",
+        "url": "https://c4.siar.us:8068/stream",
+        "favicon": "https://img.logo.dev/xdradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "YASKI Radio",
         "url": "https://stream.heartline.co.id:8443/radio_yaski_stereo",
         "favicon": "https://img.logo.dev/yaski.co.id?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1928,10 +2768,5 @@
         "name": "Z 99.9 FM",
         "url": "https://svara-stream.radioddns.net/jakarta_z999fm_aac",
         "favicon": "https://img.logo.dev/z999fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "اذاعة القرآن الكريم",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

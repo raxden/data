@@ -10,11 +10,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Aspan FM",
-        "url": "http://77.240.38.228:8000/aspanfm",
-        "favicon": "https://img.logo.dev/instagram.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Auto Radio Kazakhstan",
         "url": "http://178.88.167.62:8080/AVTORADIO_192",
         "favicon": "https://img.logo.dev/avtoradio.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,6 +18,16 @@
         "name": "Avtoradio",
         "url": "http://178.88.167.62:8080/AVTORADIO_192",
         "favicon": "https://img.logo.dev/avtoradio.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Darhan Radio",
+        "url": "https://stream.darhanradio.com/live",
+        "favicon": "https://img.logo.dev/darhanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Darhan Radio",
+        "url": "https://stream.darhanradio.com/live",
+        "favicon": "https://img.logo.dev/darhanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KTK TV",
@@ -60,23 +65,13 @@
         "favicon": "https://img.logo.dev/qazradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 90s Eurodance",
-        "url": "https://listen1.myradio24.com/5967",
-        "favicon": "https://img.logo.dev/90s-eurodance.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Azamat",
         "url": "https://listen4.myradio24.com/8162",
         "favicon": "https://img.logo.dev/myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Bulbul",
-        "url": "https://radiobulbul.stream.laut.fm/radiobulbul",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Nostalgie (Kazakhstan)",
-        "url": "https://listen8.myradio24.com/alexx333",
+        "url": "https://listen7.myradio24.com/alexx333",
         "favicon": "https://img.logo.dev/resurs.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -100,11 +95,6 @@
         "favicon": "https://img.logo.dev/radiotmk.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Russian Dance Radio",
-        "url": "https://lux-radio.com:8015/stream",
-        "favicon": "https://img.logo.dev/lux-radio.com:8015?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Shalqar",
         "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
         "favicon": "https://img.logo.dev/qazradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -113,11 +103,6 @@
         "name": "Space Beat (128k)",
         "url": "https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3",
         "favicon": "https://img.logo.dev/spacebeat.strangled.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Space Beat (64k AAC)",
-        "url": "https://90116.web.hosting-russia.ru/listen/space_beat/mobile.aac",
-        "favicon": "https://img.logo.dev/t.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SVETILO.ONLINE - духовно - осознанное",

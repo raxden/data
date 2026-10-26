@@ -5,16 +5,6 @@
         "favicon": "https://img.logo.dev/kimlarsen.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "2town Radio",
-        "url": "https://streaming.radio.co/sd9d980ff0/listen",
-        "favicon": "https://img.logo.dev/2town.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "2town Radio",
-        "url": "http://streaming.radio.co/sd9d980ff0/listen",
-        "favicon": "https://img.logo.dev/2town-radio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "80's Hits",
         "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac",
         "favicon": "https://img.logo.dev/radiostationer.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -50,6 +40,21 @@
         "favicon": "https://img.logo.dev/anr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Boybands Forever",
+        "url": "https://live-bauerdk.sharp-stream.com/RP10_premium_96.aac",
+        "favicon": "https://img.logo.dev/radioplay.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Charlie Classical",
+        "url": "https://ec6.yesstreaming.net:4365/stream",
+        "favicon": "https://img.logo.dev/charlie.nu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Charlie Tourist (Sydvest)",
+        "url": "https://ec6.yesstreaming.net:4385/stream",
+        "favicon": "https://img.logo.dev/charlie.nu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Classic FM",
         "url": "http://webradio.classicfm.dk/classichorsens",
         "favicon": "https://img.logo.dev/classicfm.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -70,9 +75,9 @@
         "favicon": "https://img.logo.dev/classicfm.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Dance100",
-        "url": "https://dance100.dk/",
-        "favicon": "https://img.logo.dev/dance100.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Country 108",
+        "url": "https://icepool.silvacast.com/COUNTRY108.mp3",
+        "favicon": "https://img.logo.dev/country108.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Danmarks Radio p2",
@@ -91,7 +96,7 @@
     },
     {
         "name": "Danmarks Radio P4; Trekanten",
-        "url": "http://live-icy.gslb01.dr.dk/A/A13H.mp3",
+        "url": "http://live-icy.dr.dk/A/A13H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -126,7 +131,7 @@
     },
     {
         "name": "DR Nyheder",
-        "url": "http://live-icy.gslb01.dr.dk/A/A02L.mp3",
+        "url": "http://live-icy.dr.dk/A/A02L.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -141,7 +146,7 @@
     },
     {
         "name": "DR P1",
-        "url": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
+        "url": "http://live-icy.dr.dk/A/A03H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -166,12 +171,12 @@
     },
     {
         "name": "DR P2",
-        "url": "http://live-icy.gslb01.dr.dk/A/A04H.mp3",
+        "url": "http://live-icy.dr.dk/A/A04H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DR P2",
-        "url": "http://live-icy.gslb01.dr.dk/A/A04H.mp3",
+        "url": "http://live-icy.dr.dk/A/A04H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -191,7 +196,7 @@
     },
     {
         "name": "DR P3",
-        "url": "http://live-icy.gslb01.dr.dk/A/A05H.mp3",
+        "url": "http://live-icy.dr.dk/A/A05H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -210,13 +215,23 @@
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DR P4  Midt & Vest",
+        "url": "https://live-icy.dr.dk/A/A09L.mp3",
+        "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DR P4  Midt & Vest",
+        "url": "https://live-icy.dr.dk/A/A09L.mp3",
+        "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DR P4 Bornholm",
         "url": "http://live-icy.gss.dr.dk/A/A06H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DR P4 Bornholm",
-        "url": "http://live-icy.gslb01.dr.dk/A/A06H.mp3",
+        "url": "http://live-icy.dr.dk/A/A06H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -231,7 +246,7 @@
     },
     {
         "name": "DR P4 Esbjerg",
-        "url": "http://live-icy.gslb01.dr.dk/A/A15H.mp3",
+        "url": "http://live-icy.dr.dk/A/A15H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -245,8 +260,13 @@
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DR P4 Esbjerg (AAC)",
+        "url": "https://drliveradio2.akamaized.net/hls/live/2118698/p4esbjerg/playlist-320000.m3u8",
+        "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DR P4 Fyn",
-        "url": "http://live-icy.gslb01.dr.dk/A/A07H.mp3",
+        "url": "http://live-icy.dr.dk/A/A07H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -261,7 +281,7 @@
     },
     {
         "name": "DR P4 København",
-        "url": "http://live-icy.gslb01.dr.dk/A/A08H.mp3",
+        "url": "http://live-icy.dr.dk/A/A08H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -286,7 +306,7 @@
     },
     {
         "name": "DR P4 Midt & Vest",
-        "url": "http://live-icy.gslb01.dr.dk/A/A09H.mp3",
+        "url": "http://live-icy.dr.dk/A/A09H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -306,7 +326,7 @@
     },
     {
         "name": "DR P4 Nordjylland",
-        "url": "http://live-icy.gslb01.dr.dk/A/A10H.mp3",
+        "url": "http://live-icy.dr.dk/A/A10H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -316,7 +336,7 @@
     },
     {
         "name": "DR P4 Nordjylland",
-        "url": "http://live-icy.gslb01.dr.dk/A/A10H.mp3",
+        "url": "http://live-icy.dr.dk/A/A10H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -336,12 +356,12 @@
     },
     {
         "name": "DR P4 Østjyllands Radio",
-        "url": "http://live-icy.gslb01.dr.dk/A/A14H.mp3",
+        "url": "http://live-icy.dr.dk/A/A14H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DR P4 Sjælland",
-        "url": "http://live-icy.gslb01.dr.dk/A/A11H.mp3",
+        "url": "http://live-icy.dr.dk/A/A11H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -356,7 +376,7 @@
     },
     {
         "name": "DR P4 Syd",
-        "url": "http://live-icy.gslb01.dr.dk/A/A12H.mp3",
+        "url": "http://live-icy.dr.dk/A/A12H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -386,7 +406,7 @@
     },
     {
         "name": "DR P5",
-        "url": "http://live-icy.gslb01.dr.dk/A/A25H.mp3",
+        "url": "http://live-icy.dr.dk/A/A25H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -425,6 +445,11 @@
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DR P5 København",
+        "url": "http://live-icy.dr.dk/A/A25H.mp3",
+        "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DR P5 København (AAC)",
         "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -455,6 +480,11 @@
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "dr p5 sjælland",
+        "url": "http://live-icy.dr.dk/A19H_master2.mp3",
+        "favicon": "https://img.logo.dev/live-icy.dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DR P5 Sjælland (AAC)",
         "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5sjaelland/masterab.m3u8",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -471,7 +501,7 @@
     },
     {
         "name": "DR P5 Trekanten",
-        "url": "http://live-icy.gslb01.dr.dk/A/A23H.mp3",
+        "url": "http://live-icy.dr.dk/A/A23H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -486,7 +516,7 @@
     },
     {
         "name": "DR P6 BEAT",
-        "url": "http://live-icy.gslb01.dr.dk/A/A29H.mp3",
+        "url": "http://live-icy.dr.dk/A/A29H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -506,7 +536,7 @@
     },
     {
         "name": "DR P8 JAZZ",
-        "url": "http://live-icy.gslb01.dr.dk/A/A22H.mp3",
+        "url": "http://live-icy.dr.dk/A/A22H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -516,7 +546,7 @@
     },
     {
         "name": "DR P8 Jazz",
-        "url": "http://live-icy.gslb01.dr.dk/A/A22H.mp3",
+        "url": "http://live-icy.dr.dk/A/A22H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -532,6 +562,11 @@
     {
         "name": "DR P8 JAZZ (AAC)",
         "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8",
+        "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DR P8 Jazz (AAC)",
+        "url": "https://drliveradio2.akamaized.net/hls/live/2118698/p8/playlist-320000.m3u8",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -590,6 +625,11 @@
         "favicon": "https://img.logo.dev/gofm.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Historyradio.org low bandwidth",
+        "url": "https://cast1.asurahosting.com/proxy/historyr/stream.mp3",
+        "favicon": "https://img.logo.dev/historyradio.free.nf?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Jazzkanalen",
         "url": "http://media.wlmm.dk/humleborg.m3u",
         "favicon": "https://img.logo.dev/jazzkanalen.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -600,24 +640,14 @@
         "favicon": "https://img.logo.dev/jazzkanalen.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kalaallit Nunaata Radioa",
+        "url": "https://knr.gl/radiolivestream",
+        "favicon": "https://img.logo.dev/knr.gl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "København Jazz Radio",
         "url": "https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a",
         "favicon": "https://img.logo.dev/bricksite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Limfjord Mix",
-        "url": "https://media.limfjordnetradio.dk/limfjord128",
-        "favicon": "https://img.logo.dev/limfjordnetradio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Limfjord Plus",
-        "url": "http://media.limfjordnetradio.dk/plus128",
-        "favicon": "https://img.logo.dev/limfjordplus.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Limfjord Plus Slager",
-        "url": "http://media.limfjordnetradio.dk/plusslager128",
-        "favicon": "https://img.logo.dev/limfjordplus.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Limfjord Slager",
@@ -625,19 +655,24 @@
         "favicon": "https://img.logo.dev/limfjordslager.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Lumi Radio",
-        "url": "http://stream2.wlmm.dk/syddanmark.m3u",
-        "favicon": "https://img.logo.dev/folketsradio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "M-Jazz Radio",
+        "url": "https://fra-pioneer01.dedicateware.com:1465/stream",
+        "favicon": "https://img.logo.dev/mjazzradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Midtfjord Radio",
         "url": "http://stream.midtfjordradio.dk/netradio",
-        "favicon": "https://img.logo.dev/midtfjordradio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/stream.midtfjordradio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Midtfjord Radio / Radio Nibenitten",
         "url": "http://stream.midtfjordradio.dk/netradio",
         "favicon": "https://img.logo.dev/nibenitten.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mix FM",
+        "url": "https://hello.citrus3.com:2020/stream/mixfm",
+        "favicon": "https://img.logo.dev/mixfm.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mix FM Gribskov, Retro Nord",
@@ -650,14 +685,14 @@
         "favicon": "https://img.logo.dev/muzaiko.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Music for Dreams Radio",
+        "url": "http://s2.radio.co/s0f2948883/listen",
+        "favicon": "https://img.logo.dev/musicfordreams.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "myROCK",
         "url": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
         "favicon": "https://img.logo.dev/radioplay.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "nordic lodge copenhagen",
-        "url": "http://radio.streemlion.com:1160/stream",
-        "favicon": "https://img.logo.dev/nordiclodgeradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Norea Radio",
@@ -725,6 +760,11 @@
         "favicon": "https://img.logo.dev/psyradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "r8Dio",
+        "url": "https://s3.radio.co/s7cd1ffe2f/listen",
+        "favicon": "https://img.logo.dev/r8dio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio 100",
         "url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
         "favicon": "https://img.logo.dev/radioplay.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -733,6 +773,11 @@
         "name": "Radio 40plus",
         "url": "http://stream.radiosolutions.dk/radio40plus",
         "favicon": "https://img.logo.dev/radio40plus.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 7 Ravensburg",
+        "url": "https://streams.radio7.de/rv/mp3-192/web/",
+        "favicon": "https://img.logo.dev/radio7.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio ABC",
@@ -823,6 +868,11 @@
         "name": "Radio Fasanen Frederiksberg",
         "url": "https://c14.radioboss.fm:18228/stream",
         "favicon": "https://img.logo.dev/radiokultur.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio FLR",
+        "url": "https://faxe.jtw.dk/stream",
+        "favicon": "https://img.logo.dev/radioflr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Folk",
@@ -935,16 +985,6 @@
         "favicon": "https://img.logo.dev/radioodsherred.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Ost FM",
-        "url": "http://stream.wlmm.dk/oestfmmp3",
-        "favicon": "https://img.logo.dev/oestfm.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Øst FM",
-        "url": "https://stream.probroadcast.dk/oestfmmp3",
-        "favicon": "https://img.logo.dev/oestfm.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Østsjælland Rollo",
         "url": "http://stream.radiosolutions.dk/rollo",
         "favicon": "https://img.logo.dev/lokalradio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -980,11 +1020,6 @@
         "favicon": "https://img.logo.dev/radioplay.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr",
-        "url": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3",
-        "favicon": "https://img.logo.dev/knr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Solo",
         "url": "https://radioserver.dk/solo",
         "favicon": "https://img.logo.dev/radiosolo.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -993,6 +1028,11 @@
         "name": "Radio Stinesen",
         "url": "https://st1.stinesen.dk/StineM320",
         "favicon": "https://img.logo.dev/stinesen.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sydhavsoerne Lolland",
+        "url": "https://radio1.jfmtech.dk/sydhavlolland",
+        "favicon": "https://img.logo.dev/netradio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Varde",
@@ -1007,6 +1047,11 @@
     {
         "name": "Radio Victoria",
         "url": "http://stream.wlmm.dk/NyRadiomp3",
+        "favicon": "https://img.logo.dev/radiovictoria.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Victoria Esbjerg",
+        "url": "https://stream.probroadcast.dk/victoria",
         "favicon": "https://img.logo.dev/radiovictoria.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1038,6 +1083,16 @@
         "name": "Radio4",
         "url": "http://netradio.radio4.dk/radio4",
         "favicon": "https://img.logo.dev/radio4.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioFLR",
+        "url": "http://play.radioflr.dk:9000/stream",
+        "favicon": "https://img.logo.dev/radioflr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioFLR",
+        "url": "http://play.radioflr.dk:9000/stream",
+        "favicon": "https://img.logo.dev/radioflr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rar",
@@ -1095,6 +1150,16 @@
         "favicon": "https://img.logo.dev/kanalplus.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rockkanalen 128",
+        "url": "http://stream.kanalplus.fm/kp128",
+        "favicon": "https://img.logo.dev/rockkanalen.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rockkanalen MP3",
+        "url": "http://stream.kanalplus.fm/kp128",
+        "favicon": "https://img.logo.dev/rockkanalen.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Skaga FM",
         "url": "http://stream.wlmm.dk/skagafm.m3u",
         "favicon": "https://img.logo.dev/skagafm.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1116,7 +1181,7 @@
     },
     {
         "name": "Tango Copenhagen",
-        "url": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen?pl=m3u&t302=2026-01-15_07-29-52&uuid=2ce4484f-6ce9-4c5b-893f-fae1c3a7de8c",
+        "url": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen",
         "favicon": "https://img.logo.dev/tangocopenhagen.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1133,6 +1198,11 @@
         "name": "TechnoBase.FM - MP3 192k",
         "url": "http://listen.technobase.fm/tunein-mp3-pls",
         "favicon": "https://img.logo.dev/listen.technobase.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Lake Radio",
+        "url": "http://hyades.shoutca.st:8627/stream",
+        "favicon": "https://img.logo.dev/thelakeradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "The Lake Radio",

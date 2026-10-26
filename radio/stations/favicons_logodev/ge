@@ -10,6 +10,11 @@
         "favicon": "https://img.logo.dev/heretifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/mono.m3u8",
+        "url": "https://nue01-edge01.itdc.ge/fm-batumi-93.7/tracks-a1/mono.m3u8",
+        "favicon": "https://img.logo.dev/nue01-edge01.itdc.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "LF Radio",
         "url": "https://rtn.cdnstream1.com/2582_96.aac",
         "favicon": "https://img.logo.dev/lf.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -25,29 +30,24 @@
         "favicon": "https://img.logo.dev/mutantradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Mutant Radio",
+        "url": "https://listen.radioking.com/radio/282820/stream/328621",
+        "favicon": "https://img.logo.dev/mutantradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mutant Radio",
+        "url": "https://listen.radioking.com/radio/282820/stream/328621",
+        "favicon": "https://img.logo.dev/mutantradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio 2 - Tbilisi FM 100,9",
         "url": "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8",
         "favicon": "https://img.logo.dev/player.1tv.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Amra",
-        "url": "https://streamer.radio.co/s34b5469e0/listen",
-        "favicon": "https://img.logo.dev/streamer.radio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Red Wine Radio",
-        "url": "https://stream.zeno.fm/pcbduafehg0uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soothing jazz",
-        "url": "http://193.111.125.15:8020/soothingjazz",
-        "favicon": "https://img.logo.dev/cizgiotesi.biz.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soothing radio",
-        "url": "http://193.111.125.15:8010/soothingradio",
-        "favicon": "https://img.logo.dev/cizgiotesi.biz.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio dardimandi",
+        "url": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8",
+        "favicon": "https://img.logo.dev/nue01-edge01.itdc.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tbilisi FM 93,5",
@@ -102,7 +102,7 @@
     {
         "name": "რადიო ობიექტივი (Radio Obieqtivi)",
         "url": "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8",
-        "favicon": "https://img.logo.dev/obieqtivi.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/nue01-edge01.itdc.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "რადიო პალიტრა (Radio Palitra)",

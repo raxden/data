@@ -1,5 +1,10 @@
 [
     {
+        "name": "1766 網路廣播電台 - 音樂頻道-民俗風 Folk",
+        "url": "https://n05-eu.rcs.revma.com/q2m07dc59duvv",
+        "favicon": "https://img.logo.dev/1766.today?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "1766線上電臺-百家知識",
         "url": "http://livestream.1766.today:1768/live1.mp3",
         "favicon": "https://img.logo.dev/1766.today?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -25,11 +30,6 @@
         "favicon": "https://img.logo.dev/1766.today?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "A-Line Radio",
-        "url": "http://202.39.43.67:1935/live/RA000001/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/apple-line.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -38,6 +38,11 @@
         "name": "Ai Radio TAIWAN 台灣AI電台",
         "url": "https://n10.rcs.revma.com/h4ta80hbqwuvv",
         "favicon": "https://img.logo.dev/airadiotaiwan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Alian96.3 原住民族廣播電台",
+        "url": "https://streamipcfapp.akamaized.net/live2/_definst_/fm963/playlist.m3u8",
+        "favicon": "https://img.logo.dev/ipcf.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AsiaFM 亞太電台",
@@ -50,49 +55,39 @@
         "favicon": "https://img.logo.dev/asiafm.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "B&B RADIO 幫幫廣播網",
-        "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/playlist.m3u8",
-        "favicon": "https://img.logo.dev/bbradio.pch.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "BIG BIG MIX – 乐享音乐",
+        "url": "https://hi.bigbigmix.com/stream",
+        "favicon": "https://img.logo.dev/bigbigmix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Boss Boss Radio",
+        "url": "https://n0b.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnhLAJhsA5_MD50tsg_xfJQ",
+        "favicon": "https://img.logo.dev/bossbossradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Boss Online Radio",
-        "url": "https://stream.radiojar.com/ehzvurp9tv8uv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://n0b.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnhLAJhsA5_MD50tsg_xfJQ",
+        "favicon": "https://img.logo.dev/bossonlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CanCheers",
-        "url": "https://us3.internet-radio.com/proxy/cancheers?mp=/stream",
-        "favicon": "https://img.logo.dev/ilovetacp.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Boss Online Radio",
+        "url": "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0QuTkAewm7X_5zLTUONg",
+        "favicon": "https://img.logo.dev/bossonlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CanCheers",
-        "url": "https://us3.internet-radio.com/proxy/cancheers?mp=/stream",
-        "favicon": "https://img.logo.dev/ilovetacp.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Classical 古典音樂台 FM 97.7",
-        "url": "http://59.120.88.155:8000/live.mp3",
-        "favicon": "https://img.logo.dev/family977.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Classical 古典音樂台 FM 97.7",
-        "url": "http://59.120.88.155:8000/live.mp3",
-        "favicon": "https://img.logo.dev/family977.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Classical 古典音樂台 FM 97.7",
-        "url": "http://59.120.88.155:8000/live.mp3",
-        "favicon": "https://img.logo.dev/family977.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM 90.5 大樹下電台",
-        "url": "http://60.250.148.112:8000/live",
-        "favicon": "https://img.logo.dev/60.250.148.112:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Boss Online Radio",
+        "url": "https://n06.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABnm0O7A8AApuzVhj7xc204g",
+        "favicon": "https://img.logo.dev/bossonlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FM96.9 主人電台",
         "url": "http://125.227.87.206:8000/FM96.9",
         "favicon": "https://img.logo.dev/baodaoradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HappyRadio",
+        "url": "https://happyradio.com.tw/live",
+        "favicon": "https://img.logo.dev/happyradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hit FM台北之音廣播",
@@ -125,14 +120,9 @@
         "favicon": "https://img.logo.dev/radio.mcu.edu.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Needs Radio 全球華語廣播網",
-        "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/needsradio.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Nei-Di's ACG Music",
         "url": "http://neidi.homeip.net:8080/;",
-        "favicon": "https://img.logo.dev/neidi.homeip.net:8080?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/neidi.homeip.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nei-Di's ACG Music",
@@ -163,11 +153,6 @@
         "name": "RTI 臺灣之音",
         "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
         "favicon": "https://img.logo.dev/rti.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Stars RADIO星蹤之愛廣播網",
-        "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8",
-        "favicon": "https://img.logo.dev/needsradio.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TAIWAN LOUNGE RADIO",
@@ -240,21 +225,6 @@
         "favicon": "https://img.logo.dev/bcc.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "九八新聞台",
-        "url": "https://n17a-eu.rcs.revma.com/pntx1639ntzuv",
-        "favicon": "https://img.logo.dev/news98.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "人人廣播電台",
-        "url": "https://n01.rcs.revma.com/fkdywbc59duvv",
-        "favicon": "https://img.logo.dev/bestradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "人人電台 好事聯播網FM98.9",
-        "url": "http://202.39.43.67:1935/live/RA000013/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/bestradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "佳音經典音樂網",
         "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8",
         "favicon": "https://img.logo.dev/goodnews.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -273,11 +243,6 @@
         "name": "佳音音樂網",
         "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8",
         "favicon": "https://img.logo.dev/goodnews.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "先聲廣播電台 (基北桃竹苗)",
-        "url": "http://43.254.16.40:8000/TY.AM774",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "凱旋廣播電台",
@@ -300,24 +265,9 @@
         "favicon": "https://img.logo.dev/e-go.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "南方之音",
-        "url": "http://43.254.16.40:8000/KS.FM89.3",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "古都電台",
         "url": "http://n03.rcs.revma.com/8bpxy9a122hvv",
         "favicon": "https://img.logo.dev/fm1025.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "台中古典音樂台",
-        "url": "http://onair.family977.com.tw:8000/live.mp3",
-        "favicon": "https://img.logo.dev/family977.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "台中城市廣播",
-        "url": "http://fm901.cityfm.tw:8080/901.mp3",
-        "favicon": "https://img.logo.dev/cityfm.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "台中廣播",
@@ -333,16 +283,6 @@
         "name": "台中歡喜之聲FM105.5",
         "url": "http://59.125.41.65:8081/",
         "favicon": "https://img.logo.dev/smileradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "台北健康電台",
-        "url": "http://fm901.cityfm.tw:8080/901.mp3",
-        "favicon": "https://img.logo.dev/cityfm.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "台北古典廣播",
-        "url": "https://stream.zeno.fm/w66d3dp6ynhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "台北廣播電台",
@@ -420,36 +360,6 @@
         "favicon": "https://img.logo.dev/smileradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "城市廣播網-南投廣播",
-        "url": "https://fm997.cityfm.com.tw:8083/997",
-        "favicon": "https://img.logo.dev/fm997.cityfm.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "城市廣播網-台北健康",
-        "url": "http://fm901.cityfm.tw:8080/901.mp3",
-        "favicon": "https://img.logo.dev/cityfm.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "城市廣播網-台南知音",
-        "url": "http://fm971.cityfm.tw:8080/971.mp3",
-        "favicon": "https://img.logo.dev/cityfm.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "城市廣播網-城市廣播",
-        "url": "http://fm929.cityfm.tw:8080/929.mp3",
-        "favicon": "https://img.logo.dev/cityfm.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "城市廣播網-大苗栗廣播",
-        "url": "https://fm983.cityfm.com.tw:8083/983",
-        "favicon": "https://img.logo.dev/cityfm.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "城市廣播網•台南知音",
-        "url": "http://fm971.cityfm.tw:8080/971.mp3",
-        "favicon": "https://img.logo.dev/cityfm.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "基隆輕鬆電台 Chillax Radio",
         "url": "http://n03.rcs.revma.com/k41z6wadu5hvv",
         "favicon": "https://img.logo.dev/chillax969.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -470,26 +380,11 @@
         "favicon": "https://img.logo.dev/taiwanfm905.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "大漢之音",
-        "url": "http://taiwan-radio.tw:8000/ML.FM97.1",
-        "favicon": "https://img.logo.dev/fm971.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "天南AM999",
         "url": "http://43.254.16.40:8000/TP.AM999",
         "favicon": "https://img.logo.dev/taiwanradio.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "天聲AM1215",
-        "url": "http://test.taiwan-radio.tw:8000/ML.AM1215",
-        "favicon": "https://img.logo.dev/zh-tw.facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "天聲AM1314",
-        "url": "http://test.taiwan-radio.tw:8000/ML.AM1314",
-        "favicon": "https://img.logo.dev/zh-tw.facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "太陽電台",
         "url": "http://211.20.119.102:8081/",
         "favicon": "https://img.logo.dev/sunny891.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -498,21 +393,6 @@
         "name": "太陽電台",
         "url": "http://211.20.119.102:8081/",
         "favicon": "https://img.logo.dev/sunny891.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "好事聯播網 蓮花電台",
-        "url": "http://202.39.43.67:1935/live/RA000011/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/bestradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "好事聯播網 高雄港都",
-        "url": "http://202.39.43.67:1935/live/RA000012/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/apple-line.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "好家庭廣播電台（Classical 台中古典音樂台）",
-        "url": "http://test.taiwan-radio.tw:8000/TC.FM97.7",
-        "favicon": "https://img.logo.dev/family977.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "寶島客家廣播電台",
@@ -540,11 +420,6 @@
         "favicon": "https://img.logo.dev/smileradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "山海屯青少年之聲",
-        "url": "https://n02.rcs.revma.com/zr7xzec59duvv",
-        "favicon": "https://img.logo.dev/bestradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "幸福廣播電台TR Radio FM102.5",
         "url": "http://61.218.61.251:8080/",
         "favicon": "https://img.logo.dev/tr-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -560,24 +435,24 @@
         "favicon": "https://img.logo.dev/ksbc.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "彰化花園廣播電台",
-        "url": "http://211.72.215.231:8000/OnAir",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "彰化花園廣播電台",
-        "url": "http://test.taiwan-radio.tw:8000/CH.FM88.7",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "彰化關懷電台",
         "url": "http://test.taiwan-radio.tw:8000/CH.FM91.1",
         "favicon": "https://img.logo.dev/careradio.firstory.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "彰化靉友廣播電台 FM97.3",
+        "url": "http://43.254.16.40:8000/CH.FM97.3",
+        "favicon": "https://img.logo.dev/findcompany.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "微微笑廣播網 - 桃園風城廣播電台FM98.7",
         "url": "https://cast.tunzilla.com/http://61.220.245.236:8080",
         "favicon": "https://img.logo.dev/radio.smileradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "快樂聯播網",
+        "url": "https://happyradio.com.tw/live",
+        "favicon": "https://img.logo.dev/happyradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "教育廣播電臺-彰化分臺FM",
@@ -645,34 +520,14 @@
         "favicon": "https://img.logo.dev/pop917.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "新聲廣播FM99.3",
-        "url": "http://test.taiwan-radio.tw:8000/HC.FM99.3",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "曾文溪廣播電台",
         "url": "https://n09.rcs.revma.com/9ssfduqkr0hvv",
         "favicon": "https://img.logo.dev/fm899.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "栗子的輕音樂",
-        "url": "https://lizeradio.com/webplayer/actions.php",
-        "favicon": "https://img.logo.dev/lizeradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "栗子的輕音樂",
-        "url": "http://lizeradio.com:8080/",
-        "favicon": "https://img.logo.dev/lizeradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "桃園GO GO104.3",
         "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8",
         "favicon": "https://img.logo.dev/stream.ginnet.cloud?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "桃園先聲廣播AM774",
-        "url": "http://test.taiwan-radio.tw:8000/TY.AM774",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "正聲台北調幅台 AM819",
@@ -715,34 +570,19 @@
         "favicon": "https://img.logo.dev/mingpen.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "泉州金門-大金廣播電台",
+        "url": "http://61.220.75.207:8106/",
+        "favicon": "https://img.logo.dev/findcompany.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "海峽之聲廣播電台",
         "url": "http://ls.qingting.fm/live/1744.m3u8",
         "favicon": "https://img.logo.dev/vos.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "漁業廣播電台",
-        "url": "http://n03.rcs.revma.com/mk0c5vq122hvv",
-        "favicon": "https://img.logo.dev/frs.gov.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "漢聲中波",
-        "url": "http://202.39.43.67:1935/live/RA000074/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/audio.voh.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "漢聲調頻",
-        "url": "http://202.39.43.67:1935/live/RA000076/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/audio.voh.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "潮州之聲",
         "url": "http://59.120.255.170:8081/",
         "favicon": "https://img.logo.dev/smileradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "濁水溪FM90.1",
-        "url": "http://test.taiwan-radio.tw:8000/YL.FM90.1",
-        "favicon": "https://img.logo.dev/fm901.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "燕聲AM1044",
@@ -755,34 +595,14 @@
         "favicon": "https://img.logo.dev/am10441242.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "牽手之聲網路台",
-        "url": "http://us3.internet-radio.com:8232/stream",
-        "favicon": "https://img.logo.dev/ilovetacp.org.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "環宇廣播電台",
         "url": "https://n06.rcs.revma.com/srn5f9kmwxhvv",
         "favicon": "https://img.logo.dev/uni967.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "益世廣播電台",
-        "url": "http://210.209.16.1:1935/YSLive/YSLive/playlist.m3u8",
-        "favicon": "https://img.logo.dev/yesam1404.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "神州之聲",
         "url": "https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
         "favicon": "https://img.logo.dev/cnr.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "神農廣播電台",
-        "url": "https://n03.rcs.revma.com/uyaghqmdm3hvv",
-        "favicon": "https://img.logo.dev/fm995.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "福建東南廣播",
-        "url": "http://live.ximalaya.com/radio-first-page-app/live/788/64.m3u8",
-        "favicon": "https://img.logo.dev/fjtv.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "竹塹廣播電台",
@@ -813,16 +633,6 @@
         "name": "苗栗正義電台",
         "url": "http://211.20.119.103:8081/",
         "favicon": "https://img.logo.dev/loveradio889.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "華聲1台 AM1152",
-        "url": "http://43.254.16.40:8000/TP.AM1152",
-        "favicon": "https://img.logo.dev/hsradio1152.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "華聲2台 AM1224",
-        "url": "http://43.254.16.40:8000/TP.AM1224",
-        "favicon": "https://img.logo.dev/hsradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "講客廣播電台",
@@ -900,39 +710,9 @@
         "favicon": "https://img.logo.dev/pbs.npa.gov.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "資悠網路廣播實驗電台",
-        "url": "http://mail.guidetw.com.tw:8000/live",
-        "favicon": "https://img.logo.dev/guidetw.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "資悠網路廣播實驗電台",
-        "url": "http://test.taiwan-radio.tw:8000/GUIDECast.AH",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "農鄉廣播電台",
-        "url": "http://test.taiwan-radio.tw:8000/YL.FM106.3",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "連花廣播電台",
-        "url": "https://n05.rcs.revma.com/vh0xgcc59duvv",
-        "favicon": "https://img.logo.dev/bestradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "都會聲音FM99.7",
         "url": "http://test.taiwan-radio.tw:8000/TN.FM99.7",
         "favicon": "https://img.logo.dev/reurl.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "金聲廣播電台",
-        "url": "http://60.249.186.105:9000/;",
-        "favicon": "https://img.logo.dev/zh-cn.facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "陽光電台",
-        "url": "http://202.39.43.67:1935/live/RA000079/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/apple-line.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "雲端新廣播",
@@ -998,20 +778,5 @@
         "name": "飛碟聯播網 雲嘉民生展望",
         "url": "http://cast.uforadio.com.tw:8000/yun-stream",
         "favicon": "https://img.logo.dev/uforadio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "飛碟聯播網 飛碟電台",
-        "url": "https://n10.rcs.revma.com/em90w4aeewzuv",
-        "favicon": "https://img.logo.dev/fm995.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "高雄廣播電台",
-        "url": "https://n13.rcs.revma.com/pet2dvug1bkvv",
-        "favicon": "https://img.logo.dev/kbs.gov.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "高雄港都廣播",
-        "url": "https://n10.rcs.revma.com/q2m07dc59duvv",
-        "favicon": "https://img.logo.dev/bestradio.com.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

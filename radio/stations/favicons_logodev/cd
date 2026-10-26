@@ -5,19 +5,9 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Gospel FM",
-        "url": "http://stream.zeno.fm/n3sgwrm2mg8uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "LAVDC",
         "url": "http://stream.zeno.fm/6ya7cvxnff9uv",
         "favicon": "https://img.logo.dev/lavdc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MILLENIUM RADIO",
-        "url": "http://stream.zeno.fm/471pmgfd5f8uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Africa Online",
@@ -28,11 +18,6 @@
         "name": "RADIO MARIA DEM.REP. CONGO",
         "url": "http://dreamsiteradiocp.com:8116/stream",
         "favicon": "https://img.logo.dev/radiomaria.cd?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mix Congolaise",
-        "url": "https://stream.zeno.fm/qe5g83upga0uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Okapi",

@@ -40,11 +40,6 @@
         "favicon": "https://img.logo.dev/cbc.bb?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Q 100.7 FM",
-        "url": "http://108.178.16.190:8000/1007fm.mp3",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Q100.7 FM",
         "url": "http://108.178.16.190:8000/1007fm.mp3",
         "favicon": "https://img.logo.dev/cbc.bb?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -80,9 +75,9 @@
         "favicon": "https://img.logo.dev/starcomnetwork.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The One 98.1 FM",
-        "url": "http://108.178.16.190:8000/981fm.mp3",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "The Beat 104.1 FM",
+        "url": "https://ice66.securenetsystems.net/THEBEAT1041",
+        "favicon": "https://img.logo.dev/starcomnetwork.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOB 92.9 FM",

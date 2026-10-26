@@ -15,6 +15,11 @@
         "favicon": "https://img.logo.dev/radio-medjugorje.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "A Radio Banja Luka",
+        "url": "https://aradiostream.atvbl.com/live",
+        "favicon": "https://img.logo.dev/atvbl.rs?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -45,11 +50,6 @@
         "favicon": "https://img.logo.dev/bhrt.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Big :",
-        "url": "http://big2.bigportal.ba:8100/big2",
-        "favicon": "https://img.logo.dev/big2.bigportal.ba:8100?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "BIG 3",
         "url": "http://big3.bigportal.ba:8100/big3?1548653014620",
         "favicon": "https://img.logo.dev/bigradiobl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -65,6 +65,11 @@
         "favicon": "https://img.logo.dev/bigportal.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "BIG Radio 2 Banja Luka",
+        "url": "https://big2.bigportal.ba:8080/big2",
+        "favicon": "https://img.logo.dev/bigportal.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Big Radio 4 Domaćica",
         "url": "http://domacica.bigportal.ba:8100/domacica",
         "favicon": "https://img.logo.dev/bigportal.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -75,9 +80,9 @@
         "favicon": "https://img.logo.dev/bigportal.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Day Dee Eurodance Radio",
-        "url": "http://daydeeeurodance.stream.laut.fm/daydeeeurodance",
-        "favicon": "https://img.logo.dev/daydeeeurodance.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Drukciji Radio",
+        "url": "https://drukciji.ba/",
+        "favicon": "https://img.logo.dev/drukciji.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Esoterica Radio S1",
@@ -125,11 +130,6 @@
         "favicon": "https://img.logo.dev/imperia.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Islamski Radio",
-        "url": "http://eu3.fastcast4u.com:5762/stream",
-        "favicon": "https://img.logo.dev/islamski-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Kakanj, Radio Kakanj",
         "url": "http://cast2.name.ba:8067/",
         "favicon": "https://img.logo.dev/radiokakanj.co.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -138,16 +138,6 @@
         "name": "Kalesijski Ba",
         "url": "http://5.9.95.57:8102/stream",
         "favicon": "https://img.logo.dev/kalesijski.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kalman Radio",
-        "url": "http://188.40.62.20:8004/stream",
-        "favicon": "https://img.logo.dev/kalmanradio.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kalman Radio",
-        "url": "https://ssl.surfmusic.de/s.php?s=http://188.40.62.20:8004/stream?1707015516",
-        "favicon": "https://img.logo.dev/kalmanradio.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kontakt Radio",
@@ -170,16 +160,6 @@
         "favicon": "https://img.logo.dev/kupreskiradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KUPRESKIRADIO",
-        "url": "https://ec2s.crolive.com.hr:1265/stream",
-        "favicon": "https://img.logo.dev/ec2s.crolive.com.hr:1265?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Moj Radio",
-        "url": "https://webtvstream.bhtelecom.ba/moj_radio.m3u8",
-        "favicon": "https://img.logo.dev/mojradio.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Narodni Radio - Sarajevo",
         "url": "http://server1.tnt.ba:8010/",
         "favicon": "https://img.logo.dev/narodni.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -198,16 +178,6 @@
         "name": "Nes Radio",
         "url": "http://188.40.62.20:8070/;",
         "favicon": "https://img.logo.dev/nesradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Novi Radio Bihać",
-        "url": "https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8",
-        "favicon": "https://img.logo.dev/noviradiobihac.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "novii",
-        "url": "http://s37.myradiostream.com:8120/",
-        "favicon": "https://img.logo.dev/s37.myradiostream.com:8120?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pakao Radio",
@@ -250,11 +220,6 @@
         "favicon": "https://img.logo.dev/radio8.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio ASK Ilidža",
-        "url": "https://webtvstream.bhtelecom.ba/radio_ask.m3u8",
-        "favicon": "https://img.logo.dev/ask.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Avlija",
         "url": "http://51.255.127.128:8900/;",
         "favicon": "https://img.logo.dev/radioavlija.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -291,6 +256,11 @@
     },
     {
         "name": "Radio Bobar",
+        "url": "https://stream.radios.rs:9082/stream",
+        "favicon": "https://img.logo.dev/radiobobar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bobar",
         "url": "http://94.130.11.28:9010/",
         "favicon": "https://img.logo.dev/radiobobar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -300,11 +270,6 @@
         "favicon": "https://img.logo.dev/radiobk.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Bosanski Brod",
-        "url": "https://zpilipov-geckohost.radioca.st/stream",
-        "favicon": "https://img.logo.dev/brodradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Bosanski Petrovac",
         "url": "https://webtvstream.bhtelecom.ba/radio_bosanski_petrovac.m3u8",
         "favicon": "https://img.logo.dev/bosanskipetrovac.gov.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -312,6 +277,11 @@
     {
         "name": "Radio Bosna",
         "url": "https://stream-162.zeno.fm/qggihjl4mgcvv",
+        "favicon": "https://img.logo.dev/radiobosna.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bosna",
+        "url": "https://host2.streamafrica.net/listen/radio_bossna/radio.mp3",
         "favicon": "https://img.logo.dev/radiobosna.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -350,19 +320,9 @@
         "favicon": "https://img.logo.dev/crt.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Donji Vakuf",
-        "url": "http://5.9.71.122:8134/;stream.mp3",
-        "favicon": "https://img.logo.dev/radiodonjivakuf.com.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Džungla Doboj 2",
-        "url": "http://cast2.name.ba:9054/",
-        "favicon": "https://img.logo.dev/dzungla.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Džungla Doboj 3",
-        "url": "http://cast2.name.ba:8006/",
-        "favicon": "https://img.logo.dev/dzungla.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Daš Extra",
+        "url": "http://cast2.name.ba:8085/stream",
+        "favicon": "https://img.logo.dev/dasextra.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Feral 100.4 Sarajevo",
@@ -390,11 +350,6 @@
         "favicon": "https://img.logo.dev/radiogradacac.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Grude",
-        "url": "http://radio.pa-hosting.de:1040/",
-        "favicon": "https://img.logo.dev/radio.pa-hosting.de:1040?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio HIT FM",
         "url": "https://webtvstream.bhtelecom.ba/radio_hit_fm.m3u8",
         "favicon": "https://img.logo.dev/hitfm.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -408,16 +363,6 @@
         "name": "Radio Kameleon",
         "url": "https://webtvstream.bhtelecom.ba/radio_kameleon.m3u8",
         "favicon": "https://img.logo.dev/radiokameleon.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO KISS KISELJAK",
-        "url": "http://stream.kissfm.ba:8010/live",
-        "favicon": "https://img.logo.dev/stream.kissfm.ba:8010?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Ključ",
-        "url": "http://195.222.33.217:8093/;",
-        "favicon": "https://img.logo.dev/media-kljuc.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Konjic",
@@ -450,6 +395,21 @@
         "favicon": "https://img.logo.dev/radiom.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio M Cafe",
+        "url": "https://team-data.ba:9032/play?sid=1&t=1781439858301",
+        "favicon": "https://img.logo.dev/radiom.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio M Cafe",
+        "url": "https://team-data.ba:9032/play?sid=1&t=1781439858301",
+        "favicon": "https://img.logo.dev/radiom.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio M plus",
+        "url": "https://team-data.ba:10000/stream",
+        "favicon": "https://img.logo.dev/radiom.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Magic",
         "url": "http://stream.iradio.pro:8034/radiomagic",
         "favicon": "https://img.logo.dev/magic.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -475,9 +435,9 @@
         "favicon": "https://img.logo.dev/radiomarija.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Merak",
-        "url": "http://176.9.113.180:8084/stream",
-        "favicon": "https://img.logo.dev/konjicanka.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Miljacka",
+        "url": "https://stream1.custom.ba/listen/radio_miljacka/radio.mp3",
+        "favicon": "https://img.logo.dev/radiomiljacka.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Miljacka",
@@ -498,11 +458,6 @@
         "name": "Radio MIX, BiH",
         "url": "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3",
         "favicon": "https://img.logo.dev/radio.radiomix.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Novi Grad",
-        "url": "http://s2.myradiostream.com:5584/",
-        "favicon": "https://img.logo.dev/s2.myradiostream.com:5584?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Novi Grad 100MHz",
@@ -570,11 +525,6 @@
         "favicon": "https://img.logo.dev/rtvslon.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Srebrenik",
-        "url": "http://live.radiosrebrenik.ba:7600/",
-        "favicon": "https://img.logo.dev/live.radiosrebrenik.ba:7600?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio TK",
         "url": "https://webtvstream.bhtelecom.ba/radio_tk.m3u8",
         "favicon": "https://img.logo.dev/rtvtk.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -620,6 +570,11 @@
         "favicon": "https://img.logo.dev/valentinobh.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Valentino ORV Life",
+        "url": "https://otv.ovh/live_radio/orv/icecast.audio",
+        "favicon": "https://img.logo.dev/valentinobh.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Veseli Bosanac",
         "url": "http://opportunity.shoutca.st:8038/",
         "favicon": "https://img.logo.dev/veselibosanac.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -638,11 +593,6 @@
         "name": "Radio Vogošća",
         "url": "https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8",
         "favicon": "https://img.logo.dev/rtvvogosca.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO ZENIT",
-        "url": "http://5.189.168.133:8020/1",
-        "favicon": "https://img.logo.dev/5.189.168.133:8020?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Zenit - caffe",
@@ -670,11 +620,6 @@
         "favicon": "https://img.logo.dev/radio8.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RITMO",
-        "url": "https://stream-179.zeno.fm/3xufu087fc9uv",
-        "favicon": "https://img.logo.dev/stream-179.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ROBOT HIT RADIO",
         "url": "https://slusaj.off.ba/radio/8000/robot",
         "favicon": "https://img.logo.dev/robothitradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -698,11 +643,6 @@
         "name": "Srce Krajine",
         "url": "https://srv.mediastriming.com/8330/stream",
         "favicon": "https://img.logo.dev/srce-krajine.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Thrash Metal",
-        "url": "http://79.120.77.11:8000/thrashmetal",
-        "favicon": "https://img.logo.dev/edin.ba?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Velkaton",

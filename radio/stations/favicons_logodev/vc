@@ -5,6 +5,11 @@
         "favicon": "https://img.logo.dev/niceradio.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hot 97.1 FM SVG",
+        "url": "https://usa7.fastcast4u.com/proxy/hot97svg?mp=/1",
+        "favicon": "https://img.logo.dev/hot97svg.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Reggae141",
         "url": "http://hestia2.cdnstream.com/1301_128",
         "favicon": "https://img.logo.dev/reggae141.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13,5 +18,15 @@
         "name": "Star FM 98.3 & 104.7 Kingstown",
         "url": "http://starradio.serverroom.net:6688/",
         "favicon": "https://img.logo.dev/star983fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sweet Radio SVG",
+        "url": "https://streaming.radio.co/sdf4651481/listen",
+        "favicon": "https://img.logo.dev/sweetradiosvg.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WE FM 99.9 SVG",
+        "url": "https://video1.getstreamhosting.com:2000/stream/8260",
+        "favicon": "https://img.logo.dev/999wefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

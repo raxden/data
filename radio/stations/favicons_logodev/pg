@@ -13,5 +13,15 @@
         "name": "NauFM",
         "url": "https://27163.live.streamtheworld.com/NAUFM.mp3",
         "favicon": "https://img.logo.dev/naufm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NauFM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM.mp3",
+        "favicon": "https://img.logo.dev/naufm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bantaba",
+        "url": "https://radio.streemlion.com/radiobantaba",
+        "favicon": "https://img.logo.dev/radiobantaba.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

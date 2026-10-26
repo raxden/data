@@ -1,5 +1,10 @@
 [
     {
+        "name": "LOVE FM: All you need is Love / Clásicos del pop",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "94.9 FM",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/949FM_ADP.m3u8",
         "favicon": "https://img.logo.dev/949.com.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,11 +28,6 @@
         "name": "Actitud 100.9 FM",
         "url": "https://ss.redradios.net:8002/stream?type=.mp3",
         "favicon": "https://img.logo.dev/actitud.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Actitud 100.9 FM Guatemala",
-        "url": "https://ss.redradios.net:8002/stream?type=.mp3",
-        "favicon": "https://img.logo.dev/ss.redradios.net:8002?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ARCA RADIO HD",
@@ -90,11 +90,6 @@
         "favicon": "https://img.logo.dev/medios.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "EMAUS RADIO",
-        "url": "https://sh2.radioonlinehd.com:8141/;",
-        "favicon": "https://img.logo.dev/emausradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Emaús Radio",
         "url": "https://sh2.radioonlinehd.com:8141/;",
         "favicon": "https://img.logo.dev/emausradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -113,21 +108,6 @@
         "name": "Emisoras Unidas 91.1 FM",
         "url": "https://stream.zeno.fm/0zashcvc9zquv",
         "favicon": "https://img.logo.dev/emisorasunidas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Estéreo Alegre 101.5 FM",
-        "url": "https://stream.zeno.fm/597dgr66e2zuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Estéreo Gerardi 107.9 FM",
-        "url": "https://aler.org:8445/gerardi.mp3",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Estéreo Santa Sion",
-        "url": "https://radio015.gt.gt/radio/8000/live.mp3",
-        "favicon": "https://img.logo.dev/estereosantasionlive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Estéreo Solar 104.9 FM",
@@ -150,11 +130,6 @@
         "favicon": "https://img.logo.dev/eventoscatolicos.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Exa FM 101.7 Guatemala",
-        "url": "https://stream.zeno.fm/czdkk32qduhvv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Exa FM Guatemala",
         "url": "https://stream.zeno.fm/czdkk32qduhvv",
         "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -172,7 +147,7 @@
     {
         "name": "FeLove Clásica",
         "url": "https://feloveclasica-radiofelove.radioca.st/stream?1741424230037",
-        "favicon": "https://img.logo.dev/clasica.radiofelove.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/feloveclasica-radiofelove.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Gaiteros de Guatemala",
@@ -220,9 +195,29 @@
         "favicon": "https://img.logo.dev/lared1061.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Más Música FM Radio",
+        "url": "https://vivo.miradio.in/8110/stream",
+        "favicon": "https://img.logo.dev/nuevomundo.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mas Musica-92-5 FM",
+        "url": "https://s4.radio.co/s42a526595/listen",
+        "favicon": "https://img.logo.dev/nuevomundo.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Metropolis Antigua",
+        "url": "https://polaris.hostingnica.net:7010/stream",
+        "favicon": "https://img.logo.dev/metropolisantigua.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Mía 93.7 Guatemala",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac",
         "favicon": "https://img.logo.dev/mia937.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MUSIQUERA",
+        "url": "https://securestreams7.autopo.st/?uri=http://s4.voscast.com:9320/stream",
+        "favicon": "https://img.logo.dev/musiquera.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nueva Fabuestéreo 88.1FM y Quetzaltenango 89.5FM",
@@ -240,29 +235,9 @@
         "favicon": "https://img.logo.dev/orionstereo.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "palabra miel",
-        "url": "http://juventudpalabramiel.org:8000/radio",
-        "favicon": "https://img.logo.dev/juventudpalabramiel.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 107 Exito - 107.1 FM",
-        "url": "http://play10.tikast.com:8159/stream",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Actitud",
         "url": "https://ss.redradios.net:8002/stream?type=.mp3",
         "favicon": "https://img.logo.dev/actitud.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Activa 95.1 FM. En linea católica",
-        "url": "https://sh4.radioonlinehd.com:8557/stream",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Amiga 93.3 FM",
-        "url": "http://radiolatina.live:8072/;",
-        "favicon": "https://img.logo.dev/radiolatina.live:8072?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Camino Santidad",
@@ -270,19 +245,9 @@
         "favicon": "https://img.logo.dev/radiocaminodesantidad.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Central 91.9 FM",
-        "url": "http://live.myradioserver.net:7588/;",
-        "favicon": "https://img.logo.dev/laradiodepaz919.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Cultural TGN",
         "url": "https://stream.infinityhdstream.com/7054/stream",
         "favicon": "https://img.logo.dev/radiocultural.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO ESLA",
-        "url": "http://stream.zeno.fm/wdr15uyuezzuv",
-        "favicon": "https://img.logo.dev/radio-esla.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Guate digital",
@@ -293,11 +258,6 @@
         "name": "Radio Infinita",
         "url": "https://streams.radio.co/see730c7ab/listen",
         "favicon": "https://img.logo.dev/radioinfinita.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Ixchel",
-        "url": "https://stream-153.zeno.fm/p5fpudbtguquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNWZwdWRidGd1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkhQQ0hFUkhUUUcyYVg1aXAyZ2R2M2ciLCJpYXQiOjE3Mjg1NzAzNTIsImV4cCI6MTcyODU3MDQxMn0.VvFIl3Nw_mS-gU9NqWTn58XakUv8FxUjIGavl6lfqcA",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO MARIA GUATEMALA",
@@ -318,11 +278,6 @@
         "name": "Radio Punto 90.5 Guatemala",
         "url": "http://stream.zeno.fm/qzhqyu07dkhvv",
         "favicon": "https://img.logo.dev/grupoalius.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Romance",
-        "url": "https://stream.zeno.fm/gnkysrxv3a0uv",
-        "favicon": "https://img.logo.dev/arcangelvoiceover.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Sololá",

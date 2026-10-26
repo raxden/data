@@ -15,19 +15,14 @@
         "favicon": "https://img.logo.dev/antennereunionradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Azot Radio",
-        "url": "https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3",
-        "favicon": "https://img.logo.dev/azotradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Capital FM Réunion",
         "url": "https://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3",
         "favicon": "https://img.logo.dev/capitalfm.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Exo FM",
+        "name": "Exo FM Réunion",
         "url": "https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/exofm.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Free Dom",
@@ -45,54 +40,9 @@
         "favicon": "https://img.logo.dev/konect.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kreolkoneksyon Radio",
-        "url": "https://listen.radioking.com/radio/511600/stream/569401",
-        "favicon": "https://img.logo.dev/instagram.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Le passage du chat blanc",
         "url": "https://play.radioking.io/wa-ho",
         "favicon": "https://img.logo.dev/chatblanc.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "louange radio",
-        "url": "https://radio13.pro-fhi.net:19079/",
-        "favicon": "https://img.logo.dev/radio13.pro-fhi.net:19079?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "louange radio",
-        "url": "https://radio13.pro-fhi.net:19079/",
-        "favicon": "https://img.logo.dev/radio13.pro-fhi.net:19079?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Love Hit Reunion",
-        "url": "https://stream.zeno.fm/wcfjkonehdlvv.mp3",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MaronRfm",
-        "url": "https://listen.radioking.com/radio/331087/stream/379402",
-        "favicon": "https://img.logo.dev/listen.radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MaronRfm",
-        "url": "https://listen.radioking.com/radio/331087/stream/379402",
-        "favicon": "https://img.logo.dev/listen.radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MaronRfm",
-        "url": "https://listen.radioking.com/radio/331087/stream/379402",
-        "favicon": "https://img.logo.dev/listen.radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MaronRfm",
-        "url": "https://listen.radioking.com/radio/331087/stream/379402",
-        "favicon": "https://img.logo.dev/listen.radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MaronRfm",
-        "url": "https://listen.radioking.com/radio/331087/stream/379402",
-        "favicon": "https://img.logo.dev/listen.radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Music Intense 974",
@@ -100,14 +50,19 @@
         "favicon": "https://img.logo.dev/musicintense974.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Passion Tropical",
-        "url": "https://listen.radioking.com/radio/7495/stream/16988",
-        "favicon": "https://img.logo.dev/passiontropical.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "NRJ Réunion",
+        "url": "https://streaming.nrjaudio.fm/ougonmrb92oc",
+        "favicon": "https://img.logo.dev/nrj.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Kayanm",
-        "url": "https://hosting.studioradiomedia.fr:2245/stream",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Freedom 2",
+        "url": "https://freedomice.streamakaci.com/freedom2.mp3",
+        "favicon": "https://img.logo.dev/freedom.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Freedom FM",
+        "url": "https://freedomice.streamakaci.com/freedom.mp3",
+        "favicon": "https://img.logo.dev/freedom.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Merveille Océan Indien",
@@ -121,6 +76,11 @@
     },
     {
         "name": "Radio Pikan",
+        "url": "https://stream4.vestaradio.com/RADIOPIKAN?nocache=6650",
+        "favicon": "https://img.logo.dev/radiopikan.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Pikan Réunion",
         "url": "https://stream4.vestaradio.com/RADIOPIKAN?nocache=6650",
         "favicon": "https://img.logo.dev/radiopikan.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -143,6 +103,11 @@
         "name": "Rire et Chansons Réunion",
         "url": "https://streaming.nrjaudio.fm/oun3wuqn5eyc",
         "favicon": "https://img.logo.dev/rireetchansons.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "sensuelle radio",
+        "url": "https://radio10.pro-fhi.net/live/SENSUELLERADIO",
+        "favicon": "https://img.logo.dev/sensuelleradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sensuelle Radio Réunion",

@@ -5,6 +5,11 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ACM Radio",
+        "url": "https://listen.radioking.com/radio/670561/stream/734653",
+        "favicon": "https://img.logo.dev/eglisecma.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Africa Radio Abidjan",
         "url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
         "favicon": "https://img.logo.dev/africaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -15,9 +20,84 @@
         "favicon": "https://img.logo.dev/fr.welove.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Alpha Blondy FM",
+        "url": "https://listen.radioking.com/radio/364633/stream/414370",
+        "favicon": "https://img.logo.dev/alphablondyfm.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AlphaetOmega",
+        "url": "http://161.97.160.18:8000/alphaetomega",
+        "favicon": "https://img.logo.dev/alpha-et-omega.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Attécoubé FM",
+        "url": "https://listen.radioking.com/radio/708230/stream/773741",
+        "favicon": "https://img.logo.dev/mairieattecoube.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cote d'ivoire FM",
+        "url": "https://listen.radioking.com/radio/9892/stream/62227",
+        "favicon": "https://img.logo.dev/lavoixdeladiaspora.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FER FM",
+        "url": "https://listen.radioking.com/radio/865681/stream/935596",
+        "favicon": "https://img.logo.dev/fer.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "G-Eye Radio",
+        "url": "https://radio.geyetv.com/listen/geye_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/geyetv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gbêkê FM",
+        "url": "https://stream.zeno.fm/m0982tsy908uv",
+        "favicon": "https://img.logo.dev/gbekefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GEM Radio Africa",
+        "url": "https://radio.geyetv.com:8010/radio.mp3",
+        "favicon": "https://img.logo.dev/geyetv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit Radio (Côte d'Ivoire)",
+        "url": "https://hrci.ice.infomaniak.ch/ci-abidjan-128.mp3",
+        "favicon": "https://img.logo.dev/hitradio.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Horizonfm CI",
+        "url": "https://sky.doscast.com/proxy/firmin/stream",
+        "favicon": "https://img.logo.dev/lixty.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LA VOIX DE L'ESPERANCE",
+        "url": "https://jookiidigit.radioca.st/rve.mp3",
+        "favicon": "https://img.logo.dev/lavoixdelesperance.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "La Voix de la Diaspora",
+        "url": "https://listen.radioking.com/radio/9892/stream/63760",
+        "favicon": "https://img.logo.dev/lavoixdeladiaspora.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Life radio Côte d’Ivoire",
         "url": "https://cast4.asurahosting.com/proxy/life/stream",
         "favicon": "https://img.logo.dev/liferadio.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nostalgie CI",
+        "url": "http://213.136.96.14:8000/nostalgie2.mp3",
+        "favicon": "https://img.logo.dev/nostalgie.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Al Bayane",
+        "url": "https://stream.zeno.fm/0t1c5kna90duv",
+        "favicon": "https://img.logo.dev/albayane.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ESJC",
+        "url": "https://stream4.vestaradio.com/RadioESJC",
+        "favicon": "https://img.logo.dev/esjc.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Jam",
@@ -28,6 +108,11 @@
         "name": "Radio Maria Ivory Coast",
         "url": "https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream",
         "favicon": "https://img.logo.dev/radiomaria.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Serveur de Messages Prophétiques",
+        "url": "https://listen.radioking.com/radio/688134/stream/752823",
+        "favicon": "https://img.logo.dev/welove.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Skyrock Abidjan",

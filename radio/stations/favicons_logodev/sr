@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ishara",
-        "url": "https://a8.asurahosting.com:7030/radio.mp3",
-        "favicon": "https://img.logo.dev/isharafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "MPB Radio Suriname",
         "url": "https://radiozender.mpbnetwerken.nl/radiosuriname",
         "favicon": "https://img.logo.dev/radiozender.mpbnetwerken.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -50,9 +45,14 @@
         "favicon": "https://img.logo.dev/apintie.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Apintie",
+        "url": "https://surilive.com:8000/;",
+        "favicon": "https://img.logo.dev/apintie.sr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio ishara",
         "url": "https://a8.asurahosting.com:7030/radio.mp3",
-        "favicon": "https://img.logo.dev/a8.asurahosting.com:7030?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/a8.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Sangeetmala",

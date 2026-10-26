@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Bolsa Radio VN",
-        "url": "http://stream.zenolive.com/ueychbrzv9duv",
-        "favicon": "https://img.logo.dev/stream.zenolive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CAND",
         "url": "https://lives.antv.gov.vn/channel/antv/channel/antv_480p/chunks.m3u8",
         "favicon": "https://img.logo.dev/lives.antv.gov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -25,34 +20,14 @@
         "favicon": "https://img.logo.dev/vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Cherry Radio Music 247",
-        "url": "https://stream-176.zeno.fm/umt5gqmg3reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bXQ1Z3FtZzNyZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNZUXVUREM3VGNtTjEyblNnR0x4UkEiLCJpYXQiOjE3Mjk3NDI5MzAsImV4cCI6MTcyOTc0Mjk5MH0.nXD9Wgj-wiNAqBZ-Pdh_3sfnI3b-Nsa4DwbcZgO1o5I&adtonosListenerId=01JAYBBMWV0MGTJKRSBW480E4Z",
-        "favicon": "https://img.logo.dev/stream-176.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Hà Nội Community Radio",
+        "url": "https://ha-noi-community-radio.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/hanoicommunityradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CRI Tiếng Việt",
-        "url": "https://ice5.securenetsystems.net:80/KALI",
-        "favicon": "https://img.logo.dev/ice5.securenetsystems.net:80?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Digital Radio Hongkong",
-        "url": "http://ice.digitalradiohk.net:8000/drhk",
-        "favicon": "https://img.logo.dev/ice.digitalradiohk.net:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM HANOI 90 MHz",
-        "url": "http://14.162.146.90:8000/HANOI90",
-        "favicon": "https://img.logo.dev/e.mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM HANOI 96 MHz",
-        "url": "http://222.252.21.96:8000/HANOI96",
-        "favicon": "https://img.logo.dev/e.mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KALI SAIGON",
-        "url": "https://ice5.securenetsystems.net:80/KALI",
-        "favicon": "https://img.logo.dev/ice5.securenetsystems.net:80?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "KC Radio Asia 80s & 90s",
+        "url": "https://kcradio.asia/stream/80s90s",
+        "favicon": "https://img.logo.dev/kcradio.asia?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kien Giang Radio",
@@ -75,19 +50,14 @@
         "favicon": "https://img.logo.dev/listen.57fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Little Saigon Radio",
-        "url": "https://stream-148.zeno.fm/kxynzu2qe7duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHluenUycWU3ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklCSlYyMXNuVC02QUFEWTVhQTUxWmciLCJpYXQiOjE3Mjk4MzExMTcsImV4cCI6MTcyOTgzMTE3N30.MnLyarUeN7gD-e-g1fZiD0UQWGzpIaPx7o3vYOhQCfk",
-        "favicon": "https://img.logo.dev/stream-148.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "M Radio Vietnam",
-        "url": "https://stream-155.zeno.fm/4q7y9hvkp2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cTd5OWh2a3AyenV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlpeGFsbUNWVE51cGxub1h2eE9NTmciLCJpYXQiOjE3MzE1NTExNjIsImV4cCI6MTczMTU1MTIyMn0.RQUqatQ8CtSaIcvH9kT1xRfeuptGIM13jzFd-2SehU0&aw_0_req_lsid=8196d2c78a734f244852a3f8bbbecbcb",
-        "favicon": "https://img.logo.dev/stream-155.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Nhân dân TV",
         "url": "https://arpt.tvic.vn/live/nhandan720/chunklist_w1899174222.m3u8",
         "favicon": "https://img.logo.dev/arpt.tvic.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio VOH FM 95.6 MHz",
+        "url": "https://voh.com.vn/radio/kenh-fm-956-02221123001000956.html",
+        "favicon": "https://img.logo.dev/voh.com.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "REPLAY NEWS - Tiếng Việt   Radio tin tức mỗi 5 phút",
@@ -100,29 +70,14 @@
         "favicon": "https://img.logo.dev/rfienvietnamien64k.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Saigon Houston AM900",
-        "url": "http://142.4.215.82:8070/stream?type=http&nocache=151",
-        "favicon": "https://img.logo.dev/142.4.215.82:8070?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RVA Vietnamese",
+        "url": "https://livestream.rvasia.org:8443/Vietnamese.mp3",
+        "favicon": "https://img.logo.dev/livestream.rvasia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TNT Atlanta Radio",
         "url": "https://cast4.servcast.net/proxy/longpham2/stream",
         "favicon": "https://img.logo.dev/cast4.servcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VIET WASHINGTON DC",
-        "url": "http://varadio.serverroom.net:7968/",
-        "favicon": "https://img.logo.dev/varadio.serverroom.net:7968?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Viet Washington DC",
-        "url": "http://varadio.serverroom.net:7968/",
-        "favicon": "https://img.logo.dev/varadio.serverroom.net:7968?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Vietnamese National People",
-        "url": "http://c13.radioboss.fm:8127/stream",
-        "favicon": "https://img.logo.dev/c13.radioboss.fm:8127?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOH AM 610",
@@ -155,9 +110,19 @@
         "favicon": "https://img.logo.dev/vovgiaothong.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "VOV GT (FM91) HCMC",
+        "url": "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/vovgiaothong.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "VOV GT HCM",
         "url": "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8",
         "favicon": "https://img.logo.dev/play.vovgiaothong.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV GTHN (HD + for copyrighted contents)",
+        "url": "https://tfx70gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8",
+        "favicon": "https://img.logo.dev/vovgiaothong.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOV Mekong",

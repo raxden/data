@@ -45,24 +45,19 @@
         "favicon": "https://img.logo.dev/1054cascais.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "4DJ 4Drive Jazz",
-        "url": "https://radio.streemlion.com:4870/stream",
-        "favicon": "https://img.logo.dev/4drivejazz.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "2000 Comercial Online Lisboa Portugal",
+        "url": "https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radiocomercial.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "4Drive Jazz",
-        "url": "http://radio.streemlion.com:1150/stream",
-        "favicon": "https://img.logo.dev/4drivejazz.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "76,8 OCEANO PACIFICO",
+        "url": "https://cp-1.owh.radio.br/listen/owh_s35225/radio-mp3",
+        "favicon": "https://img.logo.dev/owh.radio.br?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "80'S RFM",
         "url": "https://25343.live.streamtheworld.com/GR80SRFMAAC.aac",
         "favicon": "https://img.logo.dev/rfm.sapo.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "80ROCK",
-        "url": "http://rs2.ptservidor.com:8003/stream?type=.mp3",
-        "favicon": "https://img.logo.dev/rs2.ptservidor.com:8003?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "90'S RFM",
@@ -230,11 +225,6 @@
         "favicon": "https://img.logo.dev/rtp.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Antena Livre",
-        "url": "http://centova.radio.com.pt:9456/;",
-        "favicon": "https://img.logo.dev/896.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Antena Livre de Gouveia",
         "url": "https://centova.radio.com.pt/proxy/456?mp=/stream",
         "favicon": "https://img.logo.dev/896fm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -245,9 +235,9 @@
         "favicon": "https://img.logo.dev/rtp.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Back to the 80s",
-        "url": "http://s1.nexuscast.com:8135/;",
-        "favicon": "https://img.logo.dev/s1.nexuscast.com:8135?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Batida FM",
+        "url": "https://stream-icy.rayo.pt/batidafm.mp3?direct=true",
+        "favicon": "https://img.logo.dev/batida.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Batida FM",
@@ -260,14 +250,14 @@
         "favicon": "https://img.logo.dev/bbn1.bbnradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Beat FM",
+        "url": "http://185.32.188.17:8043/stream",
+        "favicon": "https://img.logo.dev/beatfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Cantinho dos Emigrantes",
         "url": "https://cast.redewt.net:9825/stream",
         "favicon": "https://img.logo.dev/cantinhodosemigrantes.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Caria - Rádio Natal",
-        "url": "https://stream-177.zeno.fm/zb5w8yybqxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6YjV3OHl5YnF4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY2FRbUZrVHJSSE9kQkdEb2ZSTnIwZyIsImlhdCI6MTc2ODQzNzY4MywiZXhwIjoxNzY4NDM3NzQzfQ.vg4-2WMVn8xJn_zb791Zf27i8VTAZ-VZUl_BmUmqbF0",
-        "favicon": "https://img.logo.dev/stream-177.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cascais FM 105.4",
@@ -305,14 +295,29 @@
         "favicon": "https://img.logo.dev/coolfm.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Cool FM Albufeira",
+        "url": "https://cool-fm.link/listen/stream/live.mp3",
+        "favicon": "https://img.logo.dev/coolfm.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Deep in Radio",
         "url": "http://s3.viastreaming.net:8525/",
         "favicon": "https://img.logo.dev/deepinradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Deep Mix Radio",
+        "url": "https://stream-new.deepmix.net/deep-mix-radio-320.mp3",
+        "favicon": "https://img.logo.dev/deepmix.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Diana FM",
         "url": "http://centova.radio.com.pt:9460/;",
         "favicon": "https://img.logo.dev/dianafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ESR - East Side Radio",
+        "url": "https://ice.ether.esr.li/esr-ch1.aac",
+        "favicon": "https://img.logo.dev/esr.li?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Estação Diária",
@@ -340,9 +345,9 @@
         "favicon": "https://img.logo.dev/fluxmedia.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FOQO",
-        "url": "http://185.32.188.17:8003/stream",
-        "favicon": "https://img.logo.dev/foqo.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "FUTURA - Rádio de Autor",
+        "url": "https://s4.radio.co/s7e7b6c165/listen",
+        "favicon": "https://img.logo.dev/radiofutura.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FUTURA - Rádio de Autor",
@@ -360,39 +365,19 @@
         "favicon": "https://img.logo.dev/golo.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Gongas Radio",
-        "url": "https://a6.asurahosting.com:7930/radio.mp3",
-        "favicon": "https://img.logo.dev/instagram.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gongas Radio",
-        "url": "https://a6.asurahosting.com:7930/radio.mp3",
-        "favicon": "https://img.logo.dev/instagram.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Hiper FM",
         "url": "http://195.23.85.126:9500/;",
         "favicon": "https://img.logo.dev/hiper.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "jovembsk",
-        "url": "https://stream-42.zeno.fm/ppgb4k7vhqztv?zs=c_kj97VBTyuKVVdB2EEdEg",
-        "favicon": "https://img.logo.dev/stream-42.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Kiss FM 101.2",
+        "url": "https://kissfm.pt/",
+        "favicon": "https://img.logo.dev/kissfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "jovembsk",
-        "url": "https://stream-54.zeno.fm/ppgb4k7vhqztv?zs=16hfH25BROGMPgJQytuZKg",
-        "favicon": "https://img.logo.dev/stream-54.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "JOVEMBSK MIX",
-        "url": "http://stream.zeno.fm/4nc1mzdp81xuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "jovembsk mix",
-        "url": "http://stream.zeno.fm/4nc1mzdp81xuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Kiss FM 101.2",
+        "url": "https://nl.digitalrm.pt:8024/",
+        "favicon": "https://img.logo.dev/kissfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "La French Radio  Portugal",
@@ -451,7 +436,7 @@
     },
     {
         "name": "Mega Hits",
-        "url": "http://22333.live.streamtheworld.com:3690/MEGA_HITS_SC",
+        "url": "http://29093.live.streamtheworld.com/MEGA_HITS_SC",
         "favicon": "https://img.logo.dev/megahits.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -475,29 +460,14 @@
         "favicon": "https://img.logo.dev/radiomonsanto.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MRR Manitu Rock Radio",
-        "url": "https://radio.streemlion.com:4515/stream",
-        "favicon": "https://img.logo.dev/maniturockradio.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "MSFS Radio",
+        "url": "https://radio.msfsradio.com/listen/msfs/radio.mp3",
+        "favicon": "https://img.logo.dev/msfsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "nigga.pt (ambient)",
-        "url": "https://nigga.pt/ambient.ogg",
-        "favicon": "https://img.logo.dev/nigga.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "nigga.pt (chill)",
-        "url": "https://nigga.pt/chill.ogg",
-        "favicon": "https://img.logo.dev/nigga.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "nigga.pt (hood)",
-        "url": "http://nigga.pt:8000/hood.ogg",
-        "favicon": "https://img.logo.dev/nigga.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "nigga.pt (party)",
-        "url": "https://nigga.pt/party.ogg",
-        "favicon": "https://img.logo.dev/nigga.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "MSFS Radio",
+        "url": "https://radio.msfsradio.com/listen/msfs/radio.mp3",
+        "favicon": "https://img.logo.dev/msfsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NiTfm",
@@ -520,64 +490,14 @@
         "favicon": "https://img.logo.dev/nove3cinco.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "oceano Pacifico",
-        "url": "https://stm7.xradios.com.br:6944/live",
-        "favicon": "https://img.logo.dev/stm7.xradios.com.br:6944?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "On the Radio- Lisbon",
-        "url": "https://rs2.ptservidor.com/proxy/mediawis?mp=/stream?type=.mp3",
-        "favicon": "https://img.logo.dev/mediawise.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Onda Livre",
         "url": "https://centova.radio.com.pt/proxy/572?mp=/stream",
         "favicon": "https://img.logo.dev/ondalivrefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ORBITAL",
-        "url": "http://centova.radios.pt:8401/;listen.pls",
-        "favicon": "https://img.logo.dev/orbital.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Orbital",
-        "url": "https://ec2.yesstreaming.net:3025/stream",
-        "favicon": "https://img.logo.dev/orbital.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Orbital FM",
-        "url": "https://ec2.yesstreaming.net:3025/stream",
-        "favicon": "https://img.logo.dev/orbital.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Orbital Rádio",
-        "url": "http://centova.radios.pt:8401/;",
-        "favicon": "https://img.logo.dev/orbital.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "OXIGÉNIO 102.6 FM",
         "url": "http://proic1.evspt.com/oxigenio_aac",
         "favicon": "https://img.logo.dev/oxigenio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "porão da nau 2",
-        "url": "http://uk20freenew.listen2myradio.com:5382/;",
-        "favicon": "https://img.logo.dev/spaceneonradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "porão da nau 2",
-        "url": "http://uk20freenew.listen2myradio.com:5382/",
-        "favicon": "https://img.logo.dev/spaceneonradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Porão da nau radio",
-        "url": "https://stream.zeno.fm/rwmao7mxxt8vv",
-        "favicon": "https://img.logo.dev/xn--radioporodanau-xhb.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Porão da nau radio",
-        "url": "https://stream.zeno.fm/rwmao7mxxt8vv",
-        "favicon": "https://img.logo.dev/radioporaodanau.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Portugal Star",
@@ -592,6 +512,16 @@
     {
         "name": "Posto Emissor do Funchal (Canal 1 - OM)",
         "url": "http://centova.radio.com.pt:9422/",
+        "favicon": "https://img.logo.dev/pef.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Posto Emissor do Funchal (PEF) - Canal 1 OM",
+        "url": "https://centova.radio.com.pt/proxy/422?mp=/stream;",
+        "favicon": "https://img.logo.dev/pef.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Posto Emissor do Funchal (PEF) - Canal 2 FM",
+        "url": "https://centova.radio.com.pt/proxy/426?mp=/stream;",
         "favicon": "https://img.logo.dev/pef.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -625,6 +555,11 @@
         "favicon": "https://img.logo.dev/radarlisboa.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RADAR – 97.8 FM",
+        "url": "http://proic1.evspt.com/radar_aac",
+        "favicon": "https://img.logo.dev/radarlisboa.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio 94 FM",
         "url": "http://185.11.164.106:35022/stream",
         "favicon": "https://img.logo.dev/radio94fm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -651,13 +586,13 @@
     },
     {
         "name": "Rádio Amália",
-        "url": "http://centova.radio.com.pt:9496/;",
-        "favicon": "https://img.logo.dev/amalia.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rádio Amália",
         "url": "http://centova.radios.pt:9496/stream",
         "favicon": "https://img.logo.dev/radios.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Amigos do Mundo",
+        "url": "https://sonic.servsonic.com:7004/stream",
+        "favicon": "https://img.logo.dev/radioamigosdomundo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Amor Portugal",
@@ -690,9 +625,14 @@
         "favicon": "https://img.logo.dev/antena-minho.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rádio Antena Nove",
-        "url": "http://centova.radio.com.pt:8565/stream/1/",
-        "favicon": "https://img.logo.dev/antenanove.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Rádio Atalaia",
+        "url": "https://mpc.my-control-panel.eu/stream/radioatalaia",
+        "favicon": "https://img.logo.dev/radioatalaia.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Atalaia",
+        "url": "https://mpc.my-control-panel.eu/stream/radioatalaia",
+        "favicon": "https://img.logo.dev/radioatalaia.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Baía",
@@ -776,6 +716,11 @@
     },
     {
         "name": "Rádio Clube de Lamego",
+        "url": "https://stream.zeno.fm/9prct7k8h0hvv",
+        "favicon": "https://img.logo.dev/rclamego.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Clube de Lamego",
         "url": "http://audio.ptisp.com:8110/;",
         "favicon": "https://img.logo.dev/rclamego.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -833,11 +778,6 @@
         "name": "Radio Comercial Rock",
         "url": "https://stream-icy.bauermedia.pt/rcrock.aac",
         "favicon": "https://img.logo.dev/radiocomercial.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Commercial",
-        "url": "https://stream-icy.bauermedia.pt/comercial.mp3",
-        "favicon": "https://img.logo.dev/stream-icy.bauermedia.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Condestável",
@@ -915,9 +855,9 @@
         "favicon": "https://img.logo.dev/radiogranada.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Guadiana",
-        "url": "http://sp0.redeaudio.com:9844/",
-        "favicon": "https://img.logo.dev/sp0.redeaudio.com:9844?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Rádio Hertz",
+        "url": "https://radios2.justweb.pt/8042/stream",
+        "favicon": "https://img.logo.dev/radiohertz.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Horizonte Algarve",
@@ -938,6 +878,11 @@
         "name": "Rádio Lagoa",
         "url": "http://centova.radio.com.pt:9488/;",
         "favicon": "https://img.logo.dev/radiolagoa.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Limite",
+        "url": "http://centova.radios.pt:9408/stream",
+        "favicon": "https://img.logo.dev/radiolimite.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Limite",
@@ -1035,11 +980,6 @@
         "favicon": "https://img.logo.dev/radiomontalegre.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rádio Movimento",
-        "url": "https://stream.rcast.net/61025",
-        "favicon": "https://img.logo.dev/radiomovimento.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rádio NoAr",
         "url": "https://radios.justweb.pt/8034/stream",
         "favicon": "https://img.logo.dev/radionoar.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1080,6 +1020,11 @@
         "favicon": "https://img.logo.dev/radionovaera.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Nova Porto 98.9FM",
+        "url": "http://centova.radios.pt:9528/stream",
+        "favicon": "https://img.logo.dev/radionova.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio nove3cinco",
         "url": "http://centova.radio.com.pt:9522/;",
         "favicon": "https://img.logo.dev/nove3cinco.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1100,6 +1045,16 @@
         "favicon": "https://img.logo.dev/observador.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio OnBouge",
+        "url": "https://onbouge.eu/flux/onbouge.mp3",
+        "favicon": "https://img.logo.dev/onbouge.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio OnBouge Português",
+        "url": "https://onbouge.eu/flux/onbouge-pt.mp3",
+        "favicon": "https://img.logo.dev/onbouge.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio Onda Viva",
         "url": "http://centova.radio.com.pt:9524/;",
         "favicon": "https://img.logo.dev/radioondaviva.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1108,11 +1063,6 @@
         "name": "Rádio Ondas do Lima",
         "url": "http://centova.radio.com.pt:8407/;",
         "favicon": "https://img.logo.dev/rol.nortenet.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio orbital",
-        "url": "https://centova.radio.com.pt/proxy/401?mp=/stream",
-        "favicon": "https://img.logo.dev/orbital.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Palmeira Madeira (96.1 FM)",
@@ -1125,9 +1075,24 @@
         "favicon": "https://img.logo.dev/radioparalelo.indymedia.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio Paralelo",
+        "url": "https://radioparalelo.indymedia.pt/listen/paralelo/radio.mp3",
+        "favicon": "https://img.logo.dev/radioparalelo.indymedia.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio Pax",
         "url": "https://centova.radio.com.pt/proxy/484?mp=/stream",
         "favicon": "https://img.logo.dev/radiopax.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Perlépia",
+        "url": "https://radio.nitro-server.uk/listen/rdioperlpia/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.nitro-server.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Perlépia",
+        "url": "https://radio.nitro-server.uk/listen/rdioperlpia/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.nitro-server.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Pico",
@@ -1195,7 +1160,42 @@
         "favicon": "https://img.logo.dev/recordfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio Regional - Bragança",
+        "url": "https://play.radioregional.pt/stream/5/",
+        "favicon": "https://img.logo.dev/radioregional.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Regional - Bragança",
+        "url": "https://play.radioregional.pt/stream/5/",
+        "favicon": "https://img.logo.dev/radioregional.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Regional - Chaves",
+        "url": "https://play.radioregional.pt/stream/4/",
+        "favicon": "https://img.logo.dev/radioregional.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Regional - Mirandela",
+        "url": "https://play.radioregional.pt/stream/4/",
+        "favicon": "https://img.logo.dev/radioregional.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Regional - Portugal",
+        "url": "https://play.radioregional.pt/stream/1/",
+        "favicon": "https://img.logo.dev/radioregional.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Regional - Vila Real",
+        "url": "https://play.radioregional.pt/stream/3/",
+        "favicon": "https://img.logo.dev/radioregional.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio Regional de Arouca",
+        "url": "http://centova.radio.com.pt:8485/;",
+        "favicon": "https://img.logo.dev/radioregionaldearouca.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio regional de Arouca 103.2 FM",
         "url": "http://centova.radio.com.pt:8485/;",
         "favicon": "https://img.logo.dev/radioregionaldearouca.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -1211,7 +1211,7 @@
     },
     {
         "name": "Rádio Renascença",
-        "url": "http://22653.live.streamtheworld.com/RADIO_RENASCENCA_SC",
+        "url": "http://27783.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC",
         "favicon": "https://img.logo.dev/rr.sapo.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1245,6 +1245,11 @@
         "favicon": "https://img.logo.dev/radiosudoeste.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio Tágide",
+        "url": "https://rs2.ptservidor.com/proxy/carlos31?mp=/stream?type=.mp3",
+        "favicon": "https://img.logo.dev/radiotagide.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio Terra Nova",
         "url": "http://centova.radio.com.pt:9404/;",
         "favicon": "https://img.logo.dev/terranova.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1257,6 +1262,11 @@
     {
         "name": "Rádio Universitária do Minho",
         "url": "http://centova.radio.com.pt:9558/;",
+        "favicon": "https://img.logo.dev/rum.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Universitária UMinho",
+        "url": "http://centova.radio.com.pt:9558/stream",
         "favicon": "https://img.logo.dev/rum.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1273,6 +1283,11 @@
         "name": "Rádio Vida FM 97.1",
         "url": "http://centova.radio.com.pt:9482/;",
         "favicon": "https://img.logo.dev/vidafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Vida Terra Rica",
+        "url": "https://stm1.voxhd.com.br:7706/",
+        "favicon": "https://img.logo.dev/radiovidaterrarica.com.br?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Vidigueira",
@@ -1305,9 +1320,9 @@
         "favicon": "https://img.logo.dev/rtp.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rap/Hip Hop",
-        "url": "http://185.32.188.17:8097/stream",
-        "favicon": "https://img.logo.dev/185.32.188.17:8097?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "radiofutura.pt",
+        "url": "https://s4.radio.co/s7e7b6c165/low",
+        "favicon": "https://img.logo.dev/radiofutura.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RDP Africa (Portugal)",
@@ -1330,6 +1345,36 @@
         "favicon": "https://img.logo.dev/rtp.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RDS Romantica",
+        "url": "https://s9.yesstreaming.net:9066/stream",
+        "favicon": "https://img.logo.dev/rds.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Record 101,4 FM",
+        "url": "https://nl.digitalrm.pt:8010/stream",
+        "favicon": "https://img.logo.dev/recordfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Record 95,5 FM",
+        "url": "https://nl.digitalrm.pt:8028/stream",
+        "favicon": "https://img.logo.dev/recordfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Record FM 105,5 santuário",
+        "url": "https://nl.digitalrm.pt:8018/stream",
+        "favicon": "https://img.logo.dev/recordfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Record FM 107,7",
+        "url": "https://nl.digitalrm.pt:8010/stream",
+        "favicon": "https://img.logo.dev/recordfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Record FM 91,8 Algarve",
+        "url": "https://nl.digitalrm.pt:8020/stream",
+        "favicon": "https://img.logo.dev/recordfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "REPLAY NEWS - Português",
         "url": "https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3",
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1343,11 +1388,6 @@
         "name": "RES FM",
         "url": "http://stream2.soundflux.eu:8440/stream",
         "favicon": "https://img.logo.dev/resfmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "REWIND 2000's",
-        "url": "https://2000.streeemer.com/listen/2000s/radio.aac",
-        "favicon": "https://img.logo.dev/mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RFM",
@@ -1400,6 +1440,11 @@
         "favicon": "https://img.logo.dev/rfm.sapo.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RIO - Rádio Internacional Odemira",
+        "url": "https://hts02.brascast.com:10476/live",
+        "favicon": "https://img.logo.dev/radiodemira.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RTP - Radio ZigZag",
         "url": "https://radiocast.rtp.pt/zigzag80a.mp3",
         "favicon": "https://img.logo.dev/rtp.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1420,6 +1465,11 @@
         "favicon": "https://img.logo.dev/madeira.rtp.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RTP Mundo",
+        "url": "https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u",
+        "favicon": "https://img.logo.dev/mundo.rtp.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RUA FM",
         "url": "https://centova.radio.com.pt/proxy/037?mp=/stream",
         "favicon": "https://img.logo.dev/rua.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1428,11 +1478,6 @@
         "name": "RUC Rádio Universidade de Coimbra",
         "url": "http://stream.ruc.pt/high",
         "favicon": "https://img.logo.dev/ruc.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SFTD RADIO",
-        "url": "http://hyades.shoutca.st:8270/stream/1/",
-        "favicon": "https://img.logo.dev/songs4deaf.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Singa FM",
@@ -1525,11 +1570,6 @@
         "favicon": "https://img.logo.dev/universidade.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "VFM 94.6",
-        "url": "http://cast.redewt.net:9141/live",
-        "favicon": "https://img.logo.dev/cast.redewt.net:2199?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Voz do Neiva",
         "url": "https://sp0.redeaudio.com/8092/stream",
         "favicon": "https://img.logo.dev/radiovozdoneiva.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1538,10 +1578,5 @@
         "name": "Wave Vibes",
         "url": "https://a6.asurahosting.com/listen/wave_vibes/radio.mp3",
         "favicon": "https://img.logo.dev/a6.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wonder 80's",
-        "url": "https://80.streeemer.com/listen/80s/radio.mp3",
-        "favicon": "https://img.logo.dev/mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

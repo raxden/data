@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Hala Sabratha",
-        "url": "http://stream.zeno.fm/1dy2395z3k8uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Libyana Hits FM",
         "url": "http://proxima.shoutca.st:8946/stream",
         "favicon": "https://img.logo.dev/libyanahits.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,11 +13,6 @@
         "name": "The Salaf Way 100.3 FM Tripoli LY",
         "url": "http://airtime.salafway.ly/",
         "favicon": "https://img.logo.dev/salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة القرآن الكريم",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "إذاعة طريق السلف",
@@ -40,18 +30,8 @@
         "favicon": "https://img.logo.dev/radionouraleman.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "اذاعة القرآن الكريم",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "تفسير بن عثيمين",
         "url": "https://qurango.net/radio/tafseer",
         "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "راديو فنون طرابلس - Radio Arts Tripoli",
-        "url": "https://stream.zeno.fm/z9wfrdpmgg0uv",
-        "favicon": "https://img.logo.dev/mobile.twitter.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

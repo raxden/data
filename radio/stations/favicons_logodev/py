@@ -40,6 +40,11 @@
         "favicon": "https://img.logo.dev/educacionfm.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Electrolevel Radiomix",
+        "url": "http://212.84.160.3:6265/",
+        "favicon": "https://img.logo.dev/getme.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Emisoras Paraguay 106.1",
         "url": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452",
         "favicon": "https://img.logo.dev/emisorasparaguay.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -58,16 +63,6 @@
         "name": "Exa FM",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
         "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Exclusiva FM 103.7",
-        "url": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/exclusiva.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Exclusiva FM 103.7 FM",
-        "url": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/exclusivafm.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fabulosa FM 104.5",
@@ -120,19 +115,9 @@
         "favicon": "https://img.logo.dev/abc.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio ABC FM 98.5 (Asunción)",
-        "url": "https://media.streambrothers.com:8350/stream",
-        "favicon": "https://img.logo.dev/abc.com.pyl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Amambay 100.5 FM",
         "url": "http://cp9.serverse.com:7221/stream",
         "favicon": "https://img.logo.dev/amambayfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Amor 95.9FM",
-        "url": "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Aranduka 87.9 FM",
@@ -170,19 +155,14 @@
         "favicon": "https://img.logo.dev/cerrocorafm.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Chacho Boreal",
+        "url": "https://tigocloud.desdeparaguay.net/mov1330/mov1330.stream/chunklist_w1397196983.m3u8",
+        "favicon": "https://img.logo.dev/chacoboreal.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Concierto 89.1",
         "url": "https://radio.host.com.py/9572/stream",
         "favicon": "https://img.logo.dev/radioconcierto.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Digital 88.5 Fm Paraguay",
-        "url": "http://streaming.camaronhosting.com:8036/",
-        "favicon": "https://img.logo.dev/streaming.camaronhosting.com:8036?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Digital 88.5 Fm Paraguay",
-        "url": "http://streaming.camaronhosting.com:8036/",
-        "favicon": "https://img.logo.dev/streaming.camaronhosting.com:8036?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Disney Paraguay FM 96.5",
@@ -200,9 +180,9 @@
         "favicon": "https://img.logo.dev/estacion40.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO EXITOS DE AYER",
-        "url": "http://stream.zeno.fm/hvnh6d5uebruv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Farra 101.3 FM",
+        "url": "https://rfs1.farra.com.py:9433/stream",
+        "favicon": "https://img.logo.dev/farra.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Impacto 95.3",
@@ -233,11 +213,6 @@
         "name": "Radio Nacional del Paraguay 920 AM",
         "url": "http://audio.radionacional.gov.py:8085/920",
         "favicon": "https://img.logo.dev/radionacional.gov.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio OBEDIRA Online",
-        "url": "https://s17.ssl-stream.com/proxy/obedira?mp=/live",
-        "favicon": "https://img.logo.dev/obedira.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Palma 106.5 FM",
@@ -295,11 +270,6 @@
         "favicon": "https://img.logo.dev/urbana.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO VALLENATOS CLÁSICOS",
-        "url": "http://stream.zeno.fm/z07vyxbqz8quv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Vibras 92.7FM",
         "url": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/vibras.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -322,12 +292,7 @@
     {
         "name": "super radio",
         "url": "https://c32.radioboss.fm:8139/stream",
-        "favicon": "https://img.logo.dev/c32.radioboss.fm:8139?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tereré Mix Paraguay",
-        "url": "https://stream-154.zeno.fm/a0z8gjrlucluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHo4Z2pybHVjbHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT1R5U0I2Y0VTaHU2Sml1Z0xhTTJHUSIsImlhdCI6MTc2ODQ1MDg5NywiZXhwIjoxNzY4NDUwOTU3fQ.UNm8x5c-ruc6BdhRfyHfthXmGN-n76Z-NT6joh3-HCc",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c32.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tropicalia 93.9FM",

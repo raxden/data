@@ -5,6 +5,16 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Aldan: Hitt Radio",
+        "url": "https://streaming.radio.co/s4d14b9fcc/listen",
+        "favicon": "https://img.logo.dev/aldan.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FM 1",
+        "url": "http://stream.midlar.fo/fm1-128",
+        "favicon": "https://img.logo.dev/fm1.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "FM1 88,7",
         "url": "https://stream-secure.midlar.fo/fm1-128",
         "favicon": "https://img.logo.dev/fm1.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -25,6 +35,16 @@
         "favicon": "https://img.logo.dev/kringvarp.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Lindin: Kristiligt Kringvarp",
+        "url": "https://high.lindin.fo/",
+        "favicon": "https://img.logo.dev/lindin.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Norðlýsið",
+        "url": "https://liveradio.stream.fo/listen/nordlysid/web",
+        "favicon": "https://img.logo.dev/nordlysid.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rás 2",
         "url": "http://stream.midlar.fo/ras2",
         "favicon": "https://img.logo.dev/midlar.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -33,5 +53,10 @@
         "name": "VoxPop",
         "url": "http://stream.midlar.fo/voxpop",
         "favicon": "https://img.logo.dev/midlar.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VoxPop",
+        "url": "https://stream-secure.midlar.fo/voxpop-128",
+        "favicon": "https://img.logo.dev/fm1.fo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

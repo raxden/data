@@ -10,6 +10,16 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "AFO Radio Chinese",
+        "url": "https://stream.rcs.revma.com/7x3gv2y4bshvv",
+        "favicon": "https://img.logo.dev/aforadio.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AFO Radio English",
+        "url": "https://stream.rcs.revma.com/8150ezy4bshvv",
+        "favicon": "https://img.logo.dev/aforadio.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "ai fm",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC",
         "favicon": "https://img.logo.dev/rtmklik.rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -25,21 +35,6 @@
         "favicon": "https://img.logo.dev/alammayafm.blogspot.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Alam Seni FM",
-        "url": "http://s1.cmesolution.my:6178/stream.mp3",
-        "favicon": "https://img.logo.dev/alamsenifm.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ALL FM [91.9]",
-        "url": "https://stream.zeno.fm/srrbpsu3tbdvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ANAstation",
-        "url": "https://stream.zeno.fm/tf79rp6qg48uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Asyik FM",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3",
         "favicon": "https://img.logo.dev/rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -50,6 +45,21 @@
         "favicon": "https://img.logo.dev/bfm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "BIGCOWFM 大牛网络电台 马来西亚中文网络电台",
+        "url": "https://tune.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3",
+        "favicon": "https://img.logo.dev/bigcowfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BIGCOWFM大牛网络电台 | 马来西亚中文网络电台",
+        "url": "https://a.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3",
+        "favicon": "https://img.logo.dev/live.bigcowfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cats FM",
+        "url": "https://stream.rcs.revma.com/51qe53rv0y3vv.m4a",
+        "favicon": "https://img.logo.dev/catsfm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ceritera FM",
         "url": "http://live.ceriterafm.my:8000/",
         "favicon": "https://img.logo.dev/ceriterafm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -58,16 +68,6 @@
         "name": "CITYPlus FM",
         "url": "https://stream.rcs.revma.com/9ykdmcawe1bwv",
         "favicon": "https://img.logo.dev/cityplusfm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Delima FM",
-        "url": "http://167.114.131.90:5610/;",
-        "favicon": "https://img.logo.dev/delimafm.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DJ DUGEM",
-        "url": "https://stream.zeno.fm/ooaqxeogpfdvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dunia Muzik FM",
@@ -90,29 +90,9 @@
         "favicon": "https://img.logo.dev/audio1.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FAKHRULNOIR FM",
-        "url": "https://stream.zeno.fm/z53ycf1iwhnvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FFM",
-        "url": "http://167.114.131.90:5968/ffm",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Fly FM",
         "url": "https://stream.rcs.revma.com/q17aka9mtd3vv",
         "favicon": "https://img.logo.dev/flyfm.audio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gegar Musik FM",
-        "url": "http://167.114.131.90:5316/stream/1/",
-        "favicon": "https://img.logo.dev/gegarmuzikfm.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "GeGar Muzik FM",
-        "url": "https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1",
-        "favicon": "https://img.logo.dev/gegarmuzikfm.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Gemersik FM",
@@ -136,18 +116,28 @@
     },
     {
         "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+        "url": "https://stream.rcs.revma.com/488kt4sbv4uvv",
+        "favicon": "https://img.logo.dev/hitz.com.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
         "url": "https://stream-eu-a.rcs.revma.com/488kt4sbv4uvv/68_1txzsglqw5l3t02/playlist.m3u8",
         "favicon": "https://img.logo.dev/hitz.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ILA FM",
-        "url": "http://s1.cmesolution.my:5442/",
-        "favicon": "https://img.logo.dev/ilafm.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!",
+        "url": "https://stream.rcs.revma.com/488kt4sbv4uvv",
+        "favicon": "https://img.logo.dev/hitz.com.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Impian FM",
-        "url": "http://167.114.131.90:6156/stream/1/",
-        "favicon": "https://img.logo.dev/impianfm.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Hot FM Malaysia",
+        "url": "https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8",
+        "favicon": "https://img.logo.dev/hotfm.audio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "IKIM FM",
+        "url": "https://ais-sa8.cdnstream1.com/5035/playlist.m3u8",
+        "favicon": "https://img.logo.dev/ikimfm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jazz Lounge",
@@ -163,11 +153,6 @@
         "name": "Jei FM Klang Tamil Radio",
         "url": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1",
         "favicon": "https://img.logo.dev/jeifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KCFM Radio",
-        "url": "http://www.kcfm.org:8000/stream",
-        "favicon": "https://img.logo.dev/kcfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kelantan FM",
@@ -195,24 +180,19 @@
         "favicon": "https://img.logo.dev/lite.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "LTFM Radio",
-        "url": "http://live.ltfmonline.com:8000/stream",
-        "favicon": "https://img.logo.dev/ltfmonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LTR FM Radio Music",
-        "url": "https://stream.zeno.fm/p1ddt1trwchvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Melody FM Malaysia",
         "url": "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8",
         "favicon": "https://img.logo.dev/melody.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MIB radio",
-        "url": "https://stream.zeno.fm/bm557kzmr18uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Minnal FM",
+        "url": "https://28153.live.streamtheworld.com/MINNAL_FMAAC.aac",
+        "favicon": "https://img.logo.dev/rtmklik.rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Minnal FM",
+        "url": "https://28153.live.streamtheworld.com/MINNAL_FMAAC.aac",
+        "favicon": "https://img.logo.dev/rtmklik.rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MIX 94.5 FM Malaysia",
@@ -220,14 +200,9 @@
         "favicon": "https://img.logo.dev/online-radio.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Music Vault FM",
-        "url": "https://stream.zeno.fm/zqxbxkviipcvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Music Vault FM",
-        "url": "https://stream.zeno.fm/zqxbxkviipcvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "MIX FM Malaysia",
+        "url": "https://stream.rcs.revma.com/v5pq3htbv4uvv/hls.m3u8",
+        "favicon": "https://img.logo.dev/mix.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MY FM",
@@ -238,11 +213,6 @@
         "name": "MYFM (101.80)",
         "url": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ",
         "favicon": "https://img.logo.dev/my.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MyFriends Station",
-        "url": "https://cast3.asurahosting.com/proxy/myfriend/stream",
-        "favicon": "https://img.logo.dev/myfriendsstation.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nasheed FM",
@@ -260,24 +230,14 @@
         "favicon": "https://img.logo.dev/pahangfm.rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PBN Radio Nurani",
-        "url": "https://stream.zeno.fm/2uyfsr25sm0uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Raaga",
         "url": "https://n06.rcs.revma.com/1ut6qwtbv4uvv",
         "favicon": "https://img.logo.dev/raaga.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio",
-        "url": "http://ssl.geckohost.nz:9191/autodj",
-        "favicon": "https://img.logo.dev/ssl.geckohost.nz:9191?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Klate Kito",
-        "url": "http://s6.voscast.com:9748/",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Klasik (Klasik Nasional)",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIKAAC_SC",
+        "favicon": "https://img.logo.dev/rtmklik.rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio KPKT",
@@ -285,14 +245,14 @@
         "favicon": "https://img.logo.dev/radio.kpkt.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Maya Online",
-        "url": "http://s1.cmesolution.my:5266/",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Rosak",
         "url": "https://radiorosak.radioca.st/stream",
         "favicon": "https://img.logo.dev/radiorosak.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Red FM",
+        "url": "https://22253.live.streamtheworld.com/RED_FMAAC.aac",
+        "favicon": "https://img.logo.dev/so.zuiai.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rentak Pelangi Muzik FM",
@@ -303,11 +263,6 @@
         "name": "Rentak Pelangi MuzikFM",
         "url": "http://stream.tujuh.my/proxy/rpmfm/stream",
         "favicon": "https://img.logo.dev/rentakpelangifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Repair Segala",
-        "url": "https://stream.zeno.fm/0245ew03ekhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sabah FM",
@@ -325,19 +280,9 @@
         "favicon": "https://img.logo.dev/live.skychatz.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Slow Rock 90'",
-        "url": "https://stream.zeno.fm/hiut6cwfoneuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Stay.FM",
         "url": "https://stayfm.com:8443/archive",
         "favicon": "https://img.logo.dev/stayfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Suria fm",
-        "url": "https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8",
-        "favicon": "https://img.logo.dev/mifntechnology.github.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Suriafm",
@@ -360,9 +305,14 @@
         "favicon": "https://img.logo.dev/gegar.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TMM2 FM",
-        "url": "https://stream.zeno.fm/mq0pxfsf0chvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "THR Raaga",
+        "url": "https://n06.rcs.revma.com/1ut6qwtbv4uvv",
+        "favicon": "https://img.logo.dev/raaga.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "THR Raagaa",
+        "url": "https://n06.rcs.revma.com/1ut6qwtbv4uvv",
+        "favicon": "https://img.logo.dev/raaga.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Traxx FM",
@@ -378,11 +328,6 @@
         "name": "Vision.FM",
         "url": "http://cloud.tujuh.my:8018/stream?type=.mp3/",
         "favicon": "https://img.logo.dev/fmradiovision.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wadah FM",
-        "url": "https://19183.live.streamtheworld.com/WARNA942FMAAC.aac",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WAI FM Bidayuh",
@@ -403,10 +348,5 @@
         "name": "Zayan",
         "url": "https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8",
         "favicon": "https://img.logo.dev/zayan.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "اذاعة القرآن الكريم",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

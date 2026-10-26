@@ -10,16 +10,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Braintrip Radio",
-        "url": "https://stream.laut.fm/braintrip-radio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Country Radio Gilsdorf 103.9",
-        "url": "http://streaming.aoip.international:8000/cr-gilsdorf",
-        "favicon": "https://img.logo.dev/countryradiogilsdo.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Eldo Radio Chill",
         "url": "https://stream.rtl.lu/live/hls/radio/eldochill",
         "favicon": "https://img.logo.dev/eldo.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -43,16 +33,6 @@
         "name": "FCE-CONTINUO Webradio",
         "url": "https://www.radioking.com/play/fce-continuo",
         "favicon": "https://img.logo.dev/fce-continuo.websiteradio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free Radio Luxembourg",
-        "url": "https://www.radioking.com/play/rfm-luxembourg/137599",
-        "favicon": "https://img.logo.dev/radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free Radio Luxembourg FRL",
-        "url": "https://www.radioking.com/play/rfm-luxembourg/137599",
-        "favicon": "https://img.logo.dev/radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Generation Dance Radio",
@@ -83,6 +63,11 @@
         "name": "L'Essentiel Radio",
         "url": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
         "favicon": "https://img.logo.dev/lessentielradio.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Luxembourg Global Radio",
+        "url": "https://radio.globalradio.lu:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/globalradio.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Opus 100,7",
@@ -120,6 +105,11 @@
         "favicon": "https://img.logo.dev/radiolarochette.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Peiteng on Air",
+        "url": "http://stream.peitengonair.lu:9000/live",
+        "favicon": "https://img.logo.dev/peitengonair.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Puls Luxembourg",
         "url": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream",
         "favicon": "https://img.logo.dev/radiopuls.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -145,16 +135,6 @@
         "favicon": "https://img.logo.dev/play.rtl.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RTL Radio - Deutschlands Hit-Radio",
-        "url": "http://stream.rtlradio.de/rtl-de-national/mp3-192/",
-        "favicon": "https://img.logo.dev/stream.rtlradio.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RTL Radio - Die besten Hits aller Zeiten",
-        "url": "http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192",
-        "favicon": "https://img.logo.dev/stream.rtlradio.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RTL Radio Lëtzebuerg",
         "url": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
         "favicon": "https://img.logo.dev/rtl.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -163,10 +143,5 @@
         "name": "RTL Radio Letzebuerg",
         "url": "http://sc-rtllive.newmedia.lu/",
         "favicon": "https://img.logo.dev/rtl.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RTL Schlagerliebe",
-        "url": "http://stream.rtlradio.de/schlagerliebe/mp3-192/",
-        "favicon": "https://img.logo.dev/stream.rtlradio.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

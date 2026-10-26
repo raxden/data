@@ -15,6 +15,11 @@
         "favicon": "https://img.logo.dev/alfaradio.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Another Music Project",
+        "url": "https://radio.anothermusicproject.com:8443/idm",
+        "favicon": "https://img.logo.dev/anothermusicproject.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Aplus Beat",
         "url": "http://107.173.210.247:9000/aplus_beat_128",
         "favicon": "https://img.logo.dev/aplus.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -35,14 +40,19 @@
         "favicon": "https://img.logo.dev/centerfm.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Disco SSSR",
-        "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/144",
-        "favicon": "https://img.logo.dev/pub0202.101.ru:8443?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Energy",
         "url": "https://stream2.datacenter.by/energy",
         "favicon": "https://img.logo.dev/energyfm.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ESC HOT HITS",
+        "url": "https://app.aloncast.com/api/stream/esc-hot-hits-7e4c5a",
+        "favicon": "https://img.logo.dev/cutt.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gomel FM",
+        "url": "https://stream2.datacenter.by/gomelfm",
+        "favicon": "https://img.logo.dev/radiogomelfm.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "http://ice-the.musicradio.com/CapitalXTRANationalM",
@@ -60,9 +70,9 @@
         "favicon": "https://img.logo.dev/legendy.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Lider FM",
-        "url": "https://icecast.lider-fm.by/liderfm",
-        "favicon": "https://img.logo.dev/liderfm.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "LOVE IS RADIO",
+        "url": "https://myradio24.org/3355",
+        "favicon": "https://img.logo.dev/loveisradio.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Love Is Radio Belarus",
@@ -76,6 +86,11 @@
     },
     {
         "name": "Pilot FM",
+        "url": "https://live.pilotfm.com/stream/pilotfm/aac128",
+        "favicon": "https://img.logo.dev/pilotfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pilot FM",
         "url": "https://stream2.datacenter.by/pilotfm",
         "favicon": "https://img.logo.dev/pilotfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -85,6 +100,26 @@
         "favicon": "https://img.logo.dev/pilotfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Alesia",
+        "url": "http://hls.alesia.live/alesia/aac_hifi.m3u8",
+        "favicon": "https://img.logo.dev/alesia.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Alesia",
+        "url": "https://hls.alesia.live/alesia/aac_hifi.m3u8",
+        "favicon": "https://img.logo.dev/alesia.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ALESIA",
+        "url": "https://air.alesia.live/alesia",
+        "favicon": "https://img.logo.dev/alesia.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Belarus International",
+        "url": "https://media2.datacenter.by/public/belarussputnik",
+        "favicon": "https://img.logo.dev/radiobelarus.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Monte Carlo Lounge",
         "url": "https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1769798199",
         "favicon": "https://img.logo.dev/montecarlo.uno?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -92,7 +127,7 @@
     {
         "name": "Radio Plato",
         "url": "https://azura.radioplato.by/radio/8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radioplato.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/azura.radioplato.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Racyja",
@@ -115,6 +150,11 @@
         "favicon": "https://img.logo.dev/skif.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Unistar",
+        "url": "https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8",
+        "favicon": "https://img.logo.dev/unistar.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radius FM",
         "url": "https://stream2.datacenter.by/radiusfm_main",
         "favicon": "https://img.logo.dev/radiusfm.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -122,7 +162,12 @@
     {
         "name": "Retro Belarus",
         "url": "https://air.sammit.tv:8443/retro",
-        "favicon": "https://img.logo.dev/air.sammit.tv:8443?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/air.sammit.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SKIF",
+        "url": "https://stream02.pcradio.biz/skif_orsha-med",
+        "favicon": "https://img.logo.dev/skif.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Unistar - 2000-е",
@@ -187,7 +232,12 @@
     {
         "name": "Авторадио Минск",
         "url": "https://live.humorfm.by:8443/avtoradio",
-        "favicon": "https://img.logo.dev/live.humorfm.by:8443?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/live.humorfm.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Вадим Комаров",
+        "url": "http://live.myradio24.com:9000/vasas3_live",
+        "favicon": "https://img.logo.dev/myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ватыканскае радыё",
@@ -208,6 +258,11 @@
         "name": "Душевное радио Минск 105.7 FM",
         "url": "https://stream2.datacenter.by/dushevnoe",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Европа Плюс Полоцк",
+        "url": "https://ep128.hostingradio.ru:8030/ep128",
+        "favicon": "https://img.logo.dev/sammit.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Енерджи",
@@ -272,7 +327,7 @@
     {
         "name": "Новое радио",
         "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
-        "favicon": "https://img.logo.dev/live.novoeradio.by:444?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/live.novoeradio.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Новое радио",
@@ -328,6 +383,11 @@
         "name": "Радио 123",
         "url": "http://de1.internet-radio.com:8173/stream",
         "favicon": "https://img.logo.dev/radio123.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио ROKS",
+        "url": "https://stream.roks.com:8443/live256",
+        "favicon": "https://img.logo.dev/roks.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Беларусь FM/Radio Belarus FM",
@@ -438,6 +498,11 @@
         "name": "ЦЕНТР FM",
         "url": "https://stream2.datacenter.by/stream",
         "favicon": "https://img.logo.dev/centerfm.by?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ЭЙ АЙ РАДИО",
+        "url": "https://app.aloncast.com/api/stream/airadio-by-d3cac8",
+        "favicon": "https://img.logo.dev/cutt.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Юмор FM",

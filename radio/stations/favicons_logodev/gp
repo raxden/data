@@ -10,14 +10,54 @@
         "favicon": "https://img.logo.dev/belradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Chérie FM Guadeloupe",
+        "url": "https://maxxi.studio/listen/cheriefmgp/radio.mp3",
+        "favicon": "https://img.logo.dev/cheriefmantilles.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Guadeloupe 1ère",
         "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
         "favicon": "https://img.logo.dev/la1ere.francetvinfo.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Haute Tension",
+        "url": "https://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+        "favicon": "https://img.logo.dev/rhtguadeloupe.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Madras",
+        "url": "https://2stream.net/mfmradio-128",
+        "favicon": "https://img.logo.dev/madrasfm.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Massabielle",
+        "url": "https://radio.catholique-guadeloupe.org/radio-massabielle.mp3",
+        "favicon": "https://img.logo.dev/catholique-guadeloupe.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MAXXI Guadeloupe",
+        "url": "https://maxxi.studio/listen/maxxigp/radio.mp3",
+        "favicon": "https://img.logo.dev/maxxi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Nostalgie Guadeloupe",
         "url": "http://go.2stream.net/nostalgiegp",
         "favicon": "https://img.logo.dev/nostalgiedom.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nostalgie Guadeloupe",
+        "url": "http://go.2stream.net/nostalgiegp",
+        "favicon": "https://img.logo.dev/nostalgiedom.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRJ guadeloupe",
+        "url": "https://streaming.nrjaudio.fm/ou4w6dhtd2ko",
+        "favicon": "https://img.logo.dev/nrjantilles.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RCI guadeloupe",
+        "url": "https://n10-eu.rcs.revma.com/v4hf7bwspwzuv",
+        "favicon": "https://img.logo.dev/rci.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "📻 Radio Shatta Movement",

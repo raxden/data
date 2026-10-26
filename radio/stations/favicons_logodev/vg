@@ -1,17 +1,22 @@
 [
     {
+        "name": "ABC Classic FM (AAC)",
+        "url": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
+        "favicon": "https://img.logo.dev/live-radio01.mediahubaustralia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Burning Rockers",
-        "url": "http://176.9.121.230:8000/br",
-        "favicon": "https://img.logo.dev/burningrockers.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Soggy Dollar Radio",
+        "url": "https://samcloud.spacial.com/api/listen?sid=71281",
+        "favicon": "https://img.logo.dev/soggydollar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Soggy Dollar Radio",
-        "url": "https://samcloud.spacial.com/api/listen?sid=71281",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC287_SC",
         "favicon": "https://img.logo.dev/soggydollar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

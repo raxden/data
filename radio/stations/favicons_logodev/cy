@@ -5,29 +5,34 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Active 107.4",
-        "url": "https://securestreams3.autopo.st:1417/active",
-        "favicon": "https://img.logo.dev/activeradio.com.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "BitrRcord",
         "url": "https://c10.radioboss.fm:18095/stream",
         "favicon": "https://img.logo.dev/bitrecord.one?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Chillout Breeze",
-        "url": "https://listen.radionomy.com/chilloutbreeze",
-        "favicon": "https://img.logo.dev/chillout-zone.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Capital Radio",
+        "url": "https://radyo1.radyo-dinle.tc/8256/stream",
+        "favicon": "https://img.logo.dev/nrgplay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CloudCY Rock",
-        "url": "http://radio.cloudcy.org:8000/rock",
-        "favicon": "https://img.logo.dev/radio.cloudcy.org:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Capital Turk",
+        "url": "https://radyo1.radyo-dinle.tc/8210/stream",
+        "favicon": "https://img.logo.dev/nrgplay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cool Radio 91.6",
         "url": "http://live3.istoikona.net/proxy/cooleradio/stream",
         "favicon": "https://img.logo.dev/coolradio916.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CYBC 1",
+        "url": "https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8",
+        "favicon": "https://img.logo.dev/riknews.com.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CYBC 3",
+        "url": "https://r1.cloudskep.com/cybcr/cybc3/playlist.m3u8",
+        "favicon": "https://img.logo.dev/riknews.com.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dance FM",
@@ -125,6 +130,11 @@
         "favicon": "https://img.logo.dev/riknews.com.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Play FM",
+        "url": "https://radyo.playfm.com.tr/listen/playfm/playfm.mp3",
+        "favicon": "https://img.logo.dev/nrgplay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Politis 107.6 FM",
         "url": "https://cdn.istoikona.com/politis/live/icecast.audio",
         "favicon": "https://img.logo.dev/politis.com.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -135,14 +145,24 @@
         "favicon": "https://img.logo.dev/riknews.com.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio ReyMod",
+        "url": "https://server.streamcasthd.com:7092/;",
+        "favicon": "https://img.logo.dev/reymod.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Sfera 102.2",
         "url": "https://securestreams3.autopo.st:1417/sfera",
         "favicon": "https://img.logo.dev/sfera.com.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio T.O.A",
-        "url": "https://live3.istoikona.net/proxy/radiotoa/stream",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radyo Juke",
+        "url": "https://stream.netradyom.com/listen/radyojuke/radio.mp3",
+        "favicon": "https://img.logo.dev/nrgplay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radyo Sim",
+        "url": "https://live.enerjiplay.com/stream/radyosim",
+        "favicon": "https://img.logo.dev/nrgplay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock FM Cyprus",
@@ -158,11 +178,6 @@
         "name": "Sport FM Cyprus",
         "url": "http://sportfm-cyprus.live24.gr/sportfm-cyprus",
         "favicon": "https://img.logo.dev/sportfm-cyprus.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SUPER FM 104.8",
-        "url": "http://eco.onestreaming.com:8175/",
-        "favicon": "https://img.logo.dev/eco.onestreaming.com:8175?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Super Sport FM",
@@ -220,23 +235,18 @@
         "favicon": "https://img.logo.dev/churchofcyprus.org.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ράδιο Άγιος Δημήτριος Ακροπόλεως - Κύπρος 93.3",
-        "url": "http://eco.onestreaming.com:8474/",
-        "favicon": "https://img.logo.dev/agiosdemetrioschurch.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Σπορ FM 95.0",
         "url": "http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/24sports.com.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "РУССКОЕ РАДИО КИПР",
-        "url": "https://stream.veblot.net/proxy/russianradio/stream/",
+        "url": "https://live.vblcast.com/proxy/russianradio/stream/",
         "favicon": "https://img.logo.dev/russianradio.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "РУССКОЕ РАДИО КИПР",
-        "url": "https://stream.veblot.net/proxy/russianradio/stream/",
+        "url": "https://live.vblcast.com/proxy/russianradio/stream/",
         "favicon": "https://img.logo.dev/russianradio.cy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {

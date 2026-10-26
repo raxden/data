@@ -10,9 +10,34 @@
         "favicon": "https://img.logo.dev/amaryllis-eradio.vercel.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "EBS Radio",
+        "url": "https://c38.radioboss.fm/stream/253",
+        "favicon": "https://img.logo.dev/mcde.ac.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Groove100 FM",
         "url": "https://stream.zeno.fm/0r0xa792kwzuv",
         "favicon": "https://img.logo.dev/groove100.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Groove100 FM",
+        "url": "https://a9.asurahosting.com/listen/groove100_fm/radio.mp3",
+        "favicon": "https://img.logo.dev/groove100.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kasupe Radio",
+        "url": "https://host2.streamafrica.net/listen/kasupe_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/kasuperadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Khoza Radio",
+        "url": "https://stream.zeno.fm/d0gkttv941zuv",
+        "favicon": "https://img.logo.dev/kalumw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Makhetha Youth Achievers Radio",
+        "url": "https://manifest.aweradio.app/makhethayouthac/music/aac.m3u8",
+        "favicon": "https://img.logo.dev/aweradio.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MBC Radio 2FM",
@@ -25,6 +50,21 @@
         "favicon": "https://img.logo.dev/mdubsmusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "MIJ FM Malawi Institute of Journalism",
+        "url": "http://65.108.124.70:7954/mij",
+        "favicon": "https://img.logo.dev/mijmw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mlimi Radio",
+        "url": "https://play.streamafrica.net/mlimi",
+        "favicon": "https://img.logo.dev/farmradiomw.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nthambi Radio",
+        "url": "https://radio.exclusivemw.live/listen/nthambi_online_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/nthambiradio.exclusivemw.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Power Global Media",
         "url": "https://a10.asurahosting.com:7270/radio.mp3",
         "favicon": "https://img.logo.dev/powerglobalmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -35,9 +75,9 @@
         "favicon": "https://img.logo.dev/radiomaria.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Timveni Radio",
-        "url": "https://play.streamafrica.net/timveni",
-        "favicon": "https://img.logo.dev/mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Times Radio",
+        "url": "https://ice31.securenetsystems.net/TIMESFM",
+        "favicon": "https://img.logo.dev/ice31.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ZBS Zodiak FM",

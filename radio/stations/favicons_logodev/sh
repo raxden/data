@@ -1,8 +1,8 @@
 [
     {
-        "name": "EDM Radio",
-        "url": "https://laut.fm/edmradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Jamestown 107.7",
+        "url": "https://orbit.citrus3.com:2020/stream/saintfmcommunityradio/;",
+        "favicon": "https://img.logo.dev/radio.garden?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Saint.FM",

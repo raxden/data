@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Asyil FM",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Kristal FM",
         "url": "https://play.thestreamtech.com:7038/",
         "favicon": "https://img.logo.dev/kristal.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

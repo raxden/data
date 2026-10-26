@@ -1,13 +1,18 @@
 [
     {
-        "name": "ASPOR",
-        "url": "http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8",
-        "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "GİMSA RADYO",
         "url": "http://yayin1.canliyayin.org:9482/stream",
         "favicon": "https://img.logo.dev/gimsa.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LİDER FM - 87.5 ALEMİN LİDERİ",
+        "url": "https://wowza1.radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8",
+        "favicon": "https://img.logo.dev/wowza1.radyotvonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "POP 90",
+        "url": "http://23613.live.streamtheworld.com/POP90AAC_SC",
+        "favicon": "https://img.logo.dev/karnaval.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": ". Abdulbasit Abdulsamad",
@@ -15,19 +20,14 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ".Al quran radio",
-        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "101.4 HATAY TEMPO FM",
+        "url": "https://sslyayin.netyayin.net:1215/stream",
+        "favicon": "https://img.logo.dev/hatayradyosu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "(93.0) IGDIR FM",
-        "url": "https://yayin.yayindakiler.com:4158/;",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "102.1 Arabeskin Merkezi Fm",
-        "url": "http://canli.arabeskinmerkezi.com:9180/stream",
-        "favicon": "https://img.logo.dev/arabeskinmerkezi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "107.4 Radio Voyage",
+        "url": "https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8?listeningSessionID=689a71670b9b8fe5_27698769_NlXXFAwK__0000004u2bL&downloadSessionID=0&listenerid=196b4b4bc1d1ac4f52fcf98eeff4e532&awparams=companionAds%3Atrue",
+        "favicon": "https://img.logo.dev/radyovoyage.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "107.4 Radio Voyage",
@@ -35,8 +35,28 @@
         "favicon": "https://img.logo.dev/radyovoyage.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "24 Radyo",
+        "url": "https://radyo24.radyotvonline.net/radyo24",
+        "favicon": "https://img.logo.dev/24radyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "90 lar Pop",
         "url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
+        "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "90'lar Türkçe Pop",
+        "url": "http://37.247.98.8/stream/166/",
+        "favicon": "https://img.logo.dev/radyohome.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "90'lar Türkçe Pop",
+        "url": "https://moondigitalmaster.radyotvonline.net/90lar/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radyohome.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "90LAR",
+        "url": "https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8",
         "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -50,12 +70,12 @@
         "favicon": "https://img.logo.dev/hatayradyosu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "A Haber",
+        "name": "a HABER",
         "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-        "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/ahaber.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "a HABER",
+        "name": "A Haber Radyo",
         "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
         "favicon": "https://img.logo.dev/ahaber.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -80,34 +100,14 @@
         "favicon": "https://img.logo.dev/abuzerfm.tr.gg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "AÇS Radyo",
-        "url": "https://ip169.ozelip.com:10838/",
-        "favicon": "https://img.logo.dev/acsradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ADANA FM",
         "url": "https://host.onlineradyotv.net:2020/stream/adanafm",
         "favicon": "https://img.logo.dev/adanafm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AFN 360 Incirlik",
-        "url": "http://25503.live.streamtheworld.com:3690/AFNE_ICK_SC",
+        "url": "http://21633.live.streamtheworld.com/AFNE_ICK_SC",
         "favicon": "https://img.logo.dev/afneurope.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "AFN İNCİRLİK",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ahaber",
-        "url": "http://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8",
-        "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Akra FM",
-        "url": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
-        "favicon": "https://img.logo.dev/akradyo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AKTİF FM",
@@ -160,6 +160,11 @@
         "favicon": "https://img.logo.dev/playdanceradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Ankara Üniversitesi Radyosu Radyo İlef",
+        "url": "https://radyo.ilef.net/stream",
+        "favicon": "https://img.logo.dev/ilef.ankara.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "ANTAKYA RENK FM HATAY",
         "url": "https://radyo.yayindakiler.com:3016/renk",
         "favicon": "https://img.logo.dev/hatayradyosu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -210,9 +215,9 @@
         "favicon": "https://img.logo.dev/arabeskfm.biz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Arkadas Radyo",
-        "url": "http://yayin2.yayindakiler.com:4134/;stream.nsv",
-        "favicon": "https://img.logo.dev/arkadasradyo.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Arabesk FM",
+        "url": "http://yayin.arabeskfm.biz:8042/",
+        "favicon": "https://img.logo.dev/arabeskfm.biz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Aşk FM",
@@ -222,12 +227,7 @@
     {
         "name": "Avrasya Türk Radyo",
         "url": "https://sslyayin.netyayin.net:10909/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:10909?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Axa Rojava",
-        "url": "https://stream.zeno.fm/h6mn2c8ha8zuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Azadi Fm",
@@ -245,6 +245,11 @@
         "favicon": "https://img.logo.dev/babaradyo.turkhosted.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Baby Joy",
+        "url": "https://23623.live.streamtheworld.com/SC009_SO1AAC.aac?dist=https%3A%2F%2Fkarnaval.com%2Fradyolar%2Fbabyjoy&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&gender=F&age=34_45&ses=AB&title=B%2CSM%2CEH&burst-time=15&sbmid=7cd2cdcf-161d-4c67-9e51-411cedc6bfe8",
+        "favicon": "https://img.logo.dev/karnaval.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "BABYLAND TURKEY",
         "url": "https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8",
         "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -255,34 +260,29 @@
         "favicon": "https://img.logo.dev/sssx.radyosfer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Banko Fm 1",
-        "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
-        "favicon": "https://img.logo.dev/yayin.netradyom.com:9910?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "BARIŞ FM",
         "url": "https://sslyayin.netyayin.net:10990/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:10990?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "BATI RADYO",
-        "url": "https://sslyayin.netyayin.net:10902/",
-        "favicon": "https://img.logo.dev/batiradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Barış FM 103.2",
+        "url": "https://barisfm.ozelip.com:9588/stream",
+        "favicon": "https://img.logo.dev/barisfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Batı Radyo",
-        "url": "https://sslyayin.netyayin.net:10902/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:10902?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Barış Radyo 104.8",
+        "url": "https://yayin2.canliyayin.org:9350/stream?/;stream.mp3",
+        "favicon": "https://img.logo.dev/barisfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BAU RADYO",
+        "url": "https://ssl120.radyotelekom.com.tr/8106/stream.mp4",
+        "favicon": "https://img.logo.dev/ssl120.radyotelekom.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bayram FM",
         "url": "https://sslyayin.netyayin.net:10962/320.mp3",
         "favicon": "https://img.logo.dev/bayramfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bayram FM",
-        "url": "https://sslyayin.netyayin.net/3442/stream/;stream.mp3",
-        "favicon": "https://img.logo.dev/api.whatsapp.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BAYRAM FM TURKEY",
@@ -305,9 +305,29 @@
         "favicon": "https://img.logo.dev/wowza3.radyotvonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Best of Number 1",
+        "url": "https://ssldyg2.radyotvonline.com/live/bestofyabanci.stream/chunklist_w273426829.m3u8",
+        "favicon": "https://img.logo.dev/numberone.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "BEST RAP",
         "url": "https://wowza3.radyotvonline.com/best/bestgicir.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/wowza3.radyotvonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BEST SLOW",
+        "url": "https://hepsibest.radyotvonline.net/bestslow",
+        "favicon": "https://img.logo.dev/hepsibest.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BesteFM",
+        "url": "https://stream.zeno.fm/tnvnovtgozstv",
+        "favicon": "https://img.logo.dev/bestefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BesteFM Mix",
+        "url": "https://yayin.radyomadyo.com:8002/",
+        "favicon": "https://img.logo.dev/bestefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Beyaz TV",
@@ -315,19 +335,29 @@
         "favicon": "https://img.logo.dev/beyaztv.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "BİGA FM",
-        "url": "https://radyo.yayin.com.tr:5896/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:5896?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Bizim Fm Şile",
+        "url": "https://stream.turkiyeradyolari.com/9300/stream?_t=1786859250066",
+        "favicon": "https://img.logo.dev/bizimfmsile.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "BİLECİK FM TURKEY",
-        "url": "http://bilecikfm.kesintisizyayin.com:9980/",
-        "favicon": "https://img.logo.dev/bilecikfm.kesintisizyayin.com:9980?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Bizim İller Radio",
+        "url": "https://radyo.yayindakiler.com:4078/stream",
+        "favicon": "https://img.logo.dev/bizimiller.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Bizim Radyo",
-        "url": "https://ip132.ozelip.com:7017/",
-        "favicon": "https://img.logo.dev/bizimradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Bizim İller Radyo",
+        "url": "http://yayin.yayindakiler.com:4078/",
+        "favicon": "https://img.logo.dev/bizimiller.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bizimİller Radyo",
+        "url": "http://yayin.yayindakiler.com:4078/stream",
+        "favicon": "https://img.logo.dev/bizimiller.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bloomberg HT Radyo",
+        "url": "https://bloomberghtradyo.radyotvonline.net/bloomberghtradyo",
+        "favicon": "https://img.logo.dev/bloomberghtradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BloombergHTradyo",
@@ -346,7 +376,7 @@
     },
     {
         "name": "Borusan Klasik",
-        "url": "http://27783.live.streamtheworld.com/BORUSAN_KLASIKAAC_SC",
+        "url": "http://23543.live.streamtheworld.com/BORUSAN_KLASIKAAC_SC",
         "favicon": "https://img.logo.dev/karnaval.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -360,29 +390,19 @@
         "favicon": "https://img.logo.dev/sssx.radyosfer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "BURSA FM",
-        "url": "https://radyo.yayin.com.tr:1055/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:1055?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Can Radyo",
-        "url": "http://yayin1.yayindakiler.com:3124/;",
-        "favicon": "https://img.logo.dev/yayin1.yayindakiler.com:3124?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Can Tv",
-        "url": "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
-        "favicon": "https://img.logo.dev/livetv.canbroadcast.com:7443?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Cantürk Radyo",
-        "url": "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
-        "favicon": "https://img.logo.dev/cnnturkradyo.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Çağrı FM Diyarbakır",
+        "url": "https://anadolu.liderhost.com.tr/8002/stream?/;stream.mp3",
+        "favicon": "https://img.logo.dev/cagrifm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CEMRE FM",
         "url": "https://yayin2.canliyayin.org:8024/",
         "favicon": "https://img.logo.dev/cemrefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CGTN Türk Radyo",
+        "url": "https://criturk.radyotvonline.net/",
+        "favicon": "https://img.logo.dev/cgtnturk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ÇINAR FM",
@@ -400,19 +420,14 @@
         "favicon": "https://img.logo.dev/cnnturk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "COFFEE PROJECT RADYO",
-        "url": "https://radyo.yayin.com.tr:5926/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:5926?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DADA RADYO",
-        "url": "http://stream.laut.fm/dadaradio",
-        "favicon": "https://img.logo.dev/stream.laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Coastiva Radio",
+        "url": "https://radio.coastiva.travel/listen/coastiva_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/coastiva.travel?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dadaş Fm Erzurum",
         "url": "https://sslyayin.netyayin.net:8084/stream/;stream.mp3",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:8084?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Damar Turk FM",
@@ -435,19 +450,19 @@
         "favicon": "https://img.logo.dev/damarturkfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Damarın Merkezi Fm",
-        "url": "http://canli.arabeskinmerkezi.com:9180/stream",
-        "favicon": "https://img.logo.dev/arabeskinmerkezi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "DAMAR TURK FM",
+        "url": "https://live.radyositesihazir.com:10997/",
+        "favicon": "https://img.logo.dev/damarturkfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Damar Turk FM",
+        "url": "https://live.radyositesihazir.com:10997/;",
+        "favicon": "https://img.logo.dev/damarturkfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DamarTurk FM",
         "url": "https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881",
         "favicon": "https://img.logo.dev/damarturkfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Danceland",
-        "url": "https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8",
-        "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Danceland",
@@ -470,9 +485,9 @@
         "favicon": "https://img.logo.dev/datelineip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Denge Gundeme",
-        "url": "http://kesintisizyayin.com:1656/",
-        "favicon": "https://img.logo.dev/kesintisizyayin.com:1656?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "DEDEMİN RADYOSU",
+        "url": "https://anadolu.liderhost.com.tr/9002/stream",
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DENİZ FM",
@@ -480,14 +495,9 @@
         "favicon": "https://img.logo.dev/radyodeniz.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DERYA FM",
-        "url": "https://yayin.turkhosted.com:6032/",
-        "favicon": "https://img.logo.dev/yayin.turkhosted.com:6032?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Dijital radyo",
         "url": "https://anadolu.liderhost.com.tr:10961/;",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10961?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "dinamo.fm caffe",
@@ -531,7 +541,12 @@
     },
     {
         "name": "dinamo.fm live from minimuzikhol",
-        "url": "https://channels.dinamo.fm/mmradyo-mp3",
+        "url": "http://channels.dinamo.fm/mmradyo-mp3",
+        "favicon": "https://img.logo.dev/dinamo.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "dinamo.fm live from minimuzikhol",
+        "url": "http://channels.dinamo.fm/mmradyo-mp3",
         "favicon": "https://img.logo.dev/dinamo.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -587,22 +602,7 @@
     {
         "name": "DO U FM",
         "url": "https://sslyayin.netyayin.net:10935/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:10935?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DOĞAN 21",
-        "url": "https://radyo.yayindakiler.com:3024/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:3024?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Doğan 22",
-        "url": "http://yayin1.yayindakiler.com:3024/;",
-        "favicon": "https://img.logo.dev/yayin1.yayindakiler.com:3024?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Doğu Radyo",
-        "url": "http://198.7.59.28:8146/",
-        "favicon": "https://img.logo.dev/198.7.59.28:8146?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DOLU RADYO",
@@ -610,29 +610,19 @@
         "favicon": "https://img.logo.dev/haberfokus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Dost",
-        "url": "http://yayin1.yayindakiler.com:3156/",
-        "favicon": "https://img.logo.dev/dostfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Dost FM",
-        "url": "http://yayin.dostfm.com:8920/;.mp3?no_dl",
-        "favicon": "https://img.logo.dev/dostfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Dost Radyo",
-        "url": "http://yayin1.yayindakiler.com:3156/;",
-        "favicon": "https://img.logo.dev/yayin1.yayindakiler.com:3156?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "DREAM TÜRK",
         "url": "https://radyo.duhnet.tv/dreamturk",
         "favicon": "https://img.logo.dev/radyo.duhnet.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DÜNYADAN SESLER",
-        "url": "https://stream.radiojar.com/cg24hdbwa0hvv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "DT NOSTALJİ",
+        "url": "https://canli.dtnostalji.com.tr/9999/stream",
+        "favicon": "https://img.logo.dev/canli.dtnostalji.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dünyadan Sesler Radio",
+        "url": "https://stream.dodo.radio/dunyadansesler",
+        "favicon": "https://img.logo.dev/dunyadansesler.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Easyland",
@@ -655,24 +645,14 @@
         "favicon": "https://img.logo.dev/stream.ege.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Elazığ Mavi Radyo",
-        "url": "https://yayin.turkhosted.com/6066/stream",
-        "favicon": "https://img.logo.dev/maviradyo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Emek radyo",
-        "url": "http://yayin1.radyohizmeti.com:8585/;",
-        "favicon": "https://img.logo.dev/emekradyo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Enderun FM",
         "url": "http://yayin2.canliyayin.org:7052/;*.mp3",
         "favicon": "https://img.logo.dev/enderunfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Engelliler radyo",
-        "url": "https://stream.zeno.fm/iuqovax9ftsvv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Enradio",
+        "url": "https://radyo1.radyo-dinle.tc/8098/stream",
+        "favicon": "https://img.logo.dev/enradio.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ereğli FM",
@@ -700,11 +680,6 @@
         "favicon": "https://img.logo.dev/erkamradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ERT ELAZIĞ",
-        "url": "https://radyo.yayin.com.tr:8012/",
-        "favicon": "https://img.logo.dev/ertfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Erzincan Cem Radyo",
         "url": "https://erzincan.80.yayin.com.tr/stream",
         "favicon": "https://img.logo.dev/erzincan.80.yayin.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -712,12 +687,7 @@
     {
         "name": "ERZİNCAN FM",
         "url": "https://sslyayin.netyayin.net:10943/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:10943?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Erzincan Nostalji Radyo",
-        "url": "https://erzincannostalji.ozelip.com/8238/stream",
-        "favicon": "https://img.logo.dev/erzincannostalji.ozelip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Esas radyo",
@@ -730,19 +700,9 @@
         "favicon": "https://img.logo.dev/ssl16.ozelip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "EZGİ RADYO",
-        "url": "https://radyo.yayindakiler.com:3044/;",
-        "favicon": "https://img.logo.dev/elazigezgiradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "EZGİ RADYO",
-        "url": "https://sslyayin.netyayin.net/elazigezgiradyo/stream/;",
-        "favicon": "https://img.logo.dev/elazigezgiradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fakir Fm",
-        "url": "https://live.radyositesihazir.com/1025/stream/",
-        "favicon": "https://img.logo.dev/fakirfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "fark radyo",
+        "url": "https://farkradyo.ozelip.com.tr:8058/stream",
+        "favicon": "https://img.logo.dev/farkradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fenerbahce Radyo",
@@ -820,22 +780,12 @@
         "favicon": "https://img.logo.dev/futuregeneration.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FIND A CUTİE",
-        "url": "https://stream.zeno.fm/lyl2uv7fcvovv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FIND A CUTİE <3",
-        "url": "https://stream.zeno.fm/lyl2uv7fcvovv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fırat FM",
-        "url": "https://anadolu.liderhost.com.tr:10912/;",
-        "favicon": "https://img.logo.dev/firatfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "FLOW RADYO",
+        "url": "https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8",
+        "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FLOWRADYO",
         "url": "https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8",
         "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -855,9 +805,19 @@
         "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "GELİŞİM RADYO",
+        "url": "http://radyo.yayindakiler.com:4008/stream",
+        "favicon": "https://img.logo.dev/gelisimtv.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Genç FM",
         "url": "https://yayin1.canlitv.fun/radyo/gencfm/chunklist_w1257533803.m3u8",
         "favicon": "https://img.logo.dev/gencfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GENÇ KRAL FM",
+        "url": "https://anadolu.liderhost.com.tr:10853/;",
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GENÇ RADYO",
@@ -867,7 +827,7 @@
     {
         "name": "GENÇLİK RADYOSU",
         "url": "https://canli.radyogenclik.com:9000/",
-        "favicon": "https://img.logo.dev/canli.radyogenclik.com:9000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/canli.radyogenclik.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Giresun FM",
@@ -875,24 +835,9 @@
         "favicon": "https://img.logo.dev/giresunfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "GÖKKUŞAĞI RADYO TURKEY",
-        "url": "http://gokkusagiradyo.kesintisizyayin.com:8008/",
-        "favicon": "https://img.logo.dev/gokkusagiradyo.kesintisizyayin.com:8008?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Göl Radyo",
         "url": "https://28553.live.streamtheworld.com/SUPER_FM_ITUNES.mp3",
         "favicon": "https://img.logo.dev/bingolradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Govend radyo",
-        "url": "https://stream-56.zeno.fm/xzzu8kynq2zuv?zs=nZP7ZCRXQPOpDFenayr0bQ",
-        "favicon": "https://img.logo.dev/stream-56.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gözyaşı FM",
-        "url": "http://yayin1.canliyayin.org:8700/;*.mp3",
-        "favicon": "https://img.logo.dev/konyagozyasifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GREEKLAND",
@@ -900,14 +845,14 @@
         "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Gundi Fm",
-        "url": "http://gundifm.ozelip.com:7830/;",
-        "favicon": "https://img.logo.dev/gundifm.ozelip.com:7830?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Gül Fm",
+        "url": "https://yayin2.canliyayin.org:10989/;*.mp3",
+        "favicon": "https://img.logo.dev/radyogul.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Gundi FM",
-        "url": "http://gundifm.ozelip.com:7830/;",
-        "favicon": "https://img.logo.dev/gundifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Gurbetçi FM",
+        "url": "https://live.radyositesihazir.com/8062/stream",
+        "favicon": "https://img.logo.dev/gurbetcifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GURBETCİ FM",
@@ -930,29 +875,9 @@
         "favicon": "https://img.logo.dev/haberturkradyo.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Habertürk Radyo",
-        "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=67dy0kx38l3a&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
-        "favicon": "https://img.logo.dev/habertturktv.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Halk Radyo",
-        "url": "https://anadolu.liderhost.com.tr:10876/;",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10876?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Halk Tv",
         "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=6vahxsup0jxl&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
         "favicon": "https://img.logo.dev/halktv.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Havin FM",
-        "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
-        "favicon": "https://img.logo.dev/havinfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "HAYAL FM",
-        "url": "https://panel.radyomhd.com:8050/",
-        "favicon": "https://img.logo.dev/panel.radyomhd.com:8050?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HAYATMİX",
@@ -965,19 +890,44 @@
         "favicon": "https://img.logo.dev/hayatmix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Hemdem Radyo",
-        "url": "https://radyoserver3.okeylisans.com:8040/stream",
+        "name": "Heart FM 103.4",
+        "url": "https://live.heartfm.com.tr/listen/heart_fm/128.aac",
+        "favicon": "https://img.logo.dev/heartfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hedef Radyo",
+        "url": "https://ssldyg.radyotvonline.com/live/hedefradyo.stream/playlist.m3u8",
+        "favicon": "https://img.logo.dev/hedefradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hemdem Pop Radyo",
+        "url": "https://yayin.hemdemradyo.com/",
         "favicon": "https://img.logo.dev/hemdemradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hemdem Radyo",
-        "url": "https://radyoserver3.okeylisans.com:8040/stream",
+        "url": "https://yayin.hemdemradyo.com/",
         "favicon": "https://img.logo.dev/hemdemradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Her An Kur'an Her An Mutluluk",
-        "url": "https://radio.mihr.com/radio/8050/radio.mp3",
-        "favicon": "https://img.logo.dev/mihr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Hemdem Radyo",
+        "url": "http://yayin.hemdemradyo.com/",
+        "favicon": "https://img.logo.dev/hemdemradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HEY RADYO",
+        "url": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/",
+        "favicon": "https://img.logo.dev/heyradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HEY RADYO",
+        "url": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/",
+        "favicon": "https://img.logo.dev/heyradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "HEY RADYO",
+        "url": "https://usa4.fastcast4u.com/proxy/radyoizmirfm/mp3stream128",
+        "favicon": "https://img.logo.dev/heyradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HOME KLASİK TURKEY",
@@ -987,7 +937,7 @@
     {
         "name": "HOS MİX",
         "url": "https://anadolu.liderhost.com.tr:10871/",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10871?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HOUSELAND TURKEY",
@@ -1000,6 +950,11 @@
         "favicon": "https://img.logo.dev/turkmedya-live.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "İhya Fm",
+        "url": "https://radyo.yayin.com.tr:2727/stream",
+        "favicon": "https://img.logo.dev/ihyafm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "imaj fm",
         "url": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
         "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1010,13 +965,18 @@
         "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "İNCİTEK FM",
-        "url": "https://radyo.yayindakiler.com:4204/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:4204?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "istanbul fm",
+        "url": "https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8",
+        "favicon": "https://img.logo.dev/istanbulfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "İstanbul FM",
         "url": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/istanbulfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "istanbulfm",
+        "url": "https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8",
         "favicon": "https://img.logo.dev/istanbulfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1035,34 +995,9 @@
         "favicon": "https://img.logo.dev/radyo.itu.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Joy Fm",
-        "url": "http://28993.live.streamtheworld.com:3690/JOY_FMAAC_SC",
-        "favicon": "https://img.logo.dev/28993.live.streamtheworld.com:3690?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Joy Fm",
-        "url": "http://22193.live.streamtheworld.com:3690/JOY_FMAAC_SC",
-        "favicon": "https://img.logo.dev/22193.live.streamtheworld.com:3690?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Joy FM Istanbul",
         "url": "http://21633.live.streamtheworld.com/JOY_FM128AAC.aac",
         "favicon": "https://img.logo.dev/joyfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "JOY TÜRK FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "JOY TÜRK ROCK TURKEY",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "JOY TÜRK TURKEY",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "JoyTürk Akustik",
@@ -1110,14 +1045,24 @@
         "favicon": "https://img.logo.dev/kalpfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kampüs FM 99",
+        "url": "https://kampusfm.gumushane.edu.tr/stream/stream",
+        "favicon": "https://img.logo.dev/kampusfm.gumushane.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Karadeniz FM",
         "url": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8",
         "favicon": "https://img.logo.dev/karadenizfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KARMA TÜRK",
-        "url": "https://yayin.radyomadyo.com:8006/stream",
-        "favicon": "https://img.logo.dev/yayin.radyomadyo.com:8006?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Karadut Fm",
+        "url": "https://yayin5.radyohizmeti.com/9982/stream",
+        "favicon": "https://img.logo.dev/karadutfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kayseri GözdeFM",
+        "url": "https://sslyayin.radyoyayini.com:7067/stream",
+        "favicon": "https://img.logo.dev/sizirfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kent FM",
@@ -1125,24 +1070,34 @@
         "favicon": "https://img.logo.dev/kentfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KENT RADYO",
-        "url": "https://anadolu.liderhost.com.tr:10906/",
-        "favicon": "https://img.logo.dev/kentradyomersin.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "KİSS GENÇ",
+        "url": "https://dijimedya.radyotvonline.net/gncradyo",
+        "favicon": "https://img.logo.dev/dijimedya.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KEYF STATION",
-        "url": "http://yayin.radyomadyo.com:8002/stream",
-        "favicon": "https://img.logo.dev/yayin.radyomadyo.com:8002?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "KİSS GOLD TÜRK",
+        "url": "https://dijimedya.radyotvonline.net/goldturk",
+        "favicon": "https://img.logo.dev/dijimedya.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KİSS LOVE RADYO TURKEY",
         "url": "https://anadolu.liderhost.com.tr:10964/",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10964?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KİSS MUSİKİ",
+        "url": "https://dijimedya.radyotvonline.net/radyomusiki",
+        "favicon": "https://img.logo.dev/dijimedya.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KİSS SLOW",
         "url": "https://radyo.slmbilisim.net/8004/stream",
         "favicon": "https://img.logo.dev/radyo.slmbilisim.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KISS SPEED UP",
+        "url": "https://dijimedya.radyotvonline.net/speedup",
+        "favicon": "https://img.logo.dev/dijimedya.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kiss Türk",
@@ -1207,12 +1162,7 @@
     {
         "name": "KLAS RADİO TURKEY",
         "url": "https://anadolu.liderhost.com.tr:10929/",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10929?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Konya İsra FM",
-        "url": "https://yayin2.canliyayin.org:8210/;stream",
-        "favicon": "https://img.logo.dev/israfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Köroğlu FM",
@@ -1270,6 +1220,11 @@
         "favicon": "https://img.logo.dev/live.radyositesihazir.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "KRAL TÜRK FM",
+        "url": "https://live.radyositesihazir.com/8032/stream",
+        "favicon": "https://img.logo.dev/live.radyositesihazir.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "KTU",
         "url": "https://sslyayin.netyayin.net/radyoktu/stream/;type=mp3",
         "favicon": "https://img.logo.dev/www4.ktu.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1295,24 +1250,14 @@
         "favicon": "https://img.logo.dev/baser.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kurd1",
-        "url": "https://listen.radioking.com/radio/119251/stream/158701",
-        "favicon": "https://img.logo.dev/listen.radioking.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Kurd1 FM",
         "url": "https://listen.radioking.com/radio/119251/stream/158701",
         "favicon": "https://img.logo.dev/kurd1radyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KUZEY FM TURKEY",
-        "url": "http://yayin.yayindakiler.com:3028/",
-        "favicon": "https://img.logo.dev/yayin.yayindakiler.com:3028?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LALEGÜL FM",
-        "url": "https://icecast.netmedya.net/lalegulfm",
-        "favicon": "https://img.logo.dev/icecast.netmedya.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "LATERADİO",
+        "url": "https://radio.lateradio.live/;",
+        "favicon": "https://img.logo.dev/radio.lateradio.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Lig Radyo",
@@ -1323,11 +1268,6 @@
         "name": "Lig Radyo",
         "url": "https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/ligradyo.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "literal",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL128AAC.aac",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "loops radio",
@@ -1355,11 +1295,6 @@
         "favicon": "https://img.logo.dev/loopsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Magic FM",
-        "url": "http://yayin1.yayindakiler.com:3032/",
-        "favicon": "https://img.logo.dev/yayin1.yayindakiler.com:3032?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "MASTİKA FM",
         "url": "https://mastika1.80.yayin.com.tr/",
         "favicon": "https://img.logo.dev/mastika1.80.yayin.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1385,39 +1320,24 @@
         "favicon": "https://img.logo.dev/maxfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MaxFM",
-        "url": "http://live.radyotvonline.com:8090/;",
-        "favicon": "https://img.logo.dev/live.radyotvonline.com:8090?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Mayday Records",
         "url": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
         "favicon": "https://img.logo.dev/maydayrecords.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Med Radyo",
-        "url": "http://medradyo.kesintisizyayin.com:8062/stream",
-        "favicon": "https://img.logo.dev/medradyo.kesintisizyayin.com:8062?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Mayday Records Radio",
+        "url": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3?1781007629",
+        "favicon": "https://img.logo.dev/maydayrecords.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mega Ask FM",
         "url": "https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3",
-        "favicon": "https://img.logo.dev/mega-ask.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/embed.tawk.to?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MEGA SİTE",
-        "url": "http://yayin.netradyom.com:7900/;stream.mp3",
-        "favicon": "https://img.logo.dev/yayin.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mega Site",
-        "url": "http://yayin.netradyom.com:7900/;",
-        "favicon": "https://img.logo.dev/yayin.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mega Site .",
-        "url": "http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=",
-        "favicon": "https://img.logo.dev/yayin.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Mega Radyo FM 97.7",
+        "url": "https://dinle.megaradyoiskenderun.com/8024/stream",
+        "favicon": "https://img.logo.dev/megaradyoiskenderun.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MEGASITE",
@@ -1430,9 +1350,9 @@
         "favicon": "https://img.logo.dev/firmarehberim.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MERKEZ FM SAMSUN TURKEY",
-        "url": "http://uydu.radyotvyayini.com:8016/",
-        "favicon": "https://img.logo.dev/uydu.radyotvyayini.com:8016?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Mersin Üniversitesi Radyosu (Mersin University Radio)",
+        "url": "http://radyo.mersin.edu.tr:8000/meu",
+        "favicon": "https://img.logo.dev/radyo.mersin.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "meteorolojinin sesi",
@@ -1446,18 +1366,8 @@
     },
     {
         "name": "Metro FM",
-        "url": "http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC",
+        "url": "http://22183.live.streamtheworld.com/METRO_FMAAC_SC",
         "favicon": "https://img.logo.dev/metrofm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Metro fm turkey",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mio Radio",
-        "url": "https://s2.myradiostream.com/13662/;?type=http&nocache=1769756485?0.283950275860107",
-        "favicon": "https://img.logo.dev/mioradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mix A Mix FM",
@@ -1465,14 +1375,14 @@
         "favicon": "https://img.logo.dev/mixamixfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Moral FM",
-        "url": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
-        "favicon": "https://img.logo.dev/moralfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "MK Radyo",
+        "url": "https://live.sinirsizhost.com.tr/8028/stream",
+        "favicon": "https://img.logo.dev/mkradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MPL Radyo",
-        "url": "https://canli.hidayetradyolari.com/listen/mpl_radyo/radio.mp3",
-        "favicon": "https://img.logo.dev/mihr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "MK Radyo",
+        "url": "https://live.sinirsizhost.com.tr/8028/stream",
+        "favicon": "https://img.logo.dev/mkradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mydonose Türk",
@@ -1495,19 +1405,14 @@
         "favicon": "https://img.logo.dev/ntvradyo.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Number 1 Türk Rap",
+        "url": "https://dijimedya.radyotvonline.net/turkrap",
+        "favicon": "https://img.logo.dev/dijimedya.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Number one",
         "url": "https://n10101m.mediatriple.net/numberone",
         "favicon": "https://img.logo.dev/numberone.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NUMBER ONE  TURK AJDA PEKKAN",
-        "url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ed520608_1/playlist.m3u8",
-        "favicon": "https://img.logo.dev/n10101m.mediatriple.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Number One JAZZ",
-        "url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3e06878b9_1/playlist.m3u8",
-        "favicon": "https://img.logo.dev/n10101m.mediatriple.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Number One Türk",
@@ -1515,39 +1420,19 @@
         "favicon": "https://img.logo.dev/numberone.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "NUMBER ONE WORLD",
-        "url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8",
-        "favicon": "https://img.logo.dev/n10101m.mediatriple.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Numberone Turk",
         "url": "https://n10101m.mediatriple.net/numberoneturk",
         "favicon": "https://img.logo.dev/numberone.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "NUMBERONE WORLD TURKEY",
-        "url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8",
-        "favicon": "https://img.logo.dev/n10101m.mediatriple.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NUR Radyo",
-        "url": "https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3",
-        "favicon": "https://img.logo.dev/mihr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "OĞUZ FM",
-        "url": "https://radyo.yayin.com.tr:5892/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:5892?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "OMÜ Radyo",
+        "url": "https://omuradyo.ozelip.com/8042/stream",
+        "favicon": "https://img.logo.dev/omuradyo.ozelip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ÖMÜR RADYO",
         "url": "https://live.sinirsizhost.com/8036/stream",
         "favicon": "https://img.logo.dev/live.sinirsizhost.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Onur Radyo",
-        "url": "http://anadolu.liderhost.com.tr:8094/",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:8094?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ORDU FM",
@@ -1570,11 +1455,6 @@
         "favicon": "https://img.logo.dev/ozelfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Pal Doğa",
-        "url": "http://shoutcast.radyogrup.com:1040/;*.mp3",
-        "favicon": "https://img.logo.dev/shoutcast.radyogrup.com:1040?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Pal Fm",
         "url": "https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/palfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1585,9 +1465,9 @@
         "favicon": "https://img.logo.dev/palfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PAL Nostalji",
-        "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
-        "favicon": "https://img.logo.dev/palnostalji.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Pal FM",
+        "url": "https://ssl4.radyotvonline.com/radyohome/palfmhome.stream_aac/playlist.m3u",
+        "favicon": "https://img.logo.dev/paldigital.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "PAL Nostalji",
@@ -1603,6 +1483,21 @@
         "name": "PAL Nostalji",
         "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
         "favicon": "https://img.logo.dev/palnostalji.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PAL Nostalji",
+        "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+        "favicon": "https://img.logo.dev/palnostalji.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PAL Nostalji",
+        "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+        "favicon": "https://img.logo.dev/palnostalji.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pal Nostalji",
+        "url": "https://moondigitalmaster.radyotvonline.net/palnostalji/playlist.m3u8",
+        "favicon": "https://img.logo.dev/paldigital.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pal station",
@@ -1610,21 +1505,6 @@
         "favicon": "https://img.logo.dev/palstation106.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Park Fm",
-        "url": "http://yayin.netradyom.com:8050/PARKFM/",
-        "favicon": "https://img.logo.dev/yayin.netradyom.com:8050?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pazarcık",
-        "url": "http://yayin.pazarcikfm.com:9090/",
-        "favicon": "https://img.logo.dev/yayin.pazarcikfm.com:9090?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pir Yolu",
-        "url": "http://radyopiryolu.canliyayinda.com:8165/",
-        "favicon": "https://img.logo.dev/radyopiryolu.canliyayinda.com:8165?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "playdanceradio",
         "url": "https://radyo1.radyo-dinle.tc/playdanceradio/stream",
         "favicon": "https://img.logo.dev/playdanceradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1635,14 +1515,9 @@
         "favicon": "https://img.logo.dev/playdanceradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "POP 90",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "pop 90 turkey",
-        "url": "http://23623.live.streamtheworld.com:3690/POP90AAC_SC",
-        "favicon": "https://img.logo.dev/provisioning.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "POP 90 Turkiye",
+        "url": "http://23613.live.streamtheworld.com/POP90AAC_SC",
+        "favicon": "https://img.logo.dev/karnaval.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "POP HOME",
@@ -1657,7 +1532,7 @@
     {
         "name": "POWER 66",
         "url": "https://anadolu.liderhost.com.tr:10921/;",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10921?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Power Dance",
@@ -1667,6 +1542,11 @@
     {
         "name": "Power dance",
         "url": "https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8",
+        "favicon": "https://img.logo.dev/powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Power Deep",
+        "url": "https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8",
         "favicon": "https://img.logo.dev/powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1745,14 +1625,29 @@
         "favicon": "https://img.logo.dev/powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Power POP",
+        "url": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
+        "favicon": "https://img.logo.dev/powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Power R&B Hip-Hop",
         "url": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
         "favicon": "https://img.logo.dev/powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Power RB Hip Hop",
+        "url": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
+        "favicon": "https://img.logo.dev/listen.powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "POWER TÜRK DANS TÜRKİYE",
         "url": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8",
         "favicon": "https://img.logo.dev/listen.powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "POWER TÜRK FM",
+        "url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
+        "favicon": "https://img.logo.dev/live.powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "POWER TÜRK FM",
@@ -1795,9 +1690,34 @@
         "favicon": "https://img.logo.dev/powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "PowerTürk Rap",
+        "url": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
+        "favicon": "https://img.logo.dev/powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PowerTürk Rap",
+        "url": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
+        "favicon": "https://img.logo.dev/powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "POWERTÜRK SLOW",
+        "url": "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio",
+        "favicon": "https://img.logo.dev/listen.powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "POWERTÜRK TAPTAZE",
+        "url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
+        "favicon": "https://img.logo.dev/listen.powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio 44",
         "url": "https://radyo44.80.yayin.com.tr/stream",
         "favicon": "https://img.logo.dev/radyo44.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 44 Malatya",
+        "url": "https://radyo44.80.yayin.com.tr/stream",
+        "favicon": "https://img.logo.dev/onlineradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADİO 5 LEGEND",
@@ -1840,21 +1760,6 @@
         "favicon": "https://img.logo.dev/radioline.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "radio megasite",
-        "url": "http://yayin.netradyom.com:7900/;",
-        "favicon": "https://img.logo.dev/yayin.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Megasite",
-        "url": "http://yayin.netradyom.com:7900/;stream.mp3",
-        "favicon": "https://img.logo.dev/yayin.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio Megasite",
-        "url": "http://yayin.asymedya.com:8020/radio.mp3",
-        "favicon": "https://img.logo.dev/yayin.asymedya.com:8020?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Mydonose",
         "url": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3",
         "favicon": "https://img.logo.dev/karnaval.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1865,14 +1770,9 @@
         "favicon": "https://img.logo.dev/radiowanderlust.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radioo Mega site",
-        "url": "http://mega.netradyom.com:7900/radio.mp3",
-        "favicon": "https://img.logo.dev/mega.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RADYO 08",
         "url": "https://sslyayin.netyayin.net:10931/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:10931?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo 13",
@@ -1880,14 +1780,14 @@
         "favicon": "https://img.logo.dev/radyo13.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radyo 13 FM 96",
+        "url": "https://radyo.yayindakiler.com:3050/stream",
+        "favicon": "https://img.logo.dev/radyo13.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADYO 16",
         "url": "https://radyo.yayin.com.tr:6038/",
         "favicon": "https://img.logo.dev/radyo16.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo 2000 Erzincan",
-        "url": "https://radyo.yayindakiler.com:3030/stream?/;stream.mp3",
-        "favicon": "https://img.logo.dev/2000radyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO 23",
@@ -1908,21 +1808,6 @@
         "name": "Radyo 35",
         "url": "https://yayin.turkhosted.com/6012/stream",
         "favicon": "https://img.logo.dev/radyo35.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE",
-        "url": "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8",
-        "favicon": "https://img.logo.dev/radio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE",
-        "url": "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8",
-        "favicon": "https://img.logo.dev/radio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE",
-        "url": "https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8",
-        "favicon": "https://img.logo.dev/radio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO 44",
@@ -1960,9 +1845,9 @@
         "favicon": "https://img.logo.dev/radyo45lik.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO 68",
-        "url": "https://radyo.yayindakiler.com:4022/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:4022?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radyo 45lik yeni",
+        "url": "https://stream.radyo45lik.com:4545/",
+        "favicon": "https://img.logo.dev/radyo45lik.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo 7",
@@ -2000,19 +1885,19 @@
         "favicon": "https://img.logo.dev/radyo7.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO 71",
-        "url": "https://radyo.yayin.com.tr:5924/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:5924?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radyo 7",
+        "url": "http://46.20.3.250/;stream",
+        "favicon": "https://img.logo.dev/radyo7.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO 80",
-        "url": "https://radyo.yayindakiler.com:4064/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:4064?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radyo 7 Türkü",
+        "url": "https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radyo7.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO 9",
-        "url": "https://radyo.yayin.com.tr:4010/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:4010?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RADYO 75",
+        "url": "https://anadolu.liderhost.com.tr/8126/stream",
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo 9",
@@ -2023,11 +1908,6 @@
         "name": "Radyo A (Radyo Anadolu Üniversitesi)",
         "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
         "favicon": "https://img.logo.dev/radyoa.anadolu.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO AHENK",
-        "url": "https://yayin.radyomadyo.com:8014/stream",
-        "favicon": "https://img.logo.dev/yayin.radyomadyo.com:8014?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO AK",
@@ -2055,14 +1935,9 @@
         "favicon": "https://img.logo.dev/radyoalaturka.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radyo Alevi Canlar",
-        "url": "https://alevifm.80.yayin.com.tr/",
-        "favicon": "https://img.logo.dev/alevifm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RADYO ANTALYA",
         "url": "https://sslyayin.netyayin.net:8036/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:8036?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo Arkadaş",
@@ -2070,34 +1945,24 @@
         "favicon": "https://img.logo.dev/ssl120.radyotelekom.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO ARMONİ",
-        "url": "https://radyo.yayindakiler.com:4084/stream",
-        "favicon": "https://img.logo.dev/afyonarmonihaber.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RADYO ATILIM",
         "url": "https://listen.powerapp.com.tr/radyoatilim/mpeg/icecast.audio",
         "favicon": "https://img.logo.dev/listen.powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RADYO AVARE",
+        "url": "https://anadolu.liderhost.com.tr:10980/;",
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADYO B",
+        "url": "https://radyob.ozelip.com.tr/8042/stream",
+        "favicon": "https://img.logo.dev/radyob.ozelip.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radyo Banko",
         "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
         "favicon": "https://img.logo.dev/radyobanko.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Banko Fm",
-        "url": "http://yayin.netradyom.com:8050/RADYOBANKO",
-        "favicon": "https://img.logo.dev/yayin.netradyom.com:8050?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO BAŞAKŞEHİR",
-        "url": "https://icecast.netmedya.net/rbasaksehir",
-        "favicon": "https://img.logo.dev/icecast.netmedya.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO BAŞKA",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo Bilkent",
@@ -2107,17 +1972,12 @@
     {
         "name": "RADYO BLACK",
         "url": "https://anadolu.liderhost.com.tr:10966/",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10966?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO BLACK LOVE",
         "url": "https://anadolu.liderhost.com.tr:10964/",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10964?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO BU",
-        "url": "https://radyo.yayindakiler.com:8006/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:8006?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO ÇAĞLAR",
@@ -2130,19 +1990,14 @@
         "favicon": "https://img.logo.dev/radyocan.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO CLUBBİN",
-        "url": "https://radyo.yayin.com.tr:6199/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:6199?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO ÇUKUR",
-        "url": "https://radyo.yayin.com.tr:4060/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:4060?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radyo D",
         "url": "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8",
         "favicon": "https://img.logo.dev/radyod.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADYO D",
+        "url": "https://radyo.duhnet.tv/radyod",
+        "favicon": "https://img.logo.dev/radyo.duhnet.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO D",
@@ -2155,14 +2010,9 @@
         "favicon": "https://img.logo.dev/wowza1.radyotvonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO DRK",
-        "url": "https://stream.zeno.fm/czwwh7xfqm0uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO DUBLE",
-        "url": "https://radyo.yayindakiler.com:2044/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:2044?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RADYO DOKSANLAR",
+        "url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
+        "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO DÜET",
@@ -2178,11 +2028,6 @@
         "name": "Radyo Ekin",
         "url": "https://yayin.turkhosted.com/6006/stream",
         "favicon": "https://img.logo.dev/radyoekin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Ekin",
-        "url": "http://yayin.turkhosted.com:6006/",
-        "favicon": "https://img.logo.dev/yayin.turkhosted.com:6006?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo Eksen",
@@ -2210,14 +2055,14 @@
         "favicon": "https://img.logo.dev/radyoender.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radyo Esenler",
-        "url": "https://yayin2.canliyayin.org:10978/;",
-        "favicon": "https://img.logo.dev/yayin2.canliyayin.org:10978?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RADYO ENERGY",
+        "url": "https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8",
+        "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO EŞME",
         "url": "https://anadolu.liderhost.com.tr:8358/",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:8358?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO ESTÜ",
@@ -2245,6 +2090,11 @@
         "favicon": "https://img.logo.dev/radyofenomen.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radyo Fikir",
+        "url": "https://studio21.radiolize.com/radio/8100/radio.mp3?1647021999",
+        "favicon": "https://img.logo.dev/radyofikir.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radyo Fıtrat",
         "url": "http://radyofitrat.radyotvonline.net/",
         "favicon": "https://img.logo.dev/radyofitrat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2253,6 +2103,11 @@
         "name": "RADYO FLAS",
         "url": "https://radyo.yayindakiler.com:4096/",
         "favicon": "https://img.logo.dev/radyoflas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radyo Gerçek",
+        "url": "https://radyogercek.ozelip.com:8368/index.html",
+        "favicon": "https://img.logo.dev/radyogercek.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO GERÇEK",
@@ -2290,44 +2145,14 @@
         "favicon": "https://img.logo.dev/radyogunes.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO GÜVEN",
-        "url": "https://radyo.yayin.com.tr:4098/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:4098?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO HABER",
-        "url": "https://radyo.yayindakiler.com:4118/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:4118?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO HABER",
-        "url": "https://radyo.yayindakiler.com:4118/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:4118?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Hakkın Sesi",
-        "url": "https://radio.mihr.com/radio/8010/hakkinsesi",
-        "favicon": "https://img.logo.dev/mihr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radyo Havaları",
         "url": "http://37.247.98.8/stream/30/",
         "favicon": "https://img.logo.dev/xn--radyohavalar-d5b.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radyo Hayat",
-        "url": "http://live4.radyotvonline.com:9450/",
-        "favicon": "https://img.logo.dev/live4.radyotvonline.com:9450?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO HAZAR",
-        "url": "https://radyo.yayin.com.tr:8286/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:8286?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Hidayet Çağı",
-        "url": "https://radio.mihr.com/radio/8000/radio.mp3",
-        "favicon": "https://img.logo.dev/mihr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radyo İlahi",
+        "url": "https://anadolu.liderhost.com.tr:10994/;",
+        "favicon": "https://img.logo.dev/radyokuran.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo ILEF Ankara",
@@ -2335,19 +2160,14 @@
         "favicon": "https://img.logo.dev/ilef.ankara.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO İMZA",
-        "url": "https://radyo.radyoimza.com:8016/",
-        "favicon": "https://img.logo.dev/radyo.radyoimza.com:8016?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radyo Karabalı",
         "url": "https://radyokarabali.ozelip.com:9884/;",
         "favicon": "https://img.logo.dev/radyokarabali.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO KİLİM",
-        "url": "https://sslyayin.netyayin.net:10946/",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radyo Kent",
+        "url": "https://kentfm955.ozelip.com/9306/stream",
+        "favicon": "https://img.logo.dev/kentfm955.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO KLÜP",
@@ -2355,19 +2175,14 @@
         "favicon": "https://img.logo.dev/radyokulup.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RADYO KOÇ",
+        "url": "https://stores.powerapp.com.tr/kocschool/mpeg/icecast.audio",
+        "favicon": "https://img.logo.dev/stores.powerapp.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADYO KTU",
         "url": "https://sslyayin.netyayin.net:8076/",
         "favicon": "https://img.logo.dev/ktu.edu.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo light",
-        "url": "https://yayin.radiolight.net:8005/live",
-        "favicon": "https://img.logo.dev/yayin.radiolight.net:8005?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO LİVA",
-        "url": "https://yayin.radyoliva.com:3068/stream",
-        "favicon": "https://img.logo.dev/yayin.radyoliva.com:3068?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO LOJİK",
@@ -2385,34 +2200,9 @@
         "favicon": "https://img.logo.dev/radyomars.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO MEGA",
-        "url": "https://megaradyoiskenderun.ozelip.com/8024/stream",
-        "favicon": "https://img.logo.dev/megaradyoiskenderun.ozelip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Megasite",
-        "url": "http://mega.netradyom.com:7900/radio.mp3",
-        "favicon": "https://img.logo.dev/mega.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radyo megasite",
-        "url": "http://mega.netradyom.com:7900/radio.mp3",
-        "favicon": "https://img.logo.dev/mega.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Megasite",
-        "url": "http://mega.netradyom.com:7900/radio.mp3",
-        "favicon": "https://img.logo.dev/mega.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Megasite",
-        "url": "http://mega.netradyom.com:7900/;",
-        "favicon": "https://img.logo.dev/mega.netradyom.com:7900?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radyo mezopotamya",
-        "url": "https://anadolu.liderhost.com.tr/9404/stream",
-        "favicon": "https://img.logo.dev/artuklumezopotamyaradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RADYO MEYDAN",
+        "url": "https://live.sinirsizhost.com/8042/stream",
+        "favicon": "https://img.logo.dev/live.sinirsizhost.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo MODyAn",
@@ -2420,29 +2210,14 @@
         "favicon": "https://img.logo.dev/modyan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO MONİ",
-        "url": "https://radyo.yayin.com.tr:4262/stream",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:4262?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RADYO MÜZEYYEN",
+        "url": "https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8",
+        "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radyo Mori",
-        "url": "https://amed.ozelip.com/8040/stream",
-        "favicon": "https://img.logo.dev/amed.ozelip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO MUĞLA",
-        "url": "https://radyo.yayindakiler.com:3006/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:3006?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Munzur 97.7",
-        "url": "http://yayin1.yayindakiler.com:3002/;stream.nsv",
-        "favicon": "https://img.logo.dev/canlifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADYO NEŞE",
-        "url": "https://radyo.yayindakiler.com:2042/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:2042?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radyo Nebi",
+        "url": "https://anadolu.liderhost.com.tr/9006/stream",
+        "favicon": "https://img.logo.dev/nebifm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADYO NET",
@@ -2450,19 +2225,9 @@
         "favicon": "https://img.logo.dev/radyonetfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADYO NEVŞEHİR",
-        "url": "https://stream2.rtvtakip.com:7025/",
-        "favicon": "https://img.logo.dev/stream2.rtvtakip.com:7025?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radyo Nida",
         "url": "https://anadolu.liderhost.com.tr/8106/stream",
         "favicon": "https://img.logo.dev/radyonida.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Nostaljinin Sesi",
-        "url": "http://eu8.fastcast4u.com/proxy/eskininadami/stream",
-        "favicon": "https://img.logo.dev/radyonostaljininsesi.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo ODTU",
@@ -2530,11 +2295,6 @@
         "favicon": "https://img.logo.dev/live.radyositesihazir.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radyo Slow Time",
-        "url": "http://46.20.7.103:8040/;",
-        "favicon": "https://img.logo.dev/46.20.7.103:8040?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radyo Spor",
         "url": "https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8",
         "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2595,6 +2355,11 @@
         "favicon": "https://img.logo.dev/radyotrio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radyo Tulu",
+        "url": "http://yayin2.canliyayin.org:8248/;*.mp3",
+        "favicon": "https://img.logo.dev/radyotulu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radyo Turkuvaz",
         "url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8",
         "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2608,11 +2373,6 @@
         "name": "RADYO ÜLKÜ",
         "url": "https://radyo.yayin.com.tr:4006/",
         "favicon": "https://img.logo.dev/radyoulku.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Vatan Türkü",
-        "url": "http://95.0.173.195:9000/turku",
-        "favicon": "https://img.logo.dev/95.0.173.195:9000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo Venüs",
@@ -2633,6 +2393,16 @@
         "name": "Radyo Viva",
         "url": "https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8",
         "favicon": "https://img.logo.dev/radyoviva.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radyo viva",
+        "url": "https://radyoviva.radyotvonline.net/radyovivaaac",
+        "favicon": "https://img.logo.dev/radyoviva.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radyo Vokal",
+        "url": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radyohome.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo Voyage",
@@ -2680,19 +2450,19 @@
         "favicon": "https://img.logo.dev/radyovoyage.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RELAX HOME",
+        "url": "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8",
+        "favicon": "https://img.logo.dev/moondigitaledge.radyotvonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "REPLAY NEWS - Türkçe    Her 5 dakikada haber radyosu",
         "url": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "retro turk",
-        "url": "http://27783.live.streamtheworld.com:3690/RETROTURKAAC_SC",
+        "url": "http://22653.live.streamtheworld.com:3690/RETROTURKAAC_SC",
         "favicon": "https://img.logo.dev/karnaval.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Retro Turk",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ribat FM",
@@ -2703,11 +2473,6 @@
         "name": "Risalet Radyo",
         "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8",
         "favicon": "https://img.logo.dev/risaletradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ROCK FM",
-        "url": "https://rockfm.rockfm.com.tr:9450/stream",
-        "favicon": "https://img.logo.dev/rockfm.rockfm.com.tr:9450?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Romantik Ses ISPARTA",
@@ -2737,7 +2502,7 @@
     {
         "name": "S1lhoutte - Slow FM",
         "url": "https://anadolu.liderhost.com.tr:10973/",
-        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr:10973?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/anadolu.liderhost.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "S1lhoutte Arabesk FM",
@@ -2745,9 +2510,14 @@
         "favicon": "https://img.logo.dev/s1lhouttefm.radiostream123.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "SEÇ FM",
-        "url": "https://live.radyo.in/8066/stream",
-        "favicon": "https://img.logo.dev/live.radyo.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Şafak Radyo",
+        "url": "http://safakradyo.com:2626/;",
+        "favicon": "https://img.logo.dev/safakradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Semerkand Radyo",
+        "url": "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8",
+        "favicon": "https://img.logo.dev/semerkandradyo.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Semerkand Radyo",
@@ -2763,16 +2533,6 @@
         "name": "Serhat FM 91.5",
         "url": "http://yayin.serhatfm.com:9150/stream",
         "favicon": "https://img.logo.dev/serhatfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SES FM",
-        "url": "https://yayin.sesfm.com.tr:8090/stream",
-        "favicon": "https://img.logo.dev/yayin.sesfm.com.tr:8090?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SEYDİŞEHİR FM",
-        "url": "https://radyo.yayin.com.tr:4142/strem",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:4142?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sezen Radyo",
@@ -2800,9 +2560,34 @@
         "favicon": "https://img.logo.dev/showradyo.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Slow Turk",
-        "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
-        "favicon": "https://img.logo.dev/slowturk.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Show Radyo",
+        "url": "http://showradyo.radyotvonline.net/showradyoaac/",
+        "favicon": "https://img.logo.dev/showradyo.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sivas FM",
+        "url": "https://yayin2.canliyayin.org:10960/;stream",
+        "favicon": "https://img.logo.dev/sivasfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SIZIR FM",
+        "url": "http://stream.radiojar.com/tamm1f7kk48uv",
+        "favicon": "https://img.logo.dev/sizirfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SIZIR FM",
+        "url": "https://stream.radiojar.com/tamm1f7kk48uv",
+        "favicon": "https://img.logo.dev/sizirfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SIZIR FM",
+        "url": "http://stream.radiojar.com/tamm1f7kk48uv",
+        "favicon": "https://img.logo.dev/sizirfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sızır FM",
+        "url": "https://stream.radiojar.com/tamm1f7kk48uv",
+        "favicon": "https://img.logo.dev/sizirfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Slow Turk",
@@ -2818,6 +2603,16 @@
         "name": "Slow Turk",
         "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
         "favicon": "https://img.logo.dev/slowturk.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Slow Turk",
+        "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+        "favicon": "https://img.logo.dev/slowturk.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SOFT RADYO",
+        "url": "https://radyo.softradyo.com/1140/stream",
+        "favicon": "https://img.logo.dev/radyo.softradyo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Standart.fm",
@@ -2845,24 +2640,9 @@
         "favicon": "https://img.logo.dev/superfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Süper FM",
-        "url": "http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
-        "favicon": "https://img.logo.dev/29023.live.streamtheworld.com:3690?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Süper Fm",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SUPER FM 2 TURKEY",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SÜPER SHOW RADYO",
-        "url": "https://sslyayin.netyayin.net:6065/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:6065?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "SZC",
+        "url": "https://cdn.tecostream.xyz/Sozcu_Tv.m3u8",
+        "favicon": "https://img.logo.dev/szctv.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tarkan",
@@ -2888,16 +2668,6 @@
         "name": "TheRockRadio",
         "url": "https://ssl4.radyotvonline.com/radyohome/therockradio.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/therock.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TİME TÜRK",
-        "url": "https://radyo.yayindakiler.com:4195/",
-        "favicon": "https://img.logo.dev/radyo.yayindakiler.com:4195?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TİRYAKİ FM",
-        "url": "https://yayin.turkhosted.com:6056/mp3",
-        "favicon": "https://img.logo.dev/yayin.turkhosted.com:6056?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TOKAT FM",
@@ -2940,6 +2710,11 @@
         "favicon": "https://img.logo.dev/radyo.trt.net.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "TRT FM",
+        "url": "https://trt.radyotvonline.net/trtfm",
+        "favicon": "https://img.logo.dev/radyo.trt.net.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "TRT Memleketim FM",
         "url": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
         "favicon": "https://img.logo.dev/radyo.trt.net.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2963,6 +2738,11 @@
         "name": "TRT Radyo 1",
         "url": "https://trt.radyotvonline.net/trt1",
         "favicon": "https://img.logo.dev/radyo.trt.net.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TRT Radyo Arabi / عربي",
+        "url": "https://radio-trtarabi.medya.trt.com.tr/master.m3u8",
+        "favicon": "https://img.logo.dev/trtdinle.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TRT Radyo Haber",
@@ -3000,9 +2780,34 @@
         "favicon": "https://img.logo.dev/trtdinle.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "TRT VOT East",
+        "url": "https://radio-trtvoteast.medya.trt.com.tr/master.m3u8",
+        "favicon": "https://img.logo.dev/trt.net.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TRT VOT West",
+        "url": "https://radio-trtvotwest.medya.trt.com.tr/master.m3u8",
+        "favicon": "https://img.logo.dev/trt.net.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TRT VOT World",
+        "url": "https://radio-trtvotworld.medya.trt.com.tr/master.m3u8",
+        "favicon": "https://img.logo.dev/trt.net.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "TRT3",
         "url": "http://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
         "favicon": "https://img.logo.dev/trt.net.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tüm Zamanların En İyileri",
+        "url": "https://25453.live.streamtheworld.com:443/GHOAT_TR128AAC.aac",
+        "favicon": "https://img.logo.dev/karnaval.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Türk Rock FM",
+        "url": "https://yayin5.radyohizmeti.com/8090/stream;",
+        "favicon": "https://img.logo.dev/turkrockfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Türkiyem FM",
@@ -3010,19 +2815,14 @@
         "favicon": "https://img.logo.dev/turkiyemfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Turku Radyo",
-        "url": "http://radyo.turkuradyo.net:4591/turkuradyo",
-        "favicon": "https://img.logo.dev/radyo.turkuradyo.net:4591?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Türkü Radyo",
         "url": "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1",
         "favicon": "https://img.logo.dev/turkuradyo.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Turkuaz Anadolu",
-        "url": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8",
-        "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Türkülerle Türkiye",
+        "url": "http://37.247.98.8/stream/22/;",
+        "favicon": "https://img.logo.dev/canliradyodinle.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Türkülerle Türkiye",
@@ -3035,8 +2835,8 @@
         "favicon": "https://img.logo.dev/turkuradyo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Turkuvaz Anadolu",
-        "url": "http://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8",
+        "name": "TURKUVAZ EFSANE",
+        "url": "https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8",
         "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3045,9 +2845,24 @@
         "favicon": "https://img.logo.dev/canliradyodinle.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "TURKUVAZ NOSTALJİ",
+        "url": "https://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8",
+        "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TURKUVAZ ROMANTİK",
+        "url": "https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8",
+        "favicon": "https://img.logo.dev/trkvz-radyolar.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "ÜLKÜ RADYO",
         "url": "https://radyo.yayindakiler.com:4112/stream.mp3",
         "favicon": "https://img.logo.dev/ulkufm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ULUSAL ARABESK",
+        "url": "https://radio.guventechnology.com/9334/stream",
+        "favicon": "https://img.logo.dev/radio.guventechnology.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Vav Radyo",
@@ -3066,23 +2881,33 @@
     },
     {
         "name": "Virgin Radio Türkiye",
-        "url": "http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC",
-        "favicon": "https://img.logo.dev/virginradioturkiye.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Virgin Radio Türkiye",
-        "url": "http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC",
-        "favicon": "https://img.logo.dev/virginradioturkiye.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Virgin Radio Türkiye",
         "url": "http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
+        "favicon": "https://img.logo.dev/virginradioturkiye.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Virgin Radio Türkiye",
+        "url": "http://29333.live.streamtheworld.com/VIRGIN_RADIOAAC_SC",
+        "favicon": "https://img.logo.dev/virginradioturkiye.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Virgin Radio Türkiye",
+        "url": "http://28033.live.streamtheworld.com/VIRGIN_RADIOAAC_SC",
+        "favicon": "https://img.logo.dev/virginradioturkiye.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Virgin Radio Türkiye",
+        "url": "http://28933.live.streamtheworld.com/VIRGIN_RADIO_SC",
         "favicon": "https://img.logo.dev/virginradioturkiye.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VİRGİN RADYO",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3",
         "favicon": "https://img.logo.dev/karnaval.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VİZYON NOSTALJİ",
+        "url": "https://stream.netradyom.com/radio/7090/radio.mp3/;",
+        "favicon": "https://img.logo.dev/stream.netradyom.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Vokal Tr",
@@ -3101,11 +2926,6 @@
     },
     {
         "name": "X Radio",
-        "url": "http://stream.xradio.com.tr:8770/",
-        "favicon": "https://img.logo.dev/stream.xradio.com.tr:8770?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "X Radio",
         "url": "https://stream.xradio.com.tr:8770/stream",
         "favicon": "https://img.logo.dev/xradio.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -3120,28 +2940,8 @@
         "favicon": "https://img.logo.dev/tarsusfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Yeni Radyo Nostaljinin Sesi",
-        "url": "http://51.255.235.165:26113/stream",
-        "favicon": "https://img.logo.dev/51.255.235.165:26113?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Yeni Radyo Nostaljinin Sesi",
-        "url": "http://51.255.235.165:26113/stream",
-        "favicon": "https://img.logo.dev/51.255.235.165:26113?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "YILDIZ FM",
-        "url": "https://radyo.yayin.com.tr:5940/",
-        "favicon": "https://img.logo.dev/radyo.yayin.com.tr:5940?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "YOZGAT FM",
         "url": "https://sslyayin.netyayin.net:10921/",
-        "favicon": "https://img.logo.dev/sslyayin.netyayin.net:10921?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "اذاعة القرآن الكريم 🇹🇷",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sslyayin.netyayin.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

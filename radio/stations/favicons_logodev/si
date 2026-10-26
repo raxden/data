@@ -10,6 +10,11 @@
         "favicon": "https://img.logo.dev/ars.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Ars Tretji program",
+        "url": "http://mp3.rtvslo.si/ars",
+        "favicon": "https://img.logo.dev/rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "bAm BaM RADIO - All shades of house",
         "url": "https://stream.laidbackvib.es:8888/320",
         "favicon": "https://img.logo.dev/bambamradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -25,14 +30,19 @@
         "favicon": "https://img.logo.dev/bestfm.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Capital Radio SL",
+        "url": "http://live.capitalradio.sl/",
+        "favicon": "https://img.logo.dev/capitalradio.sl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ENTER.RADIO",
+        "url": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter",
+        "favicon": "https://img.logo.dev/enter.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "FRAJER RADIO",
         "url": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;",
         "favicon": "https://img.logo.dev/radiofrajer.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gorenjska TV",
-        "url": "http://91.220.221.60/gtv_hls/gtv.m3u8",
-        "favicon": "https://img.logo.dev/gtv.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hit Radio Center (Ljubljana - 102.4MHz)",
@@ -90,6 +100,11 @@
         "favicon": "https://img.logo.dev/radiocenter.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Koroški radio",
+        "url": "https://live.radio.si/Koroski",
+        "favicon": "https://img.logo.dev/koroski-radio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "MARŠ 95,9 MHz",
         "url": "http://frekvenca.eu:8000/radiomars.mp3",
         "favicon": "https://img.logo.dev/radiomars.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -111,6 +126,11 @@
     },
     {
         "name": "Radio 1",
+        "url": "https://live.radio.si/Radio1",
+        "favicon": "https://img.logo.dev/radio1.svet24.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1",
         "url": "http://live.radio.si/Radio1",
         "favicon": "https://img.logo.dev/radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -123,6 +143,21 @@
         "name": "Radio 1 - Maribor (107.9MHz)",
         "url": "https://live.radio1.si/Radio1",
         "favicon": "https://img.logo.dev/radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1 80-a",
+        "url": "http://live.radio1.si/Radio80",
+        "favicon": "https://img.logo.dev/live.radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1 Koroska",
+        "url": "https://live.radio1.si/Radio1KOR",
+        "favicon": "https://img.logo.dev/radio1.svet24.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1 Rock",
+        "url": "https://live.radio.si/Radio1Rock?t=1776880155210",
+        "favicon": "https://img.logo.dev/radio1rock.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 2",
@@ -155,6 +190,11 @@
         "favicon": "https://img.logo.dev/radioantena.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio ARS",
+        "url": "https://mp3.rtvslo.si/ars",
+        "favicon": "https://img.logo.dev/ars.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio BOB",
         "url": "http://live6.infonetmedia.si/Europa05",
         "favicon": "https://img.logo.dev/radiobob.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -185,6 +225,11 @@
         "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Capris Club",
+        "url": "https://stream.exit.si/CLUB",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Capris Dalmacija",
         "url": "http://stream02.exit.si:8000/DALMACIJA?",
         "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -207,6 +252,11 @@
     {
         "name": "Radio Capris LOVE",
         "url": "http://stream02.exit.si:8000/LOVE?",
+        "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Capris Number 1's",
+        "url": "http://stream02.exit.si:8000/NO1?",
         "favicon": "https://img.logo.dev/radiocapris.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -270,6 +320,11 @@
         "favicon": "https://img.logo.dev/radioekspres.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Frajer",
+        "url": "https://stream2.nextmedia.si/hls/frj/live.m3u8",
+        "favicon": "https://img.logo.dev/radiofrajer.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Gorenc",
         "url": "http://stream.radiogorenc.si:8000/radiogorenc.mp3",
         "favicon": "https://img.logo.dev/radiogorenc.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -325,9 +380,19 @@
         "favicon": "https://img.logo.dev/radiometeor.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio METEOR .si",
+        "url": "https://stream.radiometeor.si/listen/meteor/live.mp3",
+        "favicon": "https://img.logo.dev/radiometeor.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Mister Deejay",
         "url": "http://stream.mister-deejay.com:9008/;",
         "favicon": "https://img.logo.dev/mister-deejay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio MMR",
+        "url": "https://mp3.rtvslo.si/mmr",
+        "favicon": "https://img.logo.dev/mmr.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO NET FM",
@@ -450,6 +515,16 @@
         "favicon": "https://img.logo.dev/rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Sloven'c",
+        "url": "http://89.142.192.172/live",
+        "favicon": "https://img.logo.dev/radioslovenc.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Slovenija 1",
+        "url": "https://mp3.rtvslo.si/prvi",
+        "favicon": "https://img.logo.dev/prvi.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Sora",
         "url": "http://radio-sora.si:8000/radio-sora.mp3",
         "favicon": "https://img.logo.dev/radio-sora.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -478,11 +553,6 @@
         "name": "Radio Študent",
         "url": "http://kruljo.radiostudent.si:8000/loq",
         "favicon": "https://img.logo.dev/radiostudent.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Student",
-        "url": "http://kruljo.radiostudent.si:8000/ehiq",
-        "favicon": "https://img.logo.dev/kruljo.radiostudent.si:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Študent",
@@ -577,6 +647,11 @@
     {
         "name": "Rock Radio Classics SLO",
         "url": "https://stream.nextmedia.si/proxy/rocks_3?mp=/stream",
+        "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ROCK RADIO Hard & Heavy",
+        "url": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream",
         "favicon": "https://img.logo.dev/rockradio.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {

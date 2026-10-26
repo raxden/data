@@ -1,5 +1,10 @@
 [
     {
+        "name": "LOVE FM: All you need is Love ♥ Clásicos pop",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -15,11 +20,6 @@
         "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Fiesta Latina 89.1 FM",
-        "url": "https://radios.solumedia.com/6596/stream",
-        "favicon": "https://img.logo.dev/fiestalatina.com.ni?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "La Nueva Radio | Nicaragua",
         "url": "https://stream.zenolive.com/axr92qawesmtv",
         "favicon": "https://img.logo.dev/nuevaya.com.ni?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -28,21 +28,6 @@
         "name": "La Voz del Norte",
         "url": "https://stream.zeno.fm/cbd1wweamzzuv",
         "favicon": "https://img.logo.dev/radiolavozdelnorte.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Masaya Rebelde",
-        "url": "https://stream.zeno.fm/bhutktvbfv8uv",
-        "favicon": "https://img.logo.dev/nicarebeldetv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Monimbo Radio",
-        "url": "https://stream.zeno.fm/nrj4lkdpwfgtv",
-        "favicon": "https://img.logo.dev/monimboradio.netlify.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nicaragua Reggae Radio.com",
-        "url": "http://online.radiodifusion.net:8054/stream/1/",
-        "favicon": "https://img.logo.dev/nicaraguareggae.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nova FM 100.7",
@@ -56,30 +41,10 @@
     },
     {
         "name": "Radio Conexión Romántica",
-        "url": "https://stream-177.zeno.fm/uauw712byzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YXV3NzEyYnl6enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR3o3MjJ4dVZUYUt5TGhRVEVHMU5tQSIsImlhdCI6MTc3MjEyNTE3MCwiZXhwIjoxNzcyMTI1MjMwfQ.iR99fkwDfQ5ihnMOhIJSAX8XgR6Qje6nkKFY9n7xNqY",
+        "url": "https://stream-280.surfernetwork.com/uauw712byzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YXV3NzEyYnl6enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlVLZUJaVmtVVDZTemduUjZYUWsweHciLCJpYXQiOjE3OTI2ODIyMzAsImV4cCI6MTc5MjY4MjI5MH0.Fsur-gCIJWmLchyIsRpmigl3WL9ILQerMLBj_FGmF3I",
         "favicon": "https://img.logo.dev/n9.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Cristo Viene Masaya Nicaragua",
-        "url": "https://stream.zeno.fm/axxgbszqxhhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Cristo Viene Masaya Nicaragua",
-        "url": "https://stream.zeno.fm/axxgbszqxhhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Cristo Viene Masaya Nicaragua",
-        "url": "https://stream.zeno.fm/axxgbszqxhhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Estereo Música",
-        "url": "http://stream.zeno.fm/8mwf6ssgtceuv",
-        "favicon": "https://img.logo.dev/radiomusicnicaragu.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Estrella del Mar",
         "url": "https://streamer.radio.co/sd5242d0b6/listen",
         "favicon": "https://img.logo.dev/radioestrelladelmar.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -88,16 +53,16 @@
         "name": "Radio Estrella del Mar",
         "url": "https://streamer.radio.co/sd5242d0b6/listen",
         "favicon": "https://img.logo.dev/radioestrelladelmar.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Hermanos",
-        "url": "https://stream.zenolive.com/vq7z0a3u7mruv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Juan Pablo Segundo 97.7 fm",
         "url": "https://dc2.serverse.com:8040/stream",
         "favicon": "https://img.logo.dev/radiojuanpablosegundo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO RUMBA 505",
+        "url": "http://212.84.160.3:11143/stream",
+        "favicon": "https://img.logo.dev/radiorumba505.listen2myshow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Sendas FM",
@@ -108,11 +73,6 @@
         "name": "Radio Stereo Mundo 91.9 FM",
         "url": "https://ssl.hostingtico.com:8138/smundo2014",
         "favicon": "https://img.logo.dev/stereomundo919.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Vandalica Nicaragua",
-        "url": "https://stream.zeno.fm/caq3fwn1fnruv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock FM 105.5",

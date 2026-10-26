@@ -23,5 +23,10 @@
         "name": "MandalayFM",
         "url": "https://edge.mixlr.com/channel/nmtev",
         "favicon": "https://img.logo.dev/raddio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Padamyar FM",
+        "url": "https://stream.zeno.fm/og9btsnj00tuv",
+        "favicon": "https://img.logo.dev/padamyarfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

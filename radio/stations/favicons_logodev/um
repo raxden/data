@@ -1,8 +1,28 @@
 [
     {
+        "name": "106.9 KROC FM",
+        "url": "https://prod-52-55-242-202.amperwave.net/townsquare-krocfmaac-hlsc3.m3u8?",
+        "favicon": "https://img.logo.dev/kroc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "92 KQRS",
+        "url": "https://29317.live.streamtheworld.com/KQRSFM.mp3",
+        "favicon": "https://img.logo.dev/92kqrs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "93.7 KHJ Oldies",
         "url": "https://ice26.securenetsystems.net/KKHJHD2",
         "favicon": "https://img.logo.dev/southseasbroadcasting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "93X",
+        "url": "https://27283.live.streamtheworld.com/KXXRFM.mp3",
+        "favicon": "https://img.logo.dev/93x.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "93X",
+        "url": "https://27283.live.streamtheworld.com/KXXRFM.mp3",
+        "favicon": "https://img.logo.dev/93x.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "940 Gospel Radio",
@@ -13,6 +33,11 @@
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "amR",
+        "url": "https://c25.radioboss.fm:8425/stream",
+        "favicon": "https://img.logo.dev/amr-radio.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Classical KDFC",
@@ -30,6 +55,11 @@
         "favicon": "https://img.logo.dev/dpssoul.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Fun 104",
+        "url": "https://prod-52-91-27-46.amperwave.net/townsquare-kfnlfmmp3-ibc3?session-id=526240798c02759a1fdc495c2f40c299",
+        "favicon": "https://img.logo.dev/fun1043.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Grits Radio",
         "url": "http://169.61.85.22/grits",
         "favicon": "https://img.logo.dev/gritsradio.pmlol.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -45,14 +75,54 @@
         "favicon": "https://img.logo.dev/halloweenradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hard Rock Heaven",
+        "url": "https://ais-sa2.cdnstream1.com/1521_128",
+        "favicon": "https://img.logo.dev/hrhradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hard Rock Heaven",
+        "url": "https://ais-sa2.cdnstream1.com/1521_128",
+        "favicon": "https://img.logo.dev/hrhradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iHeart 2000s Radio",
+        "url": "https://n23b-e2.revma.ihrhls.com/zc6850/hls.m3u8?rj-ttl=5&rj-tok=AAABoAtx4zgAWafLS3OZolBX9Q",
+        "favicon": "https://img.logo.dev/iheart.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iHeart 70s Radio",
+        "url": "https://n2cb-e2.revma.ihrhls.com/zc6843/hls.m3u8?rj-ttl=5&rj-tok=AAABoAubRgEAC7zvsAIPlRf8Ag",
+        "favicon": "https://img.logo.dev/iheart.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iHeart 80s Radio",
+        "url": "https://n22b-e2.revma.ihrhls.com/zc5060/hls.m3u8?rj-ttl=5&rj-tok=AAABoAvF0cgA9IKCFYKaKbyoGA",
+        "favicon": "https://img.logo.dev/iheart.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iHeart 90s Radio",
+        "url": "https://n17b-e2.revma.ihrhls.com/zc6834/hls.m3u8?rj-ttl=5&rj-tok=AAABoAvTY-IA1MznGDOHc3T55A",
+        "favicon": "https://img.logo.dev/iheart.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KRPR 89.9 FM",
+        "url": "https://ice23.securenetsystems.net/KRPR",
+        "favicon": "https://img.logo.dev/krpr.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Laser 101.7",
+        "url": "https://n08b-e2.revma.ihrhls.com/zc4463/hls.m3u8?rj-ttl=5&rj-tok=AAABoAxy-JgA-hSyk0bZIzTTJA",
+        "favicon": "https://img.logo.dev/laser1017.iheart.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Minnesota Music Channel",
+        "url": "https://stream-01.aiir.com/vtrrdk83knmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dHJyZGs4M2tubXV2IiwiaG9zdCI6InN0cmVhbS0wMS5haWlyLmNvbSIsInJ0dGwiOjUsImp0aSI6ImRZQjlQQXZ4VHZhMjc3Y1ZCMVpGSFEiLCJpYXQiOjE3ODY5MTUyNTMsImV4cCI6MTc4NjkxNTMxM30.1fezl3hfb1bfcJKpN-0Zzh_X-bYb78PDSir0Se7f2oo",
+        "favicon": "https://img.logo.dev/mankato.mnsu.edu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "MXTR FM",
         "url": "https://streaming.live365.com/a03037",
         "favicon": "https://img.logo.dev/mxtrfm.webstarts.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Quiet Village Radio",
-        "url": "http://broadcast.shoutcheap.com:8424/streamhttp://broadcast.shoutcheap.com:8424/stream",
-        "favicon": "https://img.logo.dev/diditiki.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Farda",
@@ -65,9 +135,19 @@
         "favicon": "https://img.logo.dev/suburbspod.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sports 810 WHB",
+        "url": "https://sslstream.com/",
+        "favicon": "https://img.logo.dev/810whb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "The Breeze",
         "url": "http://65.108.105.26:7617/stream",
         "favicon": "https://img.logo.dev/bjornstadamerica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Ganja Comic Radio",
+        "url": "https://streams.radio.co/s055650402/listen",
+        "favicon": "https://img.logo.dev/blackmetalinkcomics.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WLFC 88.3 - Univ. of Findlay North Baltimore,  OH",
@@ -78,5 +158,10 @@
         "name": "WSNR.US",
         "url": "https://www.stepnorthdigitalradio.com:6008/stream",
         "favicon": "https://img.logo.dev/wsnr.us?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WTMB 94.5 FM",
+        "url": "https://prod-23-20-60-37.amperwave.net/magnumbroadcasting-wtmbfmaac-hlsc1.m3u8",
+        "favicon": "https://img.logo.dev/classicrockwtmb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

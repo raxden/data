@@ -55,6 +55,11 @@
         "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Truck FM",
+        "url": "https://fm.truckfm.uz:8000/64",
+        "favicon": "https://img.logo.dev/fm.truckfm.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Yoshlar Ovozi",
         "url": "http://ns10.jethost.uz:8000/yoshlarovoziaac",
         "favicon": "https://img.logo.dev/muz.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

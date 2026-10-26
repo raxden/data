@@ -10,24 +10,29 @@
         "favicon": "https://img.logo.dev/blazin993.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Caribbean Hot FM 105.3 - Castries",
-        "url": "http://auds2.intacs.com/caribbeanhotfm",
-        "favicon": "https://img.logo.dev/caribbeanhotfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Caribbean KISS FM 105.5 Castries",
-        "url": "http://auds2.intacs.com/caribbeankissfm",
-        "favicon": "https://img.logo.dev/caribbeankissfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Fire FM",
         "url": "https://tinyurl.com/firefm758",
         "favicon": "https://img.logo.dev/tinyurl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Gloryfm",
+        "url": "https://gloryfm.ismyradio.com/player",
+        "favicon": "https://img.logo.dev/gloryfm.ismyradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hype FM 89.9",
+        "url": "https://fwd.autopo.st/rmediaslu",
+        "favicon": "https://img.logo.dev/fwd.autopo.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Power 97.9",
         "url": "https://usa10.fastcast4u.com/power979fm",
         "favicon": "https://img.logo.dev/power979.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "reliable radio 89.9",
+        "url": "https://s2.radio.co/s5fb28a34d/listen",
+        "favicon": "https://img.logo.dev/boomstationslu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "REV-UP SLU",
@@ -40,9 +45,9 @@
         "favicon": "https://img.logo.dev/rfi1021slu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RFI 102.1 FM",
-        "url": "http://cp.usa3.fastcast4u.com:5908/;",
-        "favicon": "https://img.logo.dev/rfi1021fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RJL Radio",
+        "url": "https://s3.radio.co/sc5bdee4a4/listen",
+        "favicon": "https://img.logo.dev/rjlradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "The Wave 94.5 & 93.7 Castries",

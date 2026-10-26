@@ -5,8 +5,23 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Offshore Radio",
+        "url": "https://live.offshoreradio.net/listen/offshore_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/offshoreradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "SBC Paradise FM - Seychelles Best Mix",
         "url": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8",
+        "favicon": "https://img.logo.dev/sbc.sc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SBC Radyo Sesel",
+        "url": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8",
+        "favicon": "https://img.logo.dev/sbc.sc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SBC Radyo Sesel",
+        "url": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8",
         "favicon": "https://img.logo.dev/sbc.sc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

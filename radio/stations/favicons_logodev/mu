@@ -45,6 +45,11 @@
         "favicon": "https://img.logo.dev/rod.ouiradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio 7 Mauritius",
+        "url": "https://c2.radioboss.fm/stream/1056",
+        "favicon": "https://img.logo.dev/radio7mauritius.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio One",
         "url": "https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream",
         "favicon": "https://img.logo.dev/radio1.mu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -72,7 +77,7 @@
     {
         "name": "Tamizen",
         "url": "https://c34.radioboss.fm:18023/stream",
-        "favicon": "https://img.logo.dev/c34.radioboss.fm:18023?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c34.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Top FM",

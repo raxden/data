@@ -1,10 +1,5 @@
 [
     {
-        "name": ". Al quran radio",
-        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": ". القارئ محمد أيوب",
         "url": "https://qurango.net/radio/mohammed_ayyub",
         "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,6 +18,11 @@
         "name": "Al rasheed fm",
         "url": "https://streaming.shoutcast.com/alrasheed-fm?1719771692024",
         "favicon": "https://img.logo.dev/alrasheedmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al rasheed fm )Kirkuk)",
+        "url": "https://streaming.shoutcast.com/alrasheed-kirkuk",
+        "favicon": "https://img.logo.dev/alrasheedfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Al-bilad Radio/Yaqoubi",
@@ -50,6 +50,11 @@
         "favicon": "https://img.logo.dev/mustaqbal-fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "kanal 8",
+        "url": "https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8",
+        "favicon": "https://img.logo.dev/live.channel8.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Kurdistan 24",
         "url": "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
         "favicon": "https://img.logo.dev/kurdistan24.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -63,26 +68,6 @@
         "name": "Radio Duhok FM",
         "url": "https://stream-149.zeno.fm/unwq3jdyhmbuv",
         "favicon": "https://img.logo.dev/radioduhok.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio maria iraq",
-        "url": "http://dreamsiteradiocp4.com:8046/stream",
-        "favicon": "https://img.logo.dev/dreamsiteradiocp4.com:8046?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio maria iraq",
-        "url": "http://dreamsiteradiocp4.com:8046/stream",
-        "favicon": "https://img.logo.dev/dreamsiteradiocp4.com:8046?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Shanasheel",
-        "url": "https://stream-152.zeno.fm/a33ka0d94p8uv",
-        "favicon": "https://img.logo.dev/stream-152.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Shanasheel",
-        "url": "https://stream-152.zeno.fm/a33ka0d94p8uv",
-        "favicon": "https://img.logo.dev/stream-152.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo  Şirvan Perwer",
@@ -100,14 +85,14 @@
         "favicon": "https://img.logo.dev/shafaq.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "speda radio",
+        "url": "https://radio.host247.net/spedafm",
+        "favicon": "https://img.logo.dev/live.channel8.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "SumerFm Iraq",
         "url": "https://l3.itworkscdn.net/itwaudio/9012/stream",
         "favicon": "https://img.logo.dev/alsumaria.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Turkmen FM  تركمان إف إم",
-        "url": "https://radyo1.radyo-dinle.tc/8284/stream;",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Waar radio",

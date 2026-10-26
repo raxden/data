@@ -10,8 +10,38 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Caboradio",
-        "url": "https://listen.radioking.com/radio/281506/stream/327253",
-        "favicon": "https://img.logo.dev/caboradio.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Cidade FM Cabo Verde",
+        "url": "https://hts02.brascast.com:9288/stream",
+        "favicon": "https://img.logo.dev/cidadefm.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Crioula FM",
+        "url": "https://nl.digitalrm.pt:8098/stream",
+        "favicon": "https://img.logo.dev/crioulafm.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio La Mueve",
+        "url": "https://sunaer-stream.com:7007/LA_MUEVE_CADENA_CV_SD",
+        "favicon": "https://img.logo.dev/lamueve.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RCV Radio Cabo Verde",
+        "url": "https://a3.asurahosting.com:6980/radio.mp3",
+        "favicon": "https://img.logo.dev/rtc.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RCV Radio Cabo Verde",
+        "url": "https://a3.asurahosting.com:6980/radio.mp3",
+        "favicon": "https://img.logo.dev/rtc.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RCV Radio Cabo Verde direct",
+        "url": "https://a3.asurahosting.com/listen/rcv/radio.mp3",
+        "favicon": "https://img.logo.dev/rtc.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RCV+ Radio Cabo Verde Jovem",
+        "url": "https://a8.my-control-panel.com:8670/radio.mp3",
+        "favicon": "https://img.logo.dev/rtc.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

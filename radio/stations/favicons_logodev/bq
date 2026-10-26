@@ -10,19 +10,19 @@
         "favicon": "https://img.logo.dev/vozdibonaire.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Bon FM 102.7  Riscado",
-        "url": "http://bonfm5.primcast.com:6482/;",
-        "favicon": "https://img.logo.dev/bonfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Club De Daltons",
+        "url": "https://proxy1.audiostreamen.nl/clubdedaltons.mp3",
+        "favicon": "https://img.logo.dev/clubdedaltons.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Caprice Spacesynth",
-        "url": "http://79.120.39.202:9111/",
-        "favicon": "https://img.logo.dev/capricespacesynth.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Dolfijn FM Bonaire",
+        "url": "https://zeno.fm/",
+        "favicon": "https://img.logo.dev/dolfijngo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Carina FM",
-        "url": "http://185.198.27.187:8616/Cariba_FM",
-        "favicon": "https://img.logo.dev/caribafm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "KISS FM Nederland",
+        "url": "https://stream.kissfm.nl/kissfm",
+        "favicon": "https://img.logo.dev/kissfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Live99 FM - Kralendijk",
@@ -40,11 +40,6 @@
         "favicon": "https://img.logo.dev/megahitfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Non Stop Hits Alex FM",
-        "url": "https://radioalexfm.stream.laut.fm/radioalexfm?ref=web-app&start_time=1709718045653",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Transmundial Bonaire 800 Khz",
         "url": "https://cdn.instream.audio/:9050/stream",
         "favicon": "https://img.logo.dev/twr360.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -53,6 +48,11 @@
         "name": "RTV Purmerend",
         "url": "http://stream.zxp.nl:8000/radiopurmerend_bb",
         "favicon": "https://img.logo.dev/rtvpurmerend.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Solid FM 93.1",
+        "url": "https://caribspy.com/proxy/solidfm/stream/;?type=http&amp;nocache=107036",
+        "favicon": "https://img.logo.dev/solidfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Studio De Groene Knuppel",

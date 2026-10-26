@@ -1,8 +1,8 @@
 [
     {
-        "name": "100.7 Stereo",
-        "url": "https://stream20.usastreams.com/8138/stream",
-        "favicon": "https://img.logo.dev/rocknpopsv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "LOVE FM: All you need is Love ♥ Amor en mi radio",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "100.7 Stereo",
@@ -10,9 +10,14 @@
         "favicon": "https://img.logo.dev/rocknpopsv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "105 Salsa",
-        "url": "https://stream.zeno.fm/mdn371ycuwzuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "100.7 Stereo",
+        "url": "https://stream20.usastreams.com/8138/stream",
+        "favicon": "https://img.logo.dev/rocknpopsv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "107.7 Fuego FM",
+        "url": "https://mgvfuego-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
+        "favicon": "https://img.logo.dev/megavision.univtec.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "92.5 Club",
@@ -30,6 +35,11 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "C3 Radio",
+        "url": "https://azuracast.myautodj.com/radio/8170/radio.mp3",
+        "favicon": "https://img.logo.dev/iglesiac3.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "COOL FM 89.3",
         "url": "http://media.dominiocreativo.com:8006/coolfm",
         "favicon": "https://img.logo.dev/radiocoolfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -43,11 +53,6 @@
         "name": "Exa FM 91.3 El Salvador",
         "url": "http://158.69.219.162:8028/stream",
         "favicon": "https://img.logo.dev/miradio.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Exa FM El Salvador",
-        "url": "http://158.69.219.162:8028/",
-        "favicon": "https://img.logo.dev/exaelsalvador.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Femenina",
@@ -65,13 +70,13 @@
         "favicon": "https://img.logo.dev/lacentralfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "La Jefa Radio El Salvador",
-        "url": "http://stream.zeno.fm/b264csn0sy8uv",
-        "favicon": "https://img.logo.dev/lajefaradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "La Mejor FM 98.9",
         "url": "http://158.69.219.162:8024/stream",
+        "favicon": "https://img.logo.dev/miradio.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "La Pop 98.9",
+        "url": "https://mejor.watahosting.com/radio/8024/radio.mp3",
         "favicon": "https://img.logo.dev/miradio.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -130,6 +135,11 @@
         "favicon": "https://img.logo.dev/radioelmundo.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio ESV El Salvador Vintage",
+        "url": "https://a6.asurahosting.com:8580/radio.mp3",
+        "favicon": "https://img.logo.dev/a6.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Femenina | 102.5 FM",
         "url": "https://sp4.colombiatelecom.com.co/8028/stream",
         "favicon": "https://img.logo.dev/femenina.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -183,11 +193,6 @@
         "name": "Radio Mil 80 101.7 FM",
         "url": "https://radio.videct.com/8002/stream",
         "favicon": "https://img.logo.dev/mil80.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Nacional de El Salvador  - 96.9",
-        "url": "https://streamingcwsradio30.com/8156/stream",
-        "favicon": "https://img.logo.dev/tunein.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Que Buena 88.9",
@@ -283,11 +288,6 @@
         "name": "Super Estrella 94.1 FM",
         "url": "http://streaming.rcs.com.sv/proxy/super/stream",
         "favicon": "https://img.logo.dev/radiocorporacionelsalvador.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Taylor Swift Radio",
-        "url": "https://stream.zeno.fm/xiothj9jrxfvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Vox FM",

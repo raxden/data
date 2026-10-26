@@ -50,6 +50,21 @@
         "favicon": "https://img.logo.dev/finestfm.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "FinnRadio",
+        "url": "https://servidor39-5.brlogic.com:7076/live",
+        "favicon": "https://img.logo.dev/finnradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FugeFM",
+        "url": "https://streaming.broadcast.radio/fugefm",
+        "favicon": "https://img.logo.dev/fuengirola.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Groove FM",
+        "url": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+        "favicon": "https://img.logo.dev/supla.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Groove FM",
         "url": "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
         "favicon": "https://img.logo.dev/supla.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -65,6 +80,11 @@
         "favicon": "https://img.logo.dev/supla.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "IDA Radio",
+        "url": "https://broadcast.idaidaida.net:8000/stream",
+        "favicon": "https://img.logo.dev/idaidaida.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Iskelmä",
         "url": "https://stream.bauermedia.fi/iskelma/iskelma_128.mp3",
         "favicon": "https://img.logo.dev/iskelma.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -77,6 +97,16 @@
     {
         "name": "Järviradio",
         "url": "https://jarviradio.radiotaajuus.fi:9000/jr",
+        "favicon": "https://img.logo.dev/jarviradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Järviradio Puhe",
+        "url": "https://jarviradio.radiotaajuus.fi:9000/jrpuhe",
+        "favicon": "https://img.logo.dev/jarviradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Järviradio Puhe",
+        "url": "https://jarviradio.radiotaajuus.fi:9000/jrpuhe",
         "favicon": "https://img.logo.dev/jarviradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -110,6 +140,11 @@
         "favicon": "https://img.logo.dev/supla.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Karjalainen Syke",
+        "url": "https://radio.diks.fi/karjalainensyke",
+        "favicon": "https://img.logo.dev/karjalainensyke.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Kasari",
         "url": "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
         "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -120,14 +155,19 @@
         "favicon": "https://img.logo.dev/kerhoradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Keygen FM",
-        "url": "https://keygen-fm.kodatek.app/listen/keygen-fm/radio.mp3",
-        "favicon": "https://img.logo.dev/keygen-fm.kodatek.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Kesäseuraradio",
+        "url": "https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b",
+        "favicon": "https://img.logo.dev/kesaseuraradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kiss",
         "url": "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
         "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kohina - Old School Game and Demo Music",
+        "url": "http://kohina.duckdns.org:8000/stream.ogg",
+        "favicon": "https://img.logo.dev/kohina.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LBC",
@@ -138,6 +178,16 @@
         "name": "Loop",
         "url": "https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
         "favicon": "https://img.logo.dev/supla.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mökkiradio",
+        "url": "https://stream.mokkiradio.fi:18008/mokkiradio",
+        "favicon": "https://img.logo.dev/mokkiradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MTV Uutiset",
+        "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+        "favicon": "https://img.logo.dev/mtvuutiset.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nightwish",
@@ -170,13 +220,58 @@
         "favicon": "https://img.logo.dev/nrj.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "POP fm",
+        "url": "http://stream.nsp.se:8000/pop",
+        "favicon": "https://img.logo.dev/popfm.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "POP fm",
+        "url": "http://stream.nsp.se:8000/popfm",
+        "favicon": "https://img.logo.dev/popfm.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "POPfm",
+        "url": "http://stream.nsp.se:8000/pop",
+        "favicon": "https://img.logo.dev/popfm.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "POPfm",
         "url": "https://stream.madmenmedia.se/popfm",
         "favicon": "https://img.logo.dev/popfm.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "POPFM",
+        "url": "http://stream.nsp.se:8000/popfm_high",
+        "favicon": "https://img.logo.dev/popfm.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pride Radio",
+        "url": "https://streaming.radioplay.fi/fi_pride_128.mp3",
+        "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio 957",
         "url": "https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+        "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Auran Aallot",
+        "url": "https://streaming.radioplay.fi/fi_auranaallot_128.mp3",
+        "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Boofi",
+        "url": "https://radio.iranian.fi/listen/vip/radio.mp3",
+        "favicon": "https://img.logo.dev/iranian.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio City",
+        "url": "https://streaming.radioplay.fi/fi_radiocity_128.mp3",
+        "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Classic",
+        "url": "https://streaming.radioplay.fi/fi_classic_128.mp3",
         "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -240,9 +335,19 @@
         "favicon": "https://img.logo.dev/hear.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Helsinki",
+        "url": "https://stream.radiohelsinki.fi/stream",
+        "favicon": "https://img.logo.dev/radiohelsinki.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Helsinki 98,5 Mhz",
         "url": "https://stream.radiohelsinki.fi/stream",
         "favicon": "https://img.logo.dev/radiohelsinki.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Kaakko",
+        "url": "https://wr2.downtime.fi/kaakko.mp3",
+        "favicon": "https://img.logo.dev/radiokaakko.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio KAAKKO",
@@ -258,6 +363,11 @@
         "name": "Radio Keskisuomalainen",
         "url": "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen",
         "favicon": "https://img.logo.dev/radiokeskisuomalainen.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mega",
+        "url": "https://streaming.radioplay.fi/fi_radiomega_128.mp3",
+        "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Musa",
@@ -351,6 +461,11 @@
     },
     {
         "name": "Radio Rock",
+        "url": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rock",
         "url": "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
         "favicon": "https://img.logo.dev/supla.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -368,6 +483,11 @@
         "name": "Radio Santa Claus",
         "url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
         "favicon": "https://img.logo.dev/radiosantaclaus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Sun",
+        "url": "https://st.downtime.fi/sun.mp3",
+        "favicon": "https://img.logo.dev/radiosun.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio SUN",
@@ -418,6 +538,26 @@
         "name": "Radioverkko",
         "url": "http://kuuntele.radioverkko.fi:8000/live",
         "favicon": "https://img.logo.dev/radioverkko.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadiOwO",
+        "url": "https://stream.muhennos.xyz/listen/radiowo/radio.mp3",
+        "favicon": "https://img.logo.dev/stream.muhennos.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RAKKAUDEN WAPPURADIO",
+        "url": "https://stream1.wappuradio.fi/wappuradio.opus",
+        "favicon": "https://img.logo.dev/wappuradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RAKKAUDEN WAPPURADIO",
+        "url": "http://stream1.wappuradio.fi/wappuradio.mp3",
+        "favicon": "https://img.logo.dev/wappuradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RattoRadio",
+        "url": "https://stream.rattoradio.fi/ratto.mp3",
+        "favicon": "https://img.logo.dev/rattoradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "REPLAY NEWS - Suomi",
@@ -475,6 +615,11 @@
         "favicon": "https://img.logo.dev/seafm.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "SuomiRap",
+        "url": "https://streaming.radioplay.fi/fi_suomirap_128.mp3",
+        "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Sveriges Radio - SR Sisuradio",
         "url": "https://live1.sr.se/finska-aac-320",
         "favicon": "https://img.logo.dev/sverigesradio.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -483,6 +628,11 @@
         "name": "Tampereen Kiakkoradio: Tappara",
         "url": "https://st.downtime.fi/kiakko-tappara.aac",
         "favicon": "https://img.logo.dev/kiakkoradio.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tekoälyradio",
+        "url": "https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3",
+        "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TOP51",
@@ -507,6 +657,16 @@
     {
         "name": "Yle Klassinen",
         "url": "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8",
+        "favicon": "https://img.logo.dev/yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yle Klassinen (HLS)",
+        "url": "https://yleradiolive5.akamaized.net/hls/live/20000872/yleklassinen/master.m3u8",
+        "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yle Puhe",
+        "url": "https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/master.m3u8",
         "favicon": "https://img.logo.dev/yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -545,6 +705,11 @@
         "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Yle Radio Suomi Kajaani",
+        "url": "https://yleradiolive5.akamaized.net/hls/live/20000882/ylers-kajaani/256/variant.m3u8",
+        "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Yle radio Suomi Pohjanmaa",
         "url": "https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio",
         "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -557,6 +722,11 @@
     {
         "name": "Yle Radio Suomi, Helsinki",
         "url": "http://icecast.live.yle.fi/radio/YleRS/icecast.audio",
+        "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yle Radio Suomi, Joensuu",
+        "url": "https://icecast.live.yle.fi/radio/YleJoensuu/icecast.audio",
         "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -585,9 +755,9 @@
         "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Yle Radio Suomi, Oulu Radio",
-        "url": "http://icecast.live.yle.fi/radio/YleOulu/icecast.audio",
-        "favicon": "https://img.logo.dev/icecast.live.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Yle Radio Suomi, Rovaniemi",
+        "url": "https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio",
+        "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Yle Radio Suomi, Turku",
@@ -600,14 +770,14 @@
         "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Yle Radio1HIFI 256 Kb/s",
-        "url": "http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio",
-        "favicon": "https://img.logo.dev/icecast.live.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Yle Sámi Radio",
         "url": "https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8",
         "favicon": "https://img.logo.dev/yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yle Sámi Radio",
+        "url": "https://icecast.live.yle.fi/radio/YleSami/icecast.audio",
+        "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Yle Suomi Kemi",
@@ -616,7 +786,7 @@
     },
     {
         "name": "Yle Vega Åboland",
-        "url": "http://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio",
+        "url": "https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio",
         "favicon": "https://img.logo.dev/arenan.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -673,6 +843,11 @@
         "name": "YleX",
         "url": "https://icecast.live.yle.fi/radio/YleX/icecast.audio",
         "favicon": "https://img.logo.dev/ylex.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YleX",
+        "url": "http://icecast.live.yle.fi/radio/YleX/icecast.audio",
+        "favicon": "https://img.logo.dev/areena.yle.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ysäri",

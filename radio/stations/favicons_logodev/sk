@@ -35,14 +35,9 @@
         "favicon": "https://img.logo.dev/detske.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Dobré Rádio",
-        "url": "https://stream.dobreradio.sk/dobreradio.mp3",
-        "favicon": "https://img.logo.dev/dobreradio.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Duflo Radio",
-        "url": "http://stream.zeno.fm/kxwhyvz2fm0uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Detské rádio",
+        "url": "http://stream.21.sk/detskeradio-128.mp3",
+        "favicon": "https://img.logo.dev/detske.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Europa 2",
@@ -160,19 +155,14 @@
         "favicon": "https://img.logo.dev/hitradioslovakia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "House Radio",
-        "url": "http://stream.zeno.fm/qm8e21gta18uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Infovojna",
+        "name": "Info_vojna",
         "url": "https://stream1.infovojna.com:8000/live",
         "favicon": "https://img.logo.dev/infovojna.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Infovojna",
-        "url": "http://159.69.219.5:8010/aac",
-        "favicon": "https://img.logo.dev/159.69.219.5:8010?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://stream1.infovojna.com:8000/live",
+        "favicon": "https://img.logo.dev/infovojna.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "InfoVojna",
@@ -200,29 +190,9 @@
         "favicon": "https://img.logo.dev/beta.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "mars dance",
-        "url": "https://stream-153.zeno.fm/683gf5xrxfeuv?zs=gtI4gERBSUGu8f0FOcDOWw&1686916511841",
-        "favicon": "https://img.logo.dev/dance80.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "METALSCENA netRADIO",
-        "url": "https://listen.radioking.com/radio/263218/stream/308365",
-        "favicon": "https://img.logo.dev/metalscena.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Mirjam Rádio - Mária Rádió Felvidék",
         "url": "http://193.87.81.131:8081/MariaRadioFelvidek",
         "favicon": "https://img.logo.dev/mariaradio.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Party Mix Radio",
-        "url": "http://stream.zeno.fm/rw6ckefezs8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Party Radio",
-        "url": "https://mpc1.mediacp.eu/stream/partyradio",
-        "favicon": "https://img.logo.dev/partyradio.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pátria Rádió",
@@ -235,14 +205,24 @@
         "favicon": "https://img.logo.dev/radio7.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio 7",
+        "url": "https://play.radio7.sk/128",
+        "favicon": "https://img.logo.dev/radio7.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio 7",
+        "url": "https://play.radio7.sk/128",
+        "favicon": "https://img.logo.dev/radio7.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio 7",
+        "url": "https://play.radio7.sk/128",
+        "favicon": "https://img.logo.dev/radio7.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio Aetter",
         "url": "http://stream.aetter.sk:8000/aetter",
         "favicon": "https://img.logo.dev/aetter.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Basavel",
-        "url": "https://stream.zeno.fm/6gd9c6yn4nhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Bela",
@@ -307,6 +287,11 @@
     {
         "name": "RÁDIO EXPRES",
         "url": "http://stream.expres.sk/128.mp3",
+        "favicon": "https://img.logo.dev/expres.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Expres",
+        "url": "https://stream.bauermedia.sk/expres-hi.mp3",
         "favicon": "https://img.logo.dev/expres.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -395,6 +380,11 @@
         "favicon": "https://img.logo.dev/rockmusic.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio KIKS Československo",
+        "url": "https://online.radiokiks.sk:8000/kiks_czsk.mp3",
+        "favicon": "https://img.logo.dev/radiokiks.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio Košice",
         "url": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
         "favicon": "https://img.logo.dev/radiokosice.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -443,11 +433,6 @@
         "name": "Radio Melody",
         "url": "https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile",
         "favicon": "https://img.logo.dev/radiomelody.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio metropolitan",
-        "url": "https://mpc2.mediacp.eu:8214/stream",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Paráda",
@@ -502,6 +487,11 @@
     {
         "name": "Rádio ROCK",
         "url": "https://stream.bauermedia.sk/rock-hi.mp3",
+        "favicon": "https://img.logo.dev/radiorock.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Rock",
+        "url": "https://stream.bauermedia.sk/rock-hi.mp3?aw_0_req.gdpr=false",
         "favicon": "https://img.logo.dev/radiorock.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -670,11 +660,6 @@
         "favicon": "https://img.logo.dev/radiox.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Zabava",
-        "url": "https://stream.zeno.fm/eyac00cx1nhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RÁDIO_FM",
         "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
         "favicon": "https://img.logo.dev/fm.rtvs.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -707,7 +692,7 @@
     {
         "name": "RTVS Litera256",
         "url": "http://live.slovakradio.sk:8000/Litera_256.mp3",
-        "favicon": "https://img.logo.dev/live.slovakradio.sk:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/live.slovakradio.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rusyn FM",
@@ -728,11 +713,6 @@
         "name": "SKY Rádio",
         "url": "http://stream.skyradio.sk:8000/sky128",
         "favicon": "https://img.logo.dev/skyradio.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sllobodný vysielač",
-        "url": "http://159.69.219.5:8010//aac",
-        "favicon": "https://img.logo.dev/159.69.219.5:8010?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Slobodný vysielač",

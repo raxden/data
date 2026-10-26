@@ -65,9 +65,9 @@
         "favicon": "https://img.logo.dev/lettbylgjan.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Bodun 105.5 Reykjavik",
-        "url": "http://radio.bodun.is:8000/stream",
-        "favicon": "https://img.logo.dev/tunein.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RADIO AKI ASGEIRSSON : Tonlist / Music by Aki Asgeirsson",
+        "url": "https://kast.aki.is/radio",
+        "favicon": "https://img.logo.dev/aki.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rás 1",
@@ -85,6 +85,11 @@
         "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Retro",
+        "url": "https://ice-11.spilarinn.is/retromobile",
+        "favicon": "https://img.logo.dev/k100.mbl.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rondó",
         "url": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8",
         "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -97,6 +102,11 @@
     {
         "name": "Ruv 1",
         "url": "http://netradio.ruv.is/ras1.aac",
+        "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RÚV Rás 2",
+        "url": "http://netradio.ruv.is/ras2.mp3",
         "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {

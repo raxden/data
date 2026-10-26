@@ -1,5 +1,10 @@
 [
     {
+        "name": "LOVE FM: All you need is Love ♥ Amor en la radio",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "EXA FM Honduras: Tegucigalpa 100.5 FM / San Pedro Sula 89.3 FM / Choluteca 95.9 FM / Litoral 93.9 FM",
         "url": "https://stream.zeno.fm/0n4tnx3wd5zuv",
         "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -15,16 +20,6 @@
         "favicon": "https://img.logo.dev/latop.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Vox FM Honduras - Tegucigalpa 101.7 FM - San Pedro Sula 106.1 FM",
-        "url": "https://ice42.securenetsystems.net/VOXFM",
-        "favicon": "https://img.logo.dev/es.streema.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "XY 90.5 FM - Tegucigalpa, Honduras",
-        "url": "http://ice42.securenetsystems.net/XY905",
-        "favicon": "https://img.logo.dev/es.streema.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "1 FM Hits Radio",
         "url": "https://stream.zeno.fm/yg1gkzwabzzuv",
         "favicon": "https://img.logo.dev/1fm.mex.tl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -33,11 +28,6 @@
         "name": "94 SU FM 94.1 Tegucigalpa",
         "url": "http://ice42.securenetsystems.net/94SUFM",
         "favicon": "https://img.logo.dev/94sufm.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ABC Radio AM 550 FM 89.7",
-        "url": "http://137.184.101.169:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/abcradiohn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Abdulbasit Abdulsamad",
@@ -63,21 +53,6 @@
         "name": "Cortes FM",
         "url": "https://cortesfm-zikoxweb.radioca.st/stream/1/",
         "favicon": "https://img.logo.dev/radios.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DCR Difusora Cristiana de Radio 103.1 FM",
-        "url": "http://stream.playerlive.info:8165/",
-        "favicon": "https://img.logo.dev/dcr103.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Dee Jay",
-        "url": "https://stream.zeno.fm/6wpxyt9htg0uv",
-        "favicon": "https://img.logo.dev/deejayfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Encuentro Digital 104.3 FM",
-        "url": "https://stream.zeno.fm/n1dn94e661zuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Estereo Clase 92.9 FM",
@@ -110,9 +85,9 @@
         "favicon": "https://img.logo.dev/radiogirasolfm.girasolradiotvhn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "HRYW 95.9 Radio Panamericana - Tegucigalpa",
-        "url": "http://online.radiodifusion.net:1935/panam-hn/panam.stream/master.m3u8",
-        "favicon": "https://img.logo.dev/panamericanafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "hrn 670 KHz",
+        "url": "https://securestreams7.autopo.st/?uri=http://216.152.154.134/HRN?=hrn670khz",
+        "favicon": "https://img.logo.dev/radios.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LA RADIO GLOBAL",
@@ -140,11 +115,6 @@
         "favicon": "https://img.logo.dev/neformatnoe.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "NUEVA VISIÓN 88.3 FM",
-        "url": "http://159.69.43.96:9304/;",
-        "favicon": "https://img.logo.dev/nuevavisionhn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Otoro Radio",
         "url": "https://stream.playerlive.info:8089/live.aac",
         "favicon": "https://img.logo.dev/radios.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -156,7 +126,7 @@
     },
     {
         "name": "Radio America  94.7 Tegucigalpa",
-        "url": "http://23033.live.streamtheworld.com:3690/AMERICA_SC",
+        "url": "http://26563.live.streamtheworld.com:3690/AMERICA_SC",
         "favicon": "https://img.logo.dev/radioamericahn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -170,6 +140,11 @@
         "favicon": "https://img.logo.dev/radioglobohonduras.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RADIO GLOBO 88.5 MHZ",
+        "url": "https://api.condoristream.com/stream/radioglobo",
+        "favicon": "https://img.logo.dev/radioglobohonduras.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio HRN La Voz de Honduras",
         "url": "https://ice42.securenetsystems.net/HRN",
         "favicon": "https://img.logo.dev/radiohrn.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -178,16 +153,6 @@
         "name": "Radio Progreso HN",
         "url": "https://streamingcwsradio30.com:7045/stream",
         "favicon": "https://img.logo.dev/radioprogresohn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Radical",
-        "url": "https://stream.zeno.fm/vcumd3susq5vv",
-        "favicon": "https://img.logo.dev/radioradicalhn.wix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Radical HN",
-        "url": "https://s2.free-shoutcast.com/stream/18036",
-        "favicon": "https://img.logo.dev/radioradicalhn.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RadioActiva 99.7 Honduras",
@@ -210,13 +175,18 @@
         "favicon": "https://img.logo.dev/streamdb3web.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Stereo Cafe 100.3 FM",
-        "url": "https://stream.zeno.fm/vt667xqryd0uv",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Soy Garifuna Radio",
+        "url": "https://radio.soygarifuna.com/live",
+        "favicon": "https://img.logo.dev/soygarifuna.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Soy Garifuna Radio",
+        "url": "https://radio.soygarifuna.com/live",
+        "favicon": "https://img.logo.dev/soygarifuna.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stereo Ceiba 99.9 - La Ceiba",
-        "url": "http://27383.live.streamtheworld.com/RADIO_CEIBAAAC_SC",
+        "url": "http://24493.live.streamtheworld.com/RADIO_CEIBAAAC_SC",
         "favicon": "https://img.logo.dev/stereoceiba.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -235,18 +205,13 @@
         "favicon": "https://img.logo.dev/stereoexitos.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Stereo Luz",
-        "url": "https://stream.playerlive.info:8081/;",
-        "favicon": "https://img.logo.dev/estereoluz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Suave FM 102.5 Tegucigalpa",
         "url": "http://ice42.securenetsystems.net/SUAVE",
         "favicon": "https://img.logo.dev/suave.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Super 100 Tegucigalpa 100.1",
-        "url": "http://27383.live.streamtheworld.com:3690/SUPER100_SC",
+        "url": "http://26653.live.streamtheworld.com/SUPER100_SC",
         "favicon": "https://img.logo.dev/super100hn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {

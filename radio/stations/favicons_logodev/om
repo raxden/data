@@ -30,6 +30,11 @@
         "favicon": "https://img.logo.dev/hifmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "JazzWave Radio",
+        "url": "https://servidor19.brlogic.com:7126/live",
+        "favicon": "https://img.logo.dev/jazzwaveradio.webradiosite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Merge",
         "url": "http://uk7.internet-radio.com:8040/",
         "favicon": "https://img.logo.dev/radiomerge.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

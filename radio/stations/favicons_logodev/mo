@@ -1,23 +1,13 @@
 [
     {
-        "name": "101.1 BIG HEART FM",
-        "url": "http://162.220.162.10:8011/stream",
-        "favicon": "https://img.logo.dev/bigheartfm.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "澳門電台 FM100.7",
+        "url": "https://globallive.tdm.com.mo/live/rch2a.live/chunklist_w603131197.m3u8",
+        "favicon": "https://img.logo.dev/tdm.com.mo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "101.1 Smooth FM",
         "url": "https://stream-icy.bauermedia.pt/smooth.aac",
         "favicon": "https://img.logo.dev/smoothfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "101.7 BIG HEART FM",
-        "url": "https://62.138.18.102:8133/stream",
-        "favicon": "https://img.logo.dev/bigheartfm.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "91.5 HIT FM MACAU (成都）",
-        "url": "http://lhttp.qingting.fm/live/15318703/64k.mp3",
-        "favicon": "https://img.logo.dev/hitfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Abdulbasit Abdulsamad",
@@ -28,11 +18,6 @@
         "name": "Asia FM 106.9",
         "url": "https://lhttp.qingting.fm/live/20071/64k.mp3",
         "favicon": "https://img.logo.dev/asiafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Asia FM 106.9",
-        "url": "https://lhttp.qingting.fm/live/20071/64k.mp3",
-        "favicon": "https://img.logo.dev/asiafm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CGTN Radio - Macau 1341 AM",
@@ -115,11 +100,6 @@
         "favicon": "https://img.logo.dev/recordfm.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Romance Radio 95.5 FM",
-        "url": "http://162.220.162.10:8011/stream",
-        "favicon": "https://img.logo.dev/norilynonecoin.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RTP Macau - 97.1 FM",
         "url": "https://radiocast.rtp.pt/antena1madeira80a.mp3",
         "favicon": "https://img.logo.dev/madeira.rtp.pt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -150,13 +130,18 @@
         "favicon": "https://img.logo.dev/vfm995.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "澳門綠邨電台",
+        "url": "https://macaofm995.com/hls1/fm995.m3u8",
+        "favicon": "https://img.logo.dev/vfm995.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "澳門電台 FM100.7",
-        "url": "https://mo.ufofm.com/live/rch2.live/chunklist_w905210118.m3u8?audio",
+        "url": "https://globallive.tdm.com.mo/live/rch2a.live/playlist.m3u8",
         "favicon": "https://img.logo.dev/tdm.com.mo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "綠邨",
-        "url": "https://fm995.ddns.net/hls1/fm995.m3u8",
-        "favicon": "https://img.logo.dev/fm995.ddns.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "澳門電台 FM100.7",
+        "url": "https://mo.ufofm.com/live/rch2.live/chunklist_w905210118.m3u8?audio",
+        "favicon": "https://img.logo.dev/tdm.com.mo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

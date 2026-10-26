@@ -1,5 +1,10 @@
 [
     {
+        "name": "LOVE FM: Clàssics pop en espanyol dels 80s a avui",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abdulbasit Abdulsamad",
         "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10,33 +15,18 @@
         "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Polignano Web",
-        "url": "https://sp3.server89.com:7018/",
-        "favicon": "https://img.logo.dev/sp3.server89.com:7018?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Flaix FM Andorra",
+        "url": "https://streaming.giraweb.com/8020/stream",
+        "favicon": "https://img.logo.dev/flaixfm.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Polignano Web",
-        "url": "https://sp3.server89.com:7018/",
-        "favicon": "https://img.logo.dev/sp3.server89.com:7018?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Polignano Web",
-        "url": "https://sp3.server89.com:7018/",
-        "favicon": "https://img.logo.dev/sp3.server89.com:7018?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Flaixbac Andorra",
+        "url": "https://streaming.giraweb.com/8010/stream",
+        "favicon": "https://img.logo.dev/flaixandorra.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RadioSoleLuna",
         "url": "https://cast3.server89.com/radio/8040/radio.mp3",
         "favicon": "https://img.logo.dev/cast3.server89.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "tch",
-        "url": "http://node-01.zeno.fm/bwrw9xcgqeruv",
-        "favicon": "https://img.logo.dev/node-01.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "toker fm",
-        "url": "https://live.toker.fm:6060/;",
-        "favicon": "https://img.logo.dev/live.toker.fm:6060?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

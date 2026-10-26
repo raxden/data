@@ -15,6 +15,11 @@
         "favicon": "https://img.logo.dev/antenam.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Arena Radio",
+        "url": "https://radio.elmag.me/arena.mp3",
+        "favicon": "https://img.logo.dev/radio.elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Boka News",
         "url": "http://bokanews.me:8000/source?1734500086794",
         "favicon": "https://img.logo.dev/bokanews.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -25,24 +30,9 @@
         "favicon": "https://img.logo.dev/radiobruskin.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "City Radio",
-        "url": "http://eu7.fastcast4u.com:6166/;",
-        "favicon": "https://img.logo.dev/cityradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Drugačija Radio Stanica",
-        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
-        "favicon": "https://img.logo.dev/drugacija.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Drugačija Radio Stanica",
-        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
-        "favicon": "https://img.logo.dev/drugacija.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "El Radio Podgorica",
         "url": "https://radio.elmag.me/el.mp3",
-        "favicon": "https://img.logo.dev/elradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radio.elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mag radio",
@@ -55,14 +45,39 @@
         "favicon": "https://img.logo.dev/elmag.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Play Radio Montenegro",
-        "url": "https://stream.playradio.me:8443/play-me.mp3",
+        "name": "Play Radio MNE Balkan",
+        "url": "https://stream.playradio.me:8443/balkan.mp3",
         "favicon": "https://img.logo.dev/playradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Andrijevica",
-        "url": "https://mpc2.mediacp.eu/stream/andrijevica/stream",
-        "favicon": "https://img.logo.dev/mpc2.mediacp.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Play Radio MNE Party",
+        "url": "https://stream.playradio.me:8443/party.mp3",
+        "favicon": "https://img.logo.dev/playradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PLAY radio MNE Rock",
+        "url": "https://stream.playradio.me:8443/rock.mp3",
+        "favicon": "https://img.logo.dev/playradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PLAY radio MNE Rock",
+        "url": "https://stream.playradio.me:8443/rock.mp3",
+        "favicon": "https://img.logo.dev/playradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Play Radio MNE Soft",
+        "url": "https://stream.playradio.me:8443/soft.mp3",
+        "favicon": "https://img.logo.dev/playradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Play Radio MNE Urban",
+        "url": "https://stream.playradio.me:8443/urban.mp3",
+        "favicon": "https://img.logo.dev/playradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Play Radio Montenegro",
+        "url": "https://stream.playradio.me:8443/play-me.mp3",
+        "favicon": "https://img.logo.dev/playradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Berane",
@@ -203,11 +218,6 @@
         "name": "Rcg Yug",
         "url": "https://rtcg.ipradio.rs:9103/;",
         "favicon": "https://img.logo.dev/rtcg.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Reggaeneracija Montenegro",
-        "url": "http://5.189.179.77:8000/stream",
-        "favicon": "https://img.logo.dev/5.189.179.77:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Skadar",

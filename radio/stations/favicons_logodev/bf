@@ -5,21 +5,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Horizon FM 104.4 Ouagadougou",
-        "url": "https://stream.zeno.fm/0945crn4bf9uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Horizon FM Koudougou",
-        "url": "https://stream.zeno.fm/s2ypmeg0cf9uv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Balafon 102.7 Bobo-Dioulasso",
-        "url": "https://stream.zeno.fm/v3ddfda0cf9uv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Biwi Inter",
         "url": "https://sonic.mediacp.eu/8040/;",
         "favicon": "https://img.logo.dev/radiobizi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -28,11 +13,6 @@
         "name": "Radio Bizi Inter",
         "url": "https://sonic.mediacp.eu/8040/;",
         "favicon": "https://img.logo.dev/radiobizi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Legende",
-        "url": "https://stream.zeno.fm/p1e2466d6ehvv",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rqdio Biwi Inter",

@@ -1,8 +1,8 @@
 [
     {
-        "name": "#Radio Quran",
-        "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
-        "favicon": "https://img.logo.dev/n0a.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "98.4 Capital FM",
+        "url": "https://atunwadigital.streamguys1.com/capitalfm",
+        "favicon": "https://img.logo.dev/capitalfm.co.ke?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Abdulbasit Abdulsamad",
@@ -23,11 +23,6 @@
         "name": "At254 Radio",
         "url": "https://s127.radiolize.com/radio/8100/radio.mp3",
         "favicon": "https://img.logo.dev/s127.radiolize.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bloom Radio",
-        "url": "https://www.radioking.com/play/urban-gospel-radio-1?ver=701111",
-        "favicon": "https://img.logo.dev/bloomradio.co.ke?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Campus Radio Kenya",
@@ -65,9 +60,14 @@
         "favicon": "https://img.logo.dev/media-ice.musicradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Easy FM 101.5",
-        "url": "https://stream.zeno.fm/wvw02zaqpxquv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "CRI Kiswahili",
+        "url": "https://sk.cri.cn/kenya.m3u8",
+        "favicon": "https://img.logo.dev/swahili.cri.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CRI Nairobi FM91.9",
+        "url": "https://sk.cri.cn/kenya.m3u8",
+        "favicon": "https://img.logo.dev/swahili.cri.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Emmachev Radio",
@@ -80,64 +80,9 @@
         "favicon": "https://img.logo.dev/exclusive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FEEL JAH",
-        "url": "http://solid9.streamupsolutions.com:8018/stream",
-        "favicon": "https://img.logo.dev/solid9.streamupsolutions.com:8018?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM RASSTYLE KENYA",
-        "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "George Jones",
-        "url": "https://nl4.mystreaming.net/er/georgejones/icecast.audio",
+        "url": "https://streaming.exclusive.radio/er/georgejones/icecast.audio",
         "favicon": "https://img.logo.dev/play.exclusive.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "GHETT",
-        "url": "http://stream.zeno.fm/kvudezx1h2zuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ghett kenya",
-        "url": "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ",
-        "favicon": "https://img.logo.dev/stream-27.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ghett kenya",
-        "url": "http://stream-27.zeno.fm/kvudezx1h2zuv?zs=hCl2Q4ZVSPykhlahMviRpQ",
-        "favicon": "https://img.logo.dev/stream-27.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ghetto kenya",
-        "url": "https://stream.zeno.fm/kvudezx1h2zuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "GHETTOKE KENYA",
-        "url": "http://stream-47.zeno.fm/gf58b0pt5x8uv?zs=9Rb0nsM4TlCJ9aggk8nWAg",
-        "favicon": "https://img.logo.dev/stream-47.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "GHETTOO KENYA",
-        "url": "http://stream.zeno.fm/cs4q33arb2zuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Heaven FM Radio",
-        "url": "http://stream.zeno.fm/eequgfw72hhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "IRIE FM JAMAICA",
-        "url": "http://stream.zeno.fm/6zszyw9tarzuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "IRIE FM JAMAICA",
-        "url": "http://stream.zeno.fm/6zszyw9tarzuv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jay Fm",
@@ -155,6 +100,11 @@
         "favicon": "https://img.logo.dev/jesusislordradio.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "JESUS IS LORD radio",
+        "url": "https://stream-285.surfernetwork.com/thdtw5xd9eiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0aGR0dzV4ZDllaXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI0OUMxUU9PMFIyeTl5SThnTno0VTB3IiwiaWF0IjoxNzg1OTU0NjI0LCJleHAiOjE3ODU5NTQ2ODR9.TEC2qyYYTCv3OjNepwCqgyWWPAoxPRanj5XLmznekcA",
+        "favicon": "https://img.logo.dev/jesusislordradio.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "JESUS IS LORD Radio",
         "url": "https://s3.radio.co/s97f38db97/listen",
         "favicon": "https://img.logo.dev/jesusislordradio.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -165,79 +115,14 @@
         "favicon": "https://img.logo.dev/repentandpreparetheway.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Juraini Radio",
-        "url": "http://stream.zeno.fm/fe0nc58z8vzuv",
-        "favicon": "https://img.logo.dev/jurainiradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KBC",
-        "url": "http://stream.zeno.fm/ud2u96xst5quv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KENYA1 FM",
-        "url": "https://stream.zeno.fm/cmgkmed5u18uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KINGSTONE",
-        "url": "http://198.57.187.102:8080/kingston12",
-        "favicon": "https://img.logo.dev/198.57.187.102:8080?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kustommediaradio",
-        "url": "https://stream.zeno.fm/3zgc6zpfvorvv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "kustommediaradio",
-        "url": "https://stream.zeno.fm/3zgc6zpfvorvv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MWANGAZA WA NENO FM KENYA",
-        "url": "https://stream.zeno.fm/e34h1cbrmeruv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NATION FM",
-        "url": "http://stream.radiojar.com/3by7s8eg65quv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NATION KENYA",
-        "url": "http://stream.radiojar.com/3by7s8eg65quv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NATION KENYA",
-        "url": "http://stream.radiojar.com/3by7s8eg65quv",
-        "favicon": "https://img.logo.dev/stream.radiojar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NRG FM",
-        "url": "https://streamingv2.shoutcast.com/nrg-radio-ke",
-        "favicon": "https://img.logo.dev/streamingv2.shoutcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NRG KENYA",
-        "url": "https://streamingv2.shoutcast.com/nrg-radio-ke",
-        "favicon": "https://img.logo.dev/streamingv2.shoutcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NRG KENYA",
-        "url": "https://streamingv2.shoutcast.com/nrg-radio-ke",
-        "favicon": "https://img.logo.dev/streamingv2.shoutcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Kiss FM 100",
+        "url": "https://atunwadigital.streamguys1.com/kiss100fm",
+        "favicon": "https://img.logo.dev/atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NRG Radio",
         "url": "https://streamingv2.shoutcast.com/nrg-radio-ke",
         "favicon": "https://img.logo.dev/nrg.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "R MARIA KENYA",
-        "url": "http://dreamsiteradiocp2.com:8092/",
-        "favicon": "https://img.logo.dev/dreamsiteradiocp2.com:8092?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Kaya",
@@ -265,51 +150,6 @@
         "favicon": "https://img.logo.dev/radiowaumini.co.ke?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RAS STYLE",
-        "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RAS STYLE KENYA",
-        "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RASSS KENYA",
-        "url": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ",
-        "favicon": "https://img.logo.dev/stream-57.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RASSS KENYA",
-        "url": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ",
-        "favicon": "https://img.logo.dev/stream-57.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RASSS KENYA",
-        "url": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=_88r_Fp8TmC34vmgpzzmzQ",
-        "favicon": "https://img.logo.dev/stream-57.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RASTYLE KENYA",
-        "url": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=vvcdeoPjSamesknSTOXHvQ",
-        "favicon": "https://img.logo.dev/stream-57.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RASTYLE KENYA",
-        "url": "http://stream-57.zeno.fm/gf58b0pt5x8uv?zs=vvcdeoPjSamesknSTOXHvQ",
-        "favicon": "https://img.logo.dev/stream-57.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RASTYLEstream.zeno.fm",
-        "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RASTYLEstream.zeno.fm",
-        "url": "http://stream.zeno.fm/gf58b0pt5x8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RE",
         "url": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
         "favicon": "https://img.logo.dev/allzic43.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -318,16 +158,6 @@
         "name": "RE",
         "url": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
         "favicon": "https://img.logo.dev/allzic43.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "REGGAE ROOTS",
-        "url": "http://relay5.181.fm:8096/",
-        "favicon": "https://img.logo.dev/relay5.181.fm:8096?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "REGGAE ROOTS",
-        "url": "http://relay5.181.fm:8096/",
-        "favicon": "https://img.logo.dev/relay5.181.fm:8096?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "REPLAY NEWS - Kiswahili",

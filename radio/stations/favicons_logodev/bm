@@ -41,17 +41,7 @@
     },
     {
         "name": "Slow Radio",
-        "url": "http://stream2.slowradio.com/",
+        "url": "http://stream4.slowradio.com/",
         "favicon": "https://img.logo.dev/en.slowradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ZBM 89.1 \"Ocean 89\" Hamilton",
-        "url": "http://us2.internet-radio.com:8016/live",
-        "favicon": "https://img.logo.dev/twitter.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ZFB 94.9 \"Power 95\" Hamilton",
-        "url": "http://us3.internet-radio.com:8026/live",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

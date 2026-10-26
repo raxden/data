@@ -10,8 +10,18 @@
         "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "1FM Jazz",
+        "url": "https://lyd.1fm.no/1fmjazz_mq?rp_source=1",
+        "favicon": "https://img.logo.dev/1fmmolde.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "1FM Molde",
         "url": "https://s2.radio.co/s914ffa700/listen?rp_source=1&=&&___cb=962597539110953",
+        "favicon": "https://img.logo.dev/1fmmolde.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "1FM Rock",
+        "url": "https://lyd.1fm.no/1fmrock_hq",
         "favicon": "https://img.logo.dev/1fmmolde.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -30,6 +40,61 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CLIAMP EDM Pulse",
+        "url": "https://radio.cliamp.stream/edm/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP Lofi Hip Hop Radio",
+        "url": "https://radio.cliamp.stream/lofi/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP NCS Chill",
+        "url": "https://radio.cliamp.stream/ncs-chill/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP NCS Drum & Bass",
+        "url": "https://radio.cliamp.stream/ncs-dnb/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP NCS Dubstep",
+        "url": "https://radio.cliamp.stream/ncs-dubstep/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP NCS House",
+        "url": "https://radio.cliamp.stream/ncs-house/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP NCS Phonk",
+        "url": "https://radio.cliamp.stream/ncs-phonk/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP NCS Pop",
+        "url": "https://radio.cliamp.stream/ncs-pop/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP NCS Radio",
+        "url": "https://radio.cliamp.stream/ncs/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP NCS Trap",
+        "url": "https://radio.cliamp.stream/ncs-trap/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CLIAMP Synthwave Nights",
+        "url": "https://radio.cliamp.stream/synthwave/stream",
+        "favicon": "https://img.logo.dev/cliamp.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Guovdageainnu Lagasradio",
         "url": "https://streaming.radio.co/s5b773f8d3/listen",
         "favicon": "https://img.logo.dev/glr.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -40,9 +105,19 @@
         "favicon": "https://img.logo.dev/radioene.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Harrys Radio",
+        "url": "https://mpc1.mediacp.eu:8208/stream",
+        "favicon": "https://img.logo.dev/radio.aasterud.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "historyradio.org",
         "url": "http://stream.radiojar.com/6bmecgg3wd5tv",
         "favicon": "https://img.logo.dev/historyradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jæren Misjonsradio",
+        "url": "https://stream.theradiohub.com/JMRadio/hq",
+        "favicon": "https://img.logo.dev/jmradio.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Klem FM",
@@ -51,7 +126,7 @@
     },
     {
         "name": "Metal Express Radio",
-        "url": "http://s39.myradiostream.com:11590/;",
+        "url": "http://s39.myradiostream.com:11590/stream",
         "favicon": "https://img.logo.dev/metalexpressradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -70,11 +145,6 @@
         "favicon": "https://img.logo.dev/radiometro.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Nærkanalen",
-        "url": "https://stream.radiomeloy.no:8003/radiomeloy",
-        "favicon": "https://img.logo.dev/narkanalen.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Nea Radio",
         "url": "http://nettradio.nearadio.no:8000/stream",
         "favicon": "https://img.logo.dev/nearadio.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -85,19 +155,24 @@
         "favicon": "https://img.logo.dev/nfradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Norsk Country Radio",
-        "url": "http://s6.voscast.com:10258/",
-        "favicon": "https://img.logo.dev/norskcountry.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "NKR P1+",
+        "url": "http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "North & Beyond",
-        "url": "http://stream.laut.fm/north-beyond",
-        "favicon": "https://img.logo.dev/north-beyond.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Norsk Pop",
+        "url": "https://live-bauerno.sharp-stream.com/norskpop_no_mp3",
+        "favicon": "https://img.logo.dev/live-bauerno.sharp-stream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NRJ Norge",
         "url": "https://live-bauerno.sharp-stream.com/kiss_no_mp3",
         "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK Folkemusikk",
+        "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NRK Klassisk Radio",
@@ -133,6 +208,11 @@
         "name": "Nrk p1 Hordaland",
         "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h",
         "favicon": "https://img.logo.dev/cdn0-47115-liveicecast0.dna.contentdelivery.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Innlandet",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NRK P1 Møre og Romsdal",
@@ -180,6 +260,16 @@
         "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "NRK P1 Vestfold",
+        "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk12",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NRK P1 Vestfold",
+        "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk12",
+        "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "NRK P1+",
         "url": "https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audio&aco=aac",
         "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -205,6 +295,11 @@
         "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "NRK Radio_Super",
+        "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/radio_super",
+        "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "NRK Sápmi",
         "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sapmi_mp3_h",
         "favicon": "https://img.logo.dev/radio.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -223,6 +318,11 @@
         "name": "NRK Trøndelag",
         "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5",
         "favicon": "https://img.logo.dev/lyd.nrk.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ordentlig Radio",
+        "url": "https://stream.oradio.no/oradio_hq",
+        "favicon": "https://img.logo.dev/oradio.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "P10 Country (AAC HQ)",
@@ -340,29 +440,29 @@
         "favicon": "https://img.logo.dev/radio316.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio AI Norge",
+        "url": "https://a13.asurahosting.com/listen/radio_ai/radio.mp3",
+        "favicon": "https://img.logo.dev/radioai.mobirisesite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Ålesund",
         "url": "https://audio.radioaalesund.no/aalesund_mq",
         "favicon": "https://img.logo.dev/radioaalesund.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Bardufoss",
-        "url": "https://stream.bardufoss.no/radiobardufoss192",
-        "favicon": "https://img.logo.dev/bardufoss.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Haugaland",
+        "url": "http://radioip.no:443/flac",
+        "favicon": "https://img.logo.dev/radioh.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Haugaland",
+        "url": "http://radioip.no:443/flac",
+        "favicon": "https://img.logo.dev/radioh.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Haugaland 96",
         "url": "https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3",
         "favicon": "https://img.logo.dev/radioh.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Kos",
-        "url": "https://lyd.radiokos.no/kos_lq",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Kos",
-        "url": "https://lyd.radiokos.no/kos_lq",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Latin-Amerika",
@@ -373,11 +473,6 @@
         "name": "Radio Lyngdal",
         "url": "http://live.radiolyngdal.com/rly_mq",
         "favicon": "https://img.logo.dev/radiolyngdal.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Med Oslo",
-        "url": "http://108.59.11.81:10107/stream",
-        "favicon": "https://img.logo.dev/108.59.11.81:10107?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Metro Oslo",
@@ -403,11 +498,6 @@
         "name": "Radio Norge",
         "url": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
         "favicon": "https://img.logo.dev/radioplay.no?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Northern Star",
-        "url": "http://5866.cloudrad.io:8018/northernstar.mp3",
-        "favicon": "https://img.logo.dev/northernstar.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Nova",

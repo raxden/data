@@ -25,9 +25,14 @@
         "favicon": "https://img.logo.dev/radiofama.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kiss FM Armenia",
-        "url": "https://am.radioaurora.am/kiss",
-        "favicon": "https://img.logo.dev/kissfm.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Jazz FM 106.9 Yerevan Radio",
+        "url": "https://de.auroramedia.am/jazz.mp3",
+        "favicon": "https://img.logo.dev/radiojazzfm.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lav Radio",
+        "url": "https://eu.stream4cast.com/proxy/lavradio/stream",
+        "favicon": "https://img.logo.dev/lavradio.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Lav Radio Mix",
@@ -40,9 +45,9 @@
         "favicon": "https://img.logo.dev/loveradio.streamingmedia.it?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Luys TV Western Armenian TV",
-        "url": "http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8",
-        "favicon": "https://img.logo.dev/luys.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Lratvakan Radio",
+        "url": "http://212.34.233.78:8000/live",
+        "favicon": "https://img.logo.dev/lratvakan.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MFM Music Radio",

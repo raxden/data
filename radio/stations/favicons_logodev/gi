@@ -10,6 +10,11 @@
         "favicon": "https://img.logo.dev/goiania.alphafm.com.br?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "BBC Radio Two",
+        "url": "http://bbc.stereophase.com/",
+        "favicon": "https://img.logo.dev/bbc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "BFBS Gibraltar",
         "url": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3",
         "favicon": "https://img.logo.dev/forces.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

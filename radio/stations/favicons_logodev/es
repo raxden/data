@@ -1,5 +1,10 @@
 [
     {
+        "name": "LOVE FM: Clásicos pop de los 80s, 90s y 2000s a hoy",
+        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "__80 EXITOS",
         "url": "https://80sexitos.stream.laut.fm/80sexitos",
         "favicon": "https://img.logo.dev/musica80.radioclub.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -26,6 +31,11 @@
     },
     {
         "name": "[REE]   Radio Exterior de España",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "[REE] Radio Exterior de España",
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8",
         "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -60,16 +70,6 @@
         "favicon": "https://img.logo.dev/masbuenafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "07.4 felovebible english",
-        "url": "https://felovebibleen-radiofelove.radioca.st/stream",
-        "favicon": "https://img.logo.dev/felovebiblesp-radiofelove.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1 Slow-Radio - laut.fm",
-        "url": "https://1slowradio.stream.laut.fm/1_slowradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "100 % SALSA",
         "url": "https://stm01.streammaximum.com:8194/;",
         "favicon": "https://img.logo.dev/100porcientosalsa.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -88,11 +88,6 @@
         "name": "1000 HITS Classical",
         "url": "https://ais-sa2.cdnstream1.com/2208_128.mp3",
         "favicon": "https://img.logo.dev/splashradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1000 Hits Spain",
-        "url": "https://c2.auracast.net:8022/;",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "24FM Axarquía 103.9",
@@ -120,9 +115,9 @@
         "favicon": "https://img.logo.dev/7tvandalucia.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "80s 90s Absolute Hits",
-        "url": "https://live.streamthe.world/absolutehits",
-        "favicon": "https://img.logo.dev/mytuner-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "80 Hits Barcelona",
+        "url": "https://stream.laut.fm/80sexitos",
+        "favicon": "https://img.logo.dev/musica80.radioclub.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "80s Super Dancefloor",
@@ -130,9 +125,9 @@
         "favicon": "https://img.logo.dev/sdf80s.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "90 FM (95.2(",
-        "url": "http://185.23.192.118:8010/;",
-        "favicon": "https://img.logo.dev/90fm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "97 FM Irratia",
+        "url": "https://airtime.97irratia.info/radio-ssl.ogg",
+        "favicon": "https://img.logo.dev/97irratia.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "97 Irratia",
@@ -150,6 +145,11 @@
         "favicon": "https://img.logo.dev/la999.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "À Punt",
+        "url": "https://fastly.live.brightcove.com/1854461588069069227/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NTQ0NjE1ODgwNjkwNjkyMjcifQ.RKqA-z0MRntFVph2G3tE9YzBp7vfdMXcynOKpyqvZTg/playlist-hls-dvr.m3u8",
+        "favicon": "https://img.logo.dev/apuntmedia.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "A Rádio POP",
         "url": "https://pop.jmvstream.com/stream",
         "favicon": "https://img.logo.dev/a12.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -163,11 +163,6 @@
         "name": "A Xente de Teo",
         "url": "https://axentedeteo.ddns.net/radio/8000/radio.mp3",
         "favicon": "https://img.logo.dev/axentedeteo.gal?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "AB95FM",
-        "url": "https://stream-154.zeno.fm/dwqgk9dxs98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkd3FnazlkeHM5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnlZVUJmYXNUQ2kxM0ZUN3dWS2dYdyIsImlhdCI6MTc2ODQ1MjUwMCwiZXhwIjoxNzY4NDUyNTYwfQ.jMkdbMq2Ybpzl7yK_2RgXoI1Azz7tZTFOJlH4sx85dc",
-        "favicon": "https://img.logo.dev/ab95fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ABSOLUTE CHILLOUT",
@@ -185,6 +180,11 @@
         "favicon": "https://img.logo.dev/absolutechillout.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Activa FM Valencia",
+        "url": "https://stream.emisorasmusicales.net/radio/8000/activafm.mp3",
+        "favicon": "https://img.logo.dev/emisorasmusicales.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Activate FM",
         "url": "https://streaming12.elitecomunicacion.es:8085/stream",
         "favicon": "https://img.logo.dev/activate.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -195,18 +195,13 @@
         "favicon": "https://img.logo.dev/actualityfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Adagio Radio HD",
-        "url": "https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3",
-        "favicon": "https://img.logo.dev/adagioradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AdagioRadio",
         "url": "https://stream.tunerplay.com/radio/8010/adagioradio.mp3",
         "favicon": "https://img.logo.dev/adagioradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AFN 360 Rota",
-        "url": "http://25603.live.streamtheworld.com/AFNE_RTA_SC",
+        "url": "http://29083.live.streamtheworld.com:3690/AFNE_RTA_SC",
         "favicon": "https://img.logo.dev/afneurope.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -220,9 +215,19 @@
         "favicon": "https://img.logo.dev/agrodifusion.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "AI Global News",
+        "url": "https://aiglobalnewsradio.com/stream.mp3",
+        "favicon": "https://img.logo.dev/aiglobalnewsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "AirmaxFM",
         "url": "https://streaming2.elitecomunicacion.es:8014/stream",
         "favicon": "https://img.logo.dev/digitalfly.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AIthropology Lab FM",
+        "url": "https://it.tail7acb88.ts.net/aithropology.mp3",
+        "favicon": "https://img.logo.dev/aithropologylab.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AivaRadioiA",
@@ -238,6 +243,11 @@
         "name": "Alcúdia Ràdio",
         "url": "https://enacast.com/alcudiaradio/streams/HD",
         "favicon": "https://img.logo.dev/alcudia.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ALEX WOLF RADIO",
+        "url": "https://alexwolfradio.com:1040/stream",
+        "favicon": "https://img.logo.dev/alexwolfradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "All Stars Radio",
@@ -300,6 +310,11 @@
         "favicon": "https://img.logo.dev/antenahuelva.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ANTENITA",
+        "url": "https://vps-9f1e2662.vps.ovh.net/antenitafm",
+        "favicon": "https://img.logo.dev/antenita.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "ApopcalipsisRadio",
         "url": "https://sonic.sistemahost.es:7002/;",
         "favicon": "https://img.logo.dev/apocalipsisradio.com.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -315,6 +330,11 @@
         "favicon": "https://img.logo.dev/aragonradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Aragón Radio",
+        "url": "https://cartv-streaming.aranova.es/mp3/live/aragonradio_aragonradio1_96.mp3",
+        "favicon": "https://img.logo.dev/cartv.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Aragón Radio Zaragoza",
         "url": "https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8",
         "favicon": "https://img.logo.dev/cartv.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -325,9 +345,9 @@
         "favicon": "https://img.logo.dev/aragontelevision.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Armonia Duero",
-        "url": "http://s5.myradiostream.com:42840/stream",
-        "favicon": "https://img.logo.dev/armoniaduero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "ARCO FM",
+        "url": "https://hisparadio.duckdns.org/stream/1/stream.mp3",
+        "favicon": "https://img.logo.dev/arcofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Armonía Duero 107.7 FM",
@@ -340,14 +360,14 @@
         "favicon": "https://img.logo.dev/arraio.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ARRATE-TX",
-        "url": "http://online.arrateirratia.eus/zuzenean",
-        "favicon": "https://img.logo.dev/online.arrateirratia.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Asón FM 96.4",
         "url": "http://ns100.emisionlocal.com:8064/stream",
         "favicon": "https://img.logo.dev/asonfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ataria Irratia",
+        "url": "https://server8.emitironline.com:18444/stream",
+        "favicon": "https://img.logo.dev/ataria.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ática FM 106.4",
@@ -355,19 +375,24 @@
         "favicon": "https://img.logo.dev/aticafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Atlántico Radio 88.3 FM",
-        "url": "https://streaming.atlanticoradio.es/atlanticoradio",
-        "favicon": "https://img.logo.dev/linktr.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Avila Radio",
-        "url": "http://topradio.us:8033/live",
-        "favicon": "https://img.logo.dev/avilaradioonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Atlantis FM Lanzarote",
+        "url": "https://atlantisfm.radionetz.de/atlantisfm.mp3",
+        "favicon": "https://img.logo.dev/atlantisfmlanzarote.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Azul FM Murcia",
         "url": "https://azura5.emisiononline.es:8000/azulfm986",
         "favicon": "https://img.logo.dev/azulfm.com.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Babyradio España",
+        "url": "https://26313.live.streamtheworld.com:443/SAM04AAC34_SC",
+        "favicon": "https://img.logo.dev/babyradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Babyradio Latinoamérica",
+        "url": "https://14223.live.streamtheworld.com:443/SAM04AAC33_SC",
+        "favicon": "https://img.logo.dev/babyradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bakanos FM 97.0 - 97.1",
@@ -405,14 +430,19 @@
         "favicon": "https://img.logo.dev/beachgrooves.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "BENICARLO RADIO by Xopo",
-        "url": "https://streaming.enacast.com/radiobenicarlo128.mp3",
-        "favicon": "https://img.logo.dev/streaming.enacast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Berea FM 92.1",
         "url": "https://eu1.lhdserver.es:8039/stream",
         "favicon": "https://img.logo.dev/bereafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "betevé Ràdio",
+        "url": "https://cflive.kaltura.com/scf/env/d.live.frp1/live/hls/p/2346171/e/0_qzjz9cja/tl/main/st/0/t/v04W_hfFzlRhoWCU1lZJ0g/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUuZnJwMS9saXZlL2hscy9wLzIzNDYxNzEvZS8wX3F6ano5Y2phL3RsL21haW4vc3QvMC90L3YwNFdfaGZGemxSaG9XQ1UxbFpKMGcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MjQ2NTQ1OX19fV19&Signature=RIc6oQkGjN33JGJkLnJHkxvxhn21U-bN1EbbNikwSuMIe-jVB8YQy8M5XwsEcPqhmamB0jA1WJ5bcY-0I~8zX0m72tXSkoaR20AU0ruMjw5vtAAqQxOfZE9gEL9OCCzz34D03XkjGI65dHup10kkkRRQ8ZXPvPw2H4Z5H1~ZlaplskxdupQev-etsER~jj0YQwedaWXVEVokvTcgwZQSs5TCSZk-HbEPYJyPP8P8byAhHj-peZU5RsMmX0y3d27jBpg5AfJOasrnrFT10fAhxgqVGeERmj6Ir6-Fp6Fvc7cWKnQOGxyHVCswK4V1drqwSshl-Xpw6ukwUiBdPwGHjA__&Key-Pair-Id=K31ANTJBLNVBEC",
+        "favicon": "https://img.logo.dev/beteve.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Betis Radio",
+        "url": "https://comcast03-h-cloud.flumotion.com/betistv/radio1.mp3",
+        "favicon": "https://img.logo.dev/en.realbetisbalompie.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BikiniFM",
@@ -430,9 +460,9 @@
         "favicon": "https://img.logo.dev/bilbohiria.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Blue Marlin Ibiza",
-        "url": "https://ibizasonica.streaming-pro.com:8001/bluemarlin",
-        "favicon": "https://img.logo.dev/bluemarlinibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Blackstreet Radio",
+        "url": "https://listen.antonioesteve.es/listen/blackstreet_radio/live128.aac",
+        "favicon": "https://img.logo.dev/radio.antonioesteve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Blue Marlin Ibiza",
@@ -443,6 +473,16 @@
         "name": "Blue Marlin Ibiza",
         "url": "https://ibizasonica.streaming-pro.com:8001/bluemarlin",
         "favicon": "https://img.logo.dev/bluemarlinibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Blue Marlin Ibiza",
+        "url": "https://ibizasonica.streaming-pro.com:8001/bluemarlin",
+        "favicon": "https://img.logo.dev/bluemarlinibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bo´s Cool Music Radio",
+        "url": "https://str3.openstream.co/708",
+        "favicon": "https://img.logo.dev/coolcoffeesounds.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Boom FM Granada 103.8",
@@ -450,19 +490,9 @@
         "favicon": "https://img.logo.dev/radio-espana.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "BSide",
-        "url": "https://flow.emisiononline.es/radio/8010/bside.aac",
-        "favicon": "https://img.logo.dev/bside.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "C. DIAL Baladas",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "C. DIAL Latino",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Boybands Radio",
+        "url": "https://boybandsradio.stream.laut.fm/boybandsradio?t302=2026-05-10_14-52-14&uuid=ed79dd30-bc72-4806-b42b-646a708f9375",
+        "favicon": "https://img.logo.dev/boybandsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cadena 100",
@@ -486,7 +516,7 @@
     },
     {
         "name": "Cadena Azul Radio",
-        "url": "https://azura5.emisiononline.es/listen/cadena_azul_radio/cadenaazuldirecto",
+        "url": "https://azura5.emisiononline.es/listen/cadena_azul_radio/radio.mp3",
         "favicon": "https://img.logo.dev/cadena-azul.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -515,29 +545,14 @@
         "favicon": "https://img.logo.dev/cadenaenergia.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Cadena Feeling",
+        "url": "https://streaming12.elitecomunicacion.es:8022/stream",
+        "favicon": "https://img.logo.dev/cadenafeeling.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "CADENA JOVEN RADIO 107.3 FM",
         "url": "https://antares.dribbcast.com/proxy/cadenajovenradio?mp=/stream",
         "favicon": "https://img.logo.dev/cadenajoven.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Cadena Mix FM",
-        "url": "https://ns6.emisionlocal.com/proxy/radiomix?mp=/stream",
-        "favicon": "https://img.logo.dev/cadenamix.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Cadena Mix FM",
-        "url": "https://ns6.emisionlocal.com/proxy/radiomix?mp=/stream",
-        "favicon": "https://img.logo.dev/cadenamix.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Cadena Mix FM Cantabria",
-        "url": "https://ns100.emisionlocal.com/proxy/radiomix?mp=/;stream.mp3",
-        "favicon": "https://img.logo.dev/cadenamix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "cadena ser",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cadena Ser - Las Palmas",
@@ -550,9 +565,24 @@
         "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Cadena SER - Miranda de Ebro",
+        "url": "https://25483.live.streamtheworld.com/SER_ASO_MIRANDA_EBROAAC_SC",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Cadena SER - Ràdio Barcelona",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3",
         "favicon": "https://img.logo.dev/play.cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cadena SER - Radio Bierzo",
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_BIERZO.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cadena Ser - Radio Elda",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ELDA.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cadena Ser - Radio León",
@@ -565,8 +595,13 @@
         "favicon": "https://img.logo.dev/radiomoron.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Cadena SER - Radio Salamanca",
+        "url": "https://27903.live.streamtheworld.com/SER_SALAMANCAAAC.aac",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Cadena SER - Radio Valencia",
-        "url": "http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC",
+        "url": "http://25543.live.streamtheworld.com:3690/SER_VALENCIA_SC",
         "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -760,6 +795,21 @@
         "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Cadena Ser Castellón",
+        "url": "https://27833.live.streamtheworld.com/SER_ASO_CASTELLON.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cadena SER Ceuta",
+        "url": "https://21223.live.streamtheworld.com/SER_CEUTA.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cadena SER Ceuta",
+        "url": "https://21223.live.streamtheworld.com/SER_CEUTA.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Cadena Ser Córdoba",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CORDOBA_SC",
         "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -806,7 +856,7 @@
     },
     {
         "name": "Cadena Ser Mallorca",
-        "url": "http://25483.live.streamtheworld.com/SER_MALLORCA_SC",
+        "url": "http://25553.live.streamtheworld.com/SER_MALLORCA_SC",
         "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -836,7 +886,7 @@
     },
     {
         "name": "Cadena Ser Radio Galicia",
-        "url": "http://25543.live.streamtheworld.com/SER_GALICIA_SC",
+        "url": "http://27743.live.streamtheworld.com:3690/SER_GALICIA_SC",
         "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -851,7 +901,12 @@
     },
     {
         "name": "Cadena SER Radio Murcia",
-        "url": "http://25433.live.streamtheworld.com/SER_MURCIA_SC",
+        "url": "http://23603.live.streamtheworld.com:3690/SER_MURCIA_SC",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cadena Ser Radio Nordes",
+        "url": "https://25483.live.streamtheworld.com/SER_ASO_CEE.mp3",
         "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -862,6 +917,11 @@
     {
         "name": "Cadena SER Radio San Sebastián",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRAAAC.aac",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cadena SER Santander",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SANTANDER.mp3",
         "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -925,11 +985,6 @@
         "favicon": "https://img.logo.dev/calafell.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CalamarRradio",
-        "url": "http://www.calamarrradio.org:8000/stream",
-        "favicon": "https://img.logo.dev/calamarrradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Calimbre Radio",
         "url": "https://control.streaming-pro.com:6048/stream",
         "favicon": "https://img.logo.dev/calimbre.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -960,6 +1015,11 @@
         "favicon": "https://img.logo.dev/canalebro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Canal Extremadura Radio",
+        "url": "https://dpdcrurkn82q1.cloudfront.net/wct-24e14bfa-c6bf-4b58-9b12-dda97484f818/continuous/4d975a39-0232-43e0-9277-9503453777a9/radio-live/radio_128k-aac.m3u8",
+        "favicon": "https://img.logo.dev/canalextremadura.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Canal Fiesta Radio",
         "url": "https://rtva-live-radio.flumotion.com/rtva/cfr.mp3",
         "favicon": "https://img.logo.dev/canalsur.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -968,6 +1028,11 @@
         "name": "Canal Metropol 102.6 FM",
         "url": "https://radioserver11.profesionalhosting.com/proxy/pkg78607?mp=/stream",
         "favicon": "https://img.logo.dev/canalmetropol.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Canal Sur Noticias Andalucia",
+        "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+        "favicon": "https://img.logo.dev/canalsur.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Canal Sur Radio Andalucía",
@@ -1005,9 +1070,9 @@
         "favicon": "https://img.logo.dev/candilradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Cantabria FM 89.9",
-        "url": "http://stream.zeno.fm/jndgdm0esn9vv",
-        "favicon": "https://img.logo.dev/cantabriafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Cantabria Radio",
+        "url": "https://cantabria.radioca.st/stream",
+        "favicon": "https://img.logo.dev/cantabriaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Capital Radio Madrid",
@@ -1018,11 +1083,6 @@
         "name": "Cappuccino Radio Station",
         "url": "https://stream.recasound.es/proxy/breakfast/stream",
         "favicon": "https://img.logo.dev/cappuccinomusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Carrusel FM",
-        "url": "http://server6.20comunicacion.com:8921/;",
-        "favicon": "https://img.logo.dev/carruselfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Castro Punto Radio 88.2 FM",
@@ -1130,16 +1190,6 @@
         "favicon": "https://img.logo.dev/tunerplay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Classic Old Time Radio",
-        "url": "https://stream.zeno.fm/b6v6nu8uhnruv",
-        "favicon": "https://img.logo.dev/classicoldtimeradio.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Classic Rock Granada",
-        "url": "https://streaming2.elitecomunicacion.es:8054/stream",
-        "favicon": "https://img.logo.dev/classicrock.com.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Closta Blanca Radio",
         "url": "http://stream.costablancaradio.nl/costablancaradio",
         "favicon": "https://img.logo.dev/costablancaradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1155,11 +1205,6 @@
         "favicon": "https://img.logo.dev/coast.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Color Estéreo 103.7 FM",
-        "url": "https://azura5.emisiononline.es/listen/colorestereo/radio.mp3",
-        "favicon": "https://img.logo.dev/colorestereo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Comboi - La ràdio de la terreta",
         "url": "https://stream.emisorasmusicales.net/listen/comboi/comboi.mp3",
         "favicon": "https://img.logo.dev/emisorasmusicales.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1170,13 +1215,13 @@
         "favicon": "https://img.logo.dev/contrabanda.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Cool Coffee",
-        "url": "https://listen.openstream.co/6781/audio",
-        "favicon": "https://img.logo.dev/linktr.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "COPE + Sevilla",
         "url": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
+        "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cope + Zamora",
+        "url": "https://wecast-bl02.flumotion.com/copesedes/zamora.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1186,7 +1231,7 @@
     },
     {
         "name": "COPE Albacete",
-        "url": "https://wecast-bl03.flumotion.com/copesedes/albacete.mp3",
+        "url": "https://wecast11-o-cloud.flumotion.com/copesedes/albacete.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1196,12 +1241,22 @@
     },
     {
         "name": "COPE Cartagena",
-        "url": "http://wecast19-h-cloud.flumotion.com/copesedes/cartagena.mp3",
+        "url": "http://wecast16-h-cloud.flumotion.com/copesedes/cartagena.mp3",
+        "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cope Castellón",
+        "url": "https://wecast23-o-cloud.flumotion.com/copesedes/castellon.mp3",
+        "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cope Córdoba",
+        "url": "https://flucast10-h-cloud.flumotion.com/cope/net1.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "COPE Gijón",
-        "url": "https://wecast-bl02.flumotion.com/copesedes/gijon.mp3",
+        "url": "https://wecast-bl01.flumotion.com/copesedes/gijon.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1215,28 +1270,43 @@
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Cope Madrid FM",
+        "url": "https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3",
+        "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "COPE Málaga",
-        "url": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3",
+        "url": "http://flucast-bl05.flumotion.com/cope/net1.mp3",
+        "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "COPE Más Santander",
+        "url": "https://wecast-bl01.flumotion.com/copesedes/santander-mas.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "COPE Santander",
-        "url": "http://wecast01-h-cloud.flumotion.com/copesedes/santander.mp3",
+        "url": "http://wecast09-h-cloud.flumotion.com/copesedes/santander.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cope Sevilla",
-        "url": "http://wecast-bl02.flumotion.com/copesedes/sevilla.mp3",
+        "url": "http://wecast10-h-cloud.flumotion.com/copesedes/sevilla.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "COPE Tenerife",
-        "url": "https://wecast-bl02.flumotion.com/copesedes/tenerife-mas.mp3",
+        "url": "https://wecast07-o-cloud.flumotion.com/copesedes/tenerife-mas.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "COPE Tenerife",
-        "url": "https://wecast23-o-cloud.flumotion.com/copesedes/tenerife-mas.mp3",
+        "url": "https://wecast07-o-cloud.flumotion.com/copesedes/tenerife-mas.mp3",
+        "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cope Zaragoza",
+        "url": "https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3",
         "favicon": "https://img.logo.dev/cope.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1253,6 +1323,11 @@
         "name": "Costa Blanca FM",
         "url": "https://costablancafm.stream:18106/",
         "favicon": "https://img.logo.dev/costablanca.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Costa Blanca Radio",
+        "url": "https://stream.costablancaradio.nl/costablancaradio",
+        "favicon": "https://img.logo.dev/costablancaradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Costa Calida International Radio",
@@ -1280,19 +1355,14 @@
         "favicon": "https://img.logo.dev/costadelmar-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Costa Del Mar Dance",
-        "url": "https://radio4.cdm-radio.com:18000/stream-mp3-Dance",
-        "favicon": "https://img.logo.dev/onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Costa Del Mar Madrid",
+        "url": "https://radio2.vip-radios.fm:18064/stream-RadioDNS-ST",
+        "favicon": "https://img.logo.dev/cdmradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Costa Del Mar Smooth Jazz",
         "url": "https://radio4.cdm-radio.com:18024/stream-mp3-Smooth",
         "favicon": "https://img.logo.dev/cdm-smoothsax.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Cristianos - Christen auf Spanisch",
-        "url": "http://cristianos.stream.laut.fm/cristianos?pl=pls&t302=2026-01-15_00-06-05&uuid=a2e3b06c-a0f6-4fe9-bbef-a871081124f2",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cuac FM",
@@ -1310,19 +1380,24 @@
         "favicon": "https://img.logo.dev/cugat.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Dance Wave Retro!",
-        "url": "https://retro.dancewave.online/retrodance.flac.ogg",
-        "favicon": "https://img.logo.dev/retro.dacemwave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "DABClassic Radio",
+        "url": "https://studio.dabclassic.com/hls/dabclassic/live.m3u8",
+        "favicon": "https://img.logo.dev/dabclassic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dance Wave Retro!",
-        "url": "https://retro.dancewave.online/retrodance.flac.ogg",
-        "favicon": "https://img.logo.dev/retro.dacemwave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://dancewave.online/retrodance.flac.ogg",
+        "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dance Wave Retro!",
-        "url": "https://retro.dancewave.online/retrodance.flac.ogg",
-        "favicon": "https://img.logo.dev/retro.dacemwave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://dancewave.online/retrodance.flac.ogg",
+        "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dance Wave Retro!",
+        "url": "https://dancewave.online/retrodance.flac.ogg",
+        "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Das Inselradio Mallorca",
@@ -1335,14 +1410,9 @@
         "favicon": "https://img.logo.dev/inselradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Davisow Radio",
-        "url": "https://stream-47.zeno.fm/gdyhnx3xem8uv?zs=P6gskFAET8a6NB_nzturug",
-        "favicon": "https://img.logo.dev/davisow2004.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Decada FM 100.1",
-        "url": "http://streaming5.elitecomunicacion.es:8230/;",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "DAVID MADRID RAMIREZ",
+        "url": "https://stream.zeno.fm/k5hwh3uuanxtv",
+        "favicon": "https://img.logo.dev/discord.gg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Decibelia FM",
@@ -1355,14 +1425,9 @@
         "favicon": "https://img.logo.dev/decibeliafm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "delicious.beach - formentera lounge radio",
-        "url": "https://server31435.streamplus.de/;stream.mp3",
-        "favicon": "https://img.logo.dev/instagram.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Diana D",
-        "url": "https://cesarradio.realserver.es/listen/diana_d_/radio.mp3",
-        "favicon": "https://img.logo.dev/dianadfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "DEEP NU HOUSE Radio by SO&SO",
+        "url": "https://c4.radioboss.fm:18286/dnh",
+        "favicon": "https://img.logo.dev/deepnuhouse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Digital hits",
@@ -1405,11 +1470,6 @@
         "favicon": "https://img.logo.dev/diversaradioactiva.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "dj mapache",
-        "url": "http://stream.zeno.fm/tr9qda8tz7zuv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "DMT-FM - EU Server 320k",
         "url": "https://dc1.serverse.com/proxy/ywycfrxn/live",
         "favicon": "https://img.logo.dev/dmt-fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1435,14 +1495,14 @@
         "favicon": "https://img.logo.dev/dublab.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "dublab BCN",
-        "url": "https://dublabbcn.out.airtime.pro/dublabbcn_a",
-        "favicon": "https://img.logo.dev/l.instagram.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Dunas FM 94.4 y 94.2",
         "url": "https://sonic.mediatelekom.net/8424/stream/;",
         "favicon": "https://img.logo.dev/dunasfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Durango Irratia",
+        "url": "https://control.streaming-pro.com:6006/durangoirratia.mp3",
+        "favicon": "https://img.logo.dev/durangoirratia.durango.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dynamis Radio (87.5 FM) Madrid",
@@ -1453,6 +1513,11 @@
         "name": "Dynamis Radio Madrid",
         "url": "https://control.streaming-pro.com:8014/stream",
         "favicon": "https://img.logo.dev/dynamisradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "EAJ Radio",
+        "url": "https://radios.blumhost.es:8214/stream",
+        "favicon": "https://img.logo.dev/radios.blumhost.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ecuashyri Radio 103.7 FM",
@@ -1477,37 +1542,12 @@
     {
         "name": "EDM FESTIVAL - Online Radio",
         "url": "https://stream.0nlineradio.com/edm-festival?ref=radiobrowser",
-        "favicon": "https://img.logo.dev/0nlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "EDM Radio",
-        "url": "https://laut.fm/edmradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/stream.0nlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EDM Radio",
         "url": "https://laut.fm/edmradio",
         "favicon": "https://img.logo.dev/play.edmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "EDM RADIO",
-        "url": "https://stream.zeno.fm/sbe8jjdhr2lvv",
-        "favicon": "https://img.logo.dev/radioedm.wordpress.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "EDM Radio",
-        "url": "https://laut.fm/edmradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "EDM Radio",
-        "url": "https://laut.fm/edmradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "EDM Radio",
-        "url": "https://laut.fm/edmradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EDM.RADIO/DANCE",
@@ -1525,6 +1565,11 @@
         "favicon": "https://img.logo.dev/efectofm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Eguzki Irratia",
+        "url": "https://streaming.eguzki.eus/eguzki.mp3",
+        "favicon": "https://img.logo.dev/eguzki.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "EITB Euskal Kantak",
         "url": "http://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8",
         "favicon": "https://img.logo.dev/eitb.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1540,9 +1585,9 @@
         "favicon": "https://img.logo.dev/eitb.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Eixample Barcelona Radio",
-        "url": "https://directe.eixamplebarcelonaradio.com:8443/radioOnline",
-        "favicon": "https://img.logo.dev/eixamplebarcelonaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "EITB Radio Euskadi",
+        "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
+        "favicon": "https://img.logo.dev/eitb.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "El 9 FM",
@@ -1570,26 +1615,6 @@
         "favicon": "https://img.logo.dev/eltorotv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ElectroDanceWorld Radio",
-        "url": "http://stream.zeno.fm/s70bvdgqks8uv",
-        "favicon": "https://img.logo.dev/linktr.ee?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Elite Fm",
-        "url": "http://stream.zeno.fm/atsvz45arm0uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Elite fm new",
-        "url": "http://stream.zeno.fm/atsvz45arm0uv",
-        "favicon": "https://img.logo.dev/elitestation.gq?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Elite Radio Guadix",
-        "url": "http://streaming2.elitecomunicacion.es:8606/stream",
-        "favicon": "https://img.logo.dev/eliteradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Eme Radio",
         "url": "https://streaming.enacast.com/emeradiofmHD.mp3",
         "favicon": "https://img.logo.dev/emeradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1610,29 +1635,14 @@
         "favicon": "https://img.logo.dev/diocesanadecanarias.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Emoción Radio",
-        "url": "http://topradio.one:8057/autodj",
-        "favicon": "https://img.logo.dev/emocionradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Eñe Radio",
-        "url": "https://stream-175.zeno.fm/am74zvzksv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhbTc0enZ6a3N2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTUxIUEhkY3FUTUNFMldJNkQwakdIQSIsImlhdCI6MTc2ODQ0NjkyOCwiZXhwIjoxNzY4NDQ2OTg4fQ.2HvPy_5RJnjsFQWQd7zS0tnAAND30LRudD97bCEztjQ",
+        "url": "https://stream-175.surfernetwork.com/am74zvzksv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhbTc0enZ6a3N2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkwwcVkzTjBUUnJDUVcwTTVET3JRUWciLCJpYXQiOjE3OTI2OTU3NDIsImV4cCI6MTc5MjY5NTgwMn0.bYGhTUxloEmf_neF1yTk7lR-uQsCwFBvDONKbhRRay4",
         "favicon": "https://img.logo.dev/xn--eetvi-ota.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Energía Flamenca",
         "url": "https://axarquia.emisiononline.es/radio/8020/radio.mp3",
         "favicon": "https://img.logo.dev/energiaflamenca.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ENERGIA FM - CARAVACA DE LA CRUZ 90.0",
-        "url": "http://streaming5.elitecomunicacion.es:8128/caravaca?type=.mp3",
-        "favicon": "https://img.logo.dev/cadenaenergia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Energia Fm Valencia",
-        "url": "https://servidor35.brlogic.com:7048/live",
-        "favicon": "https://img.logo.dev/energiafm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Energía Vintage",
@@ -1673,11 +1683,6 @@
         "name": "Espacio4FM",
         "url": "https://stream-64.zeno.fm/fz0bc82wn0hvv?zs=KXaURSY1Roe-rptKdjdkkw",
         "favicon": "https://img.logo.dev/espacio4fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Espana Network",
-        "url": "https://cast3.asurahosting.com/proxy/paolo/stream",
-        "favicon": "https://img.logo.dev/cast3.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Esplugues FM",
@@ -1725,11 +1730,6 @@
         "favicon": "https://img.logo.dev/esradio.libertaddigital.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "EsRadio Asturias",
-        "url": "http://server9.emitironline.com:8822/radio",
-        "favicon": "https://img.logo.dev/esradioasturias.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "esRadio Castilla y León",
         "url": "https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-med.aac",
         "favicon": "https://img.logo.dev/esradio.libertaddigital.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1745,6 +1745,11 @@
         "favicon": "https://img.logo.dev/esradiogranada.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "esRadio Huesca",
+        "url": "http://ns6.emisionlocal.com:8310/;",
+        "favicon": "https://img.logo.dev/akouradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "esRadio Madrid",
         "url": "http://livestreaming3.esradio.fm/stream64.mp3",
         "favicon": "https://img.logo.dev/livestreaming3.esradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1753,6 +1758,16 @@
         "name": "esRadio Madrid",
         "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
         "favicon": "https://img.logo.dev/esradio.libertaddigital.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "esRadio Onda Requena",
+        "url": "https://sonic2.sistemahost.es/8068/stream",
+        "favicon": "https://img.logo.dev/akouradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "esRadio Orihuela del Tremedal",
+        "url": "http://directo.radiocalamocha.es:8080/esradioorihuela.mp3",
+        "favicon": "https://img.logo.dev/akouradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EsRadio Principal",
@@ -1790,11 +1805,6 @@
         "favicon": "https://img.logo.dev/esserewebradio.it?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Estéreo Latino 103.8 FM",
-        "url": "http://server3.20comunicacion.com:8028/;",
-        "favicon": "https://img.logo.dev/server9.emitironline.com:2199?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Estudio Radio",
         "url": "https://streaming3.locucionar.com/proxy/hemisferios?mp=/stream",
         "favicon": "https://img.logo.dev/estudioradio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1805,9 +1815,19 @@
         "favicon": "https://img.logo.dev/eitb.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Europa FM Guipuzcoa",
-        "url": "https://stream.zeno.fm/se76qau1hc9uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Europa FM Madrid",
+        "url": "https://29338.live.streamtheworld.com/EFMAAC.aac",
+        "favicon": "https://img.logo.dev/europafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "European Indie Music Network",
+        "url": "http://euroindiemusic.info/",
+        "favicon": "https://img.logo.dev/euroindiemusic.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "European Indie Music Network",
+        "url": "https://sr10.inmystream.it/proxy/european?mp=/stream",
+        "favicon": "https://img.logo.dev/euroindiemusic.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Euskadi irratia",
@@ -1818,6 +1838,16 @@
         "name": "Euskadi Irratia",
         "url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
         "favicon": "https://img.logo.dev/guau.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Euskadi Irratia",
+        "url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
+        "favicon": "https://img.logo.dev/guau.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Euskal Sintonia",
+        "url": "http://online.arrateirratia.eus/zuzenean",
+        "favicon": "https://img.logo.dev/arrateirratia.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Euskalerria Irratia",
@@ -1866,23 +1896,8 @@
     },
     {
         "name": "Fibwi Radio",
-        "url": "https://sound.gigaradius.eu/proxy/fibwiradio/stream",
-        "favicon": "https://img.logo.dev/fibwiradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fiebre Latina Radio 96.6 FM",
-        "url": "https://eu1.lhdserver.es:9035/stream",
-        "favicon": "https://img.logo.dev/fiebrelatinaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fiesta 89.1 FM",
-        "url": "https://acp2.lorini.net:36050/stream",
-        "favicon": "https://img.logo.dev/fiesta891fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FIESTA El Vigia 101.1 FM",
-        "url": "https://acp2.lorini.net:28058/stream",
-        "favicon": "https://img.logo.dev/fiestaelvigia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "http://stream.fibwi.com:9000/stream",
+        "favicon": "https://img.logo.dev/fibwi.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fiesta FM 87.6",
@@ -1915,6 +1930,11 @@
         "favicon": "https://img.logo.dev/flashradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Flash Radio",
+        "url": "https://flashradioserver.es/listen/flash/radio.mp3",
+        "favicon": "https://img.logo.dev/flashradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Flow Radio",
         "url": "https://st1.urbanrevolution.es:8445/flow",
         "favicon": "https://img.logo.dev/flowradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1922,6 +1942,11 @@
     {
         "name": "Flow Radio",
         "url": "https://st1.urbanrevolution.es:8445/flow",
+        "favicon": "https://img.logo.dev/flowradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FLOW RADIO",
+        "url": "https://flow.urbanrevolution.es:8445/flow",
         "favicon": "https://img.logo.dev/flowradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1940,14 +1965,9 @@
         "favicon": "https://img.logo.dev/flowradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FM MUSICAL",
-        "url": "https://stream.zenolive.com/mpgqwn4h0wzuv.aac",
-        "favicon": "https://img.logo.dev/fm-musical.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Forever The Beatles (MP3)",
-        "url": "http://stream.zeno.fm/bucptksk6ebtv",
-        "favicon": "https://img.logo.dev/foreverthebeatles.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "FLOW Radio Alicante",
+        "url": "https://flow.urbanrevolution.es:8445/flowelche",
+        "favicon": "https://img.logo.dev/flowradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FORMULA 10 MUSICA",
@@ -1955,9 +1975,14 @@
         "favicon": "https://img.logo.dev/formula10musica.es.tl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Formula 30",
-        "url": "http://stm1.emiteonline.com:8001/formula30",
-        "favicon": "https://img.logo.dev/formula30.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Fórmula CAT",
+        "url": "https://stream.rubostudio.es/listen/cat/radio.mp3",
+        "favicon": "https://img.logo.dev/formula24.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fórmula Classics",
+        "url": "https://stream.rubostudio.es/listen/classics/radio.mp3",
+        "favicon": "https://img.logo.dev/formula24.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FÓRMULA FUN",
@@ -1965,74 +1990,24 @@
         "favicon": "https://img.logo.dev/formulafungalicia.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Formula Hit",
+        "url": "https://sonic.sistemahost.es/8176/stream?1785319144024",
+        "favicon": "https://img.logo.dev/formulahit.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Formula Hit Galicia",
+        "url": "https://s18.myradiostream.com/:8074/stream/1/",
+        "favicon": "https://img.logo.dev/formulahit.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Fred Film Radio(Español)",
         "url": "https://s10.webradio-hosting.com/proxy/fredradiosp/stream",
         "favicon": "https://img.logo.dev/fred.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Free FM",
-        "url": "https://rocafmadrid.radioca.st/",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM 80s",
-        "url": "https://freefm80.radioca.st/",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM 80s Madrid",
-        "url": "https://freefm80.radioca.st/",
-        "favicon": "https://img.logo.dev/freefmworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Chill",
-        "url": "https://stream.zeno.fm/fr76gzq1kv8uv",
-        "favicon": "https://img.logo.dev/freefmworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Chill",
-        "url": "https://freefmchill.radioca.st/",
-        "favicon": "https://img.logo.dev/freefmworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Classical",
-        "url": "https://stream.zeno.fm/x5jlpogsaedvv",
-        "favicon": "https://img.logo.dev/freefmworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Classics",
-        "url": "https://xxdelgado.radioca.st/",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Love",
-        "url": "http://stream.zeno.fm/umsptm6rvy8uv",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Madrid",
-        "url": "https://rocafmadrid.radioca.st/stream",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Mdrid",
-        "url": "https://rocafmadrid.radioca.st/",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Sports",
-        "url": "https://stream.zeno.fm/31nnibfpnxktv",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM Top 100",
-        "url": "http://stream.zeno.fm/a5h7vfret68uv",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Free FM X-Mas",
-        "url": "http://stream.zeno.fm/h60er015v68uv",
-        "favicon": "https://img.logo.dev/freefmradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Free Techno",
+        "url": "https://icecast.apps.dj/freetechno",
+        "favicon": "https://img.logo.dev/icecast.apps.dj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Free Techno",
@@ -2060,6 +2035,11 @@
         "favicon": "https://img.logo.dev/funkytracksradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Fusión Radio Málaga",
+        "url": "https://streaming.fusionradio.es:1907/fusion.mp3",
+        "favicon": "https://img.logo.dev/fusionradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "GameOver Music Radio",
         "url": "https://gameover-radio.com:8000/gameover-radio",
         "favicon": "https://img.logo.dev/gameover-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2068,6 +2048,11 @@
         "name": "Gaztea Irratia",
         "url": "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3",
         "favicon": "https://img.logo.dev/eitb.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GBR - Gamebytesradio",
+        "url": "https://broadcast.shoutcheap.com/proxy/gbrgameb/stream",
+        "favicon": "https://img.logo.dev/gamebytesradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Gente Radio",
@@ -2110,14 +2095,19 @@
         "favicon": "https://img.logo.dev/grabaradioibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Gracia Celestial",
-        "url": "https://stream4.305stream.com:9463/stream",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Gran Via Radio Barcelona",
+        "url": "https://servidor14-3.brlogic.com:7066/live",
+        "favicon": "https://img.logo.dev/granviaradiofm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "GTA SA:  K-Rose",
-        "url": "https://stream-165.zeno.fm/hvnu0rfuifguv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJodm51MHJmdWlmZ3V2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijl6b1VUSVJ4UUhPRlNiUkJmaUJXQkEiLCJpYXQiOjE3NjkyNjEzNjMsImV4cCI6MTc2OTI2MTQyM30.0Tfu80xMnbHmdrbJlsrABdokqoab9_35SQiusVbcuLU",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "GRX BIT RADIO on line",
+        "url": "https://streaming.elitecomunicacion.cloud:8350/stream",
+        "favicon": "https://img.logo.dev/grxbitradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GRX BIT RADIO on line",
+        "url": "https://streaming.elitecomunicacion.cloud:8350/stream",
+        "favicon": "https://img.logo.dev/grxbitradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GUM FM",
@@ -2128,6 +2118,11 @@
         "name": "H!T FM",
         "url": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3&gdpr=0&gdpr_consent=false",
         "favicon": "https://img.logo.dev/hitfmradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hala Bedi 1",
+        "url": "https://stream.halabedi.eus/1B",
+        "favicon": "https://img.logo.dev/halabedi.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HAPPYFM - FUERTEVENTURA",
@@ -2148,6 +2143,11 @@
         "name": "HappyFM-Fuerteventura",
         "url": "https://happyfuerteventura.streaming-pro.com:6003/live",
         "favicon": "https://img.logo.dev/happyfmfuerteventura.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hispanidad Radio",
+        "url": "https://stm2.emiteonline.com:9002/hr",
+        "favicon": "https://img.logo.dev/radiohispanidad.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hit FM",
@@ -2181,33 +2181,8 @@
     },
     {
         "name": "hits1",
-        "url": "https://radio12.pro-fhi.net:19018/Starley%20-%20Signs%20(Eden%20Prince%20Remix)",
+        "url": "https://radio12.pro-fhi.net:19018/Shaed%20&%20Zayn%20-%20Trampoline",
         "favicon": "https://img.logo.dev/hits1radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hitz 90s FM",
-        "url": "https://stream.zeno.fm/1q3dwmd6yf8uv",
-        "favicon": "https://img.logo.dev/cdn.onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "HITZ 91.0",
-        "url": "https://stream.zeno.fm/f2qmny74gd0uv",
-        "favicon": "https://img.logo.dev/cdn.onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hitz Africa FM",
-        "url": "http://stream.zeno.fm/2s5dd1tzem8uv",
-        "favicon": "https://img.logo.dev/cdn.onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hitz Funky Radio",
-        "url": "https://stream.zeno.fm/azgx0ktf4p8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hitz Latino FM",
-        "url": "http://stream.zeno.fm/aq899a53rs8uv",
-        "favicon": "https://img.logo.dev/cdn.onlineradiobox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HKM radio",
@@ -2218,11 +2193,6 @@
         "name": "HKM Radio",
         "url": "https://stream.zenolive.com/rhf9cqkz3yzuv.aac",
         "favicon": "https://img.logo.dev/hkmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hola 95.7 FM 1 Costa Calma",
-        "url": "http://5.135.183.124:8207/stream",
-        "favicon": "https://img.logo.dev/holafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Holiday Gym FM",
@@ -2240,14 +2210,19 @@
         "favicon": "https://img.logo.dev/urbanrevolution.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "HOUSE Radio Spain",
-        "url": "http://house.urbanrevolution.es:8446/houseaac?ver=970478",
-        "favicon": "https://img.logo.dev/houseradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "http://str3.openstream.co/273",
         "url": "http://str3.openstream.co/273",
         "favicon": "https://img.logo.dev/playfmradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "IA Radio - Música con IA (PitmasterAI)",
+        "url": "https://radio.pitmasterai.es/radio/8000/radio.mp3",
+        "favicon": "https://img.logo.dev/iaradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "IA Radio España",
+        "url": "https://iaradio.es/listen/esp/radio.mp3",
+        "favicon": "https://img.logo.dev/iaradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "IB3 Ràdio Mallorca",
@@ -2258,11 +2233,6 @@
         "name": "IB3 Ràdio Menorca",
         "url": "http://streaming01.ib3radio.com:8000/ib3radio_menorca",
         "favicon": "https://img.logo.dev/ib3tv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "IBI RADIO by Xopo",
-        "url": "https://streaming.enacast.com/radioibiSD.mp3",
-        "favicon": "https://img.logo.dev/streaming.enacast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ibiza Global Classics",
@@ -2283,26 +2253,6 @@
         "name": "Ibiza Orgánica",
         "url": "https://stream.aiir.com/ilduibssvzbtv",
         "favicon": "https://img.logo.dev/ibizaorganica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ibiza Radios Deep House",
-        "url": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-        "favicon": "https://img.logo.dev/radio2.vip-radios.fm:8027?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ibiza Radios Hits",
-        "url": "https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits",
-        "favicon": "https://img.logo.dev/ibiza-radios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ibiza Radios Relax",
-        "url": "http://54.38.43.201:8036/stream-128kmp3-IbizaRelax",
-        "favicon": "https://img.logo.dev/ibiza-radios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ibiza Relax",
-        "url": "http://54.38.43.201:8036/stream-128kmp3-IbizaRelax",
-        "favicon": "https://img.logo.dev/ibiza-radios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ibiza Sonica",
@@ -2350,19 +2300,9 @@
         "favicon": "https://img.logo.dev/ibizaxradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ibiza_Radios",
-        "url": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-        "favicon": "https://img.logo.dev/radio2.vip-radios.fm:8027?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ibiza_Radios/Deep House",
-        "url": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-        "favicon": "https://img.logo.dev/radio2.vip-radios.fm:8027?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ibiza_Radios/Deep House",
-        "url": "http://radio2.vip-radios.fm:8027/stream-64kmp3-IbizaDeep_autodj",
-        "favicon": "https://img.logo.dev/radio2.vip-radios.fm:8027?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Ibiza.fm",
+        "url": "https://streaming.radiostreamlive.com/ibizafm",
+        "favicon": "https://img.logo.dev/ibiza.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "iCat FM",
@@ -2371,8 +2311,8 @@
     },
     {
         "name": "ILoveMusicRadio",
-        "url": "https://ilm.stream18.radiohost.de/ilm_dance-2023-jahrescharts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDQxNDA1JmQ9ZDhiZmUxOWRhZTk3OWJjYmI4YTE",
-        "favicon": "https://img.logo.dev/ilm.stream18.radiohost.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://ilm.stream35.radiohost.de/ilm_dance-2023-jahrescharts_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyNzA5NTc4JmQ9ZDE5ZWMyY2M2ZGMxZGNkOWFkZGM",
+        "favicon": "https://img.logo.dev/ilm.stream35.radiohost.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Imagina Radio",
@@ -2381,7 +2321,7 @@
     },
     {
         "name": "iMusica Rock",
-        "url": "https://stream-175.zeno.fm/4wu2dwa6krruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0d3UyZHdhNmtycnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRUR3UWx2Q0JRSTZKOTl1LXlWNC0tZyIsImlhdCI6MTc2ODQ1MzQ0MCwiZXhwIjoxNzY4NDUzNTAwfQ.AWZiv00ObHSmLMW4rhGW55i6pcBsoIQZLRSRfny-7Yw",
+        "url": "https://stream-175.surfernetwork.com/4wu2dwa6krruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0d3UyZHdhNmtycnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjQyOWs2ZExUUmllYkE2aFZVN2p1WlEiLCJpYXQiOjE3OTI3MDIxMDIsImV4cCI6MTc5MjcwMjE2Mn0.9MUfw2K_brED0Wdgra17jgJo06BH7nexoWFjIm6bvaU",
         "favicon": "https://img.logo.dev/imusicarock.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2435,24 +2375,14 @@
         "favicon": "https://img.logo.dev/online.radioplayer.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "JAM 66 Radio",
-        "url": "https://eu4.fastcast4u.com/proxy/jam66?mp=/1",
-        "favicon": "https://img.logo.dev/jarnanz.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Jazler FM",
         "url": "http://solid48.streamupsolutions.com:8091/stream",
         "favicon": "https://img.logo.dev/jazler.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Jazz Crusader",
-        "url": "https://jazzcrusader.stream.laut.fm/jazzcrusader",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Jazz Crusader",
-        "url": "https://stream.laut.fm/jazzcrusader",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Jazz FM Spain",
+        "url": "https://ns1.estaciondigital.es/listen/jazzfmspain/live",
+        "favicon": "https://img.logo.dev/jazzfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jazz Radio Bcn",
@@ -2490,6 +2420,11 @@
         "favicon": "https://img.logo.dev/radioalmaina.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "K-Rock Europe",
+        "url": "http://tv.radiohosting.online:8982/stream",
+        "favicon": "https://img.logo.dev/k-rock.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "KAIBO RADIO",
         "url": "https://ibizasonica.streaming-pro.com:8013/kaiboradio",
         "favicon": "https://img.logo.dev/ibizasonica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2500,14 +2435,9 @@
         "favicon": "https://img.logo.dev/ibizasonica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kairos FM",
-        "url": "http://c7.radioboss.fm:8255/autodj",
-        "favicon": "https://img.logo.dev/kairosfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Khaos FM",
-        "url": "https://streaming0103.sonicpanelradio.com:8050/stream",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "KISS FM",
+        "url": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es&gdpr=0&gdpr_consent=null",
+        "favicon": "https://img.logo.dev/kissfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kiss FM",
@@ -2555,9 +2485,9 @@
         "favicon": "https://img.logo.dev/kissfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kiss Music FM",
-        "url": "https://stream.zeno.fm/aq899a53rs8uv",
-        "favicon": "https://img.logo.dev/stream.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Kiss FM Galicia",
+        "url": "https://server8.emitironline.com:18394/stream",
+        "favicon": "https://img.logo.dev/kissfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kiss-FM Madrid",
@@ -2570,9 +2500,14 @@
         "favicon": "https://img.logo.dev/kissfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kyoto FM",
+        "url": "https://sonic.mediatelekom.net/8272/stream",
+        "favicon": "https://img.logo.dev/kyotofm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "L'OM PICASSENT RADIO by Xopo",
         "url": "http://radiolom.es:8800/;&type=mp3",
-        "favicon": "https://img.logo.dev/radiolom.es:8800?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiolom.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "La Clave Stereo 93.6",
@@ -2602,6 +2537,11 @@
     {
         "name": "La Indie",
         "url": "https://stream.emisorasmusicales.net/listen/la_indie/laindie.mp3",
+        "favicon": "https://img.logo.dev/emisorasmusicales.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "La Indie Madrid",
+        "url": "https://stream.emisorasmusicales.net/listen/la_indie/laindie-madrid.mp3",
         "favicon": "https://img.logo.dev/emisorasmusicales.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2655,14 +2595,9 @@
         "favicon": "https://img.logo.dev/lamixradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "La Movida Latina",
-        "url": "https://server2.ejeserver.com:8400/stream",
-        "favicon": "https://img.logo.dev/lamovidalatina.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "La Nueva 87.9 FM (87.9 FM) Madrid",
-        "url": "https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3",
-        "favicon": "https://img.logo.dev/es.streema.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "La MIX Radio",
+        "url": "https://lamixradio.com/radio",
+        "favicon": "https://img.logo.dev/lamixradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "La Patrona 102.9 FM",
@@ -2678,16 +2613,6 @@
         "name": "La Urban Radio",
         "url": "https://st1.urbanrevolution.es:8443/laurbanfm.mp3",
         "favicon": "https://img.logo.dev/urbanrevolution.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "La Villa Fm",
-        "url": "https://sonic.mediatelekom.net:10907/stream",
-        "favicon": "https://img.logo.dev/lavillafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Laciana FM",
-        "url": "https://nodo102.liveradio.com.es/8004/stream",
-        "favicon": "https://img.logo.dev/lacianafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ladiez",
@@ -2710,9 +2635,9 @@
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "LOCA FM",
-        "url": "http://s3.we4stream.com:8045/live",
-        "favicon": "https://img.logo.dev/s3.we4stream.com:8045?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Loca Dance",
+        "url": "https://s2.we4stream.com/listen/loca_dance/live",
+        "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Loca FM",
@@ -2725,11 +2650,6 @@
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "LOCA FM 80s",
-        "url": "http://s02.fjperezdj.com:8075/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8075?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Loca FM 80s",
         "url": "http://s02.fjperezdj.com:8075/live",
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2740,19 +2660,9 @@
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "LOCA FM Child Out",
-        "url": "http://s02.fjperezdj.com:8006/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8006?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Loca FM chillout",
         "url": "http://s02.fjperezdj.com:8006/live",
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOCA FM DANCE",
-        "url": "http://s02.fjperezdj.com:8025/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8025?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Loca FM Deep Techno",
@@ -2760,39 +2670,9 @@
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "LOCA FM House",
-        "url": "http://s02.fjperezdj.com:8026/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8026?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Loca FM Industrial",
-        "url": "http://s02.fjperezdj.com:8076/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8076?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Loca FM live",
         "url": "http://s3.we4stream.com:8045/liv",
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOCA FM TechHouse",
-        "url": "http://s02.fjperezdj.com:8046/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8046?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOCA FM Techno",
-        "url": "http://s02.fjperezdj.com:8050/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8050?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOCA FM Trance",
-        "url": "http://s02.fjperezdj.com:8055/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8055?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Loca FM Twchno",
-        "url": "http://s02.fjperezdj.com:8050/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8050?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Loca FM Urban",
@@ -2813,11 +2693,6 @@
         "name": "LocaFM Melodic Deep",
         "url": "http://s02.fjperezdj.com:8056/live",
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOCAFM REMEMBER",
-        "url": "http://s02.fjperezdj.com:8035/live",
-        "favicon": "https://img.logo.dev/s02.fjperezdj.com:8035?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Lola Fm",
@@ -2845,6 +2720,11 @@
         "favicon": "https://img.logo.dev/play.los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Los 40 Asturias",
+        "url": "https://27913.live.streamtheworld.com/LOS40_ASO_ASTURIASAAC.aac",
+        "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Los 40 Catalunya",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC",
         "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2853,11 +2733,6 @@
         "name": "Los 40 classic",
         "url": "https://22543.live.streamtheworld.com/LOS40_CLASSIC.mp3",
         "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOS 40 DANCE",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Los 40 Dance",
@@ -2876,12 +2751,17 @@
     },
     {
         "name": "Los 40 Nacional",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3",
+        "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LOS 40 Principales España",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
+        "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Los 40 Santander",
+        "url": "https://22183.live.streamtheworld.com/LOS40_SANTANDERAAC.aac",
         "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2893,11 +2773,6 @@
         "name": "Los 40 Urban",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
         "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOS 40 URBAN",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
-        "favicon": "https://img.logo.dev/playerservices.streamtheworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Los Megaexitos",
@@ -2920,14 +2795,19 @@
         "favicon": "https://img.logo.dev/play.los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Lounge Radio Ibiza",
-        "url": "https://lounge-radio-ibiza.stream.laut.fm/lounge-radio-ibiza?pl=m3u&t302=2026-01-15_07-49-47&uuid=76e9513e-5c01-407a-9538-f7c4a8d29d26",
-        "favicon": "https://img.logo.dev/lounge-radio-ibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "LOS40 Madrid (93.9FM)",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MADRID.mp3",
+        "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LOS40 Madrid (93.9FM)",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MADRID.mp3",
+        "favicon": "https://img.logo.dev/los40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Lounge Radio Ibiza",
-        "url": "https://stream.laut.fm/lounge-radio-ibiza",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://lounge-radio-ibiza.stream.laut.fm/lounge-radio-ibiza",
+        "favicon": "https://img.logo.dev/lounge-radio-ibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LOVE RADIO - LOVE.radio",
@@ -2950,21 +2830,16 @@
         "favicon": "https://img.logo.dev/wifonfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Makina Fm",
-        "url": "https://stream.zeno.fm/roqewn7dp4gtv",
-        "favicon": "https://img.logo.dev/makinafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Makina Fm",
-        "url": "https://stream-157.zeno.fm/roqewn7dp4gtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyb3Fld243ZHA0Z3R2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsImp0aSI6IkI0SXZuWFRBU21LVWRvWUZqSGstcUEiLCJpYXQiOjE3MTU0NzA1NzUsImV4cCI6MTcxNTQ3MDYzNX0.1HVDh84CZBnlRWWluiPLbGWAXEHbpedQw55Kv8AZZYg&zttl=5",
-        "favicon": "https://img.logo.dev/makinafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Mallorca Sunshine Radio",
         "url": "https://mallorcasunshine--di--nacs-ais-lgc--05--cdn.cast.addradio.de/mallorcasunshine/live/mp3/high",
         "favicon": "https://img.logo.dev/mallorcasunshineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Mallorca-1 (FM 88.2 · 103.0 · DAB+)",
+        "url": "http://streaming.mallorcahit.fm/live",
+        "favicon": "https://img.logo.dev/mallorca1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Mambo Radio",
         "url": "https://streamer.radio.co/sd7b28e5f3/listen",
         "favicon": "https://img.logo.dev/cafemamboibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2973,6 +2848,11 @@
         "name": "Mambo Radio",
         "url": "https://streamer.radio.co/sd7b28e5f3/listen",
         "favicon": "https://img.logo.dev/cafemamboibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Manantial fm",
+        "url": "https://cast4.prosandoval.com/listen/bcn_gospel_channel/radio.mp3",
+        "favicon": "https://img.logo.dev/bcngospelchannel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Marbescop",
@@ -3010,6 +2890,11 @@
         "favicon": "https://img.logo.dev/masterfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Master FM Asturias",
+        "url": "http://82.223.102.59:8010/",
+        "favicon": "https://img.logo.dev/masterfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "MASTER FM MADRID 93.7 FM",
         "url": "https://radios.lamaster.es:8000/web24",
         "favicon": "https://img.logo.dev/masterfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3018,16 +2903,6 @@
         "name": "Mataró Ràdio",
         "url": "https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3",
         "favicon": "https://img.logo.dev/tvmataro.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Maxima Fm",
-        "url": "https://en-directo.frequence-radio.com/amp/redirect.php?radio=maxima-fm",
-        "favicon": "https://img.logo.dev/maximafm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Maximusic Radio",
-        "url": "https://maximusicradio.stream.laut.fm/maximusicradio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MDT Radio",
@@ -3065,18 +2940,18 @@
         "favicon": "https://img.logo.dev/mediterranifm.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Mega St☆r Spain",
-        "url": "http://stream-151.zeno.fm/04uk5f3aqs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwNHVrNWYzYXFzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVNrdWFuM3ZRbC1Ra2lIa1RzdHd1QSIsImlhdCI6MTc2ODQ1MDA0OSwiZXhwIjoxNzY4NDUwMTA5fQ.dA6SBbqbcubN0xMAHSmEpIFCDudKp8MRQS1YHy-ycE0",
-        "favicon": "https://img.logo.dev/wwwradiocadenastereo.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "MEGA STAR FM",
         "url": "https://megastar-cope.flumotion.com/playlist.m3u8",
         "favicon": "https://img.logo.dev/megastar-cope.flumotion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "MegaStar FM",
+        "url": "https://megastar-cope.flumotion.com/chunks.m3u8",
+        "favicon": "https://img.logo.dev/megastar.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "MegaStarFM",
-        "url": "http://flucast-bl05.flumotion.com/cope/megastar.mp3",
+        "url": "http://flucast14-h-cloud.flumotion.com/cope/megastar.mp3",
         "favicon": "https://img.logo.dev/megastar.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3085,9 +2960,14 @@
         "favicon": "https://img.logo.dev/megastar.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Melodia Para Dos",
-        "url": "https://sp.totalstreaming.net:8170/stream",
-        "favicon": "https://img.logo.dev/melodiaparados.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Melodía FM Madrid",
+        "url": "https://atresmedia.com/",
+        "favicon": "https://img.logo.dev/melodia-fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Melodía FM Radio",
+        "url": "https://27833.live.streamtheworld.com/MELODIA_FMAAC.aac?ttag=program%253Aformula-melodia-fm",
+        "favicon": "https://img.logo.dev/melodia-fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mi Amigo Radio, de échte",
@@ -3100,24 +2980,9 @@
         "favicon": "https://img.logo.dev/miramarmultimedia.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Misterio FM",
-        "url": "https://stream-38.zeno.fm/zr1ntv61fchvv?zs=B6YIARuRSaujjyuQoZxg0g",
-        "favicon": "https://img.logo.dev/misteriofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Misterium II",
         "url": "http://streamingv2.shoutcast.com/misterium-ii",
         "favicon": "https://img.logo.dev/misterium-ii.playtheradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mitch.FM",
-        "url": "https://s31.myradiostream.com/64442/listen.mp3",
-        "favicon": "https://img.logo.dev/mitchfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Mix Radio Gran Canaria",
-        "url": "https://mixfm.radionetz.de/mixfm.mp3",
-        "favicon": "https://img.logo.dev/mixradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mix80Radio",
@@ -3125,9 +2990,9 @@
         "favicon": "https://img.logo.dev/tunerplay.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "MixFM Gran Canaria",
-        "url": "https://mixfm.radionetz.de/mixfm.mp3",
-        "favicon": "https://img.logo.dev/mixradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Mixadance Fm",
+        "url": "http://stream.mixadance.fm:8000/mixadance",
+        "favicon": "https://img.logo.dev/mixadance.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Monster Radio Lanzarote",
@@ -3155,24 +3020,34 @@
         "favicon": "https://img.logo.dev/mortalfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "motiva DANCE",
+        "url": "https://stream.motivafm.com/listen/motiva_dance/motiva-dance.mp3",
+        "favicon": "https://img.logo.dev/motivafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "motiva PARTY",
+        "url": "https://server5.mediasector.es/listen/motiva_mix/motivaparty.mp3",
+        "favicon": "https://img.logo.dev/motivafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MotivaHit",
+        "url": "https://play.lallans.media/listen/motivahit/radio.mp3",
+        "favicon": "https://img.logo.dev/riddlemanfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Mozoilo Irratia",
         "url": "https://a10.asurahosting.com:9060/radio.mp3",
         "favicon": "https://img.logo.dev/mozoiloirratia.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Mucho Baile",
-        "url": "https://str1.mediatelekom.net/proxy/muchobaileradio/stream",
-        "favicon": "https://img.logo.dev/muchobaile.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Mozoilo Irratia",
+        "url": "https://a10.asurahosting.com:9060/radio.mp3",
+        "favicon": "https://img.logo.dev/mozoiloirratia.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Multicanal Radio",
         "url": "https://a2.asurahosting.com:8800/radio.mp3",
         "favicon": "https://img.logo.dev/multicanalradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "musicBox",
-        "url": "http://stm1.emiteonline.com:8025/musicbox",
-        "favicon": "https://img.logo.dev/stm1.emiteonline.com:8025?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Muy buena",
@@ -3185,8 +3060,23 @@
         "favicon": "https://img.logo.dev/emisorasmusicales.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "naiz:irratia",
+        "url": "https://zuzenean.naizirratia.eus/naiz_irratia.mp3",
+        "favicon": "https://img.logo.dev/irratia.naiz.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "naiz:irratia",
+        "url": "https://zuzenean.naizirratia.eus/naiz_irratia.mp3",
+        "favicon": "https://img.logo.dev/irratia.naiz.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "NEGOCIOS.COM",
         "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+        "favicon": "https://img.logo.dev/negocios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NEGOCIOS.COM",
+        "url": "https://negociostv-negociostv-samsunges.amagi.tv/ts-us-e2-n2/playlist/negociost-negociostv-samsunges/cb563b176573618684cc3d78d3f062c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d12768498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d06ffb294757ba0c3a0f64d5e50fb07004c183178a7e7f8ab0d4323e2c475fca590be4a65ca1f9e00b43bafa908b3e701480ecd6a273e3e669d892e138de12df28d335a7a085eef38c564ba3499f22f72606482707e6e8851a143cc4a2be663793623c4f1f15a9e3a0ff407cb542415debebc2be6bbd6aa62e902a0145d930ae35ea128b78bb1ca2a16dafb8b5cb50587bd7ac9cbff9c197c2b9c84f5b9a6febb7f3d67c7dd3917e1d15993d8976797bf89cba10b97f33f57e06a5cd6d4687ef7cb20442f8eecaa59f458c2085eaf59c2f4b4a59f463ec6d8f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f01a872cf0154399e7a3c35a50afc993763c6745ad4656daa0864c064f5aa29f3a8c3aa576ee79097308a05858203dcf20dbe7e7c0852c195026b051d2d9ebe1c485a1eee4afedac6ed767371cafedffbc65c20477457650585e6e86788cca70d1805ca4729707e7246c3e4b7b6638bf866795c27bbb5bd6415b30035a84a85d517/15/640x360_1020800/index.m3u8",
         "favicon": "https://img.logo.dev/negocios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3245,6 +3135,11 @@
         "favicon": "https://img.logo.dev/ondayunquera.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Oasis FM Tenerife",
+        "url": "https://stream3.themediasite.co.uk:8128/",
+        "favicon": "https://img.logo.dev/oasisfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ocean Radio Spain",
         "url": "https://s5.radio.co/s9e758ff20/listen",
         "favicon": "https://img.logo.dev/oceanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3295,11 +3190,6 @@
         "favicon": "https://img.logo.dev/onacatradio.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ona Malgrat",
-        "url": "http://streaming.enantena.com:8000/onamalgrat128.mp3",
-        "favicon": "https://img.logo.dev/malgratcomunicacio.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ona Mediterrània",
         "url": "https://streaming.enacast.com/onamediterrania128.mp3",
         "favicon": "https://img.logo.dev/onamediterrania.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3308,11 +3198,6 @@
         "name": "Onca Cero Alzira",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/alzira/master.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "onda 10",
-        "url": "https://onda10.stream.laut.fm/onda10?t302=2026-01-15_02-15-39&uuid=2c19045a-392c-41c4-8692-c5be55266fbc",
-        "favicon": "https://img.logo.dev/onda10.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Onda 40 music",
@@ -3355,6 +3240,11 @@
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Onda Cero A Coruña",
+        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Onda CERO ALMERIA 1341 OM",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/almeria/bitrate_1.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3375,6 +3265,11 @@
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Onda Cero Castro Urdiales",
+        "url": "https://server8.emitironline.com:10854/;",
+        "favicon": "https://img.logo.dev/ondacerocastro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Onda Cero Cinca",
         "url": "https://sonando-us.digitalproserver.com/litera.aac",
         "favicon": "https://img.logo.dev/ondacerocinca.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3382,6 +3277,11 @@
     {
         "name": "Onda Cero Córdoba",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/cordoba/master.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Cero Córdoba",
+        "url": "https://25643.live.streamtheworld.com/OC_CORDOBAAAC/HLS/55a2851f-498e-448a-9d07-621e699a6477/0/playlist.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3425,6 +3325,16 @@
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Onda Cero Madrid",
+        "url": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Cero Madrid",
+        "url": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Onda Cero Malaga",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/malaga/master.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3435,6 +3345,11 @@
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Onda Cero Menorca",
+        "url": "https://livefastly-webs.ondacero.es/menorca-pull/audio/master.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Onda Cero Ourense",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/ourense/master.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3442,6 +3357,21 @@
     {
         "name": "Onda Cero Pontevedra",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/pontevedra/master.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Cero Sagunto",
+        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SAGUNTOAAC.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Cero Sagunto",
+        "url": "https://27793.live.streamtheworld.com/OCAAC/HLS/f3330c70-a194-4309-8ea8-357d4a83fbf9/0/playlist.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Cero Santander",
+        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OC_SANTANDERAAC.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3465,6 +3395,11 @@
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Onda Cero Valladolid",
+        "url": "https://atres-live.ondacero.es/live/delegaciones/oc/valladolid/master.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Onda Cero Vigo",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/vigo/master.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3475,9 +3410,9 @@
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "onda digital fm guadalajara",
-        "url": "http://radio.serviciosderadio.com:8060/radio.mp3",
-        "favicon": "https://img.logo.dev/ondadigitalfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Onda Cieza",
+        "url": "https://sonic.mediatelekom.net/8436/stream",
+        "favicon": "https://img.logo.dev/ondacieza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Onda Espana",
@@ -3488,6 +3423,11 @@
         "name": "Onda Jerez Radio",
         "url": "https://radio.ondajerez.com:8443/Ondajerez.mp3",
         "favicon": "https://img.logo.dev/radio.ondajerez.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Marina Online",
+        "url": "https://servidor40-3.brlogic.com:7004/live",
+        "favicon": "https://img.logo.dev/ondamarina.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Onda Marina Radio",
@@ -3503,6 +3443,11 @@
         "name": "Onda Musical de Yecla",
         "url": "https://stream.zeno.fm/89t31p4mdwzuv",
         "favicon": "https://img.logo.dev/ondamusical.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Occidental",
+        "url": "https://server9.emitironline.com:10944/;.mp3",
+        "favicon": "https://img.logo.dev/ondaoccidental.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Onda Poligono",
@@ -3528,6 +3473,11 @@
         "name": "Onda Sevilla Radio",
         "url": "https://streaming2.elitecomunicacion.es:8630/stream?type=.mp3",
         "favicon": "https://img.logo.dev/ondasevillaradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Tenerife",
+        "url": "https://radioserver11.profesionalhosting.com/proxy/pkg90177?mp=/stream",
+        "favicon": "https://img.logo.dev/radio-espana.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Onda Torrente Radio",
@@ -3585,11 +3535,6 @@
         "favicon": "https://img.logo.dev/onda-wantuki-wc.webnode.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ONDA ZAMORA",
-        "url": "https://eu1.lhdserver.es:8003/stream",
-        "favicon": "https://img.logo.dev/ondazamora.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ondacero Badajo",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/badajoz/bitrate_1.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3605,6 +3550,11 @@
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "OndaCero Castellón",
+        "url": "https://19993.live.streamtheworld.com/OC_CASTELLONAAC/HLS/playlist.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ondacero Granada",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/granada/bitrate_1.m3u8",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3612,6 +3562,11 @@
     {
         "name": "OndaCero Mallorca",
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/mallorca/master.m3u8",
+        "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "OndaCERO Murcia",
+        "url": "https://28563.live.streamtheworld.com/OC_MURCIAAAC/HLS/playlist.m3u8?dist=Otros-Agregadores&ttag=program%3Amas-de-uno",
         "favicon": "https://img.logo.dev/ondacero.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3625,9 +3580,9 @@
         "favicon": "https://img.logo.dev/ondamar80.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Only Romantic Radio",
-        "url": "https://stream.laut.fm/only-romantic-radio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "ONE DANCE",
+        "url": "https://stream.onefm.es:8030/one-dance.mp3",
+        "favicon": "https://img.logo.dev/onefm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "OpenLab Radio",
@@ -3637,17 +3592,12 @@
     {
         "name": "Original EDM FESTIVAL",
         "url": "https://stream.0nlineradio.com/edm-festival?ref=radiobrowser",
-        "favicon": "https://img.logo.dev/0nlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/stream.0nlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Oro",
         "url": "http://185.23.192.118:8002/;",
         "favicon": "https://img.logo.dev/radiooromalaga.radio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Otaku MusicRadio",
-        "url": "http://kathy.torontocast.com:2880/;",
-        "favicon": "https://img.logo.dev/otakumusicradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Our Music Hub Spain",
@@ -3660,11 +3610,6 @@
         "favicon": "https://img.logo.dev/ramirezgutierrez.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PabloMix Music",
-        "url": "https://sonic2.sistemahost.es/8068/stream",
-        "favicon": "https://img.logo.dev/pablomix.ramirezgutierrez.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Pakito FM",
         "url": "https://nodo102.liveradio.com.es/8016/stream",
         "favicon": "https://img.logo.dev/pakitofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3673,6 +3618,16 @@
         "name": "Pepe Radio",
         "url": "http://server10.emitironline.com:8032/",
         "favicon": "https://img.logo.dev/peperadio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Peque Radio",
+        "url": "https://www.antenita.es/",
+        "favicon": "https://img.logo.dev/antenita.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Perfect Chillout live",
+        "url": "https://stream.radiojar.com/whwyhz188a0uv",
+        "favicon": "https://img.logo.dev/perfect-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Perfect Deep House",
@@ -3687,6 +3642,11 @@
     {
         "name": "Perfect Italian Hits",
         "url": "https://n02.radiojar.com/9fdycttep7uvv?1709395524=&rj-tok=AAABjf_zWwMApNXs9BnZjBKlwQ&rj-ttl=5",
+        "favicon": "https://img.logo.dev/perfect-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Perfect Kizomba",
+        "url": "https://stream.radiojar.com/2fhqye2ez2hvv",
         "favicon": "https://img.logo.dev/perfect-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3750,6 +3710,16 @@
         "favicon": "https://img.logo.dev/stream.vyshka24.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Portu Radio",
+        "url": "https://server8.emitironline.com:18593/stream",
+        "favicon": "https://img.logo.dev/porturadio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "pp",
+        "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/media_0.m3u8",
+        "favicon": "https://img.logo.dev/rtpa.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "PS Audio",
         "url": "https://octaverecords.out.airtime.pro/octaverecords_a",
         "favicon": "https://img.logo.dev/octaverecords.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3785,7 +3755,17 @@
         "favicon": "https://img.logo.dev/qmusica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RAC 1",
+        "url": "https://28973.live.streamtheworld.com/RAC_1.mp3",
+        "favicon": "https://img.logo.dev/rac1.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RAC1",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
+        "favicon": "https://img.logo.dev/rac1.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rac1",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
         "favicon": "https://img.logo.dev/rac1.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -3800,23 +3780,18 @@
         "favicon": "https://img.logo.dev/rac105.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio",
-        "url": "https://laut.fm/radio",
-        "favicon": "https://img.logo.dev/laut.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 1 Hits 90s",
-        "url": "http://c4.auracast.net:8050/stream",
-        "favicon": "https://img.logo.dev/hits90s.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio 5 Alicante",
         "url": "https://f141.rndfnk.com/star/crtve/rne5/ali/aac/128/stream.aac?cid=01GEPV1RQWM6FBR5D3JWNZ4NAT&sid=2doJPSzrCWJNnhkcMyUScdD9XE5&token=ccUK_6DiP-vqS9k6R8cqcDpJBqPgeK8FLtD4qc1aDBU&tvf=44FI4I6XvRdmMTQxLnJuZGZuay5jb20",
         "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio 5 Cantabria",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne5/ctb/mp3/high",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio 5 RNE Almería",
-        "url": "https://d131.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3?cid=01GEPXZ8ZTFMN07R4EJZ955R9W&sid=38HaGqdb77NBk307NrDb2yzrSIG&token=ImNRQn16tD2RKxYDYV8EqY8Am8NyX-d-ICiVKc8ynuo&tvf=9JScGpvnihhkMTMxLnJuZGZuay5jb20",
+        "url": "https://d141.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3?cid=01GEPXZ8ZTFMN07R4EJZ955R9W&sid=3L2KjDaZM45ThLXlroCZemgodN4&token=FzAG7pIMEEeXj1QuHRkiFfgrQ3DjTtDxl6vGEUSnVGU&tvf=ThbranbW4BhkMTQxLnJuZGZuay5jb20",
         "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3858,11 +3833,6 @@
         "name": "Ràdio Abrera",
         "url": "http://streaming.enantena.com:8000/radioabrera128.mp3",
         "favicon": "https://img.logo.dev/radioabrera.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Agalaria",
-        "url": "http://stream-177.zeno.fm/u7u1gx32608uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1N3UxZ3gzMjYwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVm5TdmVGQktULXFQNjlCTEtoQnFhUSIsImlhdCI6MTc2ODQzNzIxNCwiZXhwIjoxNzY4NDM3Mjc0fQ.v-TUN978EdeFc2s9OaEIGNYwszZWaa7Mz9XJ3ou5Uic",
-        "favicon": "https://img.logo.dev/stream-177.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Agueda",
@@ -3990,11 +3960,6 @@
         "favicon": "https://img.logo.dev/atlantisfm.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Aventura Siglo21 (FM 107.8)",
-        "url": "https://streaming.enantena.com:8000/carmelomartinHD.mp3",
-        "favicon": "https://img.logo.dev/carmelomartin.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Averroes",
         "url": "http://streamer.flexitech.se:8080/radioa",
         "favicon": "https://img.logo.dev/radioa.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4025,9 +3990,9 @@
         "favicon": "https://img.logo.dev/bluesflac.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO BOB",
-        "url": "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554?sABC=6968604p%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw_0_1st.skey=1671400102&cb=286873666&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=[\"vz9c46692\"]&listenerid=c47683ff451bdf8ebe068dea8a897b50&amsparams=playerid:homepage;skey:1768448076",
-        "favicon": "https://img.logo.dev/regiocast.streamabc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RÀDIO BOCAIRENT 107.8FM",
+        "url": "https://a10.asurahosting.com:7680/radio.mp3",
+        "favicon": "https://img.logo.dev/radiobocairent.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Bolero (Alcoy 97.7 FM)",
@@ -4040,11 +4005,6 @@
         "favicon": "https://img.logo.dev/radiobrand.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Cadena Stereo España",
-        "url": "http://stream-179.zeno.fm/kpe30u471mruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrcGUzMHU0NzFtcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVjFlamJMTVJSMXlrYURWRXZYampOdyIsImlhdCI6MTc2ODQ0OTU5NiwiZXhwIjoxNzY4NDQ5NjU2fQ.uvtvUUkwol4JWAUTOZVefJE64iDxlDcsQUoMSl2wiTQ",
-        "favicon": "https://img.logo.dev/stream-179.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Calima",
         "url": "https://escucha.calima.fm/stream",
         "favicon": "https://img.logo.dev/calima.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4053,11 +4013,6 @@
         "name": "Radio Callao Madrid",
         "url": "https://server8.emitironline.com:18176/stream",
         "favicon": "https://img.logo.dev/radiocallao.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Campillos",
-        "url": "https://srv7031.dns-lcinternet.com:8074/stream",
-        "favicon": "https://img.logo.dev/srv7031.dns-lcinternet.com:8074?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Canet Del Mar",
@@ -4095,14 +4050,19 @@
         "favicon": "https://img.logo.dev/albunol.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ràdio Ciutat Barcelona",
-        "url": "https://stream-178.zeno.fm/uxz8vzvdbw3vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1eHo4dnp2ZGJ3M3Z2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia3BnR1dmQVlUT0tseXZJZHFjVUpQUSIsImlhdCI6MTc2ODQ2MTMyOSwiZXhwIjoxNzY4NDYxMzg5fQ.LOZCKbyGF86Qv3WVrgvyymudcROnjPdk5rXEYYcWvPg",
-        "favicon": "https://img.logo.dev/radiociutatbarcelona.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ràdio Ciutat de Badalona",
         "url": "https://enacast.com/radiob/streams/HD",
         "favicon": "https://img.logo.dev/radiob.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Clásica",
+        "url": "https://f141.rndfnk.com/star/crtve/rnerc/main/mp3/128/stream.mp3?cid=01GEM633TKTAHEB3GYTNAEZB90&sid=3L2STNsN0Z7RbwYCraLJCVslnpe&token=WVZaVnqKIUcy3NDKeTNmGCXxwr0UcuuM3i0duwoGdJ4&tvf=CsU3DPDZ4BhmMTQxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Clásica",
+        "url": "https://d121.rndfnk.com/star/crtve/rnerc/main/mp3/128/stream.mp3?cid=01GEM633TKTAHEB3GYTNAEZB90&sid=3L4H8JbAqWMUOY6uDIM3m37SWyJ&token=xvM0cDLsEg8mAAzWedXwzPhE6ATcC5we3xMQvsot21U&tvf=8dbnPn0M4RhkMTIxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Compañia",
@@ -4113,6 +4073,11 @@
         "name": "Ràdio Cornellà",
         "url": "https://enacast.com/radiocornella/streams/SD",
         "favicon": "https://img.logo.dev/radiocornella.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Cowabunga",
+        "url": "https://hello.citrus3.com:2020/stream/radiocowabunga",
+        "favicon": "https://img.logo.dev/cowabunga.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Cret 1080 AM",
@@ -4165,11 +4130,6 @@
         "favicon": "https://img.logo.dev/radio.eduneu.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio El Palmar",
-        "url": "http://topradio.one:8027/autodj",
-        "favicon": "https://img.logo.dev/radioelpalmar.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ràdio el Vendrell",
         "url": "https://enacast.com/rtvelvendrell/streams/SD",
         "favicon": "https://img.logo.dev/rtvelvendrell.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4186,23 +4146,18 @@
     },
     {
         "name": "Radio España",
-        "url": "https://stream-153.zeno.fm/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieDhqMFJsWDhRc2U3NTdRQnRhb05PQSIsImlhdCI6MTc2ODQ2MzE1MCwiZXhwIjoxNzY4NDYzMjEwfQ.V6vfsT3fVVsdtV9XIO6dbLIL9Vc7djnpI97Er62y-qU",
+        "url": "https://stream-280.surfernetwork.com/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlpuX1JsbmFsUW1lczZoNnVHM1ZSVFEiLCJpYXQiOjE3OTI2MjA0MTMsImV4cCI6MTc5MjYyMDQ3M30.r-tEBQJH4Ousqw2wByzIENf6havjD5aaMkyC2BSp0-0",
         "favicon": "https://img.logo.dev/xn--radioespaa-19a.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio España - Directo",
-        "url": "http://stream-156.zeno.fm/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidDc4X1N2bFRRamFDc2drbWI4MEtUZyIsImlhdCI6MTc2ODQ1OTA4NCwiZXhwIjoxNzY4NDU5MTQ0fQ.CCTHpaSX8NRfLXGtKsTxDD41V-88RgRrjItVaTtyAgU",
+        "url": "http://stream-281.surfernetwork.com/ocinyyji4rntv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvY2lueXlqaTRybnR2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImZSNW44bGo5UWtTN0dzUlFyNnBiR0EiLCJpYXQiOjE3OTI2NjMxMDYsImV4cCI6MTc5MjY2MzE2Nn0.critJb1YoZtGLYOGwC2DfAY-Ut9aF6v2RekgKnGjqWQ",
         "favicon": "https://img.logo.dev/xn--radioespaa-19a.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Esperantia",
         "url": "https://radios.solumedia.com/6526/stream",
         "favicon": "https://img.logo.dev/radioesperantia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Espiritrompa",
-        "url": "https://radiobot.radioslibres.info/listen/radio_espiritrompa/radio.mp3",
-        "favicon": "https://img.logo.dev/radioespiritrompa.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Esport 94.1",
@@ -4235,11 +4190,6 @@
         "favicon": "https://img.logo.dev/radioeuropa.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Euskadi",
-        "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
-        "favicon": "https://img.logo.dev/eitb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Exterior de España",
         "url": "https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high",
         "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4255,19 +4205,19 @@
         "favicon": "https://img.logo.dev/farodegracia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Faycan",
-        "url": "https://radio.streamenginelogin.com:8016/stream",
-        "favicon": "https://img.logo.dev/radio.streamenginelogin.com:8016?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio FilispiM",
         "url": "https://streaming.cuacfm.org/filispim.mp3",
-        "favicon": "https://img.logo.dev/opaii.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/streaming.cuacfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Filispim",
         "url": "https://streaming.cuacfm.org/filispim.mp3",
-        "favicon": "https://img.logo.dev/opaii.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/streaming.cuacfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Flaixbac",
+        "url": "https://stream.flaixbac.cat/icecast",
+        "favicon": "https://img.logo.dev/flaixbac.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Flow",
@@ -4275,9 +4225,29 @@
         "favicon": "https://img.logo.dev/radioflow.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Flow Santander",
+        "url": "https://topradio.uno:8018/live?1780468523684",
+        "favicon": "https://img.logo.dev/radioflow.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Foramontanos",
+        "url": "https://foramontanos.fm:8443/live",
+        "favicon": "https://img.logo.dev/foramontanos.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fórmula 24",
+        "url": "https://stream.rubostudio.es/listen/formula24/radio.mp3",
+        "favicon": "https://img.logo.dev/formula24.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Gáldar",
         "url": "http://195.77.177.94:8000/stream",
         "favicon": "https://img.logo.dev/galdar.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Galega",
+        "url": "https://crtvg-radiogalega-hls.flumotion.cloud/chunklist.m3u8",
+        "favicon": "https://img.logo.dev/crtvg.gal?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Galega",
@@ -4296,8 +4266,13 @@
     },
     {
         "name": "Ràdio Gavà",
-        "url": "https://streaming.enacast.com/radiogava56.mp3",
+        "url": "https://enacast.com/radiogava/streams/SD",
         "favicon": "https://img.logo.dev/radiogava.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Genil",
+        "url": "https://stream.positivafm.es:8102/genil",
+        "favicon": "https://img.logo.dev/radiogenil.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Guadaira",
@@ -4330,6 +4305,11 @@
         "favicon": "https://img.logo.dev/radio.guijuelo.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Guijuelo",
+        "url": "http://radio.guijuelo.es:8000/directo.ogg",
+        "favicon": "https://img.logo.dev/radio.guijuelo.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Guiniguada",
         "url": "https://stream.zeno.fm/49c0fmrwhrhvv",
         "favicon": "https://img.logo.dev/radioguiniguada.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4356,7 +4336,7 @@
     },
     {
         "name": "Radio Hostafrancs",
-        "url": "https://relay.stream.enacast-cloud.com:30276/radiohostafrancsHD.mp3",
+        "url": "https://radiohostafrancs.cat/directe.mp3",
         "favicon": "https://img.logo.dev/radiohostafrancs.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4368,6 +4348,16 @@
         "name": "Radio Humor FM",
         "url": "https://stream.radiohumorfm.com/stream",
         "favicon": "https://img.logo.dev/radiohumorfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Ibizing",
+        "url": "https://a8.asurahosting.com:6850/radio.mp3",
+        "favicon": "https://img.logo.dev/radioibizing.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Ibizing",
+        "url": "https://a8.asurahosting.com:6850/radio.mp3",
+        "favicon": "https://img.logo.dev/radioibizing.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Ilíberis",
@@ -4405,9 +4395,19 @@
         "favicon": "https://img.logo.dev/porsusllagas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Kras",
-        "url": "http://www.giss.tv:8000/RadioKras.mp3",
-        "favicon": "https://img.logo.dev/radiokras.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Jódar - Cadena SER",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JODAR.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Jódar - Cadena SER",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JODAR.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio KaseMaster",
+        "url": "https://kasemaster.com/stream/kase.mp3",
+        "favicon": "https://img.logo.dev/kasemaster.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Kvrruf",
@@ -4415,24 +4415,29 @@
         "favicon": "https://img.logo.dev/radiokurruf.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Ràdio l'Hospitalet de l'Infant",
+        "url": "https://streaming.enacast.com/radiohospitalet56.mp3",
+        "favicon": "https://img.logo.dev/radiohospitalet.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ràdio l'Hospitalet de l'Infant en directe Ràdio l'Hospitalet de l'Infant",
+        "url": "https://streaming.enacast.com/radiohospitalet56.mp3",
+        "favicon": "https://img.logo.dev/radiohospitalet.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ràdio l'Om",
         "url": "http://radiolom.es:8800/;stream.mp3",
         "favicon": "https://img.logo.dev/radiolom.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio La Botica",
+        "url": "https://radiolabotica.emisiononline.es/listen/radiolabotica/radio.mp3",
+        "favicon": "https://img.logo.dev/laboticadelosperfumes.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio La Granja",
         "url": "https://radiobot.radioslibres.info/listen/radio_la_granja/rlg.mp3",
         "favicon": "https://img.logo.dev/radiolagranja.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Granja 102.1 FM",
-        "url": "https://radiobot.radioslibres.info/listen/radio_la_granja/rlg.mp3",
-        "favicon": "https://img.logo.dev/radiolagranjazaragoza.wordpress.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Granja 102.1 FM",
-        "url": "https://radiobot.radioslibres.info/listen/radio_la_granja/rlg.mp3",
-        "favicon": "https://img.logo.dev/radiolagranjazaragoza.wordpress.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio La Roda",
@@ -4477,6 +4482,11 @@
     {
         "name": "Radio Líder",
         "url": "http://server9.emitironline.com:8200/stream",
+        "favicon": "https://img.logo.dev/radiolider.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Líder Cantabria",
+        "url": "https://server10.emitironline.com:10855/stream",
         "favicon": "https://img.logo.dev/radiolider.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4546,11 +4556,6 @@
     },
     {
         "name": "Radio Marca",
-        "url": "https://sonic.mediatelekom.net/9316/stream",
-        "favicon": "https://img.logo.dev/sonic.mediatelekom.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Marca",
         "url": "https://www.marca.com/radio/geoblock/getSrcApp.php?dial=Nacional&dist=radiomarcaweb",
         "favicon": "https://img.logo.dev/marca.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -4558,6 +4563,11 @@
         "name": "Radio Marca",
         "url": "https://sonic.mediatelekom.net/9316/stream",
         "favicon": "https://img.logo.dev/sonic.mediatelekom.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio MARCA",
+        "url": "https://www.marca.com/radio/geoblock/getSrcApp.php?dial=Nacional&dist=radiomarcaweb&gdpr_consent=CQjyS0AQjyS0AAHABBENCdFsAP_gAAAAAAAAMcNR_G__bXlr-bb36btkeYxf9_hr7sQxBgbJk24FzLvW7JwH32E7NAzatqYKmRIAu3TBIQNlHJDURUCgKIgVrzDMaE2U4TtKJ6BkiFMZY2tQCFxvm4tjeQCY4ur_9kd9mR-t7dr82dzy26hnv3a9fuS1UJCdIYetDfv8ZBOT-9IE9-x8v4v4_MbpEm8eS1n_tGtp4jc6Yvv_dBmxt-Tyff7Pn__rl_e7X__e_n3zv8oX37r7____f_-7___2b_-___7___7Z__u8GNIFQAOABmgGfAOkAlUBkIDRgHHgOfAdsA-0B-wEBgIIgQUAjSBHoCRAEkgJKASjAmGBP4CgoFFgKOAUfAqmBWACsgFbQLCAWrAt4BcAC64F2gLvAXsAxABjADGgAxKADAAEGOCkAGAAIMcDoAMAAQY4IQAYAAgxwEgAwABBjgtABgACDHAA.IMcNR_G__bXlv-bb36btkeYxf9_hr7sQxBgbJs24FzLvW7JwH32E7NEzatqYKmRIAu3TBIQNtHJjURUChKIgVrzDMaE2U4TtKJ-BkiHMZY2tQCFxvm4tjeQCZ4ur_9kd9mR-t7dr-2dzy27hnv3a9fuS1UJidKYetHfv8ZBOT-_IU9_x-_4v4_MbpEm8eS1v_tWtt43c64vv_dJuxt-Tyff7fv__73_e7X__e__33_-qX3_r7____________f_________7d___8AAA.f_wAAAAAAAAA",
+        "favicon": "https://img.logo.dev/marca.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio MARCA Asturias",
@@ -4650,9 +4660,9 @@
         "favicon": "https://img.logo.dev/radiomatorral.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Mistelera",
-        "url": "https://radiobot.radioslibres.info/listen/radio_mistelera/radio.mp3",
-        "favicon": "https://img.logo.dev/radiomistelera.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Mi Amigo International",
+        "url": "http://142.4.219.8:8350/stream",
+        "favicon": "https://img.logo.dev/radiomiamigo.international?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Molins",
@@ -4677,12 +4687,12 @@
     {
         "name": "Radio Moscatel 107.1 FM Axarquía - España",
         "url": "https://axarquia.emisiononline.es/radio/8040/radio.mp3",
-        "favicon": "https://img.logo.dev/radiomoscatel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/axarquia.emisiononline.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Murta",
         "url": "https://stream.recasound.es/proxy/radiomurta/stream",
-        "favicon": "https://img.logo.dev/radiomurta.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/stream.recasound.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Nacional de España - Radio 5 Todo noticias",
@@ -4690,19 +4700,14 @@
         "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Nature",
-        "url": "https://stream.zeno.fm/3ac97ysh6f0uv.aac",
-        "favicon": "https://img.logo.dev/radionature.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Nacional de España - Valencia",
+        "url": "https://rnelivestream.rtve.es/rne1/val/128/seglist.m3u8",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Nature",
-        "url": "https://stream.zeno.fm/3ac97ysh6f0uv.aac",
-        "favicon": "https://img.logo.dev/radionature.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Nature",
-        "url": "http://stream.zeno.fm/sfpqezsh6f0uv",
-        "favicon": "https://img.logo.dev/radionature.weebly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Negreira",
+        "url": "https://srv7031.dns-lcinternet.com/8030/stream",
+        "favicon": "https://img.logo.dev/concellodenegreira.gal?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Nervión",
@@ -4713,11 +4718,6 @@
         "name": "Radio Nervión",
         "url": "https://gruponervion.streaming-pro.com:6131/",
         "favicon": "https://img.logo.dev/radionervion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Nostalgia Spain",
-        "url": "http://streamingv2.shoutcast.com/nostalgiaspain",
-        "favicon": "https://img.logo.dev/nostalgiaspain.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ràdio Olot",
@@ -4835,11 +4835,6 @@
         "favicon": "https://img.logo.dev/rtpa.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ràdio Puig-reig",
-        "url": "https://enacast.com/puigreig/streams/SD",
-        "favicon": "https://img.logo.dev/radiopuig-reig.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio QK 107.2FM",
         "url": "http://212.231.231.169:8000/radioqk_master.mp3",
         "favicon": "https://img.logo.dev/radioqk.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4862,6 +4857,11 @@
     {
         "name": "Radio Radio Network España",
         "url": "https://cast5.magicstreams.gr/sc/rrn/stream.mp3",
+        "favicon": "https://img.logo.dev/radioradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Radio Network Jazz",
+        "url": "https://premium.streams.gr/sc/rrnjazz/stream",
         "favicon": "https://img.logo.dev/radioradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4890,29 +4890,19 @@
         "favicon": "https://img.logo.dev/radiorelativa.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Remember",
-        "url": "https://stream-164.zeno.fm/vth4gamdntzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dGg0Z2FtZG50enV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjBwMjdydG5LU1J5Uk1WdHVCSkJjcEEiLCJpYXQiOjE3NDA4NzY2ODksImV4cCI6MTc0MDg3Njc0OX0.C895dopT7rEuOlpWiF7fF2IwhjTj5Oje8WzcLOdV0G0",
-        "favicon": "https://img.logo.dev/stream-164.zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Remember Last",
-        "url": "https://node-25.zeno.fm/5nvz43btqg8uv?rj-ttl=5&rj-tok=AAABd24dwXQAYQSRcz9whBAeXA",
-        "favicon": "https://img.logo.dev/rememberlastradio.wixsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ràdio Riba-roja",
         "url": "https://enacast.com/radioribarroja/streams/SD",
         "favicon": "https://img.logo.dev/radioriba-roja.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Ribagorza",
-        "url": "http://85.25.217.22:8210/stream",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ràdio Rubí",
         "url": "http://streaming.enantena.com:8000/radiorubi128.mp3",
         "favicon": "https://img.logo.dev/radiorubi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rytmica",
+        "url": "https://streamingtumusicaonline.ispgestion.com/listen/rytmica/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.rytmica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Salut Catalunya",
@@ -4935,11 +4925,6 @@
         "favicon": "https://img.logo.dev/radiosantfruitos.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Santa Susanna",
-        "url": "http://uk14freenew.listen2myradio.com:28229/",
-        "favicon": "https://img.logo.dev/sites.google.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio SantVi 107.4FM",
         "url": "https://dhits.frilab.com:8443/santvi",
         "favicon": "https://img.logo.dev/radiosantvi.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4956,7 +4941,7 @@
     },
     {
         "name": "Radio Serranía",
-        "url": "https://stream-179.zeno.fm/suyydyfgwf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdXl5ZHlmZ3dmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaDJqN09GTE5RSXVXZzVvZDRUWWhDUSIsImlhdCI6MTc2ODQ1OTQyMywiZXhwIjoxNzY4NDU5NDgzfQ.VQGXKt0LSXNn5bTuBulvfM_Q_z-M_NPoAm-9gKUZ-4I",
+        "url": "https://stream-179.surfernetwork.com/suyydyfgwf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdXl5ZHlmZ3dmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImNuTTl0enJRVDRDZDBBOGRlX01yNEEiLCJpYXQiOjE3OTI2MzY3NTIsImV4cCI6MTc5MjYzNjgxMn0.SDMIsnTAQr-Pg02UYCacbPywlmVavg-4tfSJ3_oygiI",
         "favicon": "https://img.logo.dev/radioserrania.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4998,5 +4983,1130 @@
         "name": "Radio Sitges",
         "url": "https://s2.radio.co/s8e5dffe5e/listen",
         "favicon": "https://img.logo.dev/radiositges.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio sonaos stereo",
+        "url": "https://centova.streamrdm.com:4449/stream",
+        "favicon": "https://img.logo.dev/sonaosfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Star Terrassa",
+        "url": "http://streaming2.elitecomunicacion.es:8202/;",
+        "favicon": "https://img.logo.dev/radiostarterrassa.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Studio Più - Ibiza",
+        "url": "https://ice.studiopiu.net/studiopiuibiza.aac",
+        "favicon": "https://img.logo.dev/radiostudiopiuibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Surco Tomelloso",
+        "url": "https://carina.streamerr.co:8032/surco",
+        "favicon": "https://img.logo.dev/radiosurco.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Surco Tomelloso",
+        "url": "https://carina.streamerr.co:8032/surco",
+        "favicon": "https://img.logo.dev/radiosurco.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Taberna",
+        "url": "http://stream.zeno.fm/7h0bc4fb5tqvv",
+        "favicon": "https://img.logo.dev/radiotaberna.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ràdio Tàrrega",
+        "url": "https://enacast.com/radiotarrega/streams/HD",
+        "favicon": "https://img.logo.dev/radiotarrega.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Television Canaria",
+        "url": "https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3",
+        "favicon": "https://img.logo.dev/rtvc.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio The Club",
+        "url": "https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3",
+        "favicon": "https://img.logo.dev/radiotheclub.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio THE CLUB - Mallorca 92.0 FM",
+        "url": "https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3",
+        "favicon": "https://img.logo.dev/radiotheclub.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO TINAMAR",
+        "url": "https://radiostreaming.online/8012/stream",
+        "favicon": "https://img.logo.dev/radiotinamartv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tirso Libertaria",
+        "url": "https://giss.tv:666/tirsolibertaria.ogg",
+        "favicon": "https://img.logo.dev/radiotirsolibertaria.cntmadrid.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tirso Libertaria (RTL)",
+        "url": "https://giss.tv:666/tirsolibertaria.ogg",
+        "favicon": "https://img.logo.dev/radiotirsolibertaria.cntmadrid.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Todo Exitos",
+        "url": "http://cervera.eldialdigital.com:7999/autodj",
+        "favicon": "https://img.logo.dev/todoexitos.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tomares",
+        "url": "http://stream1.aljamir.com:8174/stream.mp3",
+        "favicon": "https://img.logo.dev/radio.tomares.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Topo",
+        "url": "https://radiobot.radioslibres.info/listen/radio_topo/radio96.mp3",
+        "favicon": "https://img.logo.dev/radiotopo.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Topo",
+        "url": "https://radiobot.radioslibres.info/radio/8060/radio.mp3",
+        "favicon": "https://img.logo.dev/radiotopo.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tordera",
+        "url": "https://relay.stream.enacast-cloud.com:40295/radiotorderaHD.mp3",
+        "favicon": "https://img.logo.dev/radiotordera.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tramuntana",
+        "url": "https://stream.zeno.fm/6nugf8s0nukvv",
+        "favicon": "https://img.logo.dev/radiotramuntana.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio TX",
+        "url": "https://radiotx.radioca.st/stream",
+        "favicon": "https://img.logo.dev/radiotx.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ràdio Ulldecona",
+        "url": "https://enacast.com/radioulldecona/streams/HD",
+        "favicon": "https://img.logo.dev/radioulldecona.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Unión Catalunya",
+        "url": "http://srv0435.lcinternet.com:9522/stream",
+        "favicon": "https://img.logo.dev/radiounioncatalunya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Universidad de Navarra 98.3 FM",
+        "url": "https://s2.radio.co/sb23429e9f/listen",
+        "favicon": "https://img.logo.dev/unav.edu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Universitaria León",
+        "url": "http://radio.unileon.es:8000/radio-unileon-320",
+        "favicon": "https://img.logo.dev/servicios.unileon.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Universitaria León (320)",
+        "url": "http://radio.unileon.es:8000/radio-unileon-320",
+        "favicon": "https://img.logo.dev/servicios.unileon.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Utopía",
+        "url": "http://streaming.radioutopia.org.es:8000/radio-utopia.mp3",
+        "favicon": "https://img.logo.dev/radioutopia.org.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Valencia",
+        "url": "https://listen.radiovalencia.fm/live",
+        "favicon": "https://img.logo.dev/radiovalencia.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Valencianismo",
+        "url": "https://stream.zeno.fm/oqux7fanb3lvv",
+        "favicon": "https://img.logo.dev/valencianismo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vallekas",
+        "url": "https://radio.radiobot.org/listen/rvk/rvk.mp3",
+        "favicon": "https://img.logo.dev/radiovallekas.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vallekas",
+        "url": "https://radio.radiobot.org/listen/rvk/rvk.mp3",
+        "favicon": "https://img.logo.dev/radiovallekas.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vila-real",
+        "url": "https://pr1cen101.emisionlocal.com/proxy/radiovilareal?mp=/live",
+        "favicon": "https://img.logo.dev/radiovila-real.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ràdio Vilablareix",
+        "url": "https://enacast.com/radiovilablareix/streams/SD",
+        "favicon": "https://img.logo.dev/radiovilablareix.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vilafant",
+        "url": "https://sonic.mediatelekom.net/9986/stream",
+        "favicon": "https://img.logo.dev/radiovilafant.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Villafranca",
+        "url": "http://emisoras.dip-badajoz.es:8072/stream",
+        "favicon": "https://img.logo.dev/villafrancadelosbarros.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vitoria",
+        "url": "https://multimedia.eitb.eus/live-content/radiovitoria-hls/bitrate_1.m3u8",
+        "favicon": "https://img.logo.dev/eitb.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Voz (A Coruña)",
+        "url": "https://live.radiovoz.es/mp3/stream_coruna.mp3",
+        "favicon": "https://img.logo.dev/radiovoz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Voz (Compostela)",
+        "url": "https://live.radiovoz.es/mp3/stream_santiago.mp3?source=web&JSESSIONID=B2F48ECDF937FC52DF9C6620C5562234&station=7&dial=Santiago_de_Compostela",
+        "favicon": "https://img.logo.dev/radiovoz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Xata",
+        "url": "https://radio.radiobot.org/listen/xata/radio.mp3",
+        "favicon": "https://img.logo.dev/radioxata.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO ZAFIRO",
+        "url": "https://stream.zeno.fm/k5hwh3uuanxtv",
+        "favicon": "https://img.logo.dev/discord.gg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioBlues Flac",
+        "url": "https://streams.radiomast.io/radioblues-flac",
+        "favicon": "https://img.logo.dev/bluesflac.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioBlues-Flac",
+        "url": "https://streams.radiomast.io/radioblues-flac",
+        "favicon": "https://img.logo.dev/bluesflac.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiocable",
+        "url": "https://radio.radiobot.org/listen/radiocable/radio.mp3",
+        "favicon": "https://img.logo.dev/radiocable.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiolé",
+        "url": "http://25543.live.streamtheworld.com/RADIOLEAAC_SC",
+        "favicon": "https://img.logo.dev/radiole.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIOLE (España)",
+        "url": "https://20043.live.streamtheworld.com/RADIOLE.mp3",
+        "favicon": "https://img.logo.dev/radio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioMV Español",
+        "url": "https://stream.radiomv.com/spanish/stream.mp3",
+        "favicon": "https://img.logo.dev/es.radiomv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioMV Español El Antiguo Testamento",
+        "url": "https://stream.radiomv.com/spanish-ot/stream.mp3",
+        "favicon": "https://img.logo.dev/es.radiomv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioMV Español El Nuevo Testamento",
+        "url": "https://stream.radiomv.com/spanish-nt/stream.mp3",
+        "favicon": "https://img.logo.dev/es.radiomv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioMV Spanish",
+        "url": "https://ice.radiomv.co:8440/spanish.mp3",
+        "favicon": "https://img.logo.dev/radiomv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIOPERMU",
+        "url": "https://stream.radiopermu.org/listen/radiopermu/radio.mp3",
+        "favicon": "https://img.logo.dev/radiopermu.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIOPERMU",
+        "url": "https://stream.radiopermu.org/listen/radiopermu/radio.mp3",
+        "favicon": "https://img.logo.dev/radiopermu.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radios Libres",
+        "url": "https://radiobot.radioslibres.info/listen/radio_cadenazo_libre/cadenazo.mp3",
+        "favicon": "https://img.logo.dev/radioslibres.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radios Libres",
+        "url": "https://radiobot.radioslibres.info/listen/radio_cadenazo_libre/cadenazo.mp3",
+        "favicon": "https://img.logo.dev/radioslibres.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiosilenci",
+        "url": "https://enacast.com/radiosilenci/streams/HD",
+        "favicon": "https://img.logo.dev/radiosilenci.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radioteletaxi",
+        "url": "http://radiott-web.streaming-pro.com:6103/radiott.mp3",
+        "favicon": "https://img.logo.dev/radioteletaxi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioTop20.es",
+        "url": "https://sonic.sistemahost.es/8014/stream",
+        "favicon": "https://img.logo.dev/radio15.servidorderadio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioVoz",
+        "url": "https://live.radiovoz.es/mp3/stream_coruna.mp3",
+        "favicon": "https://img.logo.dev/radiovoz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioVoz Lugo",
+        "url": "http://live.radiovoz.es/mp3/stream_lugo.mp3",
+        "favicon": "https://img.logo.dev/radiovoz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioVoz Ourense",
+        "url": "http://live.radiovoz.es/mp3/stream_orense.mp3",
+        "favicon": "https://img.logo.dev/radiovoz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioVoz Pontevedra",
+        "url": "http://live.radiovoz.es/mp3/stream_vigo.mp3",
+        "favicon": "https://img.logo.dev/radiovoz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Remember Radio",
+        "url": "https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB",
+        "favicon": "https://img.logo.dev/radioremember.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Remember Ràdio Joventut",
+        "url": "https://stream.idelta.es/listen/radio_joventut/stream",
+        "favicon": "https://img.logo.dev/radiojoventut.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Remember the music FM 96.6",
+        "url": "https://eu1.lhdserver.es:9041/stream",
+        "favicon": "https://img.logo.dev/rememberthemusicfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Remember VIP Radio",
+        "url": "http://node-19.zeno.fm/471az1pu2nhvv?rj-ttl=5&aw_0_req_lsid=47ff91dffd57dbf75dd0fb53d70887a6&acu-uid=592123274268&bsw-uid=821f026b-0bba-437a-8608-4175e0f8681a&amb-uid=4433801850266558616&rj-tok=AAABgvsOIBIA01PqCt44uBvX-A&aw-uid=7d8ef8fede4e9d48810209d9211a4b12&dyn-uid=&dbm-uid=CAESEE2_JyH-nO_DIddQW1whFfI&mm-uid=ef936263-16b7-4900-8f84-e3367baa5653&triton-uid=cookie%3Ae618ff5c-77ba-49f3-ac6e-b9c6b093d00f&zs=l4i70_8iS4m6nNOBdKq6LA&an-uid=4758170041402249417",
+        "favicon": "https://img.logo.dev/remembervip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Remember Vip Techno",
+        "url": "https://stream-153.zeno.fm/xilwjn4t17qvv",
+        "favicon": "https://img.logo.dev/remembervip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Remember4U",
+        "url": "https://radio.remember4u.es/live",
+        "favicon": "https://img.logo.dev/remember4u.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "REPLAY NEWS - Español          La radio de información cada 5 minutos",
+        "url": "https://replaynewses.ice.infomaniak.ch/replaynewses-128.mp3",
+        "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Revive FM",
+        "url": "https://radio.revivefm.es/stream",
+        "favicon": "https://img.logo.dev/revivefm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RFC Radio",
+        "url": "http://lyra.shoutca.st:8151/rfcmp3",
+        "favicon": "https://img.logo.dev/rfcradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RFC Radio",
+        "url": "http://lyra.shoutca.st:8151/rfcmp3",
+        "favicon": "https://img.logo.dev/rfcradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RKV Radio",
+        "url": "https://sonicpanel.globalstream.pro/8196/stream",
+        "favicon": "https://img.logo.dev/rkvradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RN1 - Valencia",
+        "url": "https://rnelivestream.rtve.es/rne1/val/128/seglist.m3u8",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - R1 --> Madrid",
+        "url": "https://d121.rndfnk.com/star/crtve/rne1/mad/mp3/128/stream.mp3?cid=01GEM7S23A9B744SKFN04XA893&sid=2HgEg5aD71G8EuEf67MKTba5AnL&token=n_qXJorii6EVsZ_IP-RSzQP8sRamUc8gqb1nDnqiNT8&tvf=HHgasgd8KBdkMTIxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - R5 --> CYL",
+        "url": "https://d131.rndfnk.com/star/crtve/rne5/vll/mp3/128/stream.mp3?cid=01GEPV7WKAZ76GE8RY96MABK2Q&sid=2KOwF9j2zTSpS2d7Vzm2JlIGObT&token=OFo8rpIZ5IV_j9VLJVCWOFNFyzX5dnsD1-yebzJNl7Q&tvf=uIWMDWLROhdkMTMxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - R5 --> Madrid",
+        "url": "https://d121.rndfnk.com/star/crtve/rne5/mad/mp3/128/stream.mp3?cid=01GEP4QN2TSXQQDS2JQA783NYX&sid=2HgHkKUje0YQl468xMDmJHKhDmz&token=bRjUW1ZmpjTaF8EgRmo3u6OCUep9WTHKjib0rpzUUzw&tvf=FG8P7Wd9KBdkMTIxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - R5 --> Valencia",
+        "url": "https://f131.rndfnk.com/star/crtve/rne5/vlc/mp3/128/stream.mp3?cid=01GEP70HQKHM3WJB5GHG662KX3&sid=2HgIGK1NtDDUVhSnKN9RWpCUKWE&token=r4st34giurxRWd0CMkMBmwayGa2nB6j_aUgMn_xD7vs&tvf=RH0CSKN9KBdmMTMxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - Radio 5 Huesca",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne5/ter/mp3/high?idasset=6116428",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - Radio 5 Teruel",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne5/ter/mp3/high?idasset=6116428",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - Radio 5 Teruel",
+        "url": "https://d141.rndfnk.com/star/crtve/rne1/ara/mp3/128/stream.mp3?cid=01GENZWHP8NT4XFGV9EAFXK644&sid=3L3jqxekuAZeAEuUgUV5D7W2E8d&token=1gz_bGIpLPnf4RcvTKFabiQmPUAJGUPoboBOjGq-W1o&tvf=vjshU4794BhkMTQxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - Radio 5 Zaragoza",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne5/zgz/mp3/high?idasset=3894741",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - Radio Clásica",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8",
+        "favicon": "https://img.logo.dev/rne.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE - Radio Nacional de España",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE 1 - Zaragoza",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne5/zgz/mp3/high?idasset=3894741",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE 1 Catalunya",
+        "url": "https://d111.rndfnk.com/star/crtve/rne1/cat/aac/128/stream.aac?cid=01GENZDZK4J83RJDJ5M3RK3CXJ&sid=3G91J9fDzttCpaeqZbcOAjjOnW9&token=NhlCo1_omO36XiC-ySQI1XQeSraltHm6X6mDX4mwJZI&tvf=KkCGOzXgvxhkMTExLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Andalucía",
+        "url": "https://f141.rndfnk.com/star/crtve/rne5/gra/mp3/128/stream.mp3?cid=01GEPXW032X3Y2SXM6M4X4F1X4&sid=2ar1MBXpFkcnL6WuaxAXO1hEITa&token=L_nTm1RjUems0IjZMMQ_ZzFu3XQ_1_faFzfSM3OR5t8&tvf=06JeYFmsqRdmMTQxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Murcia",
+        "url": "https://d121.rndfnk.com/star/crtve/rne1/mur/mp3/128/stream.mp3?cid=01GEP3ZKY6YSV20P6RMNTKNDD6&sid=2ar2W2AJRHCleglLtfnn6nLklsU&token=25qdZ9PRjFVlFZkLiFrLLCHGs5cDbRXkhlVCjXwNN8Q&tvf=kGi_U96sqRdkMTIxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 1 Galicia",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/gal/mp3/high",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 3",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 4",
+        "url": "https://www.rtve.es/play/radio/radio-4/",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Ràdio 4",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main_dvr.m3u8?hdnts=exp=1782392866~hmac=8ebec3f5f9443fbf60b0b65e094ee9e561e3dc720b976e24a3000d0a68687b14&idasset=1712438",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 5",
+        "url": "https://d131.rndfnk.com/star/crtve/rne5/cad/mp3/128/stream.mp3?cid=01GEPXNR2GD70SEGJYN9G1TQCA&sid=3L1szxGNzl3RZd9mqEpXHgiTSmT&token=PDszzNvML26fhUGWLWdvm_Nr-HRV2TjgwrLWjRaoNdk&tvf=a15R9QTK4BhkMTMxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 5 Barcelona",
+        "url": "https://f111.rndfnk.com/star/crtve/rne5/bcn/aac/128/stream.aac?cid=01GEP66PD2Z35HZMWWYTNPZDNA&sid=3FcfW2W3jdWkXz7vkD72zU2Ngq6&token=LHRzylmDW8bb20dv4Y5loVc683Q4WaYIA3aHusJnd9Q&tvf=VK9SHi5cvBhmMTExLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 5 Cartagena",
+        "url": "https://d121.rndfnk.com/star/crtve/rne5/crt/mp3/128/stream.mp3?cid=01GEPY85J4FZ50K0956C6QZ4TT&sid=2ar1h9FifG7sqNVZxCzJSo1f7fk&token=TVD8UCJOI3n7sREjfbHHyvVozfE9KGpEyZVnRwsqUsU&tvf=k-AvSYCsqRdkMTIxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 5 Galicia",
+        "url": "https://f111.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3?cid=01GEP53FAF08XXF9WHNDFYA8SJ&sid=3L35vwcbUbLDPxcBBANL59mDYOb&token=MmRCUyYlF0DmrRT9Tk7DJ0iCcLnxLWC94cSeHSHhoP8&tvf=IEHao6Tr4BhmMTExLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 5 Granada",
+        "url": "https://f141.rndfnk.com/star/crtve/rne5/gra/mp3/128/stream.mp3?cid=01GEPXW032X3Y2SXM6M4X4F1X4&sid=2ar1MBXpFkcnL6WuaxAXO1hEITa&token=L_nTm1RjUems0IjZMMQ_ZzFu3XQ_1_faFzfSM3OR5t8&tvf=06JeYFmsqRdmMTQxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 5 Las Palmas",
+        "url": "https://d121.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3?cid=01GEP4X9Y3EYSQDV2G2MRTWGGZ&sid=2KXdzbu8f6MPAaCmdrAfA7scSHY&token=wiTLRflaxoLHseM8UraPggqszRT9NNr2mUoTnKi8TdU&tvf=6Up4UpPDOxdkMTIxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio 5 Valencia",
+        "url": "https://d131.rndfnk.com/star/crtve/rne5/vlc/aac/128/stream.aac?cid=01GEP70HQKHM3WJB5GHG662KX3&sid=2MHsjXUN7pFK03vBbXrL08rOPRJ&token=Gu5PoCVPt238lI_sOeSzHZPRNJrKj8eeS4mPRqXzSX4&tvf=AvB-hceGRxdkMTMxLnJuZGZuay5jb20",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio Nacional",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio Nacional Almería",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/alm/mp3/high",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RNE Radio Nacional Cantabria",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/ctb/mp3/high",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "https://rockfm-cope.flumotion.com/chunks.m3u8",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ROCK FM",
+        "url": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+        "favicon": "https://img.logo.dev/player.rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "http://flucast-rb02-01.flumotion.com/cope/rockfm-low.mp3",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rockfm-cope.flumotion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ROCK FM",
+        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rockfm-cope.flumotion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+        "favicon": "https://img.logo.dev/europafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "http://flucast-bl02.flumotion.com/cope/rockfm-low.mp3",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rockfm-cope.flumotion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ROCK FM (España)",
+        "url": "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM Espana 128",
+        "url": "https://rockfm-cope.flumotion.com/chunks.m3u8",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM Espana Hi-Res",
+        "url": "https://rockfm-cope.flumotion.com/chunks.m3u8",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radioo",
+        "url": "https://a10.asurahosting.com:7570/radio.mp3",
+        "favicon": "https://img.logo.dev/rockradioo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RockFM",
+        "url": "https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RockFM",
+        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RockFM",
+        "url": "http://flucast-bl02.flumotion.com/cope/rockfm.aac",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "rockfm",
+        "url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RockFM 101.7",
+        "url": "http://flucast32-h-cloud.flumotion.com/cope/rockfm.aac",
+        "favicon": "https://img.logo.dev/rockfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "rockSateliteONE",
+        "url": "https://stream.tunerplay.com/radio/8050/rocksateliteradio.mp3",
+        "favicon": "https://img.logo.dev/rocksatelite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "rockSateliteONE",
+        "url": "https://server5.mediasector.es:8050/rocksatelite.mp3",
+        "favicon": "https://img.logo.dev/rocksatelite.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RockStar Madrid",
+        "url": "https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3",
+        "favicon": "https://img.logo.dev/emisorasmusicales.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RockStar Madrid",
+        "url": "https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3",
+        "favicon": "https://img.logo.dev/emisorasmusicales.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RPV Gran Canaria",
+        "url": "https://stream.radio-pv.com/",
+        "favicon": "https://img.logo.dev/radio-pv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTPA",
+        "url": "https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8",
+        "favicon": "https://img.logo.dev/rtpa.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTVCE",
+        "url": "https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rtvce.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTVE 24h",
+        "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+        "favicon": "https://img.logo.dev/ztnr.rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rumberos FM",
+        "url": "https://str1.mediatelekom.net:9952/live",
+        "favicon": "https://img.logo.dev/radiorumberosfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RusRadio Marbella",
+        "url": "http://streaming.enacast.com:8000/rusradiomarbellaHD.mp3",
+        "favicon": "https://img.logo.dev/rusradiomarbella.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ruud Radio",
+        "url": "https://ruudradio.duckdns.org/ruudradio/stream",
+        "favicon": "https://img.logo.dev/nexradio.cloud?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "S+ ibiza",
+        "url": "https://ice.studiopiu.net/studiopiuibiza.aac",
+        "favicon": "https://img.logo.dev/studiopiu.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sangeet Fm",
+        "url": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+        "favicon": "https://img.logo.dev/streams.radiomast.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "scannerFM",
+        "url": "https://eu10.fastcast4u.com/scannerfm",
+        "favicon": "https://img.logo.dev/scannerfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Scotlander Radio",
+        "url": "https://play.lallans.media/listen/scotlander_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/scotlander.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Scotlander Radio",
+        "url": "https://play.lallans.media/listen/scotlander_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/scotlander.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Segura irratia",
+        "url": "https://soporte.ikernet.net:6443/listen/segura_irratia/radio.mp3",
+        "favicon": "https://img.logo.dev/segurairratia.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Segura irratia",
+        "url": "https://soporte.ikernet.net:6443/listen/segura_irratia/radio.mp3",
+        "favicon": "https://img.logo.dev/segurairratia.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER - Henares 20241023",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER - Radio Pamplona",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_PAMPLONA.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER - Radio Zaragoza",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER - Segovia (20241023)",
+        "url": "http://29332.live.streamtheworld.com:3690/SER_ASO_SEGOVIA_SC",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ser - Segovia 20241023",
+        "url": "http://23553.live.streamtheworld.com:3690/SER_ASO_SEGOVIA_SC",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER -- CUELLAR",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CUELLAR.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER Asón",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASON.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER Castro Urdiales",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CASTRO_URDIALES.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ser Gandia",
+        "url": "http://stream.radiogandia.com:8080/ser_high",
+        "favicon": "https://img.logo.dev/radiogandia.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER Lucena",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENAAAC.aac",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER Murcia",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ser Soria",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER Torrelavega",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3",
+        "favicon": "https://img.logo.dev/cadenaser.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SER Zaragoza",
+        "url": "https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3",
+        "favicon": "https://img.logo.dev/zaragoza-copesedes-rrcast.flumotion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sevilla FC Radio",
+        "url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
+        "favicon": "https://img.logo.dev/live.sevillafc.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sevilla FC Radio",
+        "url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
+        "favicon": "https://img.logo.dev/live.sevillafc.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Shock FM",
+        "url": "https://streaming2.shock.fm:8040/normal",
+        "favicon": "https://img.logo.dev/shock.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SI RADIO DE GALICIA CONDADO",
+        "url": "http://82.223.29.65:8080/vcbm_siradio",
+        "favicon": "https://img.logo.dev/siradio.gal?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sie7e Spain",
+        "url": "http://stream.sieteradio.com:8020/stream",
+        "favicon": "https://img.logo.dev/stream.sieteradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sifm Almeria",
+        "url": "https://broadcast.radioponiente.org:8030/",
+        "favicon": "https://img.logo.dev/sifmradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sky.Net -Radiosky Manele",
+        "url": "https://stream.gestiondeservidor.com/8100/stream",
+        "favicon": "https://img.logo.dev/radiosky.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sky.Net -RadioSky.Net HITS",
+        "url": "https://stream.gestiondeservidor.com/8000/stream",
+        "favicon": "https://img.logo.dev/radiosky.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sol Radio",
+        "url": "https://azura.abcorp.es/radio/8220/solradio",
+        "favicon": "https://img.logo.dev/solradiomadrid.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Son Galicia Radio",
+        "url": "https://crtvg-songalicia-hls.flumotion.cloud/chunklist_b300000.m3u8",
+        "favicon": "https://img.logo.dev/agalegaaudio.gal?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sonaos fm",
+        "url": "https://centova.streamrdm.com:4449/stream",
+        "favicon": "https://img.logo.dev/sonaosfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sonica Tribe",
+        "url": "https://ibizasonica.streaming-pro.com:8010/sonicatribe",
+        "favicon": "https://img.logo.dev/ibizasonica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sonica Tribe",
+        "url": "https://ibizasonica.streaming-pro.com:8010/sonicatribe",
+        "favicon": "https://img.logo.dev/ibizasonica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SoundDigital",
+        "url": "http://radio.hostlagarto.com:9770/;",
+        "favicon": "https://img.logo.dev/sonidoclave.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Spectrum FM Costa Almeria",
+        "url": "https://eu8.fastcast4u.com/proxy/almeria2?mp=/1",
+        "favicon": "https://img.logo.dev/costaalmeria.spectrumfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Spektra FM Valencia",
+        "url": "http://stm1.emiteonline.com:8008/spektrafm",
+        "favicon": "https://img.logo.dev/spektrafm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Star People",
+        "url": "http://2.139.144.101:8020/2?1508151505",
+        "favicon": "https://img.logo.dev/starpeople.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "staronlineradio",
+        "url": "https://strcdn.klm99.com/8100/stream",
+        "favicon": "https://img.logo.dev/staronlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Stereo Anime",
+        "url": "https://radio.stereoanime.com/listen/stereoanime/128",
+        "favicon": "https://img.logo.dev/stereoanime.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Studio Piu Ibiza",
+        "url": "https://ice.studiopiu.net/studiopiuibiza.aac",
+        "favicon": "https://img.logo.dev/radiostudiopiuibiza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SUBLEVEL",
+        "url": "https://kasemaster.com/stream/principal-api.mp3",
+        "favicon": "https://img.logo.dev/kasemaster.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sunshine FM Costa Blanca",
+        "url": "https://ice31.securenetsystems.net/SRFM?playSessionID=552CF0B4-E79E-4B4A-AC21DBC50B679DC6",
+        "favicon": "https://img.logo.dev/sunshineradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Swing latinos FM",
+        "url": "https://eu1.lhdserver.es:9033/stream",
+        "favicon": "https://img.logo.dev/swinglatinosfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Talk Radio Europe",
+        "url": "http://s3.yesstreaming.net:7014/stream",
+        "favicon": "https://img.logo.dev/talkradioeurope.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Talk Radio Europe",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
+        "favicon": "https://img.logo.dev/talkradioeurope.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Taronja ràdio Girona",
+        "url": "https://radio.martiproduccions.com/listen/taronjagirona/taronjagirona",
+        "favicon": "https://img.logo.dev/radiocapital.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tarragona Ràdio",
+        "url": "https://enacast.com/tarragonaradio/streams/SD",
+        "favicon": "https://img.logo.dev/tarragonaradio.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TDP TV",
+        "url": "https://ztnr.rtve.es/ztnr/1712295.m3u8",
+        "favicon": "https://img.logo.dev/rtve.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Technolovers EDM",
+        "url": "https://stream.technolovers.fm/edm?ref=radiobrowser",
+        "favicon": "https://img.logo.dev/stream.technolovers.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Beatles Radio (MP3)",
+        "url": "http://thebeatlesradio-rowrigos.radioca.st/live",
+        "favicon": "https://img.logo.dev/thebeatlesradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The club",
+        "url": "https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3",
+        "favicon": "https://img.logo.dev/radiotheclub.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Sound of Chill",
+        "url": "https://itsshort.info/listen/thesoundofchill/radio.mp3",
+        "favicon": "https://img.logo.dev/thesoundofchill.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TKO Radio Costa Blanca",
+        "url": "http://centauri.shoutca.st:8300/stream",
+        "favicon": "https://img.logo.dev/tko.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Topcat Radio",
+        "url": "https://radio.elsmussols.net/radio/8010/radio.mp3",
+        "favicon": "https://img.logo.dev/topcatradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TopCat Radio",
+        "url": "https://radio.elsmussols.net/listen/topcat_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/topcatradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TotRàdio",
+        "url": "http://www.totradio.com:8000/128kbps",
+        "favicon": "https://img.logo.dev/totradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Trendy FM",
+        "url": "https://broadcast.radioponiente.org:8038/index",
+        "favicon": "https://img.logo.dev/trendyfmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Trespatines Radio",
+        "url": "https://s1.nexuscast.com:8054/1",
+        "favicon": "https://img.logo.dev/trespatinesradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tunino.net",
+        "url": "https://radio.hostlagarto.com/8054/stream",
+        "favicon": "https://img.logo.dev/tunino.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TVLeganés",
+        "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+        "favicon": "https://img.logo.dev/teleganes.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ucrania FM",
+        "url": "https://sonicpanel.streaming10.net:8084/stream",
+        "favicon": "https://img.logo.dev/ucraniafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Únika FM",
+        "url": "https://server1.easystreaming.pro:8443/unika",
+        "favicon": "https://img.logo.dev/unika.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Urban Revolution",
+        "url": "https://st1.urbanrevolution.es:8443/hispano",
+        "favicon": "https://img.logo.dev/urbanrevolution.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Urban Revolution",
+        "url": "https://st1.urbanrevolution.es:8443/hispano",
+        "favicon": "https://img.logo.dev/urbanrevolution.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Urban Revolution",
+        "url": "https://urbanrevolution.es:8443/directo",
+        "favicon": "https://img.logo.dev/urbanrevolution.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Urban Revolution",
+        "url": "https://st1.urbanrevolution.es:8443/hispano",
+        "favicon": "https://img.logo.dev/urbanrevolution.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Urban Revolution",
+        "url": "https://st1.urbanrevolution.es:8443/zonaelectronica",
+        "favicon": "https://img.logo.dev/urbanrevolution.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ushuaia Radio (87.7 FM) Madrid",
+        "url": "https://s4.radio.co/sc6f29e098/listen",
+        "favicon": "https://img.logo.dev/ushuaia.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ushuaia Radio English",
+        "url": "https://s4.radio.co/sc6f29e098/low",
+        "favicon": "https://img.logo.dev/ushuaia.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vaughan",
+        "url": "http://vaughanradioweb.streaming-pro.com:8057/;streamdemo_mp3.nsv",
+        "favicon": "https://img.logo.dev/vaughanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vaughan Radio",
+        "url": "https://cdn-peer021.streaming-pro.com:8058/vaughanradio.mp3",
+        "favicon": "https://img.logo.dev/grupovaughan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VENEZUELA STEREO",
+        "url": "https://mediastreamm.com/8244/stream",
+        "favicon": "https://img.logo.dev/venezuelastereo.click?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Verbena FM",
+        "url": "https://streaming12.elitecomunicacion.es:8222/stream",
+        "favicon": "https://img.logo.dev/verbenafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Verbena FM",
+        "url": "https://streaming12.elitecomunicacion.es:8222/stream",
+        "favicon": "https://img.logo.dev/verbenafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VILASSAR RADIO",
+        "url": "https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3?us_privacy=1YNY56.mp3",
+        "favicon": "https://img.logo.dev/vilassarradio.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vinilo FM Bizkaia",
+        "url": "https://radio.vinilofm.es/radio/8000/bizkaia.mp3",
+        "favicon": "https://img.logo.dev/vinilofm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vive Radio",
+        "url": "https://streaming.viveradio.es/viveburgos",
+        "favicon": "https://img.logo.dev/viveradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vive Radio Burgos",
+        "url": "https://streaming.viveradio.es/viveburgos",
+        "favicon": "https://img.logo.dev/viveradio.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Voltaje",
+        "url": "https://stream.tunerplay.com/listen/voltaje/voltaje.mp3",
+        "favicon": "https://img.logo.dev/tunerplay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vuelve el Remember",
+        "url": "https://cast1.asurahosting.com/proxy/javier1/stream",
+        "favicon": "https://img.logo.dev/vuelveelremember.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Waiting Room",
+        "url": "https://streaming.coolmusicradio.com/listen/waiting-room/radio",
+        "favicon": "https://img.logo.dev/thewaitingroom.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wifon FM",
+        "url": "https://betelgeuse.nucast.co.uk:8044/wifonfm",
+        "favicon": "https://img.logo.dev/wifonfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Xanadú Radio Tenerife",
+        "url": "https://server8.emitironline.com:10852/radio.mp3?1646071824637",
+        "favicon": "https://img.logo.dev/xanaduradiotenerife.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Xing Liming Palace - FengHuang FM",
+        "url": "https://stream.zeno.fm/mqk26vrxshstv",
+        "favicon": "https://img.logo.dev/hkstv.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Xorroxin Irratia",
+        "url": "https://control.streaming-pro.com:6002/xorroxinirratia.mp3",
+        "favicon": "https://img.logo.dev/erran.eus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Xtra FM",
+        "url": "http://stream.internetgirona.com:8000/;",
+        "favicon": "https://img.logo.dev/xtrafm.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "XtraFM Costa Brava",
+        "url": "https://stream2.internetgirona.com:8000/~1",
+        "favicon": "https://img.logo.dev/xtrafm.cat?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YouTube Radio",
+        "url": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
+        "favicon": "https://img.logo.dev/listen.181fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yuh FM",
+        "url": "https://sonic.mediatelekom.net/9012/stream",
+        "favicon": "https://img.logo.dev/yuhfm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yumbo FM",
+        "url": "https://panel.amediastream.eu:8600/yumbofm",
+        "favicon": "https://img.logo.dev/yumbofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZENO FM - XoneFM",
+        "url": "https://stream.zeno.fm/dnukwf7q3a0uv",
+        "favicon": "https://img.logo.dev/xonefm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zintzilik Irratia",
+        "url": "https://aizu.maritxusarea.eus/listen/zintzilik_irratia/radio.mp3",
+        "favicon": "https://img.logo.dev/zintzilik.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zintzilik Irratia",
+        "url": "https://radio.sindominio.net/zintzilik",
+        "favicon": "https://img.logo.dev/zintzilik.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zona Rap Radio",
+        "url": "https://radio.zonarap.es/listen/zona_rap_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/zonarap.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "华夏之声China FM·西班牙马德里FM92.9",
+        "url": "https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream",
+        "favicon": "https://img.logo.dev/chinafm.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

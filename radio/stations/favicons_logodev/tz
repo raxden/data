@@ -5,16 +5,6 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Capital Radio",
-        "url": "https://capitalradio.radioca.st/stream",
-        "favicon": "https://img.logo.dev/capitalradio.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Christian FM Radio",
-        "url": "http://stream.zeno.fm/eequgfw72hhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Clouds FM",
         "url": "http://eu6.fastcast4u.com:5306/;",
         "favicon": "https://img.logo.dev/cloudsmedia.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -25,39 +15,14 @@
         "favicon": "https://img.logo.dev/cloudsfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Crown FM",
+        "url": "https://radio.crownmedia.co.tz:8443/crown",
+        "favicon": "https://img.logo.dev/crownmedia.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "East Africa Radio FM",
         "url": "https://eatv.radioca.st/stream",
         "favicon": "https://img.logo.dev/eastafricaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Heaven FM Radio",
-        "url": "http://stream.zeno.fm/eequgfw72hhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Heaven FM Radio",
-        "url": "http://stream.zeno.fm/eequgfw72hhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Heaven Radio",
-        "url": "http://stream.zeno.fm/eequgfw72hhvv",
-        "favicon": "https://img.logo.dev/zeno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "IBN TV",
-        "url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
-        "favicon": "https://img.logo.dev/ibn-tv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ImbaNasi",
-        "url": "https://stream.zeno.fm/dsfhivkawjiuv",
-        "favicon": "https://img.logo.dev/imbanasi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ishizwe FM",
-        "url": "https://stream.zeno.fm/zhhawbqoikatv",
-        "favicon": "https://img.logo.dev/ishizwemedia.co.t?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mungu Kwanza",
@@ -98,11 +63,6 @@
         "name": "Radio Uhai",
         "url": "https://s2.citrus3.com:8050/stream",
         "favicon": "https://img.logo.dev/radiouhai.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "street One radio",
-        "url": "http://stream.zeno.fm/d3as2fmadnruv",
-        "favicon": "https://img.logo.dev/streetoneradiotz.blogspot.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Wasafi Fm",

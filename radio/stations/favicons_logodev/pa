@@ -20,11 +20,6 @@
         "favicon": "https://img.logo.dev/beatlifepanama.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Brava Radio 507",
-        "url": "https://laradiossl.online:10660/",
-        "favicon": "https://img.logo.dev/facebook.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CHT FM 107.7",
         "url": "https://radios.host-pa.com:8046/;",
         "favicon": "https://img.logo.dev/cht1077.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -50,29 +45,29 @@
         "favicon": "https://img.logo.dev/festival1540am.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Flow 92.7 FM",
-        "url": "http://streaming507.net:9980/stream",
-        "favicon": "https://img.logo.dev/x.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM Corazón 102.5",
-        "url": "https://sp4.colombiatelecom.com.co/8006/stream",
-        "favicon": "https://img.logo.dev/fmcorazonellenguajedelamor.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "L.A. Mega 98.1 FM",
         "url": "https://www.streaming507.net:8152/stream",
         "favicon": "https://img.logo.dev/lamegapanama.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "LA TIPIK",
-        "url": "https://stream.mixesurbanospty.com:8090/tipik.mp3",
-        "favicon": "https://img.logo.dev/x.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "la mega",
+        "url": "https://usest-sp1.golivestream.net/8022/stream",
+        "favicon": "https://img.logo.dev/lamegapanama.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Like 105.7 FM Panamá",
+        "url": "https://usest-sp1.golivestream.net/8024/stream",
+        "favicon": "https://img.logo.dev/like105.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Magic FM",
         "url": "https://laradio.stream/proxy/magicfm/stream",
         "favicon": "https://img.logo.dev/radioparallevar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Okey 96.3 FM",
+        "url": "https://icy.cloudrad.io/5b3fc6b1",
+        "favicon": "https://img.logo.dev/okey963fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Omega Stereo",
@@ -128,11 +123,6 @@
         "name": "TVN Radio",
         "url": "https://mdstrm.com/audio/654a5c9f40fd924d7ba3cd41/live.m3u8?_=1742584558819&dnt=true&player=6652918b0895f378e25e2728&uid=bd4OLrAP9gIxbw92y28cJBSUgVhCxWFY&sid=XbHbf3SdW8OPynroe95JSyz2nfB3iN5C&pid=coEcFUo064cTG0feq0zr1KKM5touhYMQ&an=tvn-pass-app-web&at=web-app&av=v1.0.18&sc=0&ref=tvn-especiales-editorial-comercial.s3.us-east-2.amazonaws.com&res=1536x864",
         "favicon": "https://img.logo.dev/tvn-2.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ultra Stereo 98.9 FM",
-        "url": "https://www.streaming507.net:8134/stream",
-        "favicon": "https://img.logo.dev/fmultrastereo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "YXY",

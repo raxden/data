@@ -6,18 +6,18 @@
     },
     {
         "name": "Dfm rtv int160k",
-        "url": "http://213.133.109.221:8205/dfm_1",
+        "url": "https://stereo.dfm.nu/",
         "favicon": "https://img.logo.dev/dfm.nu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KNR Live Radio",
+        "url": "https://i1.cdn.jetstre.am:8000/sz=knr=audio192?token=ea282bc02bb373156231dd1522a33943&time=6a184ec2",
+        "favicon": "https://img.logo.dev/knr.gl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nanoq FM",
         "url": "http://getnanoq.retro-radio.dk/Nanoq-TX-1",
         "favicon": "https://img.logo.dev/nanoqmedia.gl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "test",
-        "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ij",
-        "favicon": "https://img.logo.dev/pub0302.101.ru:8000?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ΡΑΔΙΟ ΔΙΠΛΟΠΕΝΙΕΣ",

@@ -5,8 +5,13 @@
         "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Firstspost",
+        "url": "https://www.firstpost.com/",
+        "favicon": "https://img.logo.dev/firstpost.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Tick Tock Radio - 1992",
-        "url": "https://nl4.mystreaming.net/tt/1992/icecast.audio",
+        "url": "https://streaming.ticktock.radio/tt/1992/icecast.audio",
         "favicon": "https://img.logo.dev/ticktock.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -16,7 +21,7 @@
     },
     {
         "name": "Tick Tock Radio - 1994",
-        "url": "https://nl4.mystreaming.net/tt/1994/icecast.audio",
+        "url": "https://streaming.ticktock.radio/tt/1994/icecast.audio",
         "favicon": "https://img.logo.dev/ticktock.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
