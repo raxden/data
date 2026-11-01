@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/alphaboysschoolradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Alpha Boys School Radio",
         "url": "http://alphaboys-live.streamguys1.com/alphaboys.mp3",
         "favicon": "https://img.logo.dev/alphaboysschoolradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,6 +13,11 @@
         "name": "Alpha Boys School Radio",
         "url": "https://alphaboys-live.streamguys1.com/alphaboys.aac",
         "favicon": "https://img.logo.dev/alphaboysschoolradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bess 100 FM",
+        "url": "https://stream-281.surfernetwork.com/vphgsxfrwcduv",
+        "favicon": "https://img.logo.dev/bessfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fame 95 FM",
@@ -125,9 +125,9 @@
         "favicon": "https://img.logo.dev/rjr94fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Roots 96.1 FM",
-        "url": "https://stream.zeno.fm/pnp236t7nbruv",
-        "favicon": "https://img.logo.dev/rootsfmjamaica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "SLEEK Radio 93FM",
+        "url": "https://stream-161.zeno.fm/p9kyywfqcbcuv",
+        "favicon": "https://img.logo.dev/sleekradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stylz FM",
@@ -145,24 +145,9 @@
         "favicon": "https://img.logo.dev/suncityradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tarus Rilyes Radio new",
-        "url": "https://www.jango.com/stations/113321878/tunein",
-        "favicon": "https://img.logo.dev/jango.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TBC Radio 88.5 FM",
-        "url": "https://stream.zeno.fm/004dvn2qqy5tv",
-        "favicon": "https://img.logo.dev/tbcradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Edge 105 FM",
         "url": "https://listen.radioking.com/radio/331171/stream/387835",
         "favicon": "https://img.logo.dev/edge105.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "UnityXM",
-        "url": "https://a8.asurahosting.com:7430/radio.mp3",
-        "favicon": "https://img.logo.dev/unityxm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WORLDWYDE OUTERNATIONAL",
@@ -173,10 +158,5 @@
         "name": "Zip FM 103 FM",
         "url": "https://stream.zeno.fm/c0ytcn43vxquv",
         "favicon": "https://img.logo.dev/zipfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zip FM 103 FM",
-        "url": "https://stream-145.zeno.fm/4fazmm93yceuv?zs=Q57QkCjgT7axxG5KKVdiBg",
-        "favicon": "https://img.logo.dev/zip103fmjamaica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

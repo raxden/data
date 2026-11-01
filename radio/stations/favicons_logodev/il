@@ -1,10 +1,5 @@
 [
     {
-        "name": ".assalam",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "#joint radio Beat Trance",
         "url": "https://jointil.com/stream-beat",
         "favicon": "https://img.logo.dev/jointil.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,11 +18,6 @@
         "name": "#joint radio Reggae",
         "url": "https://jointil.com/stream-reggae",
         "favicon": "https://img.logo.dev/jointil.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "100fm - 100% Movies",
-        "url": "http://gb25.streamgates.net/radios-audio/100Movies/icecast.audio",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "101.5fm נותנים למוזיקה לדבר רדיו דרום",
@@ -73,11 +63,6 @@
         "name": "94fm רדיו גלי ישראל",
         "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
         "favicon": "https://img.logo.dev/gly.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AudioVersity",
@@ -190,11 +175,6 @@
         "favicon": "https://img.logo.dev/jewishmusicstream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kabbalah Fr",
-        "url": "http://icecast.kab.tv/live1-spa-574bcfd5.mp3",
-        "favicon": "https://img.logo.dev/icecast.kab.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "KAN 88",
         "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8?renditions&dvr=7200000",
         "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -295,6 +275,11 @@
         "favicon": "https://img.logo.dev/kcm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "KHZ - רדיו קול הצפון",
+        "url": "https://live.ecast.co.il/stream/khz",
+        "favicon": "https://img.logo.dev/radio.ecast.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "kol hai",
         "url": "https://live.kcm.fm/livemusic",
         "favicon": "https://img.logo.dev/live.kcm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -375,6 +360,11 @@
         "favicon": "https://img.logo.dev/91fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Love Soft Romantic",
+        "url": "https://liveradio.co.il:9000/stream",
+        "favicon": "https://img.logo.dev/radiolove.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Nahariya",
         "url": "https://cast.radionahariya.com:8443/main.mp3",
         "favicon": "https://img.logo.dev/radionahariya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -393,11 +383,6 @@
         "name": "Radio Sahar",
         "url": "https://live.ecast.co.il/stream/sahar/stream",
         "favicon": "https://img.logo.dev/radiosahar.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioPlus",
-        "url": "http://s3.yesstreaming.net:7049/stream",
-        "favicon": "https://img.logo.dev/radioplus.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radios 100FM",
@@ -585,6 +570,11 @@
         "favicon": "https://img.logo.dev/rak-musica.webnode.be?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Reichmann AudioVersity",
+        "url": "https://1062onair.runi.ac.il/idc123.mp3",
+        "favicon": "https://img.logo.dev/1062fm.co.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "reka",
         "url": "http://kanliveicy.media.kan.org.il/icy/kanreka_mp3",
         "favicon": "https://img.logo.dev/kanliveicy.media.kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -603,6 +593,11 @@
         "name": "toker",
         "url": "https://live.toker.fm:6060/",
         "favicon": "https://img.logo.dev/fmstream.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Up2Dance Radio",
+        "url": "https://icecast.live/up2dance",
+        "favicon": "https://img.logo.dev/up2dance.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ze Rock Radio",
@@ -700,6 +695,16 @@
         "favicon": "https://img.logo.dev/kzradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "כאן 88",
+        "url": "https://www.kan.org.il/content/kan/kan-88/",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "כאן 88",
+        "url": "https://27943.live.streamtheworld.com/KAN_88.mp3",
+        "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "כאן מורשת - Kan Moreshet",
         "url": "https://kanliveicy.media.kan.org.il/icy/749629_mp3",
         "favicon": "https://img.logo.dev/kan.org.il?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -718,26 +723,6 @@
         "name": "נושמים מזרחית - Noshmim Mizrahit",
         "url": "http://www.rs.mizrahit.fm:7777/",
         "favicon": "https://img.logo.dev/mizrahit.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "קבלה לעם אנגלית - Kabbalah eng",
-        "url": "http://icecast.kab.tv/live1-eng-574bcfd5.mp3",
-        "favicon": "https://img.logo.dev/icecast.kab.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "קבלה לעם עברית - Kabbalah heb",
-        "url": "http://icecast.kab.tv/live1-heb-574bcfd5.mp3",
-        "favicon": "https://img.logo.dev/icecast.kab.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "קבלה לעם צרפתית - Kabbalah fre",
-        "url": "http://icecast.kab.tv/live1-fre-574bcfd5.mp3",
-        "favicon": "https://img.logo.dev/icecast.kab.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "קבלה לעם רוסית - Kabbalah rus",
-        "url": "http://icecast.kab.tv/live1-rus-574bcfd5.mp3",
-        "favicon": "https://img.logo.dev/icecast.kab.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "קול ברמה - Kol Barama",

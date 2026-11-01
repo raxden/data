@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ajyal - Palestine",
         "url": "https://streamer.mada.ps:8208/ajyal",
         "favicon": "https://img.logo.dev/arn.ps?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -43,11 +38,6 @@
         "name": "Radio AlHara",
         "url": "http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5",
         "favicon": "https://img.logo.dev/radioalhara.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio alHara",
-        "url": "http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5",
-        "favicon": "https://img.logo.dev/yamakan.place?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raya FM",

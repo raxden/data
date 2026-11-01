@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Clouds FM",
         "url": "http://eu6.fastcast4u.com:5306/;",
         "favicon": "https://img.logo.dev/cloudsmedia.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -40,19 +35,14 @@
         "favicon": "https://img.logo.dev/radiotadio.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Kwizera",
+        "url": "https://uk4-vn.mixstream.net/:8052/;listen.mp3",
+        "favicon": "https://img.logo.dev/radiokwizera.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO MARIA TANZANIA",
         "url": "http://dreamsiteradiocp2.com:8034/stream",
         "favicon": "https://img.logo.dev/radiomaria.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mbiu",
-        "url": "http://dreamsiteradiocp5.com:8004/stream.mp3",
-        "favicon": "https://img.logo.dev/radiombiu.co.tz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Ngamia",
-        "url": "http://stream.zeno.fm/41e3gsdgmdouv",
-        "favicon": "https://img.logo.dev/radiongamia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio One Stereo",

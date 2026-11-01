@@ -1,23 +1,8 @@
 [
     {
-        "name": "LOVE FM: All you need is Love / Clásicos del pop",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "94.9 FM",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/949FM_ADP.m3u8",
         "favicon": "https://img.logo.dev/949.com.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Actitud 100.9",
@@ -75,11 +60,6 @@
         "favicon": "https://img.logo.dev/forensedigital.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Criollisima GT",
-        "url": "https://radio.forensedigital.gt:8060/stream",
-        "favicon": "https://img.logo.dev/venezuela.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Dinámica 89.9 FM",
         "url": "https://cloudstream2032.conectarhosting.com/8312/stream",
         "favicon": "https://img.logo.dev/corporacionradialfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -110,6 +90,11 @@
         "favicon": "https://img.logo.dev/emisorasunidas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Estéreo Gerardi 107.9 FM",
+        "url": "https://aler.org:8445/gerardi.mp3",
+        "favicon": "https://img.logo.dev/aler.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Estéreo Solar 104.9 FM",
         "url": "https://radiostreamingaac.com:8566/solarpeten",
         "favicon": "https://img.logo.dev/solar1049.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -138,21 +123,6 @@
         "name": "Felicidad Stereo",
         "url": "http://radio.produccionescasaverde.com:8720/stream",
         "favicon": "https://img.logo.dev/felicidadstereo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FeLove Biblia en Quiché",
-        "url": "http://radio.produccionescasaverde.com:8788/autodj",
-        "favicon": "https://img.logo.dev/radiofelove.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FeLove Clásica",
-        "url": "https://feloveclasica-radiofelove.radioca.st/stream?1741424230037",
-        "favicon": "https://img.logo.dev/feloveclasica-radiofelove.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gaiteros de Guatemala",
-        "url": "https://radio.forensedigital.gt:8030/stream",
-        "favicon": "https://img.logo.dev/venezuela.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Globo 98.9 Guatemala",
@@ -240,19 +210,19 @@
         "favicon": "https://img.logo.dev/actitud.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Amiga 93.3 FM",
+        "url": "http://radiolatina.live:8072/;",
+        "favicon": "https://img.logo.dev/radiolatina.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Camino Santidad",
         "url": "http://audio.livecastnet.com:1290/stream",
-        "favicon": "https://img.logo.dev/radiocaminodesantidad.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/audio.livecastnet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Cultural TGN",
         "url": "https://stream.infinityhdstream.com/7054/stream",
         "favicon": "https://img.logo.dev/radiocultural.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Guate digital",
-        "url": "https://radioguatedigital.com/live/",
-        "favicon": "https://img.logo.dev/radioguatedigital.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Infinita",
@@ -263,11 +233,6 @@
         "name": "RADIO MARIA GUATEMALA",
         "url": "http://dreamsiteradiocp.com:8072/stream",
         "favicon": "https://img.logo.dev/radiomaria.org.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mesiánica",
-        "url": "https://felovemesianica-radiofelove.radioca.st/stream",
-        "favicon": "https://img.logo.dev/radiomesianica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO ORLA - CAMINO ROJO",
@@ -298,11 +263,6 @@
         "name": "Rhema Stereo",
         "url": "https://radio.fiberstreams.com:2000/stream/8710",
         "favicon": "https://img.logo.dev/rhemastereo.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SINAI WORKSHOP",
-        "url": "https://radio.forensedigital.gt:8070/stream",
-        "favicon": "https://img.logo.dev/venezuela.gt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stereo 100, Quetzaltenango",

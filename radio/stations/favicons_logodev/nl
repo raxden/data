@@ -15,11 +15,6 @@
         "favicon": "https://img.logo.dev/bollenstreekomroep.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "00s Alive",
         "url": "https://stream.00sa.live/00s-alive.aac",
         "favicon": "https://img.logo.dev/alive.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -365,6 +360,16 @@
         "favicon": "https://img.logo.dev/alleenklassiek.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Alles Plat",
+        "url": "http://mediacdn.rtvoost.nl/icecast/rtvoost/alles-plat-mp3",
+        "favicon": "https://img.logo.dev/mediacdn.rtvoost.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Alles Plat",
+        "url": "http://mediacdn.rtvoost.nl/icecast/rtvoost/alles-plat-mp3",
+        "favicon": "https://img.logo.dev/mediacdn.rtvoost.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Alswin Ambient Music",
         "url": "https://server7.radio-streams.net/proxy/jwoiiktx/stream",
         "favicon": "https://img.logo.dev/alswin.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -460,6 +465,11 @@
         "favicon": "https://img.logo.dev/arrow.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "AudioMaze Radio",
+        "url": "https://s81.radiolize.com:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.audiomaze.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Baars Classic Rock",
         "url": "https://stream.iceradio.nl/baarsclassicrock",
         "favicon": "https://img.logo.dev/baarsclassicrock.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -468,6 +478,11 @@
         "name": "Baars classic Rock",
         "url": "http://server-66.stream-server.nl:8840/",
         "favicon": "https://img.logo.dev/baarsclassicrock.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Back To The Old School",
+        "url": "http://bttos.soulandfunkmusic.com:8443/",
+        "favicon": "https://img.logo.dev/soulandfunkmusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Beat FM",
@@ -582,7 +597,7 @@
     {
         "name": "BoemerangFM",
         "url": "https://radio.mediacp.eu/stream/boemerangfm",
-        "favicon": "https://img.logo.dev/radio-boemerangfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radio.mediacp.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BR6 Radio",
@@ -627,17 +642,17 @@
     {
         "name": "C-Dance",
         "url": "http://s45.myradiostream.com:18304/",
-        "favicon": "https://img.logo.dev/retro.c-dance.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/s45.myradiostream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "C-Dance RETRO",
         "url": "http://s45.myradiostream.com:18304/",
-        "favicon": "https://img.logo.dev/retro.c-dance.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/s45.myradiostream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "C-Dance RETRO",
         "url": "https://s45.myradiostream.com/18304/;?type=http&nocache=1728303081?0.29796721986116603",
-        "favicon": "https://img.logo.dev/retro.c-dance.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/s45.myradiostream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Calypso AM 675",
@@ -646,17 +661,17 @@
     },
     {
         "name": "Candelight",
-        "url": "https://22713.live.streamtheworld.com/CANDLELIGHT_SC",
+        "url": "https://22673.live.streamtheworld.com/CANDLELIGHT_SC",
         "favicon": "https://img.logo.dev/candlelight.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Candelight",
-        "url": "https://22323.live.streamtheworld.com/CANDLELIGHT_SC",
+        "url": "https://25233.live.streamtheworld.com/CANDLELIGHT_SC",
         "favicon": "https://img.logo.dev/candlelight.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Candlelight",
-        "url": "https://22673.live.streamtheworld.com/CANDLELIGHT_SC",
+        "url": "https://25243.live.streamtheworld.com/CANDLELIGHT_SC",
         "favicon": "https://img.logo.dev/candlelight.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -798,6 +813,11 @@
         "name": "Coastline",
         "url": "http://81.169.223.8/",
         "favicon": "https://img.logo.dev/coastlinefm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Coastline iRadio: CLFM.NL",
+        "url": "http://onair.coastlinefm.nl/live",
+        "favicon": "https://img.logo.dev/onair.coastlinefm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cobra Team",
@@ -975,11 +995,6 @@
         "favicon": "https://img.logo.dev/creamradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Cream radio",
-        "url": "https://creamradio.nl/player",
-        "favicon": "https://img.logo.dev/creamradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CreatorPlaza Radio",
         "url": "https://stream.creatorplaza.nl/main/",
         "favicon": "https://img.logo.dev/creatorplaza.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -993,6 +1008,11 @@
         "name": "Cubic Space Radio",
         "url": "http://music.cubicspace.fm:42424/mpeg",
         "favicon": "https://img.logo.dev/cubicspace.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "D-Tales Radio",
+        "url": "https://radio.d-tales.nl/listen/dtalesradio/radio-hq.aac",
+        "favicon": "https://img.logo.dev/radio.d-tales.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dance FM Amsterdam",
@@ -1023,6 +1043,16 @@
         "name": "DANCEableRADIO",
         "url": "http://s14.myradiostream.com:19580/stream",
         "favicon": "https://img.logo.dev/myradiostream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Danceclassic.eu",
+        "url": "http://mediaserv75.live-streams.nl:8011/stream",
+        "favicon": "https://img.logo.dev/mediaserv75.live-streams.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Danceclassic.eu",
+        "url": "https://mediaserv21.live-streams.nl:8011/stream/;type=v2",
+        "favicon": "https://img.logo.dev/mediaserv21.live-streams.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Danceradio Amsterdam",
@@ -1135,6 +1165,11 @@
         "favicon": "https://img.logo.dev/denhaagfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DesiZone",
+        "url": "http://www.desizone.nl:8000/",
+        "favicon": "https://img.logo.dev/desizone.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Deurne Media Groep",
         "url": "http://s22.myradiostream.com:13628/",
         "favicon": "https://img.logo.dev/dmgdeurne.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1220,6 +1255,11 @@
         "favicon": "https://img.logo.dev/internetpiraten.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Drechtstad FM",
+        "url": "https://icecast.rtvpapendrecht.nl/stream",
+        "favicon": "https://img.logo.dev/rtvpapendrecht.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Drentsepiraten",
         "url": "https://server1.streamgigant.nl:9214/drentsepiraten192",
         "favicon": "https://img.logo.dev/drentsepiraten.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1266,7 +1306,7 @@
     },
     {
         "name": "Efteling Kids Radio",
-        "url": "http://25243.live.streamtheworld.com:3690/TLPSTR07_SC",
+        "url": "http://28983.live.streamtheworld.com:3690/TLPSTR07_SC",
         "favicon": "https://img.logo.dev/efteling.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1328,6 +1368,21 @@
         "name": "Fomix",
         "url": "https://stream.radiofomix.nl/listen/fomix/stream.mp3",
         "favicon": "https://img.logo.dev/fomix.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Found Treasures",
+        "url": "https://radio.foundtreasures.online/listen/found_treasures/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.foundtreasures.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Found Treasures",
+        "url": "https://radio.foundtreasures.online/listen/found_treasures/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.foundtreasures.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FoutFM",
+        "url": "https://caster.hosting078.nl/foutfm",
+        "favicon": "https://img.logo.dev/caster.hosting078.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Freak Radio NL",
@@ -1525,6 +1580,11 @@
         "favicon": "https://img.logo.dev/goodtimesbadtimes.club?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "GOUD RADIO",
+        "url": "https://luister.goudradio.nl/",
+        "favicon": "https://img.logo.dev/luister.goudradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Gouwestad Radio",
         "url": "https://qxjr001.digiplay.nl/stream/9140/stream/1/",
         "favicon": "https://img.logo.dev/gouwestad.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1628,6 +1688,21 @@
         "name": "Grunn FM",
         "url": "https://stream.grunnfm.nl/grunnfm",
         "favicon": "https://img.logo.dev/grunn.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "H!TS724",
+        "url": "https://listen2.streamaudio.co/stream/8010",
+        "favicon": "https://img.logo.dev/listen2.streamaudio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "H!TS724",
+        "url": "https://listen2.streamaudio.co/stream/8010",
+        "favicon": "https://img.logo.dev/listen2.streamaudio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "H!TS724",
+        "url": "https://listen2.streamaudio.co/stream/8010",
+        "favicon": "https://img.logo.dev/listen2.streamaudio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Haarlem Shuffle",
@@ -1740,6 +1815,11 @@
         "favicon": "https://img.logo.dev/hetehits.nu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hete Hits",
+        "url": "https://mcp-2.mm-stream.nl:8000/stream",
+        "favicon": "https://img.logo.dev/mcp-2.mm-stream.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hi On Line Classic Radio",
         "url": "http://mediaserv30.live-streams.nl:8088/stream",
         "favicon": "https://img.logo.dev/hionline.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1825,11 +1905,6 @@
         "favicon": "https://img.logo.dev/hitradioloz.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "HiTec Radio",
-        "url": "http://radiohitec.comlinq.be:8500/",
-        "favicon": "https://img.logo.dev/radiohitec.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Hitstream FM",
         "url": "https://stream.streamhits.nl/stream/1/",
         "favicon": "https://img.logo.dev/hitstream.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1853,6 +1928,11 @@
         "name": "HOEX RADIO",
         "url": "https://caster04.streampakket.com/proxy/9336/stream",
         "favicon": "https://img.logo.dev/hoexradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Holland Country Radio",
+        "url": "https://caster.hosting078.nl:1405/stream",
+        "favicon": "https://img.logo.dev/caster.hosting078.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HollandHitNL",
@@ -2015,61 +2095,6 @@
         "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Intense Radio - We love Dance 256K",
-        "url": "https://secure.live-streams.nl/main",
-        "favicon": "https://img.logo.dev/intenseradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "INTERGALACTIC FM - Cybernetic Broadcasting System",
         "url": "http://radio.intergalactic.fm/1",
         "favicon": "https://img.logo.dev/intergalactic.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2137,6 +2162,11 @@
     {
         "name": "ISKC Rock Radio",
         "url": "http://mediaserv68.live-streams.nl:8012/RockRadio",
+        "favicon": "https://img.logo.dev/iskcrocks.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ISKC Rock Radio",
+        "url": "http://mediaserv68.live-streams.nl:8012/RockRadio2",
         "favicon": "https://img.logo.dev/iskcrocks.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2340,9 +2370,19 @@
         "favicon": "https://img.logo.dev/joyradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "jungletrain.net - 24/7 drum and bass",
+        "url": "https://chat.jungletrain.net/streamtest/;stream/1",
+        "favicon": "https://img.logo.dev/chat.jungletrain.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "K-Rock Europe",
-        "url": "https://s12.myradiostream.com/7958/listen.mp3",
+        "url": "https://tv.radiohosting.online:8982/stream",
         "favicon": "https://img.logo.dev/k-rock.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kaas FM",
+        "url": "https://kaas-fm.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/kaas-fm.radiocult.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBC Radio",
@@ -2385,11 +2425,6 @@
         "favicon": "https://img.logo.dev/kerstradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kick Radio - 80s & 90s Hits",
-        "url": "https://live.onlineradiostreaming.nl/kick",
-        "favicon": "https://img.logo.dev/player.kickradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "KilRock",
         "url": "http://mediaserv30.live-streams.nl:8013/medium",
         "favicon": "https://img.logo.dev/kilrock.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2416,7 +2451,7 @@
     },
     {
         "name": "KINK",
-        "url": "https://29023.live.streamtheworld.com/KINKAAC2_SC",
+        "url": "https://22603.live.streamtheworld.com/KINKAAC2_SC",
         "favicon": "https://img.logo.dev/kink.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2431,22 +2466,22 @@
     },
     {
         "name": "KINK 128k aac",
-        "url": "https://22713.live.streamtheworld.com/KINKAAC_SC",
+        "url": "https://25223.live.streamtheworld.com/KINKAAC_SC",
         "favicon": "https://img.logo.dev/kink.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kink 192k mp3",
-        "url": "http://29033.live.streamtheworld.com/KINK_SC",
+        "url": "http://22343.live.streamtheworld.com:3690/KINK_SC",
         "favicon": "https://img.logo.dev/kinkfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KINK 64kbps",
-        "url": "https://22533.live.streamtheworld.com/KINKAAC2_SC",
+        "url": "https://22663.live.streamtheworld.com/KINKAAC2_SC",
         "favicon": "https://img.logo.dev/kink.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kink 90's",
-        "url": "https://22663.live.streamtheworld.com/KINK_90S_SC",
+        "url": "https://22343.live.streamtheworld.com/KINK_90S_SC",
         "favicon": "https://img.logo.dev/kink.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2456,17 +2491,17 @@
     },
     {
         "name": "KINK DISTORTION",
-        "url": "https://29043.live.streamtheworld.com/KINK_DISTORTIONAAC_SC",
+        "url": "https://22723.live.streamtheworld.com/KINK_DISTORTIONAAC_SC",
         "favicon": "https://img.logo.dev/kink.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KINK DNA",
-        "url": "http://29043.live.streamtheworld.com:3690/KINK_DNAAAC_SC",
+        "url": "http://22663.live.streamtheworld.com/KINK_DNAAAC_SC",
         "favicon": "https://img.logo.dev/kink.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KINK80s",
-        "url": "http://29033.live.streamtheworld.com/KINK_DNA_SC",
+        "url": "http://29043.live.streamtheworld.com/KINK_DNA_SC",
         "favicon": "https://img.logo.dev/kink.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2543,11 +2578,6 @@
         "name": "L1 Radio",
         "url": "http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
         "favicon": "https://img.logo.dev/l1.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "L1 Radio",
-        "url": "http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
-        "favicon": "https://img.logo.dev/d34pj260kw1xmk.cloudfront.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "L11 Alaaf",
@@ -2638,11 +2668,6 @@
         "name": "Lucky Joe Radio",
         "url": "https://radio.luckyjoe.nl/stream/lucky-joe",
         "favicon": "https://img.logo.dev/luckyjoe.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LX Classics",
-        "url": "https://mcp-1.streampanel.nl:8020/lxclassics_mp3",
-        "favicon": "https://img.logo.dev/robstenders.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Magic FM",
@@ -2868,6 +2893,21 @@
         "name": "NH Radio",
         "url": "http://rrr.sz.xlcdn.com/?account=nhnieuws&file=NHRadio_mp3&type=live&service=icecast&protocol=http&port=8000&output=m3u",
         "favicon": "https://img.logo.dev/nhradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nicky FM",
+        "url": "https://caster08.streampakket.com/proxy/nickyfm/stream",
+        "favicon": "https://img.logo.dev/caster08.streampakket.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nicky FM",
+        "url": "https://caster08.streampakket.com/proxy/nickyfm/stream",
+        "favicon": "https://img.logo.dev/caster08.streampakket.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Niederlande - Donderschoer Radio",
+        "url": "http://audiostreamen.nl:8400/stream",
+        "favicon": "https://img.logo.dev/audiostreamen.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nieuwspaal Radio",
@@ -3315,11 +3355,6 @@
         "favicon": "https://img.logo.dev/omroepeemsdelta.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Omroep Friesland",
-        "url": "https://www.radioviainternet.nl/radio-friesland",
-        "favicon": "https://img.logo.dev/omropfryslan.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Omroep Heemskerk",
         "url": "https://live.omroepheemskerk.nl/hfm",
         "favicon": "https://img.logo.dev/omroepheemskerk.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3376,7 +3411,7 @@
     },
     {
         "name": "Omroep Tilburg New",
-        "url": "https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1792642008&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s119938&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2748&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cnl&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1",
+        "url": "https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1793075166&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s119938&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2748&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cnl&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1",
         "favicon": "https://img.logo.dev/omroeptilburg.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3915,26 +3950,6 @@
         "favicon": "https://img.logo.dev/powerstationbuddha.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Pride.Radio",
-        "url": "http://stream.tbmp.nl/listen/pride_dot_radio/prideradiohigh.aac",
-        "favicon": "https://img.logo.dev/pride-radio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Progressieve Rock",
-        "url": "https://progressieverock.nl/luisteren",
-        "favicon": "https://img.logo.dev/progressieverock.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Progressieve Rock",
-        "url": "https://progressieverock.nl/flac",
-        "favicon": "https://img.logo.dev/progressieverock.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Progressieve Rock",
-        "url": "http://progressieverock.nl/luisteren",
-        "favicon": "https://img.logo.dev/progressieverock.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Pure Classix Radio",
         "url": "http://mscp4.live-streams.nl:8140/live.mp3",
         "favicon": "https://img.logo.dev/pureclassix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4125,19 +4140,9 @@
         "favicon": "https://img.logo.dev/twr.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Quest Radio",
-        "url": "https://ams-pioneer02.dedicateware.com:1735/stream",
-        "favicon": "https://img.logo.dev/questradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio  LFM",
         "url": "https://stream.l-fm.nl:8443/",
         "favicon": "https://img.logo.dev/l-fm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 0511",
-        "url": "https://443-1.autopo.st/191/stream",
-        "favicon": "https://img.logo.dev/radio0511.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 078",
@@ -4176,7 +4181,7 @@
     },
     {
         "name": "Radio 10 60's & 70's Hits",
-        "url": "http://22723.live.streamtheworld.com:3690/TLPSTR18_SC",
+        "url": "http://22603.live.streamtheworld.com:3690/TLPSTR18_SC",
         "favicon": "https://img.logo.dev/radio10.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4203,11 +4208,6 @@
         "name": "Radio 10 Soul & Jazz",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3",
         "favicon": "https://img.logo.dev/radio10.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 105",
-        "url": "https://loa.beheerstream.nl:8094/stream",
-        "favicon": "https://img.logo.dev/radio105.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 1224",
@@ -4265,11 +4265,6 @@
         "favicon": "https://img.logo.dev/radio4brainport.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 509 Hilversum",
-        "url": "http://22343.live.streamtheworld.com:3690/RADIO509AAC_SC",
-        "favicon": "https://img.logo.dev/radio509.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio 538",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
         "favicon": "https://img.logo.dev/538.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4286,7 +4281,7 @@
     },
     {
         "name": "Radio 538 Ibiza",
-        "url": "http://29033.live.streamtheworld.com/TLPSTR19_SC",
+        "url": "http://29093.live.streamtheworld.com:3690/TLPSTR19_SC",
         "favicon": "https://img.logo.dev/538.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4296,17 +4291,17 @@
     },
     {
         "name": "Radio 538 Nonstop",
-        "url": "http://29043.live.streamtheworld.com:3690/TLPSTR09_SC",
+        "url": "http://25233.live.streamtheworld.com:3690/TLPSTR09_SC",
         "favicon": "https://img.logo.dev/538.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 538 Party",
-        "url": "http://25223.live.streamtheworld.com/TLPSTR16_SC",
+        "url": "http://22533.live.streamtheworld.com/TLPSTR16_SC",
         "favicon": "https://img.logo.dev/538.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 538 Verrückte Stunde",
-        "url": "http://22333.live.streamtheworld.com/TLPSTR21_SC",
+        "url": "http://22333.live.streamtheworld.com:3690/TLPSTR21_SC",
         "favicon": "https://img.logo.dev/538.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4380,11 +4375,6 @@
         "favicon": "https://img.logo.dev/radioatlantisrotterdam.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Atletico Den Haag",
-        "url": "https://mediaserv38.live-streams.nl:8074/stream.mp3",
-        "favicon": "https://img.logo.dev/radioatletico.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Bergeijk",
         "url": "https://stream.radiobergeijk.nl/listen/radio_bergeijk/mobiel",
         "favicon": "https://img.logo.dev/radiobergeijk.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4393,21 +4383,6 @@
         "name": "Radio Bergeijk FLAC",
         "url": "https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac",
         "favicon": "https://img.logo.dev/radiobergeijk.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bildtstar",
-        "url": "https://radio-bildtstar.nl/luisteren",
-        "favicon": "https://img.logo.dev/radio-bildtstar.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bildtstar",
-        "url": "https://radio-bildtstar.nl/luisteren",
-        "favicon": "https://img.logo.dev/radio-bildtstar.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Blacklight",
-        "url": "https://server-28.stream-server.nl:8876/autodj",
-        "favicon": "https://img.logo.dev/radioblacklight.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Bloemendaal",
@@ -4423,16 +4398,6 @@
         "name": "Radio BNT",
         "url": "https://stream.radiobnt.nl/radiobnt.mp3",
         "favicon": "https://img.logo.dev/radiobnt.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Boven IJ",
-        "url": "http://server-67.stream-server.nl:8774/rbij.mp3",
-        "favicon": "https://img.logo.dev/radiobovenij.amsterdam?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio Calipso",
-        "url": "https://radiocalipso.nl:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radiocalipso.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Calypso",
@@ -4482,7 +4447,7 @@
     {
         "name": "Radio Caroline 319 Gold",
         "url": "https://happy.radiomonique.nl/listen/happy_oldies/radio64.mp3",
-        "favicon": "https://img.logo.dev/radiocaroline319.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/happy.radiomonique.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Castricum (96 AAC stream)",
@@ -4520,11 +4485,6 @@
         "favicon": "https://img.logo.dev/radiocybernet.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio de Branding",
-        "url": "https://server-28.stream-server.nl:8814/stream",
-        "favicon": "https://img.logo.dev/radiodebranding-online.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio De Musketiers",
         "url": "https://loa.beheerstream.nl:8022/stream",
         "favicon": "https://img.logo.dev/radiodemusketiers.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4533,16 +4493,6 @@
         "name": "Radio De Stemmingmaker",
         "url": "https://server-28.stream-server.nl:8894/stream",
         "favicon": "https://img.logo.dev/radiodestemmingmaker.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio de Twentseboys",
-        "url": "https://rcp.ultaserver.com/8016/stream",
-        "favicon": "https://img.logo.dev/radiodetwentseboys.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio De Wasrol",
-        "url": "https://streams.radioerfgoed.nl/radiodewasrol",
-        "favicon": "https://img.logo.dev/radiodewasrol.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Decibel",
@@ -4570,14 +4520,9 @@
         "favicon": "https://img.logo.dev/radioeileen.ddns.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Eldora",
-        "url": "https://stream01.eliveld-ict.nl/listen/eldora_fm/radio.mp3",
-        "favicon": "https://img.logo.dev/radioeldora.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Emmeloord",
-        "url": "http://86.93.49.78:8080/live",
-        "favicon": "https://img.logo.dev/radioemmeloord.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Enkhuizen",
+        "url": "http://mediaserv38.live-streams.nl:8003/stream",
+        "favicon": "https://img.logo.dev/radioenkhuizen.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Erasmus",
@@ -4590,21 +4535,6 @@
         "favicon": "https://img.logo.dev/radioesperando.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Exclusief",
-        "url": "https://cloud-faro.beheerstream.com/proxy/iqienyzy?mp=/stream",
-        "favicon": "https://img.logo.dev/radioexclusief.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO EXPERIENCE",
-        "url": "https://stream.radioexperience.nl/luisteren",
-        "favicon": "https://img.logo.dev/radioexperience.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Experience 1008AM",
-        "url": "https://totaal-streaming.de:8030/radio2",
-        "favicon": "https://img.logo.dev/radioexperience.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio eXtra",
         "url": "http://91.227.77.124/extra",
         "favicon": "https://img.logo.dev/radioextra.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4613,11 +4543,6 @@
         "name": "Radio eXtra",
         "url": "http://91.227.77.124/extra",
         "favicon": "https://img.logo.dev/radioextra.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Fantasy Rotterdam",
-        "url": "http://213.202.241.199:8024/stream",
-        "favicon": "https://img.logo.dev/radiofantasy.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Free Amsterdam",
@@ -4655,9 +4580,9 @@
         "favicon": "https://img.logo.dev/club038.radiohanzestad.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Hermax",
-        "url": "https://stream.radiohermax.nl/listen/hermax/hermax",
-        "favicon": "https://img.logo.dev/radiohermax.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Hanzestad Etherpiraten",
+        "url": "https://radiohanzestad.ddns.net:18200/nonstop",
+        "favicon": "https://img.logo.dev/radiohanzestad.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Hoeksche Waard",
@@ -4681,7 +4606,7 @@
     },
     {
         "name": "Radio Holland Online",
-        "url": "http://stream.radiohollandonline.nl/",
+        "url": "http://stream3.radiohollandonline.nl/",
         "favicon": "https://img.logo.dev/radiohollandonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4700,14 +4625,14 @@
         "favicon": "https://img.logo.dev/radiojnd.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio JND",
+        "url": "https://stream.radiojnd.nl/radiojnd.mp3",
+        "favicon": "https://img.logo.dev/radiojnd.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Joe",
         "url": "https://stream.joe.nl/joe/mp3",
         "favicon": "https://img.logo.dev/stream.joe.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Joyride",
-        "url": "https://server-67.stream-server.nl:8776/stream",
-        "favicon": "https://img.logo.dev/radiojoyride.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Lelystad",
@@ -4723,16 +4648,6 @@
         "name": "Radio Maria Nederland",
         "url": "https://stream.radiomaria.nl/mp3",
         "favicon": "https://img.logo.dev/radiomaria.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mitsy Bits",
-        "url": "https://radio.mitsybits.nl/live",
-        "favicon": "https://img.logo.dev/radio.mitsybits.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mitsy Bits - http",
-        "url": "http://radio.mitsybits.nl:8000/live",
-        "favicon": "https://img.logo.dev/radio.mitsybits.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO MONIQUE 918",
@@ -4805,11 +4720,6 @@
         "favicon": "https://img.logo.dev/radionoordzee.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Nostalgia",
-        "url": "http://cast1.torontocast.com:1630/stream",
-        "favicon": "https://img.logo.dev/radionostalgia.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Olympia - 100% Piratenhits en Nederlandstalige muziek",
         "url": "https://streams.olympia-streams.nl/olympia",
         "favicon": "https://img.logo.dev/olympia-radio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4825,19 +4735,14 @@
         "favicon": "https://img.logo.dev/oost.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Oranje",
-        "url": "https://securestream.digipal.nl:1816/;stream.mp3",
-        "favicon": "https://img.logo.dev/radiooranje.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Oranje Interbationaal",
+        "url": "https://server-51.stream-server.nl:18310/",
+        "favicon": "https://img.logo.dev/radiooranjeinternationaal.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Pechaan",
-        "url": "http://mscp3.live-streams.nl:8050/stream",
-        "favicon": "https://img.logo.dev/radiopehchaan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio Pehchaan",
-        "url": "http://mscp3.live-streams.nl:8050/stream",
-        "favicon": "https://img.logo.dev/radiopehchaan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Polska NL",
+        "url": "https://stream.radiopolskanl.nl/listen/radiopolskanl/radio.mp3",
+        "favicon": "https://img.logo.dev/radiopolskanl.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Purmerend (DAB)",
@@ -4857,7 +4762,7 @@
     {
         "name": "Radio Reino Di Dios",
         "url": "http://mediaserv73.live-streams.nl:8018/stream",
-        "favicon": "https://img.logo.dev/mediaserv73.live-streams.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radioreinodidios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Ridderkerk",
@@ -4950,41 +4855,6 @@
         "favicon": "https://img.logo.dev/speedyradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Sputnik",
-        "url": "http://radiosputnik.nl:8002/flac",
-        "favicon": "https://img.logo.dev/radiosputnik.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio sputnik",
-        "url": "http://radiosputnik.nl:8002/flac",
-        "favicon": "https://img.logo.dev/radiosputnik.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sputnik",
-        "url": "http://radiosputnik.nl:8002/flac",
-        "favicon": "https://img.logo.dev/radiosputnik.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio sputnik",
-        "url": "http://radiosputnik.nl:8002/flac",
-        "favicon": "https://img.logo.dev/radiosputnik.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sputnik",
-        "url": "http://radiosputnik.nl:8002/flac",
-        "favicon": "https://img.logo.dev/radiosputnik.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio sputnik",
-        "url": "http://radiosputnik.nl:8002/flac",
-        "favicon": "https://img.logo.dev/radiosputnik.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sputnik Underground!",
-        "url": "http://radiosputnik.nl:8002/",
-        "favicon": "https://img.logo.dev/radiosputnik.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Srinagar",
         "url": "http://streaming01.x-6.nl:8000/",
         "favicon": "https://img.logo.dev/radiosrinagar.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5015,21 +4885,6 @@
         "favicon": "https://img.logo.dev/radiostadmontfoort.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Stad Woerden",
-        "url": "https://server-28.stream-server.nl:8886/stream",
-        "favicon": "https://img.logo.dev/radiostadwoerden.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Superstar",
-        "url": "http://kippingmultimediaal.nl:8000/superMP3",
-        "favicon": "https://img.logo.dev/radiosuperstar.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Terranova",
-        "url": "https://server-28.stream-server.nl:8914/stream",
-        "favicon": "https://img.logo.dev/radioterranova.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Texel",
         "url": "https://cast6.asurahosting.com/proxy/radiotex/stream",
         "favicon": "https://img.logo.dev/radiotexel.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5038,16 +4893,6 @@
         "name": "Radio Time Out Trance",
         "url": "https://s3.slotex.pl/shoutcast/7056/stream",
         "favicon": "https://img.logo.dev/rto-online.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Toekan",
-        "url": "http://server-10.stream-server.nl:8544/stream",
-        "favicon": "https://img.logo.dev/radiotoekan.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Toekomst",
-        "url": "https://stream.radiotoekomst.nl/radiotoekomst.mp3",
-        "favicon": "https://img.logo.dev/radio-toekomst.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Trammelant",
@@ -5080,16 +4925,6 @@
         "favicon": "https://img.logo.dev/radio-twilight.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Uniek Rotterdam",
-        "url": "https://stream.hosting078.nl:8044/stream",
-        "favicon": "https://img.logo.dev/radiouniek.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Uniek Rotterdam",
-        "url": "https://stream.hosting078.nl:8044/stream",
-        "favicon": "https://img.logo.dev/radiouniek.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RADIO UNIQUE FM /HI-RES",
         "url": "https://hilversumdrie.beheerstream.nl/8038/stream",
         "favicon": "https://img.logo.dev/radiouniquefm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5100,14 +4935,14 @@
         "favicon": "https://img.logo.dev/radiouniquefm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio URAL Schiedam",
-        "url": "http://www.ural.fm:8000/ural",
-        "favicon": "https://img.logo.dev/ural.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Vastelaovend",
         "url": "https://22343.live.streamtheworld.com/RADIO_VASTELAOVEND.aac",
         "favicon": "https://img.logo.dev/radiovastelaovend.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Venloosch",
+        "url": "https://radiovenloosch.stream.laut.fm/radiovenloosh",
+        "favicon": "https://img.logo.dev/radiovenloosch.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Veronica",
@@ -5128,11 +4963,6 @@
         "name": "Radio Veronica Live",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
         "favicon": "https://img.logo.dev/radioveronica.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio WaterPol International",
-        "url": "http://193.242.108.93:8060/stream",
-        "favicon": "https://img.logo.dev/radiowaterpolinternational.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Weleer 64kbps",
@@ -5180,9 +5010,9 @@
         "favicon": "https://img.logo.dev/radio-twilight.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "radio.DANCE 90s dance music",
-        "url": "https://radiodance.streamingmedia.it/audio.aac",
-        "favicon": "https://img.logo.dev/radio.dance?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio074",
+        "url": "https://server-67.stream-server.nl:8746/stream",
+        "favicon": "https://img.logo.dev/radio074.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio074",
@@ -5240,9 +5070,19 @@
         "favicon": "https://img.logo.dev/radioachterhoek.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RadioBonita",
-        "url": "http://everestcastprohostingbudget.nl:1040/stream",
-        "favicon": "https://img.logo.dev/radiobonita.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "radiobullet",
+        "url": "https://cast.accessweb.be:4095/stream",
+        "favicon": "https://img.logo.dev/cast.accessweb.be?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioFRL",
+        "url": "https://player.radiofrl.com/listen/radio_frl/HQ",
+        "favicon": "https://img.logo.dev/radiofrl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioFRL 2",
+        "url": "https://player.radiofrl.com/listen/radiofrl_2/Mobiel",
+        "favicon": "https://img.logo.dev/radiofrl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radion JND",
@@ -5253,11 +5093,6 @@
         "name": "Radion Veronica Top 1000 AllerTijden",
         "url": "https://28973.live.streamtheworld.com/WEB06_AAC.aac",
         "favicon": "https://img.logo.dev/radioveronica.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radionickita",
-        "url": "https://fra-pioneer08.dedicateware.com:1685/stream",
-        "favicon": "https://img.logo.dev/radionickita.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIONL",
@@ -5283,21 +5118,6 @@
         "name": "radiooptimaalfm",
         "url": "http://stream-10.pmteurope.com:8002/stream",
         "favicon": "https://img.logo.dev/radiooptimaalfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Kewra",
-        "url": "http://198.7.59.28:8146/;",
-        "favicon": "https://img.logo.dev/radyokewra.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rara Radio",
-        "url": "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/chunklist_w697961126.m3u8",
-        "favicon": "https://img.logo.dev/rararadio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RARARADIO",
-        "url": "https://streaming.radio.co/s1226d636a/listen",
-        "favicon": "https://img.logo.dev/rararadio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RaZO Amsterdam",
@@ -5400,14 +5220,24 @@
         "favicon": "https://img.logo.dev/regio8.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Relax FM Online",
-        "url": "https://caster04.streampakket.com/proxy/8009/stream",
-        "favicon": "https://img.logo.dev/relaxfmonline.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "ReJo Radio",
+        "url": "https://rejoradio.nl/",
+        "favicon": "https://img.logo.dev/rejoradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Relentless Grace Radio",
+        "url": "https://azuraserv3.live-streams.nl/listen/relentless_grace_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/azuraserv3.live-streams.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "REPLAY NEWS - Nederlands",
         "url": "https://replaynewsnl.ice.infomaniak.ch/replaynewsnl-128.mp3",
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Revival FM",
+        "url": "https://stream.wildfm.nl/RevivalFM",
+        "favicon": "https://img.logo.dev/revivalfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RHYTHM 21 Zwolle",
@@ -5465,16 +5295,6 @@
         "favicon": "https://img.logo.dev/rn7.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rob Stenders stream",
-        "url": "http://streams.robstenders.nl:8063/bonanza_mp3",
-        "favicon": "https://img.logo.dev/robstenders.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Robintimo Radio",
-        "url": "https://stream.robintimo.nl:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/robintimo.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rondiamusic",
         "url": "https://mars.streamerr.co:7094/stream",
         "favicon": "https://img.logo.dev/rondiamusic.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5495,9 +5315,9 @@
         "favicon": "https://img.logo.dev/roundandsound.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rozo Radio",
-        "url": "http://server3.radio-streams.net:8007/live",
-        "favicon": "https://img.logo.dev/rozoradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Roy Deliege",
+        "url": "https://s12.ssl-stream.com:8046/stream",
+        "favicon": "https://img.logo.dev/radiohardstyle.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RPL",
@@ -5533,6 +5353,11 @@
         "name": "RTV Hollands Midden",
         "url": "https://securestream2.digipal.nl:1805/stream",
         "favicon": "https://img.logo.dev/rtvhollandsmidden.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTV IJsselmond",
+        "url": "https://stream.rtvijsselmond.nl/live",
+        "favicon": "https://img.logo.dev/rtvijsselmond.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RTV Love Volendam Edam",
@@ -5635,6 +5460,11 @@
         "favicon": "https://img.logo.dev/rtvmiddenholland.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rust Radio",
+        "url": "http://rustradio.org:8000/",
+        "favicon": "https://img.logo.dev/rustradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Saba Radio Q 93.9 FM Netherlands",
         "url": "http://s1.northrich.nl/streamq939",
         "favicon": "https://img.logo.dev/s1.northrich.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5642,7 +5472,7 @@
     {
         "name": "Saba Radio Q 93.9 FM Netherlands",
         "url": "https://s1.northrich.nl:38123/streamq939",
-        "favicon": "https://img.logo.dev/q939fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/s1.northrich.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Salland1",
@@ -5653,6 +5483,11 @@
         "name": "Salland1 Radio",
         "url": "https://stream.and-stuff.nl:8443/live-airplay_320",
         "favicon": "https://img.logo.dev/salland1.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Salsa Radio Amsterdam",
+        "url": "https://radio.yourlatinradio.com/listen/sra/radio.mp3",
+        "favicon": "https://img.logo.dev/salsaradioamsterdam.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SAMEN 1",
@@ -5746,7 +5581,7 @@
     },
     {
         "name": "Sky Radio 90's Hits",
-        "url": "http://29093.live.streamtheworld.com:80/SRGSTR05.mp3",
+        "url": "http://22343.live.streamtheworld.com:80/SRGSTR05.mp3",
         "favicon": "https://img.logo.dev/skyradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -5761,7 +5596,7 @@
     },
     {
         "name": "Sky Radio Lounge",
-        "url": "http://28983.live.streamtheworld.com:3690/SRGSTR07AAC_SC",
+        "url": "http://22613.live.streamtheworld.com/SRGSTR07AAC_SC",
         "favicon": "https://img.logo.dev/skyradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -5771,7 +5606,7 @@
     },
     {
         "name": "Sky Radio Lovesongs",
-        "url": "http://22723.live.streamtheworld.com/SRGSTR03AAC_SC",
+        "url": "http://22613.live.streamtheworld.com/SRGSTR03AAC_SC",
         "favicon": "https://img.logo.dev/skyradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -5796,7 +5631,7 @@
     },
     {
         "name": "Sky Radio Smooth Hits",
-        "url": "http://29003.live.streamtheworld.com/SRGSTR15AAC_SC",
+        "url": "http://25223.live.streamtheworld.com/SRGSTR15AAC_SC",
         "favicon": "https://img.logo.dev/skyradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -5915,6 +5750,11 @@
         "favicon": "https://img.logo.dev/smilefm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sol2",
+        "url": "https://nlpo.stream.vip/sol2/mp3-192/nlpo.stream.vip/",
+        "favicon": "https://img.logo.dev/sol2.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Soul Radio",
         "url": "http://listen.soulradio.com/SOULRADIOAAC.aac",
         "favicon": "https://img.logo.dev/soulradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5931,7 +5771,7 @@
     },
     {
         "name": "SoulRadio",
-        "url": "https://22343.live.streamtheworld.com/SOULRADIOAAC_SC",
+        "url": "https://29093.live.streamtheworld.com/SOULRADIOAAC_SC",
         "favicon": "https://img.logo.dev/soulradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -6025,9 +5865,9 @@
         "favicon": "https://img.logo.dev/studiodmn.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Studio Music Station",
-        "url": "https://stream.studiomusicstation.nl/radio/8010/radio.mp3",
-        "favicon": "https://img.logo.dev/studiomusicstation.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Studio Rheden",
+        "url": "https://picy.studiorhedenlive.nl/str",
+        "favicon": "https://img.logo.dev/studiorheden.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Studio040",
@@ -6038,11 +5878,6 @@
         "name": "Studio040",
         "url": "https://stream.studio040.nl/studio040.mp3",
         "favicon": "https://img.logo.dev/studio040.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StudioMusicStation",
-        "url": "https://stream.studiomusicstation.nl/radio/8010/radio.mp3?hash=1778049395270",
-        "favicon": "https://img.logo.dev/studiomusicstation.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sublime",
@@ -6095,14 +5930,14 @@
         "favicon": "https://img.logo.dev/sunrisefm.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sunset Radio",
-        "url": "https://server-28.stream-server.nl:8854/stream",
-        "favicon": "https://img.logo.dev/sunsetradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "SuperMixFM",
         "url": "https://loa.beheerstream.nl:8110/stream",
         "favicon": "https://img.logo.dev/supermixfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SXM GOV Radio",
+        "url": "https://s6.reliastream.com/proxy/governme?mp=/stream",
+        "favicon": "https://img.logo.dev/sintmaartengov.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Synthetic FM - The radio for the Synth lovers",
@@ -6115,9 +5950,14 @@
         "favicon": "https://img.logo.dev/syntheticfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Synthwave City FM - New",
-        "url": "https://synthwave-rex.radioca.st/stream",
-        "favicon": "https://img.logo.dev/synthwavecityfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "TalkRadio",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALKRADIO.mp3",
+        "favicon": "https://img.logo.dev/talkradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TalkRadio.nl",
+        "url": "https://talkradio.streaming.deliver.media/talkradio_mp3_192",
+        "favicon": "https://img.logo.dev/talkradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Team FM Gelderland",
@@ -6128,6 +5968,11 @@
         "name": "Team FM Twente",
         "url": "https://audiostreamen.nl/twente",
         "favicon": "https://img.logo.dev/teamfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Arabnights Radio",
+        "url": "http://arabnights-prod.live-streams.nl:8020/live",
+        "favicon": "https://img.logo.dev/thearabnights.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "The Finest Amsterdam",
@@ -6165,6 +6010,11 @@
         "favicon": "https://img.logo.dev/tiesto.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "TikTok danceradio",
+        "url": "https://panel.mjsweb.nl:5445/stream",
+        "favicon": "https://img.logo.dev/panel.mjsweb.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Tirolia-Express",
         "url": "https://server-28.stream-server.nl:8846/stream",
         "favicon": "https://img.logo.dev/tirolia-express.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6190,16 +6040,6 @@
         "favicon": "https://img.logo.dev/trance21.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TraxxRadio",
-        "url": "https://server-28.stream-server.nl:8896/stream",
-        "favicon": "https://img.logo.dev/traxxradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TraxxRadio",
-        "url": "https://server-28.stream-server.nl:8896/stream",
-        "favicon": "https://img.logo.dev/traxxradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "TrendFM Den Haag (March 12, 2026)",
         "url": "http://trendfm.live-streams.nl:8030/live",
         "favicon": "https://img.logo.dev/trendfm.nu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6223,16 +6063,6 @@
         "name": "Twente FM",
         "url": "http://stream.twentefm.nl:8004/high",
         "favicon": "https://img.logo.dev/twentefm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TWR.NL - Richt je hart op God",
-        "url": "http://twrnl.out.airtime.pro:8000/twrnl_a",
-        "favicon": "https://img.logo.dev/transworldradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "UbuntuFM Radio International",
-        "url": "https://streaming.coollective.nl:8443/RadioXYZ",
-        "favicon": "https://img.logo.dev/ubuntufm.international?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ujala Radio",
@@ -6277,7 +6107,7 @@
     {
         "name": "VAPORADIO.NL",
         "url": "https://mediaserv74.live-streams.nl/proxy/vaporadio/stream",
-        "favicon": "https://img.logo.dev/vaporadio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/mediaserv74.live-streams.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Variafm",
@@ -6325,6 +6155,11 @@
         "favicon": "https://img.logo.dev/radioveronica.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Veronica Beste 80's",
+        "url": "https://stream.radioveronica.nl/dab01",
+        "favicon": "https://img.logo.dev/radioveronica.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Veronica Goud van oud",
         "url": "https://21633.live.streamtheworld.com/DAB01_AAC.aac",
         "favicon": "https://img.logo.dev/radioveronica.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6348,11 +6183,6 @@
         "name": "VIBE Radio",
         "url": "https://stream.viberadio.nl/viberadio",
         "favicon": "https://img.logo.dev/viberadio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VivamixRadio",
-        "url": "https://a7.asurahosting.com:9080/radio.mp3?1773614001950",
-        "favicon": "https://img.logo.dev/vivamixradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Vlietstad",
@@ -6386,6 +6216,11 @@
     },
     {
         "name": "Waterstad FM",
+        "url": "https://stream.waterstadfm.nl/waterstadfm",
+        "favicon": "https://img.logo.dev/player.waterstadfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Waterstad FM",
         "url": "http://stream.waterstadfm.nl/waterstadfm",
         "favicon": "https://img.logo.dev/waterstadfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -6400,59 +6235,14 @@
         "favicon": "https://img.logo.dev/happy-tigers.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "WEEFF Radio",
+        "url": "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=weeff=weeffradio",
+        "favicon": "https://img.logo.dev/streekomroepwestfriesland.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "WeertFM",
         "url": "http://weertfm.mooo.com:9000/wfm3",
         "favicon": "https://img.logo.dev/weertfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | AAC 64kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-aac-64",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | AAC 64kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-aac-64",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | AAC 96kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-aac-96",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | AAC 96kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-aac-96",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | MP3 128kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-mp3-128",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | MP3 192kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-mp3-192",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | MP3 320kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-mp3-320",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | MP3 320kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-mp3-320",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | MP3 64kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-mp3-64",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WestRadio | MP3 96kbps",
-        "url": "http://streaming.westradio.nl/WestRadio-mp3-96",
-        "favicon": "https://img.logo.dev/westradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WGRV.FM",
@@ -6470,19 +6260,9 @@
         "favicon": "https://img.logo.dev/wildfm.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Wonderjaren - Streaming radio",
-        "url": "https://server-67.stream-server.nl:8748/stream",
-        "favicon": "https://img.logo.dev/wonderjaren.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wonderjaren streaming radio",
-        "url": "https://server-67.stream-server.nl:8748/stream",
-        "favicon": "https://img.logo.dev/wonderjaren.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wonderjaren streaming radio",
-        "url": "https://server-67.stream-server.nl:8748/stream",
-        "favicon": "https://img.logo.dev/wonderjaren.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "WildFM",
+        "url": "https://stream.wildfm.nl/wildfm.mp3",
+        "favicon": "https://img.logo.dev/wildfm-nl.saits.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "World Music Radio Classic",
@@ -6505,19 +6285,34 @@
         "favicon": "https://img.logo.dev/worldofjazz.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "WOS Radio",
+        "url": "http://stream.wos.nl:8000/wos876.mp3",
+        "favicon": "https://img.logo.dev/wos.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WOS Radio",
+        "url": "http://stream.wos.nl:8000/wos876.mp3",
+        "favicon": "https://img.logo.dev/wos.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WOS Radio",
+        "url": "https://ms2.mx-cd.net/radio/99-660291/Radio_WOS.smil/playlist.m3u8",
+        "favicon": "https://img.logo.dev/wos.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "X104.3 Philipsburg",
+        "url": "http://204.141.171.164:16520/stream",
+        "favicon": "https://img.logo.dev/x1043.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "X104.3 Philipsburg",
+        "url": "https://streamcontrol.net:8444/s/16520",
+        "favicon": "https://img.logo.dev/x1043.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "XD Radio",
         "url": "http://streams.xdradio.nl/stream/xdradio",
         "favicon": "https://img.logo.dev/xdradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "XerosRadio Classics",
-        "url": "https://streaming.xeros-radio.nl/radio/8020/xerosradioclassics",
-        "favicon": "https://img.logo.dev/xerosradio.pages.dev?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "XerosRadio Top 40",
-        "url": "https://streaming.xeros-radio.nl/radio/8010/xerosradiotop40",
-        "favicon": "https://img.logo.dev/xerosradio.pages.dev?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Xmas Radio",
@@ -6525,19 +6320,14 @@
         "favicon": "https://img.logo.dev/xmas.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "XXL Stenders",
-        "url": "https://mcp-1.streampanel.nl:8020/bonanza_mp3",
-        "favicon": "https://img.logo.dev/robstenders.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Your Latin Radio",
+        "url": "https://radio.yourlatinradio.com/listen/ylr/radio.mp3",
+        "favicon": "https://img.logo.dev/yourlatinradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Yoursafe Radio",
-        "url": "https://radiostream.yoursafe.nl/stream",
-        "favicon": "https://img.logo.dev/yoursaferadio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Yoursaferadio",
-        "url": "https://radiostream.yoursafe.nl/stream",
-        "favicon": "https://img.logo.dev/yoursaferadio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Your Radio Station",
+        "url": "https://caster04.streampakket.com/proxy/9246/stream",
+        "favicon": "https://img.logo.dev/stationtnt.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ZAP! FM",
@@ -6580,11 +6370,6 @@
         "favicon": "https://img.logo.dev/zendergroenveld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "zendpiraat",
-        "url": "https://cc6.beheerstream.com/proxy/wluhlvrs?mp=/stream",
-        "favicon": "https://img.logo.dev/zendpiraat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ZFM Zandvoort",
         "url": "https://icecast.bytesheep.net/zfmzandvoort.mp3",
         "favicon": "https://img.logo.dev/zfmzandvoort.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6600,6 +6385,11 @@
         "favicon": "https://img.logo.dev/zfmzoetermeer.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ZLV Zuid-Limburg Vandaag",
+        "url": "https://audiostream.easy-point.nl/proxy/heuvelland/stream",
+        "favicon": "https://img.logo.dev/zuidlimburgvandaag.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "ZO-NWS Radio",
         "url": "https://nlpo.stream.vip/zonws/mp3-192/nlpo/",
         "favicon": "https://img.logo.dev/zo-nws.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6608,11 +6398,6 @@
         "name": "ZuidWest FM",
         "url": "https://icecast.zuidwestfm.nl/zuidwest.aac",
         "favicon": "https://img.logo.dev/zuidwestupdate.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "zwaluwradio",
-        "url": "https://zwaluwradio.duckdns.org/live",
-        "favicon": "https://img.logo.dev/zwaluwradio.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zwartewater FM",

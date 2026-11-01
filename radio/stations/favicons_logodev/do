@@ -1,10 +1,5 @@
 [
     {
-        "name": "LOVE FM: All you need is Love ♥ Clásicos de Amor",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Club Sabroso Radio",
         "url": "http://s5.radio.co/s688b80b65/listen",
         "favicon": "https://img.logo.dev/clubsabrosoradioshow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,11 +13,6 @@
         "name": "810 AM Radio Salvación Internacional (RD)",
         "url": "http://ph1.ministeriotv.com:8031/salvacion.mp3",
         "favicon": "https://img.logo.dev/radiosalvacioninternacional.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Amor FM 91.9",
@@ -43,11 +33,6 @@
         "name": "Azul Radio",
         "url": "http://radio.domiplay.net:9300/;",
         "favicon": "https://img.logo.dev/domiplay.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bachata Hits",
-        "url": "https://stream.zeno.fm/prbf8rrgvzzuv",
-        "favicon": "https://img.logo.dev/tesorofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bachata Radio",
@@ -80,6 +65,11 @@
         "favicon": "https://img.logo.dev/dbcradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Disco 106.1",
+        "url": "https://radiordomi.com/8118/stream",
+        "favicon": "https://img.logo.dev/rdmusica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Dominicana FM 98.9 y 99.9 FM",
         "url": "https://protvradiostream.com:8610/;",
         "favicon": "https://img.logo.dev/dominicanafmrd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -93,11 +83,6 @@
         "name": "Estación 97.7 FM",
         "url": "https://stream2.rcast.net/61187",
         "favicon": "https://img.logo.dev/estacion977.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Estelar-106",
-        "url": "https://radio.dominiserver.com/proxy/estelar106?mp=/stream",
-        "favicon": "https://img.logo.dev/radioestelar106fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Exaltación FM",
@@ -160,9 +145,19 @@
         "favicon": "https://img.logo.dev/eztram.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "FieraMix",
+        "url": "https://c11.radioboss.fm:18269/stream",
+        "favicon": "https://img.logo.dev/c11.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "FM 97.3 La Super Estación",
         "url": "https://cast4.my-control-panel.com/proxy/atlantica97/;",
         "favicon": "https://img.logo.dev/grupobadui.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fuego 90.1",
+        "url": "https://radiordomi.com/8390/stream",
+        "favicon": "https://img.logo.dev/rdmusica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GamersOnFireHR",
@@ -260,19 +255,14 @@
         "favicon": "https://img.logo.dev/telemicro.com.do?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Pura Vida FM",
+        "url": "https://cast10.plugstreaming.com/stream/pvsdq",
+        "favicon": "https://img.logo.dev/cast10.plugstreaming.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Bachata",
         "url": "http://perseus.shoutca.st:8312/;stream/1",
         "favicon": "https://img.logo.dev/radiobachata.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bendicion",
-        "url": "https://samuel.i-radio.co:9000/radiobendicion",
-        "favicon": "https://img.logo.dev/radio.labiblia.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bendición",
-        "url": "https://samuel.i-radio.co:9000/radiobendicion",
-        "favicon": "https://img.logo.dev/radio.labiblia.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Cima 100.5",
@@ -305,11 +295,6 @@
         "favicon": "https://img.logo.dev/fm103.com.do?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Renuevo 89.7",
-        "url": "http://cdn.instream.audio:9726/stream",
-        "favicon": "https://img.logo.dev/renuevo897.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Santa Maria",
         "url": "https://paginas.moisespaulino.com/proxy/rsantamaria/stream?type=.mp3",
         "favicon": "https://img.logo.dev/radiosantamaria.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -330,6 +315,11 @@
         "favicon": "https://img.logo.dev/radiogosen.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Reggaeton 92.3 FM",
+        "url": "https://streampanel.online/8495/stream",
+        "favicon": "https://img.logo.dev/streampanel.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ritmo 96",
         "url": "https://stream.zenolive.com/y0br5ck4ququv",
         "favicon": "https://img.logo.dev/ritmo96.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -345,19 +335,9 @@
         "favicon": "https://img.logo.dev/ritmohits.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Romantica 103.FM",
-        "url": "https://radio.dominiserver.com/proxy/romantica103fm/stream",
-        "favicon": "https://img.logo.dev/radio.dominiserver.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Romantica 103.FM",
-        "url": "https://radio.dominiserver.com/proxy/romantica103fm/stream",
-        "favicon": "https://img.logo.dev/radio.dominiserver.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Romantica 103.FM",
-        "url": "https://radio.dominiserver.com/proxy/romantica103fm/stream",
-        "favicon": "https://img.logo.dev/radio.dominiserver.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Salsa - Dominicana",
+        "url": "http://radio.domiplay.net:2002/;",
+        "favicon": "https://img.logo.dev/radio.domiplay.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ser Mejor Radio",
@@ -373,11 +353,6 @@
         "name": "Suave 107.3 FM",
         "url": "https://stream.zeno.fm/cta80ru8na0uv",
         "favicon": "https://img.logo.dev/suave107.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Super K FM",
-        "url": "https://grupomedrano.stream-audio.com:8856/SuperK",
-        "favicon": "https://img.logo.dev/superkfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Top Bachata Radio",
@@ -463,5 +438,10 @@
         "name": "Yarah Radio",
         "url": "https://servidor40-4.brlogic.com:7022/live?source=website",
         "favicon": "https://img.logo.dev/yarahradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zol 106.5 FM",
+        "url": "https://stream.zeno.fm/w6x7q7dtpy5tv",
+        "favicon": "https://img.logo.dev/zolfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

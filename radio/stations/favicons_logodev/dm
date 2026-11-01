@@ -1,13 +1,13 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "DBS Radio",
         "url": "https://stream.dbcradio.net:8005/live",
         "favicon": "https://img.logo.dev/dbcradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dominica Catholic Radio",
+        "url": "https://cdn.comeseetv.com:8010/dominicacatholicradio?1740579480509",
+        "favicon": "https://img.logo.dev/cdn.comeseetv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fabulosa 96.7",

@@ -1,23 +1,18 @@
 [
     {
-        "name": ". القارئ محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "© XGlite™® XGlite Radio FM Web Station",
+        "url": "http://95.154.195.3:33087/",
+        "favicon": "https://img.logo.dev/xglite.listen2myradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ".. مختصر التفسير",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "© XGlite™® XGlite Radio FM Web Station.",
+        "url": "http://109.169.15.21:10467/",
+        "favicon": "https://img.logo.dev/xglite.listen2myradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ".إذاعة ماهر المعيقلي",
-        "url": "https://backup.qurango.net/radio/maher",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "2M radio maroc",
+        "url": "https://radio2m.ma/",
+        "favicon": "https://img.logo.dev/radio2m.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Adwaafm",
@@ -45,21 +40,6 @@
         "favicon": "https://img.logo.dev/atlanticradio.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Aziz Mustaphi",
-        "url": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3",
-        "favicon": "https://img.logo.dev/d3ctxlq1ktw2nl.cloudfront.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Aziz Mustaphi",
-        "url": "https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3",
-        "favicon": "https://img.logo.dev/d3ctxlq1ktw2nl.cloudfront.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "bldi",
-        "url": "http://beldifm.hf.ma/radio/8000/radio.mp3",
-        "favicon": "https://img.logo.dev/beldifm.hf.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Capradio",
         "url": "https://listen.radioking.com/radio/710810/stream/776366",
         "favicon": "https://img.logo.dev/capradiotv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -85,6 +65,11 @@
         "favicon": "https://img.logo.dev/hitradio.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kabana Rooftop Marrakech",
+        "url": "https://stream.vibe-stream.com/kabana-rooftop-marrakech.mp3",
+        "favicon": "https://img.logo.dev/vibe-stream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Marrakechplus",
         "url": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
         "favicon": "https://img.logo.dev/webradio.marrakechplus.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -98,6 +83,11 @@
         "name": "Medi 1 Classique",
         "url": "http://live.medi1.com/Classique",
         "favicon": "https://img.logo.dev/medi1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MEDI 1 RADIO",
+        "url": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+        "favicon": "https://img.logo.dev/cdn.live.easybroadcast.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Medi 1 Radio Andalouse",
@@ -123,6 +113,41 @@
         "name": "Medi1 Tarab",
         "url": "http://live.medi1.com/Tarab",
         "favicon": "https://img.logo.dev/medi1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MEDINA FM",
+        "url": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+        "favicon": "https://img.logo.dev/medinafm.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medina FM (128 kbps)",
+        "url": "https://medinafm.ice.infomaniak.ch/medinafm-128.mp3",
+        "favicon": "https://img.logo.dev/medinafm.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medina FM Amazigh (128 kbps)",
+        "url": "https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3",
+        "favicon": "https://img.logo.dev/medinaamazigh.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medina FM Andalou (128 kbps)",
+        "url": "https://medinaandalou.ice.infomaniak.ch/medinaandalou-128.mp3",
+        "favicon": "https://img.logo.dev/medinaandalou.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medina FM Nachat (128 kbps)",
+        "url": "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3",
+        "favicon": "https://img.logo.dev/medinanachat.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medina FM Nostalgie (128 kbps)",
+        "url": "https://medinanachat.ice.infomaniak.ch/medinanachat-128.mp3",
+        "favicon": "https://img.logo.dev/medinanachat.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Medina FM Tarab (128 kbps)",
+        "url": "https://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3",
+        "favicon": "https://img.logo.dev/medinatarab.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mefi1 tarab",
@@ -185,14 +210,24 @@
         "favicon": "https://img.logo.dev/mfmradio.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Plus Agadir FM 92.4",
-        "url": "https://stream-158.zeno.fm/bqdbb6hd0neuv",
-        "favicon": "https://img.logo.dev/radioplus.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Skyrock Casablanca",
         "url": "https://icecast.skyrock.net/s/casa_aac_64k",
         "favicon": "https://img.logo.dev/skyrock.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SNRT",
+        "url": "https://cdn.live.easybroadcast.io/live/radio_nationale/chunks.m3u8?token=sqAP6uhcPCPc2WebQchaVzkUIIrWqthCOwlrbZWQ7lA&expires=1788193012&token_path=%2Flive%2Fradio_nationale",
+        "favicon": "https://img.logo.dev/snrtlive.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "U Dance",
+        "url": "https://udance.ice.infomaniak.ch/udance-128.aac",
+        "favicon": "https://img.logo.dev/radio.uradio.ma?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "XGlite Radio FM Web Station",
+        "url": "http://95.154.195.3:33087/",
+        "favicon": "https://img.logo.dev/xglite.listen2myradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Yabiladi Azawan Amazigh",
@@ -208,15 +243,5 @@
         "name": "Yabiladi Radio",
         "url": "https://radio.yabiladi.com:8002/;stream.mp3",
         "favicon": "https://img.logo.dev/yabiladi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة طريق السلف",
-        "url": "https://airtime.salafwayfm.ly/",
-        "favicon": "https://img.logo.dev/airtime.salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تفسير بن عثيمين",
-        "url": "https://qurango.net/radio/tafseer",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

@@ -435,6 +435,11 @@
         "favicon": "https://img.logo.dev/2hd.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "2LT - Lithgow - 900 AM (MP3)",
+        "url": "http://au1.fastcast4u.com/proxy/2lt",
+        "favicon": "https://img.logo.dev/au1.fastcast4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "2Max FM - Narrabri - 91.3 FM (AAC)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2MAXAAC.aac",
         "favicon": "https://img.logo.dev/2maxfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1200,6 +1205,11 @@
         "favicon": "https://img.logo.dev/7xs.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "8-bit Remix Radio",
+        "url": "https://terminal-dystopia.com/radio/stream.mp3",
+        "favicon": "https://img.logo.dev/terminal-dystopia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "80s 90s Super Pop Hits",
         "url": "https://s4.myradiostream.com:7344/listen.mp3?",
         "favicon": "https://img.logo.dev/radio-australia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1416,7 +1426,7 @@
     },
     {
         "name": "99.7 Bridge FM",
-        "url": "http://23193.live.streamtheworld.com:3690/997BRIDGEFMAAC_SC",
+        "url": "http://23203.live.streamtheworld.com:3690/997BRIDGEFMAAC_SC",
         "favicon": "https://img.logo.dev/997fm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2460,11 +2470,6 @@
         "favicon": "https://img.logo.dev/triplejunearthed.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AC/DC",
         "url": "https://stream.pcradio.ru/ac_dc-hi",
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2610,11 +2615,6 @@
         "favicon": "https://img.logo.dev/aspradio.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Audiumixh FM",
-        "url": "https://usa3.fastcast4u.com/proxy/audiumixh?mp=/1",
-        "favicon": "https://img.logo.dev/webbitron.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Australia Forest Sounds - Dereel VIC (3h)",
         "url": "https://dn721903.ca.archive.org/0/items/australian-forest-sounds/08%20Calm%20creek%20flowing%2C%20frogs%20and%20birds%20_Dereel%20VIC.mp3",
         "favicon": "https://img.logo.dev/archive.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2623,81 +2623,6 @@
         "name": "Australian Country Radio",
         "url": "https://streaming.radio.co/s5ea3fdd1c/low",
         "favicon": "https://img.logo.dev/auscountry.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Adelaide",
-        "url": "http://abm22.com.au:8000/CONTAINER138",
-        "favicon": "https://img.logo.dev/radioadelaide.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Adelaide (MP3)",
-        "url": "http://abm22.com.au:8000/CONTAINER138",
-        "favicon": "https://img.logo.dev/radioadelaide.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Brisbane",
-        "url": "http://abm22.com.au:8000/CONTAINER135",
-        "favicon": "https://img.logo.dev/radiobrisbane.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Brisbane (MP3)",
-        "url": "http://abm22.com.au:8000/CONTAINER135",
-        "favicon": "https://img.logo.dev/radiobrisbane.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Canberra",
-        "url": "http://abm22.com.au:8000/CONTAINER136",
-        "favicon": "https://img.logo.dev/radiocanberra.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Canberra (MP3)",
-        "url": "http://abm22.com.au:8000/CONTAINER136",
-        "favicon": "https://img.logo.dev/radiocanberra.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Darwin",
-        "url": "http://abm22.com.au:8000/CONTAINER134",
-        "favicon": "https://img.logo.dev/radiodarwin.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Darwin (MP3)",
-        "url": "http://abm22.com.au:8000/CONTAINER134",
-        "favicon": "https://img.logo.dev/radiodarwin.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Hobart",
-        "url": "http://abm22.com.au:8000/CONTAINER137",
-        "favicon": "https://img.logo.dev/radiohobart.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Hobart (MP3)",
-        "url": "http://abm22.com.au:8000/CONTAINER137",
-        "favicon": "https://img.logo.dev/radiohobart.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Melbourne",
-        "url": "http://abm22.com.au:8000/CONTAINER140",
-        "favicon": "https://img.logo.dev/radiomelbourne.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Melbourne (MP3)",
-        "url": "http://abm22.com.au:8000/CONTAINER140",
-        "favicon": "https://img.logo.dev/radiomelbourne.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Perth",
-        "url": "http://abm22.com.au:8000/CONTAINER139",
-        "favicon": "https://img.logo.dev/radioperth.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Perth (MP3)",
-        "url": "http://abm22.com.au:8000/CONTAINER139",
-        "favicon": "https://img.logo.dev/radioperth.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Australian Digital Radio Network - Radio Sydney (MP3)",
-        "url": "http://abm21.com.au:8000/CONTAINER29",
-        "favicon": "https://img.logo.dev/radiosydney.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Australian Made Music",
@@ -2726,7 +2651,7 @@
     },
     {
         "name": "Bay 93.9",
-        "url": "http://19273.live.streamtheworld.com:3690/GEE_BAY939_SC",
+        "url": "http://19273.live.streamtheworld.com/GEE_BAY939_SC",
         "favicon": "https://img.logo.dev/bay939.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2748,6 +2673,11 @@
         "name": "Bay FM - Redland City, Brisbane - 100.3 FM (MP3)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BAY.mp3",
         "favicon": "https://img.logo.dev/bayfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bay FM 88.0 Nelson Bay",
+        "url": "http://159.196.206.218:88/broadwave.mp3?src=1&rate=1&ref=http%3A%2F%2Fradiobayfm.com.au%2F",
+        "favicon": "https://img.logo.dev/radiobayfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bay FM Byron",
@@ -2815,6 +2745,11 @@
         "favicon": "https://img.logo.dev/listnr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Bumma Bippera Media - Cairns - 98.7 FM (AAC)",
+        "url": "http://audio-edge-d34v9.syd.o.radiomast.io/43d5423b-c8b6-4670-ba19-a0f068c2ba33",
+        "favicon": "https://img.logo.dev/audio-edge-d34v9.syd.o.radiomast.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Byron BayFM - Byron Bay - 99.9 FM (AAC)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2BAY_FM999AAC.aac",
         "favicon": "https://img.logo.dev/bayfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2865,6 +2800,11 @@
         "favicon": "https://img.logo.dev/cairnsfm891.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CAMAA",
+        "url": "http://radio.caama.com.au:8000/stream.ogg",
+        "favicon": "https://img.logo.dev/radio.caama.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Canberra's 1WAY FM - Canberra - 91.9 FM (AAC+)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/1WAYAAC.aac",
         "favicon": "https://img.logo.dev/1wayfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2873,6 +2813,16 @@
         "name": "Canberra's 1WAY FM - Canberra - 91.9 FM (MP3)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/1WAY.mp3",
         "favicon": "https://img.logo.dev/1wayfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Capital Community Radio 101.7FM",
+        "url": "http://ic2489.c1788.fast-serv.com/stream",
+        "favicon": "https://img.logo.dev/ic2489.c1788.fast-serv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Capital Community Radio 101.7FM",
+        "url": "http://ic2463.c1788.fast-serv.com/stream",
+        "favicon": "https://img.logo.dev/ic2463.c1788.fast-serv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Casey Radio 97.7 FM",
@@ -2888,6 +2838,11 @@
         "name": "Casey Radio 97.7 FM - Community Radio for Melbourne's South-East",
         "url": "https://28863.live.streamtheworld.com/3SERAAC.aac",
         "favicon": "https://img.logo.dev/caseyradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cassette Disco",
+        "url": "https://casseta-disco.ru:6275/stream",
+        "favicon": "https://img.logo.dev/casseta-disco.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Central Coast Radio",
@@ -3025,13 +2980,8 @@
         "favicon": "https://img.logo.dev/cmsradio.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CNN",
-        "url": "https://tunein.cdnstream1.com/2868_96.mp3",
-        "favicon": "https://img.logo.dev/tunein.cdnstream1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Coast 2 Coast Radio Australia",
-        "url": "http://stream.c2cra.online/live",
+        "url": "https://stream.c2cra.online/live",
         "favicon": "https://img.logo.dev/c2cra.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3400,6 +3350,11 @@
         "favicon": "https://img.logo.dev/fleurieufm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "flipfloppy's web cafe",
+        "url": "https://flipfloppy.net/radio",
+        "favicon": "https://img.logo.dev/flipfloppy.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Flow FM Australia (MP3)",
         "url": "http://uksoutha.streaming.broadcast.radio/flow-fm",
         "favicon": "https://img.logo.dev/flowfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3480,11 +3435,6 @@
         "favicon": "https://img.logo.dev/fresh927.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Freshest Radio (MP3)",
-        "url": "http://stream.zeno.fm/7fjvxans6xiuv",
-        "favicon": "https://img.logo.dev/ww.freshestradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "FSJ Radio - XRN Australia",
         "url": "https://us01.xrn.com.au/listen/fsj/FsjSd",
         "favicon": "https://img.logo.dev/fsjradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3538,6 +3488,11 @@
         "name": "Gizz Radio - Rock",
         "url": "https://radio.gizzradio.live/listen/rock/radio.mp3",
         "favicon": "https://img.logo.dev/gizzradio.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Glenwood Gurudwara Live Sydney Australia",
+        "url": "http://radio2.sikhnet.com:8047/live",
+        "favicon": "https://img.logo.dev/radio2.sikhnet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GNFM - Goulburn - 107.7 FM (AAC)",
@@ -3680,6 +3635,11 @@
         "favicon": "https://img.logo.dev/grip-sydney.myshopify.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Guy Glenwood Sydney",
+        "url": "http://radio2.sikhnet.com:8047/live",
+        "favicon": "https://img.logo.dev/radio2.sikhnet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Gympie's Positive 91FIVE - Gympie - 91.5 FM (AAC+)",
         "url": "http://s2.stationplaylist.com:7082/listen.aac",
         "favicon": "https://img.logo.dev/positive91five.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3778,11 +3738,6 @@
         "name": "hit 106.5 Karratha",
         "url": "https://wz6liw.scahw.com.au/live/6red_128.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/hit.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "hit 4ROK 107.9MHz FM Rockhampton Central Queensland",
-        "url": "https://wz4liw.scahw.com.au/live/4rok_128.stream/playlist.m3u8?",
-        "favicon": "https://img.logo.dev/wz4liw.scahw.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hit 93.1",
@@ -4335,6 +4290,11 @@
         "favicon": "https://img.logo.dev/laplaya.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "labrat.party radio",
+        "url": "https://labrat.party/radio",
+        "favicon": "https://img.logo.dev/labrat.party?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "LAFM - Launceston - 89.3 FM (AAC)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFMAAC.aac",
         "favicon": "https://img.logo.dev/lafm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4343,11 +4303,6 @@
         "name": "LAFM - Launceston - 89.3 FM (MP3)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LAU_LAFM.mp3",
         "favicon": "https://img.logo.dev/lafm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Lainchan Radio Main",
-        "url": "https://radio.lainchan.org/listen/lainchan_radio_main/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.lainchan.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Lake Macquarie FM - Lake Macquarie - 97.3 FM (AAC+)",
@@ -5657,7 +5612,7 @@
     {
         "name": "Museumradio",
         "url": "https://museum.streamserver24.com:8080/stream?&utm_source=radio.menu",
-        "favicon": "https://img.logo.dev/plattenkiste.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/museum.streamserver24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MyFM Perth",
@@ -6100,11 +6055,6 @@
         "favicon": "https://img.logo.dev/6ix.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Perth Fire and Rescue Service Command",
-        "url": "https://stream.warsug.info/WARSUG",
-        "favicon": "https://img.logo.dev/warsug.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Phoenix FM - Bendigo - 106.7 FM (AAC+)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3PFMAAC.aac",
         "favicon": "https://img.logo.dev/phoenixfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6138,11 +6088,6 @@
         "name": "Plus Fitness Radio (MP3)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT17.mp3",
         "favicon": "https://img.logo.dev/plusfitness.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "POP",
-        "url": "https://right-click.com.au/rcPlayer2/index.php?c=klfm",
-        "favicon": "https://img.logo.dev/klfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Port Stephens FM - Port Stephens - 100.9 FM (AAC)",
@@ -6212,7 +6157,7 @@
     {
         "name": "Pulse FM Hobart - Radio Jukebox (AAC+)",
         "url": "http://icemedia.pulsefm.com.au:8000/au_tas_net_radiojukebox",
-        "favicon": "https://img.logo.dev/pulsefmtas.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/icemedia.pulsefm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pure Hits Australian Made",
@@ -6233,41 +6178,6 @@
         "name": "Pure Hits RETRO",
         "url": "https://listen10.as.amplifystreaming.com/listen/pure_hits_retro/retro_128.aac",
         "favicon": "https://img.logo.dev/purehitsretro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "QBN FM - 96.7 FM",
-        "url": "http://streaming.qbn967.com.au:8000/stream/",
-        "favicon": "https://img.logo.dev/qbn967.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "QBN FM - 96.7 FM",
-        "url": "http://streaming.qbn967.com.au:8000/stream/",
-        "favicon": "https://img.logo.dev/qbn967.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "QBN FM - Queanbeyan - 96.7 FM",
-        "url": "http://streaming.qbn967.com.au:8000/stream/",
-        "favicon": "https://img.logo.dev/qbn967.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "QFM by Queye",
-        "url": "http://stream.zeno.fm/wnbq9apyv14tv",
-        "favicon": "https://img.logo.dev/qfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "QFM by Queye",
-        "url": "https://stream.zeno.fm/wnbq9apyv14tv?an-uid=1741603114512061909&mm-uid=98c2665f-f368-4900-93b0-d427fd9777ee&dot-uid=0a98220400a951786d9e8802&triton-uid=cookie%3Aae35d476-584e-465b-ac85-898cc5e036d9&amb-uid=9042076293310527344&dbm-uid=CAESEEUSELk1rmCmdnxbYmAsIc4&cto-uid=9a8cd501-adcf-4a08-a60c-38259241445a-665ff379-5553&bsw-uid=49b8ee44-922b-41f4-96f4-02120aa6b5cd&dyn-uid=6107108616908101367&ttd-uid=3ec03d28-b1e8-4c90-ae88-97e66a9a7a11",
-        "favicon": "https://img.logo.dev/qfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "QFM by Queye (MP3)",
-        "url": "https://stream.zeno.fm/wnbq9apyv14tv?an-uid=1741603114512061909&mm-uid=98c2665f-f368-4900-93b0-d427fd9777ee&dot-uid=0a98220400a951786d9e8802&triton-uid=cookie%3Aae35d476-584e-465b-ac85-898cc5e036d9&amb-uid=9042076293310527344&dbm-uid=CAESEEUSELk1rmCmdnxbYmAsIc4&cto-uid=9a8cd501-adcf-4a08-a60c-38259241445a-665ff379-5553&bsw-uid=49b8ee44-922b-41f4-96f4-02120aa6b5cd&dyn-uid=6107108616908101367&ttd-uid=3ec03d28-b1e8-4c90-ae88-97e66a9a7a11",
-        "favicon": "https://img.logo.dev/qfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "QFM by Queye (MP3)",
-        "url": "http://stream.zeno.fm/wnbq9apyv14tv",
-        "favicon": "https://img.logo.dev/qfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "QRAM Black Star Radio",
@@ -6298,16 +6208,6 @@
         "name": "Radio 2Moro",
         "url": "http://s4.voscast.com:7648/;listen.mp3",
         "favicon": "https://img.logo.dev/sawtelghad.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 2RDJ",
-        "url": "http://104.128.238.80:8000/",
-        "favicon": "https://img.logo.dev/radio2rdj.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 2RDJ FM 88.1 - Burwood - 88.1 FM (MP3)",
-        "url": "http://104.128.238.80:8000/radio-2rdj",
-        "favicon": "https://img.logo.dev/radio2rdj.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 2REM - Albury-Wodonga - 107.3 FM (MP3)",
@@ -6360,24 +6260,9 @@
         "favicon": "https://img.logo.dev/rbm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Blues Djerdan - Melbourne (MP3)",
-        "url": "http://stream.zeno.fm/vxr78nb51k8uv",
-        "favicon": "https://img.logo.dev/radiobluesdjerdan.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Carrum",
-        "url": "https://streams.radio.co/s7dbbf9f9f/listen",
-        "favicon": "https://img.logo.dev/radiocarrum.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Dimensione Australia",
         "url": "http://nr8.newradio.it:9024/stream",
         "favicon": "https://img.logo.dev/dimensioneaustralia.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Djerdan (MP3)",
-        "url": "http://stream.zeno.fm/5hgefy1tp68uv",
-        "favicon": "https://img.logo.dev/radiodjerdan.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Eastern FM - Croydon, Melbourne - 98.1 FM (AAC+)",
@@ -6385,34 +6270,14 @@
         "favicon": "https://img.logo.dev/radioeasternfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Freedom (MP3)",
-        "url": "http://stream.zeno.fm/sbm7c72dbkhvv",
-        "favicon": "https://img.logo.dev/radiofreedom.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Geraldton (MP3)",
-        "url": "http://listen.radioking.com/radio/708113/stream/773624",
-        "favicon": "https://img.logo.dev/radiogeraldton.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Great Southern - AM 1422 Wagin WA",
-        "url": "http://procyon.shoutca.st:8377/stream",
-        "favicon": "https://img.logo.dev/radiogreatsouthern.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio ENA",
+        "url": "https://c3.radioboss.fm:8238/320",
+        "favicon": "https://img.logo.dev/radioena.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Insomnia",
         "url": "http://stream.p-node.org/radioinsomnia.mp3",
         "favicon": "https://img.logo.dev/insomnia.radio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Italian Music",
-        "url": "https://streaming.radiostreamlive.com/radioitalianmusic_devices",
-        "favicon": "https://img.logo.dev/radioitalianmusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Italian Music - Mobile",
-        "url": "https://streaming.radiostreamlive.com/radioitalianmusic_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E",
-        "favicon": "https://img.logo.dev/radioitalianmusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Italiana 531",
@@ -6460,29 +6325,14 @@
         "favicon": "https://img.logo.dev/abc.net.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Northern Beaches",
-        "url": "http://198.74.51.37:9990/;",
-        "favicon": "https://img.logo.dev/rnb.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Northern Beaches - Manly North - 88.7 FM (MP3)",
-        "url": "http://198.74.51.37:9990/;",
-        "favicon": "https://img.logo.dev/rnb.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio PVS",
         "url": "https://s28.myradiostream.com/28802/listen.mp3",
         "favicon": "https://img.logo.dev/radiopvs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Upper Murray - Walwa / Corryong / Tumbarumba - 88.7 FM / 98.9 FM / 107.7 FM",
-        "url": "http://stream.mjm-webhosting.com.au:8036/;",
-        "favicon": "https://img.logo.dev/radiouppermurray.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Upper Murray - Walwa / Corryong / Tumbarumba - 88.7 FM / 98.9 FM / 107.7 FM (MP3)",
-        "url": "http://stream.mjm-webhosting.com.au:8036/;",
-        "favicon": "https://img.logo.dev/radiouppermurray.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Sphinkta-X",
+        "url": "https://radio.shitzooka.com/myradio",
+        "favicon": "https://img.logo.dev/radio.ozziepowercyclist.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio X AU (AAC)",
@@ -6525,24 +6375,9 @@
         "favicon": "https://img.logo.dev/ratfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ravenz Radio - Melbourne (MP3)",
-        "url": "http://radio.torchwoodhosting.com:8028/;",
-        "favicon": "https://img.logo.dev/ravenzradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Raw FM (MP3)",
         "url": "http://203.35.197.78:8000/Raw1-MB.mp3",
         "favicon": "https://img.logo.dev/rawfmradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "REALRADIO Australia (MP3)",
-        "url": "http://stream.zeno.fm/9bfsckh4dkhvv",
-        "favicon": "https://img.logo.dev/realradioaustralia.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "REALRADIO Australia (MP3)",
-        "url": "http://stream.zeno.fm/9bfsckh4dkhvv",
-        "favicon": "https://img.logo.dev/realradioaustralia.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rebel 99.4 Gold Coast",
@@ -6555,12 +6390,7 @@
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rebel FM - Alpha - 95.9 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Biloela - 88.9 FM (AAC)",
+        "name": "Rebel FM - 95.9 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17099/RblCNQ",
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -6570,28 +6400,8 @@
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rebel FM - Century Mine - 104.9 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rebel FM - Chinchilla - 97.1 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17099/RblDD",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Collinsville - 94.9 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Cooktown - 93.7 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Dugald River - 94.5 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -6610,16 +6420,6 @@
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rebel FM - Julia Creek - 99.5 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Karumba - 98.1 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rebel FM - Kooralbyn - 102.5 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17099/RblLgn",
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6635,28 +6435,8 @@
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rebel FM - Monto - 105.1 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Normanton - 101.7 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Richmond - 99.7 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rebel FM - Stanthorpe - 97.1 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17099/RblDD",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Taroom - 92.5 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -6665,23 +6445,8 @@
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rebel FM - Theodore - 94.7 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM - Weipa - 96.1 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rebel FM - Wide Bay - 106.7 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17099/RblWB",
-        "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rebel FM 106.7 Rocks Wide Bay",
-        "url": "https://s8.yesstreaming.net:17099/RblCNQ",
         "favicon": "https://img.logo.dev/rebelfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -6698,16 +6463,6 @@
         "name": "Rete Italia",
         "url": "https://nicherad.radioca.st/stream",
         "favicon": "https://img.logo.dev/reteitalia.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Retro 80's - 80s Remix (MP3)",
-        "url": "http://stream.zeno.fm/2ptupyw61fxvv",
-        "favicon": "https://img.logo.dev/retro80s.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Retro 80's - 80s Remix (MP3)",
-        "url": "http://stream.zeno.fm/2ptupyw61fxvv",
-        "favicon": "https://img.logo.dev/retro80s.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Retro FM",
@@ -6745,6 +6500,11 @@
         "favicon": "https://img.logo.dev/rimfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Riot FM 87.6 Port Stephens",
+        "url": "http://120.151.150.56:88/broadwave.mp3?src=1&rate=1&ref=http%3A%2F%2Fwww.riotfm.com.au%2F",
+        "favicon": "https://img.logo.dev/riotfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "River 1467 - Mildura - 1467 AM (AAC+)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MIL_RIVER1467AAC.aac",
         "favicon": "https://img.logo.dev/river1467.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6780,16 +6540,6 @@
         "favicon": "https://img.logo.dev/rockeasyradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rocket Range Radio",
-        "url": "https://s48.myradiostream.com/9344/listen.mp3",
-        "favicon": "https://img.logo.dev/rocketrangeradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Roll of Renown (MP3)",
-        "url": "http://stream.zeno.fm/jaq1pxq5c8stv",
-        "favicon": "https://img.logo.dev/rollofrenown.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ROQ FM",
         "url": "https://cast4.asurahosting.com/proxy/exaltmed/stream",
         "favicon": "https://img.logo.dev/roqradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6800,26 +6550,6 @@
         "favicon": "https://img.logo.dev/roqradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rose City FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/4SDBAAC.aac",
-        "favicon": "https://img.logo.dev/rosecityfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rose City FM - Warwick - 89.3 FM (AAC+)",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4SDBAAC.aac",
-        "favicon": "https://img.logo.dev/rosecityfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rose City FM - Warwick - 89.3 FM (MP3)",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4SDB.mp3",
-        "favicon": "https://img.logo.dev/rosecityfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rose City FM Warwick",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/4SDBAAC.aac",
-        "favicon": "https://img.logo.dev/rosecityfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RPP FM",
         "url": "https://streaming.radio.co/sfbd79db12/listen",
         "favicon": "https://img.logo.dev/rppfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6828,6 +6558,16 @@
         "name": "RPP FM - Mornington, Melbourne - 98.7 FM (MP3)",
         "url": "http://streaming.radio.co/sfbd79db12/listen",
         "favicon": "https://img.logo.dev/rppfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RSN 927 Racing & Sport",
+        "url": "https://dg6dce7w867bz.cloudfront.net/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rsn.net.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RSN Extra",
+        "url": "https://d1j02mmlpi2jw3.cloudfront.net/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rsn.net.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RTR 92.1",
@@ -6870,19 +6610,9 @@
         "favicon": "https://img.logo.dev/rtrfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rust Radio (MP3)",
-        "url": "http://stream.zeno.fm/28geuebxafhvv",
-        "favicon": "https://img.logo.dev/rustradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RUSTRALIA Radio (MP3)",
         "url": "http://stream.zeno.fm/wure6q3q008uv",
         "favicon": "https://img.logo.dev/rustralia.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "sa rock radio",
-        "url": "https://sarock.radioca.st/stream",
-        "favicon": "https://img.logo.dev/sarock.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SAFM - Adelaide",
@@ -6900,29 +6630,9 @@
         "favicon": "https://img.logo.dev/hit.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Samadhi HiFI",
-        "url": "https://studio19.radiolize.com/radio/8030/radio.mp3",
-        "favicon": "https://img.logo.dev/ww.samadhihifi.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sapphire FM",
-        "url": "http://149.28.161.112/stream",
-        "favicon": "https://img.logo.dev/sapphirefm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sapphire FM",
-        "url": "http://149.28.161.112/stream",
-        "favicon": "https://img.logo.dev/sapphirefm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Satin Jazz",
         "url": "https://quincy.torontocast.com:2725/stream",
         "favicon": "https://img.logo.dev/satinjazz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Savage Hits (MP3)",
-        "url": "http://stream.zeno.fm/h2yqc7dn1uhvv",
-        "favicon": "https://img.logo.dev/savagehits.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sawt Sydney كل الفرق",
@@ -7370,6 +7080,11 @@
         "favicon": "https://img.logo.dev/starterfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Starter FM",
+        "url": "https://audio.cloudrad.io/f68fab62/live",
+        "favicon": "https://img.logo.dev/starterfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Station X - XRN Australia",
         "url": "https://us01.xrn.com.au/listen/stx/StxSd",
         "favicon": "https://img.logo.dev/xrn.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7415,24 +7130,9 @@
         "favicon": "https://img.logo.dev/sunshinefm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Super Nova - Melbourne Radio (MP3)",
-        "url": "http://stream.zeno.fm/2syaot0dnvvtv",
-        "favicon": "https://img.logo.dev/supernova.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SuperMix (MP3)",
-        "url": "http://stream.zeno.fm/rzzn86qvyv8uv",
-        "favicon": "https://img.logo.dev/supermix.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Surf FM 87.6",
         "url": "http://video1.getstreamhosting.com:8386/stream",
         "favicon": "https://img.logo.dev/surffm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sweet FM 97.1MHz Community Radio Burdekin Queensland",
-        "url": "https://onlineradiobox.com/json/au/971sweet/play?platform=web%22%20streamType=%22mp3",
-        "favicon": "https://img.logo.dev/sweetfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Swingtime Radio",
@@ -7466,7 +7166,7 @@
     },
     {
         "name": "SYN FM",
-        "url": "https://23193.live.streamtheworld.com/3SYNAAC_SC",
+        "url": "https://23203.live.streamtheworld.com/3SYNAAC_SC",
         "favicon": "https://img.logo.dev/syn.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7496,13 +7196,18 @@
     },
     {
         "name": "TABradio",
+        "url": "https://tabtouch.senstreams.com.au/playlist.m3u8",
+        "favicon": "https://img.logo.dev/tabtouch.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TABradio",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RWWA.mp3",
         "favicon": "https://img.logo.dev/tabradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tamar FM 95.3 George Town",
-        "url": "http://stream2.tamarfm.net:8425/stream",
-        "favicon": "https://img.logo.dev/tamarfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "TAFE Radio",
+        "url": "http://s3.voscast.com:9674/stream.aac",
+        "favicon": "https://img.logo.dev/tafemedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tamworth's 88.9 FM - Tamworth - 88.9 FM (AAC)",
@@ -7550,11 +7255,6 @@
         "favicon": "https://img.logo.dev/tenfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Territory FM",
-        "url": "http://138.80.128.234:8000/TerritoryFM",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Territory FM Darwin",
         "url": "https://streaming.territoryfm.com:8443/TerritoryFM",
         "favicon": "https://img.logo.dev/territoryfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7590,11 +7290,6 @@
         "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Breeze - Biloela - 89.7 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Breeze - Canungra - 92.9 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17065/BrzGC",
         "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7602,26 +7297,6 @@
     {
         "name": "The Breeze - Chinchilla - 95.5 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17065/BrzDD",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Breeze - Collinsville - 90.1 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Breeze - Cooktown - 92.1 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Breeze - Cooktown - 92.1 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Breeze - Dugald River - 92.9 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
         "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7660,38 +7335,13 @@
         "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Breeze - Monto - 100.5 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Breeze - Richmond - 104.5 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Breeze - Stanthorpe - 90.1 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17065/BrzDD",
         "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Breeze - Taroom - 94.1 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Breeze - Tenterfield - 102.5 FM (AAC)",
         "url": "https://s8.yesstreaming.net:17065/BrzDD",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Breeze - Theodore - 99.5 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
-        "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Breeze - Weipa - 97.7 FM (AAC)",
-        "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
         "favicon": "https://img.logo.dev/thebreeze.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7720,6 +7370,11 @@
         "favicon": "https://img.logo.dev/engineered.network?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "The Lamp Radio 300",
+        "url": "https://fire.doscast.com:8222/stream",
+        "favicon": "https://img.logo.dev/thelampradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "The Light AW",
         "url": "http://198.74.51.37:9980/stream",
         "favicon": "https://img.logo.dev/thelight.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7730,19 +7385,9 @@
         "favicon": "https://img.logo.dev/thelight.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Local Radio Channel (MP3)",
-        "url": "http://stream.zeno.fm/hmcx0p9t91zuv",
-        "favicon": "https://img.logo.dev/thelocalradiochannel.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Positive Alternative - Gympie (AAC+)",
         "url": "http://s2.stationplaylist.com:7050/listen.aac",
         "favicon": "https://img.logo.dev/positive91five.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Prog Rock Machine",
-        "url": "https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b",
-        "favicon": "https://img.logo.dev/progrockmachine.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TheLight - Albury-Wodonga - 98.3 FM (MP3)",
@@ -7920,11 +7565,6 @@
         "favicon": "https://img.logo.dev/totallyradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Trax FM Port Pirie",
-        "url": "https://stream01.sigile.net/traxfm-64-aac",
-        "favicon": "https://img.logo.dev/traxfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Treasure Emporium Christmas Radio - Central Coast (MP3)",
         "url": "http://stream.zeno.fm/5z3f8h42c48uv",
         "favicon": "https://img.logo.dev/treasure-emporium.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7998,16 +7638,6 @@
         "name": "Triple H - Hornsby Ku-ring-gai Radio - 100.1 FM (MP3)",
         "url": "http://c17.radioboss.fm:18193/stream",
         "favicon": "https://img.logo.dev/triplehfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Triple H - Horsham - 96.5 FM (AAC+)",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3HHHAAC.aac",
-        "favicon": "https://img.logo.dev/tripleh965fm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Triple H - Horsham - 96.5 FM (MP3)",
-        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3HHH.mp3",
-        "favicon": "https://img.logo.dev/tripleh965fm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Triple H FM",
@@ -8210,29 +7840,14 @@
         "favicon": "https://img.logo.dev/ucfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "UGFM Radio Murrindindi",
-        "url": "http://streamer3.rightclickitservices.com:8905/stream",
-        "favicon": "https://img.logo.dev/ugfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ultra106five",
         "url": "https://stream2.cnmns.net/106five",
         "favicon": "https://img.logo.dev/ultra106five.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "UltraCool Radio",
-        "url": "http://us1.internet-radio.com:11024/live",
-        "favicon": "https://img.logo.dev/ultracoolradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Valley FM - 89.5 FM",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/1VFM.mp3",
         "favicon": "https://img.logo.dev/valleyfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Valley FM - Parkes & Forbes - 97.9 FM (MP3)",
-        "url": "http://valleyfmstream.primcast.com:6674/;stream.mp3",
-        "favicon": "https://img.logo.dev/valleyfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Valley FM - Tuggeranong - 89.5 FM (AAC)",
@@ -8300,36 +7915,6 @@
         "favicon": "https://img.logo.dev/vintagefm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "VIP Radio (MP3)",
-        "url": "http://stream.zeno.fm/9c6rva49f0hvv",
-        "favicon": "https://img.logo.dev/vipradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VIP Radio New South Wales (MP3)",
-        "url": "http://stream.zeno.fm/0t54zt39f0hvv",
-        "favicon": "https://img.logo.dev/vipradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VIP Radio Queensland (MP3)",
-        "url": "http://stream.zeno.fm/rdrdf239f0hvv",
-        "favicon": "https://img.logo.dev/vipradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VIP Radio South Australia (MP3)",
-        "url": "http://stream.zeno.fm/f5h30739f0hvv",
-        "favicon": "https://img.logo.dev/vipradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VIP Radio Victoria (MP3)",
-        "url": "http://stream.zeno.fm/fwps2w39f0hvv",
-        "favicon": "https://img.logo.dev/vipradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VIP Radio Western Australia (MP3)",
-        "url": "http://stream.zeno.fm/9d8b3439f0hvv",
-        "favicon": "https://img.logo.dev/vipradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Vision Australia Radio",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3RPHAAC.aac",
         "favicon": "https://img.logo.dev/radio.visionaustralia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8370,19 +7955,9 @@
         "favicon": "https://img.logo.dev/voicefm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Voice of Islam",
-        "url": "http://voiceofislam.appsunder.com:8000/voiceofislam.mp3",
-        "favicon": "https://img.logo.dev/thevoiceofislam.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "VOX FM - Wollongong - 106.9 FM (AAC)",
         "url": "http://s10.myradiostream.com/15272/;",
         "favicon": "https://img.logo.dev/voxfm.org.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wandering Sheep Golden Praise",
-        "url": "https://radio.wanderingsheep.net:8044/goldenpraise",
-        "favicon": "https://img.logo.dev/radio.wanderingsheep.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Waringarri Media",
@@ -8478,21 +8053,6 @@
         "name": "Yass FM - Yass - 100.3 FM (MP3)",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/2YAS.mp3",
         "favicon": "https://img.logo.dev/yassfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Your Hits Radio",
-        "url": "http://stream.zeno.fm/htcnnynw5fhvv",
-        "favicon": "https://img.logo.dev/yourhitsradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Your Hits Radio (MP3)",
-        "url": "http://stream.zeno.fm/htcnnynw5fhvv",
-        "favicon": "https://img.logo.dev/yourhitsradio.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ZFM 94.5 - Newcastle - 94.5 FM (MP3)",
-        "url": "http://abm22.com.au:8000/CONTAINER166",
-        "favicon": "https://img.logo.dev/zfm.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zinc 96.1",

@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/988.com.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AFO Radio Chinese",
         "url": "https://stream.rcs.revma.com/7x3gv2y4bshvv",
         "favicon": "https://img.logo.dev/aforadio.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -35,13 +30,28 @@
         "favicon": "https://img.logo.dev/alammayafm.blogspot.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Amboi FM",
+        "url": "http://amboifm.iradio.work:8000/stream",
+        "favicon": "https://img.logo.dev/amboifm.iradio.work?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Asyik FM",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3",
         "favicon": "https://img.logo.dev/rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BFM 89.9",
+        "url": "https://22253.live.streamtheworld.com/BFM_SC",
+        "favicon": "https://img.logo.dev/bfm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BFM 89.9",
         "url": "https://stream.rcs.revma.com/s91qy9p0zs3vv",
+        "favicon": "https://img.logo.dev/bfm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BFM 89.9 Malaysia",
+        "url": "https://22253.live.streamtheworld.com/BFM_SC",
         "favicon": "https://img.logo.dev/bfm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -135,6 +145,11 @@
         "favicon": "https://img.logo.dev/hotfm.audio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "hot.fm",
+        "url": "https://radioonline.my/#hot",
+        "favicon": "https://img.logo.dev/hotfm.audio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "IKIM FM",
         "url": "https://ais-sa8.cdnstream1.com/5035/playlist.m3u8",
         "favicon": "https://img.logo.dev/ikimfm.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -180,6 +195,11 @@
         "favicon": "https://img.logo.dev/lite.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Melody FM",
+        "url": "https://stream.rcs.revma.com/2u1n6dtbv4uvv/hls.m3u8",
+        "favicon": "https://img.logo.dev/melody.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Melody FM Malaysia",
         "url": "https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8",
         "favicon": "https://img.logo.dev/melody.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -208,6 +228,11 @@
         "name": "MY FM",
         "url": "https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkBt1aCUAlkmmsnXss9i2gw",
         "favicon": "https://img.logo.dev/audio1.syok.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MY FM",
+        "url": "https://stream.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8",
+        "favicon": "https://img.logo.dev/my.com.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MYFM (101.80)",
@@ -253,6 +278,11 @@
         "name": "Red FM",
         "url": "https://22253.live.streamtheworld.com/RED_FMAAC.aac",
         "favicon": "https://img.logo.dev/so.zuiai.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "REDfm",
+        "url": "https://22273.live.streamtheworld.com/RED_FMAAC.aac",
+        "favicon": "https://img.logo.dev/radio.rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rentak Pelangi Muzik FM",
@@ -317,6 +347,11 @@
     {
         "name": "Traxx FM",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
+        "favicon": "https://img.logo.dev/radio.rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Traxx FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC",
         "favicon": "https://img.logo.dev/traxxfm.rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -338,11 +373,6 @@
         "name": "WAI FM IBAN",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_IBAN.mp3",
         "favicon": "https://img.logo.dev/rtm.gov.my?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wheelerz Net Radio",
-        "url": "http://167.114.131.90:5448/stream/",
-        "favicon": "https://img.logo.dev/wheelerzradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zayan",

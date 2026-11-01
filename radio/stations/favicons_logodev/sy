@@ -1,10 +1,5 @@
 [
     {
-        "name": ".. مختصر التفسير",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AlAsemeh Radio",
         "url": "https://asima.out.airtime.pro/asima_a",
         "favicon": "https://img.logo.dev/asima.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -48,6 +43,11 @@
         "name": "Farah FM",
         "url": "https://radio.farah.fm/",
         "favicon": "https://img.logo.dev/farah.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Farah FM",
+        "url": "https://radio.farah.fm/",
+        "favicon": "https://img.logo.dev/radio.farah.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nasaem Syria Radio | Breezes Syria",
@@ -118,10 +118,5 @@
         "name": "Version FM",
         "url": "https://versionfm.com:8100/stream",
         "favicon": "https://img.logo.dev/versionfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "لا القارئ محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

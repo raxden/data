@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/yomusic.top?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Eldo Radio Chill",
         "url": "https://stream.rtl.lu/live/hls/radio/eldochill",
         "favicon": "https://img.logo.dev/eldo.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -90,6 +85,16 @@
         "favicon": "https://img.logo.dev/100komma7.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio ARA - Luxembourg",
+        "url": "https://s1.voscast.com:11187/RadioARA.mp3",
+        "favicon": "https://img.logo.dev/radioara.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio C Luxembourg",
+        "url": "https://edge01.streamonkey.net/radioc-live",
+        "favicon": "https://img.logo.dev/radioc.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Gutt Laun",
         "url": "https://streams.radio.co/sa631ff66a/listen",
         "favicon": "https://img.logo.dev/rgl.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -115,11 +120,6 @@
         "favicon": "https://img.logo.dev/radiopuls.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Radijacija",
-        "url": "https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.radijacija.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RTL Die besten Hits aller Zeiten",
         "url": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
         "favicon": "https://img.logo.dev/rtlradio.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -143,5 +143,10 @@
         "name": "RTL Radio Letzebuerg",
         "url": "http://sc-rtllive.newmedia.lu/",
         "favicon": "https://img.logo.dev/rtl.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTL Today",
+        "url": "https://shoutcast.rtl.lu/rtltodayradio",
+        "favicon": "https://img.logo.dev/today.rtl.lu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

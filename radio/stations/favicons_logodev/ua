@@ -1,10 +1,5 @@
 [
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "1] Авторадіо",
         "url": "https://cast.mediaonline.net.ua/avtoradio",
         "favicon": "https://img.logo.dev/avtoradio.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -73,6 +68,11 @@
         "name": "Brokenbeats",
         "url": "https://stream.brokenbeats.net/tune",
         "favicon": "https://img.logo.dev/brokenbeats.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Classic Radio",
+        "url": "http://online.classicradio.ua/ClassicRadio_HD",
+        "favicon": "https://img.logo.dev/online.classicradio.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Classic Radio",
@@ -270,16 +270,6 @@
         "favicon": "https://img.logo.dev/online.kissfm.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KMusic Radio",
-        "url": "https://stream.zeno.fm/z9x8zy7747zuv",
-        "favicon": "https://img.logo.dev/play.xtvmedia.pp.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KMusic Radio Мегахіт",
-        "url": "https://stream.zeno.fm/jkatjk36u8zvv",
-        "favicon": "https://img.logo.dev/play.xtvmedia.pp.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Kyiv 98 FM",
         "url": "https://cdn.vsnw.net:8943/kyiv_fm_128k",
         "favicon": "https://img.logo.dev/radio.kyiv.media?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -420,11 +410,6 @@
         "favicon": "https://img.logo.dev/pihota.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Play FM Луганск 105.5ФМ",
-        "url": "https://radio.play-fm.ru:8001/playfm",
-        "favicon": "https://img.logo.dev/play-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Power Кременчуг",
         "url": "http://radio.moa.org.ua/power",
         "favicon": "https://img.logo.dev/radio.moa.org.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -498,11 +483,6 @@
         "name": "Radio Jazz Ukraine HD",
         "url": "http://jazz.ipfm.net/RadioJazz_HD",
         "favicon": "https://img.logo.dev/ui.org.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Kyiv",
-        "url": "http://cdn.vsnw.net:8090/kyiv_fm_64k_aac",
-        "favicon": "https://img.logo.dev/radio.kiev.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Maria Ukraine",
@@ -640,14 +620,14 @@
         "favicon": "https://img.logo.dev/vtsu.org.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RADIO-HOOLIGAN",
+        "url": "https://radio-hooligan.com/stream",
+        "favicon": "https://img.logo.dev/radio-hooligan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RadioRelax_Instrumental_HD",
         "url": "https://online.radiorelax.ua/RadioRelax_Instrumental_HD",
         "favicon": "https://img.logo.dev/online.radiorelax.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadiVo",
-        "url": "https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3",
-        "favicon": "https://img.logo.dev/radivo.thx8te.kh.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RECORD DANCE RADIO",
@@ -663,11 +643,6 @@
         "name": "relax int",
         "url": "https://online.radiorelax.ua/RadioRelax_Int",
         "favicon": "https://img.logo.dev/radiorelax.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ReLIFE (Решетилівка)",
-        "url": "http://176.102.194.71:44808/radio",
-        "favicon": "https://img.logo.dev/relife.media?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "REPLAY NEWS - Українська       Новинне радіо кожні 5 хвилин",
@@ -720,6 +695,11 @@
         "favicon": "https://img.logo.dev/fm.co.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sun FM",
+        "url": "https://stream.sunfmua.com/live",
+        "favicon": "https://img.logo.dev/sunfm.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Svitle",
         "url": "https://online.svitle.org/hls/svitle/default.m3u8",
         "favicon": "https://img.logo.dev/svitle.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -728,6 +708,16 @@
         "name": "SW-Radio Ukrainisch",
         "url": "http://www.segenswelle.de:8000/ukrainisch",
         "favicon": "https://img.logo.dev/sw-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Teren.fm",
+        "url": "https://online.teren.fm/teren_320",
+        "favicon": "https://img.logo.dev/teren.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Hit Man Radio",
+        "url": "http://uk2.internet-radio.com:8121/stream",
+        "favicon": "https://img.logo.dev/thehitmanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "The West Pole Radio",
@@ -747,7 +737,7 @@
     {
         "name": "Trans World Radio Ukraine",
         "url": "http://iceantstats.eclipse-streaming.co.za/TWR-ukraine.mp3",
-        "favicon": "https://img.logo.dev/twr-ua.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/iceantstats.eclipse-streaming.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "True Black Metal Radio",
@@ -768,6 +758,11 @@
         "name": "tvoye radio",
         "url": "http://91.200.114.254:8048/",
         "favicon": "https://img.logo.dev/tvoeradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ulyublene radio Horodyshche 98 FM",
+        "url": "https://listen7.myradio24.com/ulyublene",
+        "favicon": "https://img.logo.dev/ufm.24media.com.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "URC Radio",
@@ -808,11 +803,6 @@
         "name": "Yantarne FM",
         "url": "https://complex.in.ua/yantarne",
         "favicon": "https://img.logo.dev/yantarne.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zakarpattya FM 101.9",
-        "url": "http://195.234.148.51:8000/stream",
-        "favicon": "https://img.logo.dev/zakarpattyafm.com.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ZFM+ (Захид ФМ +)",
@@ -915,11 +905,6 @@
         "favicon": "https://img.logo.dev/radioplayer.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Закарпаття FM",
-        "url": "http://195.234.148.51:8000/;",
-        "favicon": "https://img.logo.dev/zakarpattyafm.com.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Західний полюс West Pole 32k AAC",
         "url": "https://online.z-polus.info/mobile",
         "favicon": "https://img.logo.dev/z-polus.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -928,6 +913,11 @@
         "name": "Західний полюс West Pole 64k AAC+",
         "url": "https://online.z-polus.info/mobilehq",
         "favicon": "https://img.logo.dev/z-polus.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Золочів фм",
+        "url": "https://ipradio.net:8443/zolochivHD",
+        "favicon": "https://img.logo.dev/zolochiv.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Канал Благодаті",
@@ -953,11 +943,6 @@
         "name": "Львівська хвиля (32 кбіт/с)",
         "url": "http://onair.lviv.fm:8000/lviv32.fm",
         "favicon": "https://img.logo.dev/lviv.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Люкс 104.7",
-        "url": "http://icecast.luxnet.ua/luxlviv",
-        "favicon": "https://img.logo.dev/icecast.luxnet.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Люкс FM Львів",
@@ -1038,11 +1023,6 @@
         "name": "Місто над Бугом",
         "url": "https://stream.mistonadbugom.com.ua/radiomistonadbugom",
         "favicon": "https://img.logo.dev/mistonadbugom.com.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "навала",
-        "url": "http://listen1.myradio24.com/9857",
-        "favicon": "https://img.logo.dev/radio-navala.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Надвірна FM",
@@ -1360,6 +1340,31 @@
         "favicon": "https://img.logo.dev/radio.nv.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Радіо Нікополя",
+        "url": "https://stream.nikopolnews.net/listen/radio_nikopol/high",
+        "favicon": "https://img.logo.dev/radio.nikopolnews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радіо Нікополя",
+        "url": "https://stream.nikopolnews.net/listen/radio_nikopol/high",
+        "favicon": "https://img.logo.dev/radio.nikopolnews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радіо Нікополя",
+        "url": "https://stream.nikopolnews.net/listen/radio_nikopol/high",
+        "favicon": "https://img.logo.dev/radio.nikopolnews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радіо Нікополя",
+        "url": "https://stream.nikopolnews.net/listen/radio_nikopol/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.nikopolnews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радіо Нікополя",
+        "url": "https://stream.nikopolnews.net/listen/radio_nikopol/nikopolnews.mp3",
+        "favicon": "https://img.logo.dev/radio.nikopolnews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Радіо Нове Життя",
         "url": "https://online.novezhitya.net:8000/nlradio_ua-hi.aac",
         "favicon": "https://img.logo.dev/novezhitya.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1405,14 +1410,14 @@
         "favicon": "https://img.logo.dev/c4.com.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Радіо Світанок",
+        "url": "https://online.radiosvitanok.org.ua/live",
+        "favicon": "https://img.logo.dev/online.radiosvitanok.org.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Радіо Сільпо",
         "url": "https://stream.radio.silpo.ua/silpo",
         "favicon": "https://img.logo.dev/radio.silpo.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Радіо Смак",
-        "url": "https://ipradio.net:8443/radiosmak",
-        "favicon": "https://img.logo.dev/smakfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радіо Сокаль",
@@ -1458,6 +1463,16 @@
         "name": "Радіоточка",
         "url": "http://radio.ukr.radio:8000/ur5-mp3",
         "favicon": "https://img.logo.dev/ukr.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радіоточка",
+        "url": "http://radio.ukr.radio:8000/ur5-mp3",
+        "favicon": "https://img.logo.dev/radio.ukr.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радіоточка",
+        "url": "http://radio.ukr.radio:8000/ur5-mp3",
+        "favicon": "https://img.logo.dev/radio.ukr.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радіоточка",
@@ -1530,19 +1545,14 @@
         "favicon": "https://img.logo.dev/timfm.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ух радіо",
-        "url": "http://193.169.80.7:8001/efir",
-        "favicon": "https://img.logo.dev/uhradio.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Українське Радіо: Казки",
+        "url": "http://radio.ukr.radio:8000/urkazka-mp3",
+        "favicon": "https://img.logo.dev/radio.ukr.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "УХ-Радіо",
-        "url": "http://193.169.80.7:8001/efir",
-        "favicon": "https://img.logo.dev/uhradio.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "УХ-Радіо",
-        "url": "http://193.169.80.7:8001/efir",
-        "favicon": "https://img.logo.dev/uhradio.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Українське радіо: Казки AAC",
+        "url": "http://radio.ukr.radio:8000/urkazka-aacplus",
+        "favicon": "https://img.logo.dev/radio.ukr.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Хіт FM",

@@ -10,11 +10,6 @@
         "favicon": "https://img.logo.dev/listen.rba.co.rw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Gendana n'igihe radio",
         "url": "http://stream.zeno.fm/1ev107turnhvv",
         "favicon": "https://img.logo.dev/socialcreator.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,6 +18,11 @@
         "name": "Gendana n'igihe radio",
         "url": "http://stream.zeno.fm/1ev107turnhvv",
         "favicon": "https://img.logo.dev/socialcreator.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KISS FM 102.3",
+        "url": "https://kissfm-atunwadigital.streamguys1.com/kissfm",
+        "favicon": "https://img.logo.dev/kissfm.rw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Magic FM",
@@ -43,5 +43,10 @@
         "name": "Radio Rwanda",
         "url": "https://listen.rba.co.rw:8008/rwanda/",
         "favicon": "https://img.logo.dev/rba.co.rw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Travel Radio Live",
+        "url": "https://travel-radio-live.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/travelradio.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

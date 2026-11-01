@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Light Radio Togo 93.9fm",
         "url": "https://a9.asurahosting.com/listen/light_radio_93.9fm/radio.mp3",
         "favicon": "https://img.logo.dev/lightradiotogo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -12,7 +7,7 @@
     {
         "name": "Radio Gameli",
         "url": "http://usa1.fastcast4u.com:3190/stream/",
-        "favicon": "https://img.logo.dev/radiolebene.tg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/usa1.fastcast4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO MARIA TOGO",

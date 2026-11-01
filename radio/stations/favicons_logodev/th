@@ -15,9 +15,24 @@
         "favicon": "https://img.logo.dev/niyamedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "90 rakthai",
+        "url": "http://radio11.plathong.net:8896/;stream.mp3",
+        "favicon": "https://img.logo.dev/radio11.plathong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "90.5 Smart News มิติข่าว",
         "url": "http://live3.smartbomb.co.th:8624/;stream.mp3",
         "favicon": "https://img.logo.dev/smartbomb.co.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "93.5 Mhz. radio Thailand",
+        "url": "https://cdn-th2.login.in.th/shoutcast/8430",
+        "favicon": "https://img.logo.dev/radiothailand.prd.go.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "93.5 Top Radio FM",
+        "url": "https://a10.asurahosting.com:8250/radio.mp3",
+        "favicon": "https://img.logo.dev/radio-thai.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "94 Bangkok Smile",
@@ -25,9 +40,9 @@
         "favicon": "https://img.logo.dev/fm94.tv5.co.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "95.5 Metro life",
+        "url": "https://cdn-th2.login.in.th/shoutcast/8435",
+        "favicon": "https://img.logo.dev/prdee.prd.go.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Amarin TV HD: digital TV channel  34",
@@ -43,6 +58,11 @@
         "name": "banmai radio",
         "url": "https://radio10.plathong.net/7590/;stream.mp3?type=http",
         "favicon": "https://img.logo.dev/radio10.plathong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BEATs FM",
+        "url": "https://radio14.plathong.net/7208/;stream.mp3",
+        "favicon": "https://img.logo.dev/radio14.plathong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Best Radio FM. 89.0 MHz.",
@@ -111,8 +131,28 @@
     },
     {
         "name": "CWK",
+        "url": "https://radio11.plathong.net/7050/;stream.mp3",
+        "favicon": "https://img.logo.dev/autodj.plathong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CWK",
         "url": "https://radio11.plathong.net/7020/;stream.mp3",
         "favicon": "https://img.logo.dev/autodj.plathong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CWK Radio",
+        "url": "https://radio11.plathong.net/7050/;stream.mp3",
+        "favicon": "https://img.logo.dev/netradio11.plathong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CWK Radio",
+        "url": "https://radio11.plathong.net/7050/;stream.mp3",
+        "favicon": "https://img.logo.dev/radio11.plathong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CWK-Radio",
+        "url": "https://radio11.plathong.net/7050/;stream.mp3",
+        "favicon": "https://img.logo.dev/radio.plathong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DPCloudev",
@@ -123,6 +163,11 @@
         "name": "DPRadio",
         "url": "https://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.ogg",
         "favicon": "https://img.logo.dev/damp11113.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "EFM 94",
+        "url": "https://atimeonline.smartclick.co.th/efm",
+        "favicon": "https://img.logo.dev/atime.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fabulous 103",
@@ -152,7 +197,12 @@
     {
         "name": "FM 103 MHz คนลูกทุ่ง",
         "url": "http://fm94.tv5.co.th:8000/armystream",
-        "favicon": "https://img.logo.dev/fm94.tv5.co.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/xn--12cfk7di6e1gf2l.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FM 88 radio Thailand: English language service",
+        "url": "https://cdn-th2.login.in.th/shoutcast/8420",
+        "favicon": "https://img.logo.dev/prdee.prd.go.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FM 91",
@@ -160,14 +210,44 @@
         "favicon": "https://img.logo.dev/fm91bkk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "FM 92.5 radio Thailand",
+        "url": "https://cdn-th2.login.in.th/shoutcast/8425",
+        "favicon": "https://img.logo.dev/prdee.prd.go.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "FM 93.50 MHz บ้านใหม่ เรดิโอ",
         "url": "https://radio10.plathong.net/7590/;stream.mp3",
         "favicon": "https://img.logo.dev/banmairadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "fm99",
+        "url": "https://northernlive.mcot.net/fm99/voice.m3u8",
+        "favicon": "https://img.logo.dev/northernlive.mcot.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "fm99 new",
+        "url": "https://northernlive.mcot.net/fm99/voice.m3u8",
+        "favicon": "https://img.logo.dev/northernlive.mcot.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "fm99 new",
+        "url": "https://play-fm99.mcot.net/fm99/fm99.m3u8",
+        "favicon": "https://img.logo.dev/play-fm99.mcot.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "GMM25: digital TV channel 25",
         "url": "https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8",
         "favicon": "https://img.logo.dev/gmm25.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Green Wave 106.5",
+        "url": "https://atimeonline2.smartclick.co.th/green",
+        "favicon": "https://img.logo.dev/atime.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Greenwave",
+        "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8",
+        "favicon": "https://img.logo.dev/atimehd.smartclick.co.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "JS 100",
@@ -250,6 +330,11 @@
         "favicon": "https://img.logo.dev/radio.mcot.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "MCOT Satellite (Formerly AM 1494)",
+        "url": "http://rstream.mcot.net:8000/Radio_Sat",
+        "favicon": "https://img.logo.dev/rstream.mcot.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "MCOT อุดรธานี",
         "url": "http://rstream.mcot.net:9044/;.mp3",
         "favicon": "https://img.logo.dev/radio.mcot.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -258,6 +343,21 @@
         "name": "NBT Central: digital TV channel 11",
         "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8?null",
         "favicon": "https://img.logo.dev/nbtcentral.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NBT North Ease: digital TV channel 11",
+        "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8?null",
+        "favicon": "https://img.logo.dev/prdee.prd.go.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NBT North: digital TV channel 11",
+        "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8?null",
+        "favicon": "https://img.logo.dev/prdee.prd.go.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NBT South: digital tv channel 11",
+        "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8?null",
+        "favicon": "https://img.logo.dev/prdee.prd.go.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NBT2HD",
@@ -335,6 +435,11 @@
         "favicon": "https://img.logo.dev/smoothfm.mcot.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "sunshine radio Pattaya",
+        "url": "https://cdn-th2.login.in.th/shoutcast/8030",
+        "favicon": "https://img.logo.dev/sunshinefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Surf Radio",
         "url": "https://stream.surf.radio/surf1025",
         "favicon": "https://img.logo.dev/surf.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -343,6 +448,11 @@
         "name": "Thai PBS TV",
         "url": "http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8",
         "favicon": "https://img.logo.dev/thaipbs.or.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Thai TV 5 HD",
+        "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
+        "favicon": "https://img.logo.dev/thaitv5hd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ThaiRadio 96.5 thinking",
@@ -365,6 +475,26 @@
         "favicon": "https://img.logo.dev/topnews.co.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "TP TV channel: digital TV channel 10",
+        "url": "https://tv-live.tpchannel.org/live/tv.m3u8",
+        "favicon": "https://img.logo.dev/tpchannel.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "true4u: digital TV channel 24",
+        "url": "https://true4u-p4ljv2.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1787828398&x_ark_path_prefix=%2Flive%2F&x_ark_signature=EQXEE09LIokrTVOENMENDQ",
+        "favicon": "https://img.logo.dev/true4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vybe 103.5",
+        "url": "https://radio14.plathong.net/7154/;stream.mp3",
+        "favicon": "https://img.logo.dev/vybethailand.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VYBE 103.5 ลำปาง",
+        "url": "https://radio9.plathong.net/7076",
+        "favicon": "https://img.logo.dev/vybethailand.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Yesterday 106.5",
         "url": "http://radio4.thzhost.com:4122/",
         "favicon": "https://img.logo.dev/niyamedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -373,6 +503,11 @@
         "name": "ช่อง 3: digital TV channel 33",
         "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1787846616&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=dRBrTed4QOEorAdj-qarwQ",
         "favicon": "https://img.logo.dev/ch3plus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ช่อง 9 MCOT HD: digital TV channel 30",
+        "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+        "favicon": "https://img.logo.dev/tv.mcot.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "บ้านธัมมะ",
@@ -410,9 +545,9 @@
         "favicon": "https://img.logo.dev/looktung.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "วัดปากบ่อ",
-        "url": "http://radio1.siamlivehost.com:8001/;",
-        "favicon": "https://img.logo.dev/watpakbo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "วพท. am 792KHZ กรุงเทพฯ",
+        "url": "https://radio9.plathong.net/7162/;",
+        "favicon": "https://img.logo.dev/radio792.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "วัดป่าไทรงาม",
@@ -423,11 +558,6 @@
         "name": "วัดป่าไทรงาม",
         "url": "https://radio10.plathong.net/7110/;stream.mp3",
         "favicon": "https://img.logo.dev/watpasaingam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "วิทยุวัดนายโรง",
-        "url": "http://103.7.56.219:4106/",
-        "favicon": "https://img.logo.dev/watnairong.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "สถานีวิทยุกระจายเสียงแห่งประเทศไทย (AM 891 KHz)",
@@ -453,6 +583,11 @@
         "name": "สังฆทานธรรม",
         "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
         "favicon": "https://img.logo.dev/watsanghathan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "เพื่อชีวิต",
+        "url": "https://cast.requestradio.in.th:830/stream/",
+        "favicon": "https://img.logo.dev/cast.requestradio.in.th?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก",

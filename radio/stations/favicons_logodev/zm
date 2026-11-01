@@ -10,11 +10,6 @@
         "favicon": "https://img.logo.dev/5fm.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Anointed Voice FM",
         "url": "https://stream.zeno.fm/xiih9uyj16jvv",
         "favicon": "https://img.logo.dev/anointed-voice-fm.infinityfreeapp.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -90,6 +85,11 @@
         "favicon": "https://img.logo.dev/mafken.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Oasis Radio",
+        "url": "https://oasisradiozambia.out.airtime.pro/oasisradiozambia_a",
+        "favicon": "https://img.logo.dev/oasisradiozambia.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "One Love Radio",
         "url": "https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1&1745660099290",
         "favicon": "https://img.logo.dev/onelovezambia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -100,9 +100,19 @@
         "favicon": "https://img.logo.dev/lusaka.powerhousemediazm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Q FM Zambia",
+        "url": "https://s3.myradiostream.com:7620/listen.mp3",
+        "favicon": "https://img.logo.dev/qfmzambia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Christian Voice",
         "url": "https://streaming.shoutcast.com/rcv",
         "favicon": "https://img.logo.dev/rcv.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Maria Yatsani Voice",
+        "url": "https://dreamsiteradiocp5.com/proxy/zambialusakaaac?mp=/stream",
+        "favicon": "https://img.logo.dev/radiomaria.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Phoenix FM",
@@ -110,8 +120,48 @@
         "favicon": "https://img.logo.dev/phoenixfm.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Smooth 90.1fm",
+        "url": "https://s25.myradiostream.com/15172/listen.mp3",
+        "favicon": "https://img.logo.dev/smoothfmzambia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Spice FM 91.1 Kabwe",
+        "url": "http://live.rcast.net:8768/;stream.mp3",
+        "favicon": "https://img.logo.dev/live.rcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Sun Fm Zambia",
         "url": "http://11233.cloudrad.io:9102/live",
         "favicon": "https://img.logo.dev/zambia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Supreme Sports Radio",
+        "url": "https://custom-azura1.asurahosting.com/listen/ssradio_channel_2/radio.mp3",
+        "favicon": "https://img.logo.dev/ssradio.space?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tuta Radio",
+        "url": "https://s11.myradiostream.com/24282/;?type=http&nocache=1791494215",
+        "favicon": "https://img.logo.dev/tutaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YAR FM 89.7",
+        "url": "https://stream.zeno.fm/vfkk2o41inzuv",
+        "favicon": "https://img.logo.dev/yarfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yours FM",
+        "url": "http://5.135.154.91:17362/stream",
+        "favicon": "https://img.logo.dev/yoursfmradio.on-air.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZAMCOM 100.1 FM",
+        "url": "https://stream.zeno.fm/boxjrzkyo6jvv",
+        "favicon": "https://img.logo.dev/zamcom.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZAMCOM 100.1 FM",
+        "url": "https://stream.zeno.fm/boxjrzkyo6jvv",
+        "favicon": "https://img.logo.dev/zamcom.co.zm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

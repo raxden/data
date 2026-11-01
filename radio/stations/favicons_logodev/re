@@ -5,19 +5,24 @@
         "favicon": "https://img.logo.dev/102fm.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Antenne Réunion Radio",
         "url": "https://rtlre.ice.infomaniak.ch/rtlre-64.aac",
         "favicon": "https://img.logo.dev/antennereunionradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Azot Radio",
+        "url": "https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3",
+        "favicon": "https://img.logo.dev/azotradio1.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Capital FM Réunion",
         "url": "https://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3",
         "favicon": "https://img.logo.dev/capitalfm.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Exo FM",
+        "url": "https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac",
+        "favicon": "https://img.logo.dev/exofmreunion.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Exo FM Réunion",
@@ -65,11 +70,6 @@
         "favicon": "https://img.logo.dev/freedom.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Merveille Océan Indien",
-        "url": "https://listen.radioking.com/radio/694373/stream/759203",
-        "favicon": "https://img.logo.dev/play.radioking.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Oxygène Réunion",
         "url": "https://ecmanager2.pro-fhi.net:1535/stream",
         "favicon": "https://img.logo.dev/oxygenereunion.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -83,6 +83,11 @@
         "name": "Radio Pikan Réunion",
         "url": "https://stream4.vestaradio.com/RADIOPIKAN?nocache=6650",
         "favicon": "https://img.logo.dev/radiopikan.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Star Réunion",
+        "url": "https://cdnradio.streamakaci.com/radiostar.mp3",
+        "favicon": "https://img.logo.dev/cdnradio.streamakaci.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RC Radio Reconnaissance du Coeur",
@@ -100,9 +105,34 @@
         "favicon": "https://img.logo.dev/la1ere.francetvinfo.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RFM Réunion",
+        "url": "https://rfmreunio.ice.infomaniak.ch/rfmrun-128.mp3",
+        "favicon": "https://img.logo.dev/rfm.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rire et Chansons Réunion",
         "url": "https://streaming.nrjaudio.fm/oun3wuqn5eyc",
         "favicon": "https://img.logo.dev/rireetchansons.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RPI 974",
+        "url": "http://rpiradio974.ice.infomaniak.ch/rpiradio974-32.aac",
+        "favicon": "https://img.logo.dev/rpi974.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RSL Radio",
+        "url": "https://rslradio.ice.infomaniak.ch/rslradio-128.mp3",
+        "favicon": "https://img.logo.dev/rslradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTL Réunion",
+        "url": "https://rtlre.ice.infomaniak.ch/rtlre-64.aac",
+        "favicon": "https://img.logo.dev/rtl.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Salazes FM",
+        "url": "https://radiosalazesfm.ice.infomaniak.ch/radiosalazesfm-64.aac",
+        "favicon": "https://img.logo.dev/salazesfm.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "sensuelle radio",
@@ -125,9 +155,9 @@
         "favicon": "https://img.logo.dev/sunlightfm.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Top Fm Maxi Dance",
-        "url": "https://streamingv2.shoutcast.com/-TopFm-Maxidance",
-        "favicon": "https://img.logo.dev/topfm.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Urban Hit Réunion",
+        "url": "https://listen.radioking.com/radio/400111/stream/452236",
+        "favicon": "https://img.logo.dev/urbanhit.re?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Waho",

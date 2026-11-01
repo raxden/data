@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/capitalfm.co.ke?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ALLIZINIC FM",
         "url": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
         "favicon": "https://img.logo.dev/allzic43.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -60,6 +55,11 @@
         "favicon": "https://img.logo.dev/media-ice.musicradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Classic 105",
+        "url": "https://classic105-atunwadigital.streamguys1.com/classic105",
+        "favicon": "https://img.logo.dev/classic105-atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "CRI Kiswahili",
         "url": "https://sk.cri.cn/kenya.m3u8",
         "favicon": "https://img.logo.dev/swahili.cri.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -80,9 +80,24 @@
         "favicon": "https://img.logo.dev/exclusive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "FEEL JAH",
+        "url": "http://solid9.streamupsolutions.com:8018/stream",
+        "favicon": "https://img.logo.dev/solid9.streamupsolutions.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "George Jones",
         "url": "https://streaming.exclusive.radio/er/georgejones/icecast.audio",
         "favicon": "https://img.logo.dev/play.exclusive.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hot 96 FM",
+        "url": "https://hot96-atunwadigital.streamguys1.com/hot96/playlist.m3u8",
+        "favicon": "https://img.logo.dev/citizen.digital?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Inooro FM",
+        "url": "https://inoorofm-atunwadigital.streamguys1.com/inoorofm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/citizen.digital?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jay Fm",
@@ -115,14 +130,39 @@
         "favicon": "https://img.logo.dev/repentandpreparetheway.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kameme FM",
+        "url": "https://kamemefm-atunwadigital.streamguys1.com/kamemefm",
+        "favicon": "https://img.logo.dev/kamemefm-atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Kiss FM 100",
         "url": "https://atunwadigital.streamguys1.com/kiss100fm",
         "favicon": "https://img.logo.dev/atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Mayian FM",
+        "url": "https://mayianfm-atunwadigital.streamguys1.com/mayianfm",
+        "favicon": "https://img.logo.dev/mayianfm-atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "NRG Radio",
         "url": "https://streamingv2.shoutcast.com/nrg-radio-ke",
         "favicon": "https://img.logo.dev/nrg.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Citizen",
+        "url": "https://radiocitizen-atunwadigital.streamguys1.com/radiocitizen/playlist.m3u8",
+        "favicon": "https://img.logo.dev/citizen.digital?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Generation Kenya 88.8",
+        "url": "https://stream-158.zeno.fm/f3wvbbqmdg8uv",
+        "favicon": "https://img.logo.dev/radiogeneration.co.ke?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Jambo",
+        "url": "https://radiojambo-atunwadigital.streamguys1.com/radiojambo",
+        "favicon": "https://img.logo.dev/radiojambo.co.ke?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Kaya",
@@ -131,7 +171,7 @@
     },
     {
         "name": "Radio Maria Kenya - Nairobi",
-        "url": "http://dreamsiteradiocp5.com:8069/stream",
+        "url": "http://141.95.98.87:8069/stream",
         "favicon": "https://img.logo.dev/radiomaria.co.ke?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -150,6 +190,16 @@
         "favicon": "https://img.logo.dev/radiowaumini.co.ke?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio47",
+        "url": "https://streaming.shoutcast.com/radio-47?ver=690109",
+        "favicon": "https://img.logo.dev/radio47.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ramogi FM",
+        "url": "https://ramogifm-atunwadigital.streamguys1.com/ramogifm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/citizen.digital?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RE",
         "url": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
         "favicon": "https://img.logo.dev/allzic43.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -158,11 +208,31 @@
         "name": "RE",
         "url": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
         "favicon": "https://img.logo.dev/allzic43.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "REGGAE ROOTS",
+        "url": "http://relay5.181.fm:8096/",
+        "favicon": "https://img.logo.dev/relay5.181.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "REGGAE ROOTS",
+        "url": "http://relay5.181.fm:8096/",
+        "favicon": "https://img.logo.dev/relay5.181.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "REPLAY NEWS - Kiswahili",
         "url": "https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3",
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Taach FM",
+        "url": "https://pegasus.nucast.co.uk:8064/stream",
+        "favicon": "https://img.logo.dev/pegasus.nucast.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal Health Radio (Kiswahili)",
+        "url": "https://radio.universalhealthradio.org/uhr-sw.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zoza Radio",

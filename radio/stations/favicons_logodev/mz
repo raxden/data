@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "LM Radio",
         "url": "https://ukwesta.streaming.broadcast.radio/lmradio",
         "favicon": "https://img.logo.dev/lmradio.co.mz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,6 +18,11 @@
         "name": "Rádio Cidade - Beira 105.2 FM",
         "url": "https://node.stream-africa.com:8443/RadioCidadeBeira",
         "favicon": "https://img.logo.dev/rm.co.mz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Maria Moçambique",
+        "url": "https://dreamsiteradiocp2.com/proxy/rmmozambique2?mp=/stream",
+        "favicon": "https://img.logo.dev/radiomaria.org.mz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Miramar",

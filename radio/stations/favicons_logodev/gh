@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/057info.hr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Adom Fm",
         "url": "https://mmg.streamguys1.com/AdomFM-mp3?key=9099965b0e49394af3be11b42a71f0faa90378311d2d85f5983495217e350f0a4636df5ecf5ea3f63e53cb9026d89102&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609841442537%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
         "favicon": "https://img.logo.dev/adomonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -20,9 +15,24 @@
         "favicon": "https://img.logo.dev/afronation.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Agoo 96.9 FM",
+        "url": "https://agoofm-atunwadigital.streamguys1.com/agoofm",
+        "favicon": "https://img.logo.dev/agoofm-atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ahotor Fm",
         "url": "https://node-07.zeno.fm/bbpfy9pk21zuv?rj-ttl=5&rj-tok=AAABdtJi4QkAQOQEu89yxCY6mw",
         "favicon": "https://img.logo.dev/ahotoronline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Akomapa FM",
+        "url": "http://mounthoreb1.primcast.com:8210/",
+        "favicon": "https://img.logo.dev/mounthoreb1.primcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Akomapa FM",
+        "url": "http://mounthoreb1.primcast.com:8210/;",
+        "favicon": "https://img.logo.dev/mounthoreb1.primcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ALLOS FM",
@@ -100,6 +110,11 @@
         "favicon": "https://img.logo.dev/heraldfmonline.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hills FM Online",
+        "url": "https://radiohost.ifastekpanel.com/listen/hills-fm-online/live",
+        "favicon": "https://img.logo.dev/radiohost.ifastekpanel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hitz 103.9 FM",
         "url": "https://mmg.streamguys1.com/HitzFM-mp3?",
         "favicon": "https://img.logo.dev/myjoyonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -140,6 +155,11 @@
         "favicon": "https://img.logo.dev/radio.steprotech.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Lawson Radio 96.3",
+        "url": "https://lawsonfm963-atunwadigital.streamguys1.com/lawsonfm963",
+        "favicon": "https://img.logo.dev/lawsonfm963-atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "LiveXtra Fm",
         "url": "https://node-29.zeno.fm/7586sp6mua0uv?rj-ttl=5&rj-tok=AAABdtK_vI8AwopbZYmWFHLrNw",
         "favicon": "https://img.logo.dev/livefmghana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -165,6 +185,11 @@
         "favicon": "https://img.logo.dev/neatfm.peacefmonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Nhyira 104.5 FM",
+        "url": "https://mmg.streamguys1.com/NhyiraFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+        "favicon": "https://img.logo.dev/mmg.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Nhyira Fm",
         "url": "https://mmg.streamguys1.com/NhyiraFM-mp3?key=b37c365ed033b3e65a85fc860f6611ee8562838eeb6e0489764968a4153d826217219cfacc395f2cc2389573fb59870a&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609844395217%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
         "favicon": "https://img.logo.dev/myjoyonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -180,14 +205,14 @@
         "favicon": "https://img.logo.dev/omanfm1071.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Opemsuo FM",
+        "url": "https://opemsuofm-atunwadigital.streamguys1.com/opemsuofm",
+        "favicon": "https://img.logo.dev/opemsuofm-atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Oroko Radio",
         "url": "https://oroko-radio.radiocult.fm/stream",
         "favicon": "https://img.logo.dev/oroko.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Parousia Radio",
-        "url": "https://radio.parousiaempire.org:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.parousiaempire.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Peace FM",
@@ -195,14 +220,24 @@
         "favicon": "https://img.logo.dev/peacefmonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Pure FM",
+        "url": "http://purefm.atunwadigital.streamguys1.com/purefm",
+        "favicon": "https://img.logo.dev/purefm.atunwadigital.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gold",
+        "url": "https://radiogoldlive.com/radio-2/",
+        "favicon": "https://img.logo.dev/radio.com.gh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gold 90.5 FM",
+        "url": "https://radiogoldlive.com/radio-2/",
+        "favicon": "https://img.logo.dev/radio.com.gh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rainbow Radio",
         "url": "https://node-15.zeno.fm/wv4tseqxk8quv?rj-ttl=5&rj-tok=AAABdtKQ-zAApp8i1nvprbjDlw",
         "favicon": "https://img.logo.dev/rainbowradioonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Restorer Radio",
-        "url": "https://node-06.zeno.fm/ygz5xb1ed2zuv?rj-ttl=5&rj-tok=AAABdyiB-8oACqDk5fgjllK25A",
-        "favicon": "https://img.logo.dev/restorerradio.carrd.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sankofa Radio",
@@ -225,6 +260,16 @@
         "favicon": "https://img.logo.dev/skyypowerfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sompa 93.1FM Kumasi",
+        "url": "https://sunny-radio-server.cloud-ip.cc/radio/sunnyradio?t=1782488511159",
+        "favicon": "https://img.logo.dev/sunnygh.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sunny FM",
+        "url": "https://sunny-radio-server.cloud-ip.cc/radio/sunnyradio?t=1782488511159",
+        "favicon": "https://img.logo.dev/sunnygh.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Sweet Melodies",
         "url": "http://sweetmelodies.tk/stream1",
         "favicon": "https://img.logo.dev/sweetmelodies.tk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -235,19 +280,14 @@
         "favicon": "https://img.logo.dev/torqradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "West End Radio",
-        "url": "https://node-27.zeno.fm/47nz3zut26duv?rj-ttl=5&rj-tok=AAABdxz5j_4AWgh97W7_GikV2Q",
-        "favicon": "https://img.logo.dev/westendfmonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wooden Radio",
-        "url": "https://stream-177.zeno.fm/9ux8wtex9qzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dXg4d3RleDlxenV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ing1bkVDYXc3U0s2SWthYXB2N1AzS2ciLCJpYXQiOjE3Nzg3NjEwNDAsImV4cCI6MTc3ODc2MTEwMH0.bpcOy_nBeZB2AShOKKJe3ETFoaWPT7_F3o6Vhn3K0dQ",
-        "favicon": "https://img.logo.dev/woodenradio.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "TW Radio 88.9 FM",
+        "url": "https://a00.w3gradle.com/a21.mp3",
+        "favicon": "https://img.logo.dev/twradiogh.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Yediem Radio",
         "url": "https://radio.steprotech.com:8130/radio.mp3",
-        "favicon": "https://img.logo.dev/yediemradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radio.steprotech.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "YFm 979 Takoradi",

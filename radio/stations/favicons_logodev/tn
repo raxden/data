@@ -1,35 +1,5 @@
 [
     {
-        "name": ".Beautiful recitation",
-        "url": "https://qurango.net/radio/salma",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".شهر رمضان",
-        "url": "https://qurango.net/radio/ramadan",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".صور من حياة الصحابة",
-        "url": "https://qurango.net/radio/sahabah",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".مختصر السيرة",
-        "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "#رواية قالون",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AlHayet FM",
         "url": "https://manager8.streamradio.fr:2885/stream",
         "favicon": "https://img.logo.dev/alhayetfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -63,6 +33,11 @@
         "name": "KnOOz FM",
         "url": "http://streaming.knoozfm.net:8000/knoozfm",
         "favicon": "https://img.logo.dev/knoozfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lotfi Slama",
+        "url": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.conceptradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mosaique FM",
@@ -110,6 +85,11 @@
         "favicon": "https://img.logo.dev/oxygenefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio ElWassat",
+        "url": "https://radiosbz.bfi-tech.fr/live",
+        "favicon": "https://img.logo.dev/radiosbz.bfi-tech.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Express FM",
         "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
         "favicon": "https://img.logo.dev/radioexpressfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -138,6 +118,11 @@
         "name": "Radio Monastir",
         "url": "https://radio.radiotunisienne.tn/monastir",
         "favicon": "https://img.logo.dev/radiomonastir.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tunisia Med",
+        "url": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.conceptradio.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Tunisie Culturelle",
@@ -205,128 +190,13 @@
         "favicon": "https://img.logo.dev/radiosfax.tn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sodais",
-        "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zitouna Zitouna FM",
-        "url": "https://radio.radiotunisienne.tn/radiozaitouna",
-        "favicon": "https://img.logo.dev/zitounafm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "آيات السكينة",
-        "url": "https://qurango.net/radio/sakeenah",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "أذكار الصباح",
-        "url": "https://qurango.net/radio/athkar_sabah",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "أذكار المساء",
-        "url": "https://qurango.net/radio/athkar_masa",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة الفتاوى العامة",
-        "url": "https://qurango.net/radio/fatwa",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة طريق السلف",
-        "url": "https://airtime.salafwayfm.ly/",
-        "favicon": "https://img.logo.dev/salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/mp3quran.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "إذاعة ميراث الأنبياء",
         "url": "https://radio.al7eah.net/8028/;",
         "favicon": "https://img.logo.dev/radio.al7eah.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "الإختيارات الفقهية لإبن باز",
-        "url": "https://qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "الشيخ سعد الغامدي",
-        "url": "https://qurango.net/radio/saad_alghamdi",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "الشيخ صلاح بو خاطر",
-        "url": "https://qurango.net/radio/slaah_bukhatir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "الشيخ فارس عباد",
-        "url": "https://qurango.net/radio/fares_abbad",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "المختصر في التفسير",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تراتيل",
-        "url": "https://qurango.net/radio/tarateel",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تفسير بن عثيمين رحمه الله تعالى",
-        "url": "https://qurango.net/radio/tafseer",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تكبيرات العيد",
-        "url": "https://qurango.net/radio/eid",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "راديو جنجر للاطفال",
         "url": "https://arabkidsradio.art/radio/8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.janjerlearning.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ستة شوال",
-        "url": "https://qurango.net/radio/SixDaysOfShawwal",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "عشر ذي الحجة",
-        "url": "https://qurango.net/radio/ten_dhul_hijjah",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "في ضلال السيرة النبوية",
-        "url": "https://qurango.net/radio/fi_zilal_alsiyra",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "قراءات متنوعة",
-        "url": "https://qurango.net/radio/mix",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "قراءات متنوعة",
-        "url": "https://qurango.net/radio/mix",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "يوم عاشوراء",
-        "url": "https://qurango.net/radio/TheDayofAshoora",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/arabkidsradio.art?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

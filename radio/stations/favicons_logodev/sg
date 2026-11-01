@@ -30,11 +30,6 @@
         "favicon": "https://img.logo.dev/melisten.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AXR Manila",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3",
         "favicon": "https://img.logo.dev/axr.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -46,7 +41,7 @@
     },
     {
         "name": "AXR Singapore",
-        "url": "http://28093.live.streamtheworld.com/AXR_SINGAPORE_SC",
+        "url": "http://22243.live.streamtheworld.com:3690/AXR_SINGAPORE_SC",
         "favicon": "https://img.logo.dev/axr.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -86,7 +81,7 @@
     },
     {
         "name": "CNA 938 Live Singapore",
-        "url": "http://28443.live.streamtheworld.com:3690/938NOW_PREM_SC",
+        "url": "http://28373.live.streamtheworld.com/938NOW_PREM_SC",
         "favicon": "https://img.logo.dev/channelnewsasia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -176,18 +171,13 @@
     },
     {
         "name": "One FM 91.3",
-        "url": "https://27223.live.streamtheworld.com/ONE_FM_913AAC_SC",
+        "url": "https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC",
         "favicon": "https://img.logo.dev/onefm.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ONE FM 91.3 SPH AAC",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
         "favicon": "https://img.logo.dev/onefm.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Melody with Brother Bjorn",
-        "url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563",
-        "favicon": "https://img.logo.dev/rmelody.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RIA 897",
@@ -248,6 +238,16 @@
         "name": "Warna 942 Radio",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
         "favicon": "https://img.logo.dev/meradio.sg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "XRadio: The Worldwide Superstation",
+        "url": "http://xradio.zone:9420/stream.mp3",
+        "favicon": "https://img.logo.dev/xradio.zone?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "XRadio: The Worldwide Superstation",
+        "url": "http://xradio.zone:9420/stream",
+        "favicon": "https://img.logo.dev/xradio.zone?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "YES 933",

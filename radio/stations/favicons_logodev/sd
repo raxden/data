@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Dabanga Radio",
         "url": "https://stream.dabangasudan.org/",
         "favicon": "https://img.logo.dev/dabangasudan.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13,5 +8,10 @@
         "name": "Dial Radio",
         "url": "https://cast.dialradio.live/stream.aac",
         "favicon": "https://img.logo.dev/dialradio.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SECRET OF FUTURE",
+        "url": "https://panel.radiocast.net/listen/secret_of_future/radio.mp3",
+        "favicon": "https://img.logo.dev/panel.radiocast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

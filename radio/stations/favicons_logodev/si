@@ -1,8 +1,13 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Ambiland",
+        "url": "https://radio.ambiland.space/live.mp3?src=radio-browser",
+        "favicon": "https://img.logo.dev/radio.ambiland.space?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ambiland Spatial",
+        "url": "https://radio.ambiland.space/spatial.mp3?src=radio-browser",
+        "favicon": "https://img.logo.dev/radio.ambiland.space?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ars",
@@ -147,7 +152,7 @@
     {
         "name": "Radio 1 80-a",
         "url": "http://live.radio1.si/Radio80",
-        "favicon": "https://img.logo.dev/live.radio1.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radio.svet24.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 1 Koroska",
@@ -160,19 +165,14 @@
         "favicon": "https://img.logo.dev/radio1rock.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 2",
-        "url": "http://live.radio2.si/Radio2?1448457274706.mo3",
-        "favicon": "https://img.logo.dev/radio2.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 2",
-        "url": "http://live.radio2.si/Radio2?1448457274706.mp3",
-        "favicon": "https://img.logo.dev/radio2.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio 94",
         "url": "http://77.38.12.198:8000/radio94",
         "favicon": "https://img.logo.dev/radio94.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Aktual",
+        "url": "https://live.radio.si/Aktual",
+        "favicon": "https://img.logo.dev/radioaktual.svet24.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Aktual",
@@ -193,16 +193,6 @@
         "name": "Radio ARS",
         "url": "https://mp3.rtvslo.si/ars",
         "favicon": "https://img.logo.dev/ars.rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio BOB",
-        "url": "http://live6.infonetmedia.si/Europa05",
-        "favicon": "https://img.logo.dev/radiobob.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bob",
-        "url": "https://live.radio.si/BOB",
-        "favicon": "https://img.logo.dev/radiobob.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Capodistria",
@@ -375,6 +365,11 @@
         "favicon": "https://img.logo.dev/radiomaxi.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio METEOR",
+        "url": "http://stream.radiometeor.si/listen/meteor/live.aac",
+        "favicon": "https://img.logo.dev/radiometeor.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Meteor",
         "url": "http://eu1.fastcast4u.com:20052/stream",
         "favicon": "https://img.logo.dev/radiometeor.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -490,16 +485,6 @@
         "favicon": "https://img.logo.dev/radiorogla.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Roška",
-        "url": "http://stream.zeno.fm/q7300aptbwzuv",
-        "favicon": "https://img.logo.dev/radioroska.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio S",
-        "url": "http://live.radio.si/radios",
-        "favicon": "https://img.logo.dev/radios.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Salomon",
         "url": "http://84.52.138.44/Salomon",
         "favicon": "https://img.logo.dev/radiosalomon.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -513,11 +498,6 @@
         "name": "Radio Si - Radio Slovenija International",
         "url": "http://mp3.rtvslo.si/rsi",
         "favicon": "https://img.logo.dev/rtvslo.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sloven'c",
-        "url": "http://89.142.192.172/live",
-        "favicon": "https://img.logo.dev/radioslovenc.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Slovenija 1",
@@ -555,6 +535,11 @@
         "favicon": "https://img.logo.dev/radiostudent.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Student",
+        "url": "http://kruljo.radiostudent.si:8000/ehiq",
+        "favicon": "https://img.logo.dev/kruljo.radiostudent.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Študent",
         "url": "http://kruljo.radiostudent.si:8000/hiq",
         "favicon": "https://img.logo.dev/radiostudent.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -563,16 +548,6 @@
         "name": "Radio Terminal",
         "url": "https://air.radioterminal.si/live",
         "favicon": "https://img.logo.dev/radioterminal.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rádio Timea",
-        "url": "http://evcast.mediacp.eu:1480/stream",
-        "favicon": "https://img.logo.dev/radiotimea.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Tomi",
-        "url": "http://93.103.130.12:8080/tomi.mp3",
-        "favicon": "https://img.logo.dev/radiotomi.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Triglav",
@@ -607,7 +582,7 @@
     {
         "name": "Retro Radio",
         "url": "https://zvok.ragla.si/gr?1670057106819",
-        "favicon": "https://img.logo.dev/retrodab.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/zvok.ragla.si?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock Maribor",

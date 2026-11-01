@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ananda Marga Haiti",
         "url": "https://stream-152.zeno.fm/vm8mgn3eewzuv?zs=HWkYw7B5S2C0W0cAcrdGZQ",
         "favicon": "https://img.logo.dev/anandamarga.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -30,11 +25,6 @@
         "favicon": "https://img.logo.dev/radiointermix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radi Macaya",
-        "url": "http://stream.zeno.fm/e7s1qpe5d4duv",
-        "favicon": "https://img.logo.dev/radiomacaya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio 4VEH",
         "url": "https://stream.zeno.fm/0zef35h1my5tv",
         "favicon": "https://img.logo.dev/radio.ht?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -45,19 +35,9 @@
         "favicon": "https://img.logo.dev/bbcnewshaiti.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Bien Etre FM",
-        "url": "https://stream.zeno.fm/zxg8t9gr3f8uv",
-        "favicon": "https://img.logo.dev/radiobienetre.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Bonpounou",
         "url": "https://centova.wlservices.org/proxy/wiszuaec/stream/",
         "favicon": "https://img.logo.dev/bonpounou.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Boursiquot's FM 101.7",
-        "url": "https://stream.zeno.fm/yoz610evcpltv",
-        "favicon": "https://img.logo.dev/radioboursiquotfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Haiti Tropical",
@@ -66,33 +46,23 @@
     },
     {
         "name": "Radio Humilite",
-        "url": "https://stream-286.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ii1KWEc2RmlrUkFHb192Y2QyRFFUa2ciLCJpYXQiOjE3OTI3MTg0NzYsImV4cCI6MTc5MjcxODUzNn0.rCAWXu5b__5R75RPg6If33QpumbY6YnPpwu5_vPZDms",
+        "url": "https://stream-286.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlhVRnlINW8tUTcyVEpDX3NVSDJJbFEiLCJpYXQiOjE3OTMxNTM0NDcsImV4cCI6MTc5MzE1MzUwN30.g80ueB58hfP4fFZv1xEBLw9itXsfWF1oDASHSBn1RxU",
         "favicon": "https://img.logo.dev/radio-humilite-2-3-4.e-monsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Humilite",
-        "url": "https://stream-286.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InZLQUpHZjBhUzJLaXMydUYtbHQ2UXciLCJpYXQiOjE3OTI2MzgzMTIsImV4cCI6MTc5MjYzODM3Mn0.Kqi-CvUYnbYmsp8FEwh9lZwF1P-VyMj_Up5emxeJMvA",
+        "url": "https://stream-286.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9LUUdmdnhsUmlLeG5ENWd3bV94ekEiLCJpYXQiOjE3OTM1MDQyODIsImV4cCI6MTc5MzUwNDM0Mn0.a0xHyaJ1yzMYR2p6yVNgoRiU2yvfjJDeqX1FEJQqHuU",
         "favicon": "https://img.logo.dev/radio-humilite-2-3-4.e-monsite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Louvri Je",
         "url": "http://ca8.rcast.net:4034/",
-        "favicon": "https://img.logo.dev/radiolouvrije.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/ca8.rcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Louvri Je",
         "url": "http://ca8.rcast.net:4034/;",
-        "favicon": "https://img.logo.dev/radiolouvrije.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Lumiere Haiti",
-        "url": "http://stream.zenolive.com/yw0309xbgseuv",
-        "favicon": "https://img.logo.dev/radiolumiere.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mille Colombes FM",
-        "url": "https://stream.zeno.fm/my1hfddd6nhvv",
-        "favicon": "https://img.logo.dev/radiomillescolombesfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/ca8.rcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Scoop FM",
@@ -108,11 +78,6 @@
         "name": "Radio Tele Eclair",
         "url": "http://stream.radiojar.com/2b0gs3cu4tzuv",
         "favicon": "https://img.logo.dev/radioteleeclair.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Vision 2000 Sud Est 90.9 FM",
-        "url": "http://stream.zeno.fm/xmyroy1iu80uv",
-        "favicon": "https://img.logo.dev/radiovision2000sudest.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo Tipiti",

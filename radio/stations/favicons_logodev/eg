@@ -10,26 +10,6 @@
         "favicon": "https://img.logo.dev/phantomsw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ". beautiful recitation",
-        "url": "https://qurango.net/radio/salma",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ". القارئ محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".. مختصر التفسير",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".إذاعة ماهر المعيقلي",
-        "url": "https://backup.qurango.net/radio/maher",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "90s FM",
         "url": "http://eu1.fastcast4u.com/proxy/prontofm",
         "favicon": "https://img.logo.dev/news.ninetiesfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -38,16 +18,6 @@
         "name": "90s FM",
         "url": "https://eu1.fastcast4u.com/proxy/prontofm?mp=/1",
         "favicon": "https://img.logo.dev/news.ninetiesfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulrasheed Soufi",
-        "url": "https://qurango.net/radio/abdulrasheed_soufi_assosi.mp3",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Arab Mix 256",
@@ -80,6 +50,11 @@
         "favicon": "https://img.logo.dev/elgounaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Nile FM 104.2",
+        "url": "https://audio.nrpstream.com/listen/nile_fm/radio.mp3",
+        "favicon": "https://img.logo.dev/nilefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Nogoum FM",
         "url": "https://stream-159.zeno.fm/qb1zvsykm98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxYjF6dnN5a205OHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ild2WTItbVhJU2Z5VlBEOHc3a2J1X0EiLCJpYXQiOjE3NzA5ODcyOTUsImV4cCI6MTc3MDk4NzM1NX0.ob8jdjoAgAzIcrxMk5b127wgaxpnJHEASSChnE5v5ro",
         "favicon": "https://img.logo.dev/nogoumfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -100,11 +75,6 @@
         "favicon": "https://img.logo.dev/9090.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Hits 88.2 Cairo",
-        "url": "https://radiohits882.radioca.st/;",
-        "favicon": "https://img.logo.dev/radiohits882.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Quran",
         "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
         "favicon": "https://img.logo.dev/surahquran.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -115,14 +85,19 @@
         "favicon": "https://img.logo.dev/live.mp3quran.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rebel Radio Online",
+        "url": "https://azuracast-nuremberg.myautodj.com/listen/station_660_1777579648/radio.mp3",
+        "favicon": "https://img.logo.dev/rebelradio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Thomas Lawrence",
+        "url": "https://azuracast-nuremberg.myautodj.com/listen/station_660_1777579648/radio.mp3",
+        "favicon": "https://img.logo.dev/rebelradio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "إذاعة القرآن الكريم (القاهرة)",
         "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
         "favicon": "https://img.logo.dev/maspero.eg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة طريق السلف",
-        "url": "https://airtime.salafwayfm.ly/",
-        "favicon": "https://img.logo.dev/airtime.salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "إذاعة محمود خليل الحصري",
@@ -140,18 +115,18 @@
         "favicon": "https://img.logo.dev/phantomsw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "تفسير بن عثيمين",
-        "url": "https://qurango.net/radio/tafseer",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "تكبيرات العيد",
         "url": "http://live.mp3quran.net:9728/",
         "favicon": "https://img.logo.dev/live.mp3quran.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "راديو وياك | Radiowayak",
-        "url": "https://work.radiowayak.org/listen/live/live.mp3",
-        "favicon": "https://img.logo.dev/radiowayak.vercel.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "محمود خليل الحصري - حفص عن عاصم مرتل - mp3quran",
+        "url": "https://backup.qurango.net/radio/mahmoud_khalil_alhussary",
+        "favicon": "https://img.logo.dev/mp3quran.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "محمود خليل الحصري - حفص عن عاصم مرتل - mp3quran",
+        "url": "https://qurango.net/radio/mahmoud_khalil_alhussary",
+        "favicon": "https://img.logo.dev/mp3quran.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

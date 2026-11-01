@@ -10,11 +10,6 @@
         "favicon": "https://img.logo.dev/xn--tmz.xn--6frz82g?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ".Quran",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "105.1成都简单音乐广播",
         "url": "https://stream.zeno.fm/7brqs9rsbc9uv",
         "favicon": "https://img.logo.dev/top-radio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -68,11 +63,6 @@
         "name": "A Radio for OST",
         "url": "https://hkradio.myaddr.io/listen/a_radio_for_ost/radio.aac",
         "favicon": "https://img.logo.dev/hkradio.myaddr.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AisaFM亚洲粤语台",
@@ -133,11 +123,6 @@
         "name": "AsiaFM 亚洲热歌台【2023.10.17】",
         "url": "http://hot.asiafm.net:8000/asiafm",
         "favicon": "https://img.logo.dev/asiafm.hk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "AsiaFM 亚洲粤语台",
-        "url": "https://lhttp.qtfm.cn/live/15318569/64k.mp3",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AsiaFM 亚洲粤语台【2023.10.18】",
@@ -231,8 +216,58 @@
     },
     {
         "name": "Bridge Radio - 华语 HITS （2）",
-        "url": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+        "url": "https://das-edge11-live365-dal03.cdnstream.com/a57743_2",
         "favicon": "https://img.logo.dev/new.brg-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV京津冀之声",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京交通广播",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京体育广播",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京城市广播",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京外语广播（停播）",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm923.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京故事广播（停播）",
+        "url": "https://brtv-radiolive.rbc.cn/alive/am603.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京文艺广播",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm876.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京新闻广播",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm945.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京青年广播（停播）",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm982.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BRTV北京音乐广播",
+        "url": "https://brtv-radiolive.rbc.cn/alive/fm974.m3u8",
+        "favicon": "https://img.logo.dev/brtv-radiolive.rbc.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Canton News Radio",
@@ -283,16 +318,6 @@
         "name": "CCTV-12社会与法伴音",
         "url": "https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8",
         "favicon": "https://img.logo.dev/cctv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CCTV-13 新闻（伴音）",
-        "url": "https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CCTV-13 新闻（伴音）",
-        "url": "https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CCTV-13 新闻伴音",
@@ -520,6 +545,11 @@
         "favicon": "https://img.logo.dev/chinesemusicworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CHTV百姓健康频道",
+        "url": "https://p2hs.vzan.com/1532537644/njyq869272051046520219/live.m3u8",
+        "favicon": "https://img.logo.dev/p2hs.vzan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Cinemix电影音乐频道",
         "url": "http://94.23.51.96:8001/",
         "favicon": "https://img.logo.dev/cinemix.us?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -578,16 +608,6 @@
         "name": "CNR-10 老年之声",
         "url": "http://satellitepull.cnr.cn/live/wxlnzs/playlist.m3u8?wsSession=b560e2b8d5c24aef0be2a5c7-174709253203252&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6",
         "favicon": "https://img.logo.dev/old.cnr.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CNR-11 བོད་སྐད་རླུང་འཕྲིན་ལས།",
-        "url": "http://satellitepull.cnr.cn/live/wxzygb/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174726593981287&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6",
-        "favicon": "https://img.logo.dev/tibetcnr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CNR-13 ئۇيغۇرچە رادىيو",
-        "url": "http://satellitepull.cnr.cn/live/wxwygb/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174726578692450&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6",
-        "favicon": "https://img.logo.dev/uycnr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CNR-15 中国交通广播",
@@ -750,16 +770,6 @@
         "favicon": "https://img.logo.dev/ifeng.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FM101仙居融媒体广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5021908/64k.mp3",
-        "favicon": "https://img.logo.dev/rjxj.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM101仙居融媒体广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5021908/64k.mp3",
-        "favicon": "https://img.logo.dev/rjxj.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "FM103.3 AM882 大连新闻综合广播",
         "url": "https://live.xmcdn.com/live/2732/64.m3u8",
         "favicon": "https://img.logo.dev/dltv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -770,39 +780,14 @@
         "favicon": "https://img.logo.dev/fm891.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FM97 舟山交通音乐广播",
-        "url": "https://lhttp.qingting.fm/live/1161/64k.mp3",
-        "favicon": "https://img.logo.dev/wifizs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM97 舟山交通音乐广播",
-        "url": "https://lhttp.qingting.fm/live/1161/64k.mp3",
-        "favicon": "https://img.logo.dev/wifizs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "FM98.3如皋人民广播电台",
         "url": "https://lhttp-hw.qtfm.cn/live/20207734/64k.mp3",
         "favicon": "https://img.logo.dev/top.chinaz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FM98.6城市音乐广播·信都区融媒体中心",
-        "url": "https://lhttp.qingting.fm/live/20500196/64k.mp3",
-        "favicon": "https://img.logo.dev/xinduqu.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "FM99.1大连都市之声广播",
         "url": "https://lhttp.qtfm.cn/live/1086/64k.mp3",
         "favicon": "https://img.logo.dev/dltv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM998 舟山新闻综合广播",
-        "url": "https://lhttp.qingting.fm/live/1160/64k.mp3",
-        "favicon": "https://img.logo.dev/wifizs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM998 舟山新闻综合广播",
-        "url": "https://lhttp.qingting.fm/live/1160/64k.mp3",
-        "favicon": "https://img.logo.dev/wifizs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fred Film Radio(中文)",
@@ -818,11 +803,6 @@
         "name": "Gensokyo Radio",
         "url": "https://stream.gensokyoradio.net/1",
         "favicon": "https://img.logo.dev/gensokyoradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Green Village Radio FM 99.5",
-        "url": "https://fm995.ddns.net/hls1/fm995.m3u8",
-        "favicon": "https://img.logo.dev/vfm995.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Haikow Music Radio",
@@ -860,9 +840,9 @@
         "favicon": "https://img.logo.dev/hljtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Hk",
-        "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8",
-        "favicon": "https://img.logo.dev/rthkradiocnrhk-live.akamaized.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "HKI",
+        "url": "http://player4.juyun.tv/camera/158562106.m3u8",
+        "favicon": "https://img.logo.dev/player4.juyun.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hong Kong Fantastic TV",
@@ -893,71 +873,6 @@
         "name": "Kiangsi Tourist Radio",
         "url": "http://lhttp.qingting.fm/live/20133/64k.mp3",
         "favicon": "https://img.logo.dev/jxntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu Classical Music Radio",
-        "url": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu Finance Radio",
-        "url": "http://lzlive.vojs.cn/caijing/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu General News Radio",
-        "url": "http://lzlive.vojs.cn/rTyLc36/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu Health Radio",
-        "url": "http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu Literature & Art Radio",
-        "url": "http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu Music Radio",
-        "url": "http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu News Radio",
-        "url": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu Story Radio",
-        "url": "http://lzlive.vojs.cn/rWjyus9/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu Traffic Radio",
-        "url": "http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kiangsu Voice of Kingling Radio",
-        "url": "http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kweiyang Music Radio",
-        "url": "http://ls.qingting.fm/live/4874.m3u8",
-        "favicon": "https://img.logo.dev/qguiyang.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kweiyang News Radio",
-        "url": "http://ls.qingting.fm/live/1773.m3u8",
-        "favicon": "https://img.logo.dev/qguiyang.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kweiyang Traffic Radio",
-        "url": "http://ls.qingting.fm/live/1774.m3u8",
-        "favicon": "https://img.logo.dev/qguiyang.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "LA SALSERA Solo salsa....",
@@ -1000,6 +915,11 @@
         "favicon": "https://img.logo.dev/phate.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio 7 Tazas de Molina FM",
+        "url": "https://miradio.f96.cl/8006/streaming",
+        "favicon": "https://img.logo.dev/radio7tazasdemolina.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio China Plus",
         "url": "https://sk.cri.cn/am846.m3u8",
         "favicon": "https://img.logo.dev/chinaplus.cri.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1013,11 +933,6 @@
         "name": "Radio Maria Chinese",
         "url": "https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/;stream/",
         "favicon": "https://img.logo.dev/voiceofourmother.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Raggakings雷鬼音乐频道",
-        "url": "https://raggakings.radio:8443/stream.ogg",
-        "favicon": "https://img.logo.dev/raggakings.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "REPLAY NEWS - 中文 每5分钟播报一次新闻的电台",
@@ -1060,79 +975,19 @@
         "favicon": "https://img.logo.dev/sao.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "SDBA Classics 94.7 Shanghai",
-        "url": "https://lhttp.qingting.fm/live/267/64k.mp3?listening-from-radio-garden=1696445196",
-        "favicon": "https://img.logo.dev/smgradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Shandong RGD Life Channel",
+        "url": "https://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8",
+        "favicon": "https://img.logo.dev/audiolive302.iqilu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Shandong RGD Life Channel",
+        "url": "https://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8",
+        "favicon": "https://img.logo.dev/audiolive302.iqilu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Shanghai Beat Radio",
         "url": "http://89.144.8.245:8000/SHBR.ogg",
         "favicon": "https://img.logo.dev/odysee.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shangyu New Commercial City TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shangyu News TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shangyu People Radio",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shangyu People Radio",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shangyu TV Series TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shansi Agriculture Radio",
-        "url": "http://lhttp.qingting.fm/live/1186/64k.mp3",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shansi Economics Radio",
-        "url": "http://lhttp.qingting.fm/live/20501/64k.mp3",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shansi Literature & Art Radio",
-        "url": "http://lhttp.qingting.fm/live/20485/64k.mp3",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shansi Music Radio",
-        "url": "http://ls.qingting.fm/live/4932.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shansi News Radio",
-        "url": "http://lhttp.qingting.fm/live/20491/64k.mp3",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shansi Traffic Radio",
-        "url": "http://lhttp.qingting.fm/live/20007/64k.mp3",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shantung Life Radio",
-        "url": "http://lhttp.qingting.fm/live/20240/64k.mp3",
-        "favicon": "https://img.logo.dev/sdtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shantung Music Radio",
-        "url": "http://ls.qingting.fm/live/1665.m3u8",
-        "favicon": "https://img.logo.dev/sdtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Shikiachwang Music Radio",
@@ -1175,54 +1030,9 @@
         "favicon": "https://img.logo.dev/xiancity.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Siaoshan Cable Radio",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Siaoshan Cable Radio",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Siaoshan FM Radio",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Siaoshan FM Radio",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Siaoshan Life TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Siaoshan News TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Sichuan News 四川综合广播FM98.1",
         "url": "https://lhttp.qingting.fm/live/4906/64k.mp3",
         "favicon": "https://img.logo.dev/sctv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sinchang News TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8",
-        "favicon": "https://img.logo.dev/zjxcw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sinchang Voice of Tienmu",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxinchangaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/zjxcw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sinchang Voice of Tienmu",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxinchangaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/zjxcw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "T-Radio旅游广播104",
@@ -1290,9 +1100,9 @@
         "favicon": "https://img.logo.dev/radio.gawooni.games?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Urumtsi Uyghur Radio",
-        "url": "http://ls.qingting.fm/live/1923.m3u8",
-        "favicon": "https://img.logo.dev/wlmqradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Universal Health Radio (中文)",
+        "url": "https://radio.universalhealthradio.org/uhr-zh.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOK 库尔勒梨城之声 FM105.3",
@@ -1303,11 +1113,6 @@
         "name": "V家电台·Vocaloid Radio",
         "url": "http://curiosity.shoutca.st:8019/stream",
         "favicon": "https://img.logo.dev/vocaloidradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wangtsing TV",
-        "url": "http://stream5.jlntv.cn/wq/sd/live.m3u8",
-        "favicon": "https://img.logo.dev/wangqing.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Weifang Music Radio",
@@ -1323,51 +1128,6 @@
         "name": "Weifang Traffic Radio",
         "url": "http://ls.qingting.fm/live/4014.m3u8",
         "favicon": "https://img.logo.dev/wfcmw.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wencheng News TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8",
-        "favicon": "https://img.logo.dev/wencheng.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wukin Life TV",
-        "url": "http://live.wjyanghu.com/live/CH2.m3u8",
-        "favicon": "https://img.logo.dev/wjyanghu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wukin Metro Radio",
-        "url": "http://live.wjyanghu.com/live/CH6.m3u8",
-        "favicon": "https://img.logo.dev/wjyanghu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wukin News TV",
-        "url": "http://live.wjyanghu.com/live/CH1.m3u8",
-        "favicon": "https://img.logo.dev/wjyanghu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wuyi News TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8",
-        "favicon": "https://img.logo.dev/wycntv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Yuchow News TV",
-        "url": "http://live.dxhmt.cn:9081/tv/11081-1.m3u8",
-        "favicon": "https://img.logo.dev/tv.yuzhou.net.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Yunho TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8",
-        "favicon": "https://img.logo.dev/yunhe.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Yurao Culture TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
-        "favicon": "https://img.logo.dev/yysee.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Yurao News TV",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
-        "favicon": "https://img.logo.dev/yysee.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "万宁综合广播",
@@ -1390,24 +1150,9 @@
         "favicon": "https://img.logo.dev/m.downkuai.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "三亚天涯之声",
-        "url": "http://lhttp.qingting.fm/live/20450/64k.mp3",
-        "favicon": "https://img.logo.dev/zaity.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "三亚旅游之声103.8",
-        "url": "http://lhttp.qingting.fm/live/15318203/64k.mp3",
-        "favicon": "https://img.logo.dev/zaity.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "三台人民广播电台",
         "url": "https://lhttp-hw.qtfm.cn/live/15318544/64k.mp3",
         "favicon": "https://img.logo.dev/cbgc.scol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "三明综合广播",
-        "url": "https://lhttp.qtfm.cn/live/5022100/64k.mp3",
-        "favicon": "https://img.logo.dev/v.smntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "三河综合广播",
@@ -1485,16 +1230,6 @@
         "favicon": "https://img.logo.dev/smg.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "上海浦东FM100.1新娱乐广播",
-        "url": "http://lhttp.qingting.fm/live/5022341/64k.mp3",
-        "favicon": "https://img.logo.dev/pudongtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "上海浦东FM106.5东上海之声",
-        "url": "http://lhttp.qingting.fm/live/21355/64k.mp3",
-        "favicon": "https://img.logo.dev/pudongtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "上海第一财经广播 FM90.9",
         "url": "https://lhttp-hw.qtfm.cn/live/276/64k.mp3",
         "favicon": "https://img.logo.dev/smg.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1518,31 +1253,6 @@
         "name": "上海长三角之声广播 FM89.9",
         "url": "https://lhttp-hw.qtfm.cn/live/275/64k.mp3",
         "favicon": "https://img.logo.dev/smg.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "上海麗都廣播電台 1940's Shanghai Vintage Jazz Shidaiqu Radio",
-        "url": "https://radio.nitro-server.uk/listen/1940sshanghaioldtimesmusicradio/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.nitro-server.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "上虞广播-1",
-        "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "上虞广播-1",
-        "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "上虞广播-2",
-        "url": "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "上虞广播-3",
-        "url": "https://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/sybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "东丰综合广播",
@@ -1590,24 +1300,9 @@
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "中国·汤阴 FM90.5",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500205/64k.mp3",
-        "favicon": "https://img.logo.dev/tangyin.dxhmt.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "中国之声",
         "url": "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
         "favicon": "https://img.logo.dev/cnr.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "中山环保旅游之声·快乐888",
-        "url": "https://lhttp.qingting.fm/live/1278/64k.mp3",
-        "favicon": "https://img.logo.dev/zsbtv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "中山综合广播·新锐967",
-        "url": "https://lhttp.qingting.fm/live/1277/64k.mp3",
-        "favicon": "https://img.logo.dev/zsbtv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "中江县年代音乐994",
@@ -1655,21 +1350,6 @@
         "favicon": "https://img.logo.dev/m.liqucn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "主內真生命",
-        "url": "https://stream.tligradio.org/listen/chinese/radio.mp3",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "主内真生命",
-        "url": "https://stream.tligradio.org/listen/chinese/radio.mp3",
-        "favicon": "https://img.logo.dev/tlig.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "主内真生命-英语",
-        "url": "https://stream.tligradio.org/listen/english/radio.mp3",
-        "favicon": "https://img.logo.dev/tlig.tw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "主播读经典",
         "url": "https://rscdn.ajmide.com/r_3169/nglive_3169.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1685,31 +1365,6 @@
         "favicon": "https://img.logo.dev/lqnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "义乌交通",
-        "url": "https://lhttp.qtfm.cn/live/20533/64k.mp3",
-        "favicon": "https://img.logo.dev/ywcity.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "义乌交通",
-        "url": "https://lhttp.qtfm.cn/live/20533/64k.mp3",
-        "favicon": "https://img.logo.dev/ywcity.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "义乌新闻",
-        "url": "https://lhttp.qtfm.cn/live/20537/64k.mp3",
-        "favicon": "https://img.logo.dev/ywcity.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "义乌新闻",
-        "url": "https://lhttp.qtfm.cn/live/20537/64k.mp3",
-        "favicon": "https://img.logo.dev/ywcity.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "义安电台",
-        "url": "https://lhttp.qingting.fm/live/5021979/64k.mp3",
-        "favicon": "https://img.logo.dev/tlxnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "之江记录",
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
         "favicon": "https://img.logo.dev/ali-m-l.cztv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1718,51 +1373,6 @@
         "name": "乌海交通音乐广播",
         "url": "https://lhttp.qingting.fm/live/15318704/64k.mp3",
         "favicon": "https://img.logo.dev/nmwhrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乌海综合广播",
-        "url": "http://lhttp.qingting.fm/live/15318706/64k.mp3",
-        "favicon": "https://img.logo.dev/wuhaixw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乌海蒙语综合广播",
-        "url": "http://live.wuhainews.org.cn/aac_myzhgb/sd/live.m3u8",
-        "favicon": "https://img.logo.dev/wuhainews.org.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乌鲁木齐交通广播",
-        "url": "https://lhttp.qtfm.cn/live/1919/64k.mp3",
-        "favicon": "https://img.logo.dev/urumqi.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乌鲁木齐新闻广播",
-        "url": "https://lhttp.qingting.fm/live/1918/64k.mp3",
-        "favicon": "https://img.logo.dev/xjutv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乌鲁木齐旅游音乐广播",
-        "url": "https://lhttp.qtfm.cn/live/1920/64k.mp3",
-        "favicon": "https://img.logo.dev/urumqi.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乌鲁木齐维语广播",
-        "url": "https://lhttp.qtfm.cn/live/1923/64k.mp3",
-        "favicon": "https://img.logo.dev/xjutv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乐山音乐交通广播",
-        "url": "https://lhttp.qtfm.cn/live/4864/64k.mp3",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乐清人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/20204/64k.mp3",
-        "favicon": "https://img.logo.dev/yqbtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "乐清人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/20204/64k.mp3",
-        "favicon": "https://img.logo.dev/yqbtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "乐游广播",
@@ -1775,94 +1385,9 @@
         "favicon": "https://img.logo.dev/author.baidu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "习水综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318201/64k.mp3",
-        "favicon": "https://img.logo.dev/zunyiol.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "乾安综合广播",
         "url": "http://stream7.jlntv.cn/qagb/playlist.m3u8",
         "favicon": "https://img.logo.dev/author.baidu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南交通之声",
-        "url": "https://gbw.ynradio.cn/radio/jtgb.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/ynradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南交通之声",
-        "url": "https://lhttp-hw.qtfm.cn/live/1928/64k.mp3",
-        "favicon": "https://img.logo.dev/yntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南卫视伴音",
-        "url": "https://piccpndali.v.myalicdn.com/audio/yunnan_2.m3u8",
-        "favicon": "https://img.logo.dev/yntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南国际广播 Yunnan International Radio",
-        "url": "https://gbw.ynradio.cn/radio/gjgb.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/ynradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南教育广播",
-        "url": "https://lhttp.qtfm.cn/live/1930/64k.mp3",
-        "favicon": "https://img.logo.dev/ynradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南教育广播",
-        "url": "https://gbw.ynradio.cn/radio/jygb.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/ynradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南新闻广播",
-        "url": "https://lhttp.qtfm.cn/live/1926/64k.mp3",
-        "favicon": "https://img.logo.dev/ynradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南新闻广播",
-        "url": "https://gbw.ynradio.cn/radio/xwgb.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/ynradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南旅游广播",
-        "url": "https://gbw.ynradio.cn/radio/fm99.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/ynradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南旅游广播·香格里拉之声",
-        "url": "https://lhttp.qtfm.cn/live/20139/64k.mp3",
-        "favicon": "https://img.logo.dev/ynradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南民族广播",
-        "url": "https://lhttp.qtfm.cn/live/1933/64k.mp3",
-        "favicon": "https://img.logo.dev/ynradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南民族广播",
-        "url": "https://gbw.ynradio.cn/radio/mzgb.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/ynradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南经济广播",
-        "url": "https://lhttp.qtfm.cn/live/1927/64k.mp3",
-        "favicon": "https://img.logo.dev/ynradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南经济广播",
-        "url": "https://gbw.ynradio.cn/radio/jjgb.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/ynradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南音乐广播",
-        "url": "https://gbw.ynradio.cn/radio/yygb.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/ynradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云南音乐广播",
-        "url": "https://lhttp.qtfm.cn/live/1929/64k.mp3",
-        "favicon": "https://img.logo.dev/ynradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "云和广播",
@@ -1885,21 +1410,6 @@
         "favicon": "https://img.logo.dev/qm.qq.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "云浮交通音乐广播",
-        "url": "http://lhttp.qingting.fm/live/5022441/64k.mp3",
-        "favicon": "https://img.logo.dev/yunfucity.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云浮综合广播",
-        "url": "http://lhttp.qingting.fm/live/5022442/64k.mp3",
-        "favicon": "https://img.logo.dev/yunfucity.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "云霄综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500106/64k.mp3",
-        "favicon": "https://img.logo.dev/zzyxxw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "五师人民广播电台双河之声",
         "url": "https://lhttp.qtfm.cn/live/20207772/64k.mp3",
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1920,11 +1430,6 @@
         "favicon": "https://img.logo.dev/m.bltv.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "什邡广播电视台综合广播",
-        "url": "http://live.sfrmt.com:85/live/gbdt.m3u8",
-        "favicon": "https://img.logo.dev/sfrmt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "仁寿人民广播电台",
         "url": "https://lhttp-hw.qtfm.cn/live/5021453/64k.mp3",
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1932,27 +1437,12 @@
     {
         "name": "他她说：EP.3 读本书吧《百岁人生》",
         "url": "https://media.xyzcdn.net/nnkLT7Qx1QNOjB362KOst5vwjYzl.mp3",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/media.xyzcdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "仙桃综合广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20211562/64k.mp3",
         "favicon": "https://img.logo.dev/cnxiantao.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "仪征人民广播电台",
-        "url": "https://lhttp.qingting.fm/live/15318182/64k.mp3",
-        "favicon": "https://img.logo.dev/yzycedu.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "任丘人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/5022470/64k.mp3",
-        "favicon": "https://img.logo.dev/renqiu.he.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "伊通综合广播（2）",
-        "url": "http://stream3.jlntv.cn/ytgb/playlist.m3u8",
-        "favicon": "https://img.logo.dev/yitong.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "休息音乐🎶",
@@ -1975,29 +1465,9 @@
         "favicon": "https://img.logo.dev/ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "余姚广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyuyaoaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/yynews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "余姚广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyuyaoaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/yynews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "佛冈电台",
         "url": "https://lhttp-hw.qtfm.cn/live/15318379/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "佛山南海广播",
-        "url": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8",
-        "favicon": "https://img.logo.dev/radiofoshan.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "佛山综合广播",
-        "url": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8",
-        "favicon": "https://img.logo.dev/radiofoshan.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "佛山顺德广播",
@@ -2013,11 +1483,6 @@
         "name": "保山综合广播",
         "url": "https://lhttp-hw.qtfm.cn/live/5022446/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "信阳平桥广播",
-        "url": "https://lhttp.qingting.fm/live/15318156/64k.mp3",
-        "favicon": "https://img.logo.dev/xytv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "偃师综合广播",
@@ -2063,21 +1528,6 @@
         "name": "兴和综合广播",
         "url": "https://live.ximalaya.com/radio-first-page-app/live/2907/64.m3u8?transcode=ts",
         "favicon": "https://img.logo.dev/apps.apple.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "兴宁电台",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500218/64k.mp3",
-        "favicon": "https://img.logo.dev/xingning.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "兵团二师铁门关综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20211703/64k.mp3",
-        "favicon": "https://img.logo.dev/tmg.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "兵团八师石河子新闻综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500118/64k.mp3",
-        "favicon": "https://img.logo.dev/shznews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "内江交通广播",
@@ -2200,11 +1650,6 @@
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "动感调频FM94.3 沙湾人民广播电台综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500064/64k.mp3",
-        "favicon": "https://img.logo.dev/xjsw.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "包头城乡广播",
         "url": "https://lhttp-hw.qtfm.cn/live/1892/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2270,9 +1715,9 @@
         "favicon": "https://img.logo.dev/syiptv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "十堰综合广播",
-        "url": "http://lhttp.qingting.fm/live/20338/64k.mp3",
-        "favicon": "https://img.logo.dev/syrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "千里之外",
+        "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+        "favicon": "https://img.logo.dev/cd-live-stream.news.cctvplus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "华藏净宗弘化网净空老法师",
@@ -2298,6 +1743,11 @@
         "name": "华语金曲500首",
         "url": "http://ls.qingting.fm/live/3412131.m3u8?bitrate=64",
         "favicon": "https://img.logo.dev/m.qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "南京溧水综合广播YO!FM 92.3",
+        "url": "http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsrmgbdt.m3u8",
+        "favicon": "https://img.logo.dev/lishui-tv-hls.cm.jstv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "南安市广播电视台综合广播",
@@ -2345,19 +1795,9 @@
         "favicon": "https://img.logo.dev/m.mp.oeeee.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "卧龙区台",
-        "url": "https://lhttp.qtfm.cn/live/20500113/64k.mp3",
-        "favicon": "https://img.logo.dev/wolong.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "卫辉综合广播 动听925",
         "url": "https://lhttp-hw.qtfm.cn/live/20500152/64k.mp3",
         "favicon": "https://img.logo.dev/weixin.qq.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "即墨人民广播电台",
-        "url": "https://lhttp.qingting.fm/live/20807/64k.mp3",
-        "favicon": "https://img.logo.dev/zhijimo.qingk.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "历史档案",
@@ -2378,11 +1818,6 @@
         "name": "历城广播电视台",
         "url": "https://live.ximalaya.com/radio-first-page-app/live/2903/64.m3u8?transcode=ts",
         "favicon": "https://img.logo.dev/pianyi-sjczk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "厦门音乐广播",
-        "url": "https://lhttp.qtfm.cn/live/1739/64k.mp3",
-        "favicon": "https://img.logo.dev/xmtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "双流人民广播电台",
@@ -2412,7 +1847,7 @@
     {
         "name": "台儿庄FM96.8古城音乐广播",
         "url": "https://jsyaudiolive302.iqilu.com/live/taierzhuang_audio/index.m3u8",
-        "favicon": "https://img.logo.dev/taierzhuang.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/jsyaudiolive302.iqilu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "台山五邑旅游频道",
@@ -2448,16 +1883,6 @@
         "name": "吉林卫视伴音",
         "url": "https://piccpndali.v.myalicdn.com/audio/jilin_2.m3u8",
         "favicon": "https://img.logo.dev/vod-jlr.jlntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "吉林市交通广播",
-        "url": "http://lhttp.qingting.fm/live/1819/64k.mp3",
-        "favicon": "https://img.logo.dev/senpre.icoc.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "吉林市广播电视台经济广播",
-        "url": "http://lhttp.qingting.fm/live/1823/64k.mp3",
-        "favicon": "https://img.logo.dev/senpre.icoc.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "吉林市音乐广播",
@@ -2510,9 +1935,9 @@
         "favicon": "https://img.logo.dev/jlntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "吕梁综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/4020/64k.mp3",
-        "favicon": "https://img.logo.dev/sxllnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "吉首综合广播飞扬101",
+        "url": "https://liveplay-srs.voc.com.cn/hls/broadcast/143_a544b7.m3u8",
+        "favicon": "https://img.logo.dev/liveplay-srs.voc.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "听·京剧",
@@ -2540,21 +1965,6 @@
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "吴江综合广播",
-        "url": "https://lhttp.qtfm.cn/live/5022050/64k.mp3",
-        "favicon": "https://img.logo.dev/wjdaily.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "周口交通广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318700/64k.mp3",
-        "favicon": "https://img.logo.dev/zkxww.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "周口综合广播",
-        "url": "https://lhttp.qtfm.cn/live/20212215/64k.mp3",
-        "favicon": "https://img.logo.dev/zkxww.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "周村区广播电视台",
         "url": "https://lhttp-hw.qtfm.cn/live/20500132/64k.mp3",
         "favicon": "https://img.logo.dev/m.liqucn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2571,18 +1981,13 @@
     },
     {
         "name": "咸阳综合广播",
-        "url": "https://lhttp.qingting.fm/live/5022397/64k.mp3",
-        "favicon": "https://img.logo.dev/xybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "咸阳综合广播",
         "url": "http://hplayer1.juyun.tv/tv/29379189.m3u8",
-        "favicon": "https://img.logo.dev/xybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/hplayer1.juyun.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "咸阳音乐广播",
         "url": "https://hplayer1.juyun.tv/camera/63973146.m3u8",
-        "favicon": "https://img.logo.dev/xybtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/hplayer1.juyun.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "哈密交通文艺广播",
@@ -2685,51 +2090,6 @@
         "favicon": "https://img.logo.dev/stream.hrbtv.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "唐县经典913",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500222/64k.mp3",
-        "favicon": "https://img.logo.dev/tangxian.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "唐山交通文艺广播",
-        "url": "https://lhttp.qtfm.cn/live/1659/64k.mp3",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "唐山曹妃甸之声",
-        "url": "https://lhttp.qtfm.cn/live/1660/64k.mp3",
-        "favicon": "https://img.logo.dev/tsr.he.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "唐山经济广播",
-        "url": "https://lhttp.qtfm.cn/live/15318431/64k.mp3",
-        "favicon": "https://img.logo.dev/tsr.he.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "唐山综合广播",
-        "url": "https://lhttp.qtfm.cn/live/1657/64k.mp3",
-        "favicon": "https://img.logo.dev/tsr.he.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "唐山音乐广播",
-        "url": "http://lhttp.qingting.fm/live/4871/64k.mp3",
-        "favicon": "https://img.logo.dev/tsr.he.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "商丘交通广播",
-        "url": "https://lhttp.qingting.fm/live/5021932/64k.mp3",
-        "favicon": "https://img.logo.dev/zhibo.sqrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "商丘综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022443/64k.mp3",
-        "favicon": "https://img.logo.dev/zhibo.sqrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "喀什综合广播",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/2773/64.m3u8?transcode=ts",
-        "favicon": "https://img.logo.dev/zgkashi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "嘉善新闻综合广播",
         "url": "https://p2hs.vzan.com/slowlive/389856315099073802/live.m3u8",
         "favicon": "https://img.logo.dev/apps.apple.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2795,11 +2155,6 @@
         "favicon": "https://img.logo.dev/evfh-www.plus.jlntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "团风县广播电视台",
-        "url": "https://lhttp.qtfm.cn/live/20500189/64k.mp3",
-        "favicon": "https://img.logo.dev/tuanfeng.cjyun.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "固镇人民广播电台",
         "url": "https://lhttp-hw.qtfm.cn/live/20500125/64k.mp3",
         "favicon": "https://img.logo.dev/guzhen.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2838,21 +2193,6 @@
         "name": "城阳综合广播 青岛广播爱车940",
         "url": "https://lhttp-hw.qtfm.cn/live/5022537/64k.mp3",
         "favicon": "https://img.logo.dev/app.mi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "塔城市综合广播",
-        "url": "https://lhttp.qtfm.cn/live/20500145/64k.mp3",
-        "favicon": "https://img.logo.dev/tcxw.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "塔城汉语综合广播",
-        "url": "https://lhttp.qtfm.cn/live/20500031/64k.mp3",
-        "favicon": "https://img.logo.dev/tcxw.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "增城人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/20211702/64k.mp3",
-        "favicon": "https://img.logo.dev/zctvs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "声音控电台",
@@ -3010,21 +2350,6 @@
         "favicon": "https://img.logo.dev/ttnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "天水交通广播频道",
-        "url": "https://lhttp.qtfm.cn/live/20211613/64k.mp3",
-        "favicon": "https://img.logo.dev/tstv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "天水综合频道",
-        "url": "https://lhttp.qtfm.cn/live/20460/64k.mp3",
-        "favicon": "https://img.logo.dev/tstv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "天水音乐文艺频道",
-        "url": "https://lhttp.qtfm.cn/live/21251/64k.mp3",
-        "favicon": "https://img.logo.dev/tstv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "天津卫视伴音",
         "url": "https://piccpndali.v.myalicdn.com/audio/tianjin_2.m3u8",
         "favicon": "https://img.logo.dev/tjtv.enorth.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3048,41 +2373,6 @@
         "name": "天门综合广播",
         "url": "https://lhttp.qtfm.cn/live/20500199/64k.mp3",
         "favicon": "https://img.logo.dev/tmwcn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "太仓综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20207759/64k.mp3",
-        "favicon": "https://img.logo.dev/taicangdaily.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "太原交通广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/4900/64k.mp3",
-        "favicon": "https://img.logo.dev/tynews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "太原经济广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/4018/64k.mp3",
-        "favicon": "https://img.logo.dev/tynews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "太原综合广播",
-        "url": "http://live.xmcdn.com/live/888/64.m3u8",
-        "favicon": "https://img.logo.dev/ty.cutv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "太原老年之声",
-        "url": "http://lhttp.qingting.fm/live/20211701/64k.mp3",
-        "favicon": "https://img.logo.dev/ty.cutv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "太原音乐广播",
-        "url": "https://lhttp.qingting.fm/live/1185/64k.mp3",
-        "favicon": "https://img.logo.dev/ty.cutv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "太和广播电视台 FM104.3",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318579/64k.mp3",
-        "favicon": "https://img.logo.dev/taihenews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "太谷综合广播",
@@ -3110,31 +2400,6 @@
         "favicon": "https://img.logo.dev/m.qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "威宁综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022342/64k.mp3",
-        "favicon": "https://img.logo.dev/weiningrm.org.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "威海交通广播FM102.2 FM95.0 AM1557",
-        "url": "https://lhttp-hw.qtfm.cn/live/20671/64k.mp3",
-        "favicon": "https://img.logo.dev/weihai.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "威海综合广播",
-        "url": "http://lhttp.qingting.fm/live/20669/64k.mp3",
-        "favicon": "https://img.logo.dev/weihai.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "威海综合广播FM105.1 FM107.3 AM1206",
-        "url": "https://lhttp-hw.qtfm.cn/live/20669/64k.mp3",
-        "favicon": "https://img.logo.dev/weihai.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "威海音乐广播FM90.7 FM88.3",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318612/64k.mp3",
-        "favicon": "https://img.logo.dev/weihai.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "威远综合广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20500102/64k.mp3",
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3145,16 +2410,6 @@
         "favicon": "https://img.logo.dev/ldnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "孝感交通音乐广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022063/64k.mp3",
-        "favicon": "https://img.logo.dev/xgnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "孝感综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022064/64k.mp3",
-        "favicon": "https://img.logo.dev/xgnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "孟村回族自治县人民广播电台",
         "url": "http://lhttp.qingting.fm/live/5021914/64k.mp3",
         "favicon": "https://img.logo.dev/cz.hebei.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3163,11 +2418,6 @@
         "name": "宁夏新闻广播",
         "url": "http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8?wsSession=d8b4488aebb72eb396f72a83-174701144043039&wsIPSercert=5bb043949891952939522be8c9bd5410",
         "favicon": "https://img.logo.dev/cnr.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "宁夏新闻广播",
-        "url": "https://stream.zeno.fm/rxx6d9fbvv8uv",
-        "favicon": "https://img.logo.dev/so1.360tres.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "宁德交通旅游广播",
@@ -3193,16 +2443,6 @@
         "name": "安丘924(FM92.4)",
         "url": "http://lhttp.qingting.fm/live/20212216/64k.mp3",
         "favicon": "https://img.logo.dev/weibo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "安庆农村广播",
-        "url": "https://lhttp.qingting.fm/live/1966/64k.mp3",
-        "favicon": "https://img.logo.dev/tv.aqnews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "安庆综合广播",
-        "url": "https://lhttp.qingting.fm/live/1965/64k.mp3",
-        "favicon": "https://img.logo.dev/tv.aqnews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "安康交通旅游音乐广播",
@@ -3260,11 +2500,6 @@
         "favicon": "https://img.logo.dev/dingzhoudaily.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "宛城都市音乐广播",
-        "url": "https://lhttp.qingting.fm/live/5022725/64k.mp3",
-        "favicon": "https://img.logo.dev/wancheng.01ny.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "宜兴交通广播",
         "url": "http://lhttp.qingting.fm/live/3982/64k.mp3",
         "favicon": "https://img.logo.dev/tdcm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3290,11 +2525,6 @@
         "favicon": "https://img.logo.dev/baojinews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "宿豫人民广播电台",
-        "url": "https://lhttp.qingting.fm/live/5005/64k.mp3",
-        "favicon": "https://img.logo.dev/sytv88.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "宿迁交通广播",
         "url": "https://lhttp.qingting.fm/live/5004/64k.mp3",
         "favicon": "https://img.logo.dev/tv.xichu.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3310,11 +2540,6 @@
         "favicon": "https://img.logo.dev/cbgc.scol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "察布查尔人民广播电台",
-        "url": "https://lhttp.qingting.fm/live/5022610/64k.mp3",
-        "favicon": "https://img.logo.dev/xjcbcr.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "寿光广播电视台",
         "url": "https://lhttp.qtfm.cn/live/20500211/64k.mp3",
         "favicon": "https://img.logo.dev/sj.qq.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3323,11 +2548,6 @@
         "name": "少爷生活",
         "url": "https://lhttp-hw.qtfm.cn/live/15318332/64k.mp3",
         "favicon": "https://img.logo.dev/lhttp-hw.qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "尤溪综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022498/64k.mp3",
-        "favicon": "https://img.logo.dev/yxxww.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "山东乡村广播",
@@ -3385,61 +2605,6 @@
         "favicon": "https://img.logo.dev/xiazaiba.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "山西交通广播",
-        "url": "http://radiolive.sxrtv.com/live/jiaotong.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西健康之声广播",
-        "url": "http://radiolive.sxrtv.com/live/jiankang.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西农村广播",
-        "url": "http://radiolive.sxrtv.com/live/nongcun.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西卫视伴音",
-        "url": "https://piccpndali.v.myalicdn.com/audio/shan1xi_2.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西广播电视台故事广播",
-        "url": "http://lhttp.qingting.fm/live/5022511/64k.mp3",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西故事广播",
-        "url": "http://radiolive.sxrtv.com/live/gushi.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西文艺广播",
-        "url": "http://radiolive.sxrtv.com/live/wenyi.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西经济广播",
-        "url": "http://radiolive.sxrtv.com/live/jingji.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西综合广播",
-        "url": "https://lhttp.qtfm.cn/live/20491/64k.mp3?app",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西综合广播",
-        "url": "http://radiolive.sxrtv.com/live/xinwen.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "山西音乐广播",
-        "url": "http://radiolive.sxrtv.com/live/yinyue.m3u8",
-        "favicon": "https://img.logo.dev/sxrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "岳阳县综合广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20500129/64k.mp3",
         "favicon": "https://img.logo.dev/pic.qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3485,11 +2650,6 @@
         "favicon": "https://img.logo.dev/ssnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "左云县摩天102",
-        "url": "https://lhttp.qtfm.cn/live/20212394/64k.mp3",
-        "favicon": "https://img.logo.dev/zuoyun.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "巧家新闻综合广播 白鹤之声",
         "url": "https://lhttp-hw.qtfm.cn/live/20211704/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3520,16 +2680,6 @@
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "巴音郭楞交通广播",
-        "url": "https://lhttp.qingting.fm/live/5022104/64k.mp3",
-        "favicon": "https://img.logo.dev/xjbz.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "巴音郭楞汉语综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022108/64k.mp3?",
-        "favicon": "https://img.logo.dev/xjbz.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "常德交通广播",
         "url": "https://lhttp.qingting.fm/live/15318209/64k.mp3",
         "favicon": "https://img.logo.dev/cdyee.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3538,11 +2688,6 @@
         "name": "常德综合广播",
         "url": "https://lhttp.qingting.fm/live/15318208/64k.mp3",
         "favicon": "https://img.logo.dev/cdyee.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "平定综合广播 经典流行FM101.1",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022407/64k.mp3",
-        "favicon": "https://img.logo.dev/yangquan.sxgov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "平潭综合广播FM98.5音乐艺术调频",
@@ -3745,11 +2890,6 @@
         "favicon": "https://img.logo.dev/qynews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "应城综合广播",
-        "url": "http://live.xmcdn.com/live/2798/64.m3u8",
-        "favicon": "https://img.logo.dev/yingcheng.cjyun.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "廊坊交通长书广播",
         "url": "http://lhttp.qingting.fm/live/3948/64k.mp3",
         "favicon": "https://img.logo.dev/lfnrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3765,36 +2905,6 @@
         "favicon": "https://img.logo.dev/lfnrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "延吉交通之声",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318331/64k.mp3",
-        "favicon": "https://img.logo.dev/yanji.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "延吉交通之声(2)",
-        "url": "http://stream7.jlntv.cn/yjgb/playlist.m3u8",
-        "favicon": "https://img.logo.dev/yanji.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "延吉汉语·朝鲜语综合广播",
-        "url": "http://stream7.jlntv.cn/yjgb/playlist.m3u8",
-        "favicon": "https://img.logo.dev/yanji.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "延安交通音乐广播",
-        "url": "https://srs.yanews.cn/audio/FM98-7/index.m3u8",
-        "favicon": "https://img.logo.dev/yanews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "延安综合广播",
-        "url": "https://srs.yanews.cn/audio/FM107-7/index.m3u8",
-        "favicon": "https://img.logo.dev/yanews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "延边汉语新闻综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022488/64k.mp3",
-        "favicon": "https://img.logo.dev/yb983.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "开化广播",
         "url": "http://l.cztvcloud.com/channels/lantian/SXkaihuaaud/128k.m3u8",
         "favicon": "https://img.logo.dev/khnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3803,51 +2913,6 @@
         "name": "开化广播",
         "url": "http://l.cztvcloud.com/channels/lantian/SXkaihuaaud/128k.m3u8",
         "favicon": "https://img.logo.dev/khnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张家口986音乐广播",
-        "url": "https://lhttp.qtfm.cn/live/5021801/64k.mp3",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张家口城市生活广播",
-        "url": "https://rscdn.ajmide.com/r_1806/nglive_1806.m3u8",
-        "favicon": "https://img.logo.dev/zjkgdcs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张家口旅游广播",
-        "url": "http://lhttp.qingting.fm/live/5021507/64k.mp3",
-        "favicon": "https://img.logo.dev/zjkgdcs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张家口旅游广播",
-        "url": "https://rscdn.ajmide.com/r_1827/nglive_1827.m3u8",
-        "favicon": "https://img.logo.dev/zjkgdcs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张家口综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318285/64k.mp3",
-        "favicon": "https://img.logo.dev/zjkgdcs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张家口综合广播",
-        "url": "https://rscdn.ajmide.com/r_2921/nglive_2921.m3u8",
-        "favicon": "https://img.logo.dev/zjkgdcs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张家口综艺广播",
-        "url": "https://rscdn.ajmide.com/r_1816/nglive_1816.m3u8",
-        "favicon": "https://img.logo.dev/zjkgdcs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张家港综合广播",
-        "url": "https://lhttp.qtfm.cn/live/5021877/64k.mp3",
-        "favicon": "https://img.logo.dev/zjgonline.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "张掖新闻综合广播",
-        "url": "http://lhttp.qingting.fm/live/5022096/64k.mp3",
-        "favicon": "https://img.logo.dev/zytv.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "彩条测试1",
@@ -3870,24 +2935,14 @@
         "favicon": "https://img.logo.dev/cri.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "徐州交通广播",
-        "url": "https://lhttp.qingting.fm/live/4924/64k.mp3",
-        "favicon": "https://img.logo.dev/xzgd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "徐州农村广播（蜻蜓FM）",
         "url": "https://lhttp-hw.qtfm.cn/live/20211623/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "徐州新闻综合广播",
-        "url": "https://lhttp.qingting.fm/live/4922/64k.mp3",
-        "favicon": "https://img.logo.dev/xzgd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "徐州音乐广播",
-        "url": "https://lhttp.qingting.fm/live/4923/64k.mp3",
-        "favicon": "https://img.logo.dev/xzgd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "德兴之声国际广播 DeXing International",
+        "url": "http://player4.juyun.tv/camera/158562106.m3u8?",
+        "favicon": "https://img.logo.dev/player4.juyun.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "德兴新闻综合广播 FM98.0",
@@ -3920,24 +2975,9 @@
         "favicon": "https://img.logo.dev/dqnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "德阳经济生活广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022110/64k.mp3",
-        "favicon": "https://img.logo.dev/scdytv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "德阳综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/4987/64k.mp3",
-        "favicon": "https://img.logo.dev/scdytv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "心灵音乐馆",
         "url": "http://stream3.hndt.com/now/AFqvb0VX/playlist.m3u8",
         "favicon": "https://img.logo.dev/stream3.hndt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "怀旧音乐广播",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/2629/64.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "怀来人民广播电台",
@@ -4005,49 +3045,14 @@
         "favicon": "https://img.logo.dev/apps.apple.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "成都潮台",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/2781/64.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "托峰明珠交通音乐·温宿人民广播电台",
-        "url": "https://lhttp.qingting.fm/live/20207780/64k.mp3",
-        "favicon": "https://img.logo.dev/wszf.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "扬州交通广播",
-        "url": "https://lhttp.qingting.fm/live/2804/64k.mp3",
-        "favicon": "https://img.logo.dev/yzntv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "扬州新闻广播",
-        "url": "https://lhttp.qingting.fm/live/5000/64k.mp3",
-        "favicon": "https://img.logo.dev/yzntv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "扬州江都广播",
         "url": "https://lhttp-hw.qtfm.cn/live/5022636/64k.mp3",
         "favicon": "https://img.logo.dev/96189.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "扬州经济音乐广播",
-        "url": "https://lhttp.qingting.fm/live/2805/64k.mp3",
-        "favicon": "https://img.logo.dev/yzntv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "扬州邗江广播FM96.7",
         "url": "https://lhttp-hw.qtfm.cn/live/20211632/64k.mp3",
         "favicon": "https://img.logo.dev/96189.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "抚州交通音乐广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500015/64k.mp3",
-        "favicon": "https://img.logo.dev/zgfznews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "抚州新闻综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500226/64k.mp3",
-        "favicon": "https://img.logo.dev/zgfznews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "抚松广播",
@@ -4068,16 +3073,6 @@
         "name": "抚顺音乐广播",
         "url": "https://rscdn.ajmide.com/r_1801/nglive_1801.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "攀枝花交通音乐广播",
-        "url": "https://lhttp.qtfm.cn/live/4905/64k.mp3",
-        "favicon": "https://img.logo.dev/pzhnews.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "攀枝花综合广播",
-        "url": "https://lhttp.qtfm.cn/live/4904/64k.mp3",
-        "favicon": "https://img.logo.dev/pzhnews.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "收音机无信号雪花音",
@@ -4105,46 +3100,6 @@
         "favicon": "https://img.logo.dev/jlntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "文山交通广播",
-        "url": "http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio10/playlist.m3u8",
-        "favicon": "https://img.logo.dev/wsrtv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "文山交通广播（新）",
-        "url": "http://m3u8.channel.wsrtv.com.cn/nmip-media/audiolive/audio104882/playlist.m3u8",
-        "favicon": "https://img.logo.dev/wsnews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "文山综合广播",
-        "url": "http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio9/playlist.m3u8",
-        "favicon": "https://img.logo.dev/wsrtv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "文山综合广播（新）",
-        "url": "http://m3u8.channel.wsrtv.com.cn/nmip-media/audiolive/audio104066/playlist.m3u8",
-        "favicon": "https://img.logo.dev/wsnews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "文成广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXwenchengaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/wap.66wc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "文成广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXwenchengaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/wap.66wc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "新乡交通广播",
-        "url": "https://lhttp.qtfm.cn/live/1229/64k.mp3",
-        "favicon": "https://img.logo.dev/tv373.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "新乡综合广播",
-        "url": "https://lhttp.qtfm.cn/live/1228/64k.mp3",
-        "favicon": "https://img.logo.dev/tv373.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "新余经济交通广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20093/64k.mp3",
         "favicon": "https://img.logo.dev/xy.jxntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4170,21 +3125,6 @@
         "favicon": "https://img.logo.dev/weibo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "新密综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500144/64k.mp3",
-        "favicon": "https://img.logo.dev/xinmi.dxhmt.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "新昌人民广播电台·天姥之声",
-        "url": "https://lhttp.qingting.fm/live/20212423/64k.mp3",
-        "favicon": "https://img.logo.dev/xcbtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "新昌人民广播电台·天姥之声",
-        "url": "https://lhttp.qingting.fm/live/20212423/64k.mp3",
-        "favicon": "https://img.logo.dev/xcbtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "新疆交通广播",
         "url": "https://live.ximalaya.com/radio-first-page-app/live/987/64.m3u8?transcode=ts",
         "favicon": "https://img.logo.dev/xjtvs.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4198,11 +3138,6 @@
         "name": "新疆卫视伴音",
         "url": "https://piccpndali.v.myalicdn.com/audio/xinjiang_2.m3u8",
         "favicon": "https://img.logo.dev/xjtvs.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "新疆哈语广播",
-        "url": "https://lhttp.qtfm.cn/live/1908/64k.mp3",
-        "favicon": "https://img.logo.dev/xjbs.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "新疆哈语广播",
@@ -4223,11 +3158,6 @@
         "name": "新疆文化旅游广播",
         "url": "https://lhttp.qtfm.cn/live/1909/64k.mp3",
         "favicon": "https://img.logo.dev/xjtvs.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "新疆柯尔克孜语广播",
-        "url": "http://satellitepull.cnr.cn/live/wxxjkygb/playlist.m3u8?wsSession=e155c0d7812904556cc22af2-174709889276127&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6",
-        "favicon": "https://img.logo.dev/xjbs.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "新疆柯语广播",
@@ -4305,21 +3235,6 @@
         "favicon": "https://img.logo.dev/muji.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "日喀则综合广播",
-        "url": "https://consolestream.rkzrm.cn:20323/0.m3u8",
-        "favicon": "https://img.logo.dev/rkzrm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "日喀则综合广播",
-        "url": "https://console.rkzrm.cn:20323/3.m3u8",
-        "favicon": "https://img.logo.dev/rkzrm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "日照交通生活广播 RZBC-2",
-        "url": "https://lhttp-hw.qtfm.cn/live/4005/64k.mp3",
-        "favicon": "https://img.logo.dev/rzw.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "昌吉交通广播",
         "url": "https://lhttp.qtfm.cn/live/20440/64k.mp3",
         "favicon": "https://img.logo.dev/cjxww.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4343,11 +3258,6 @@
         "name": "春天的风",
         "url": "https://radio.pull.hebtv.com/live/hebxw.m3u8",
         "favicon": "https://img.logo.dev/radio.pull.hebtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "昭通乌蒙之声新闻综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/21249/64k.mp3",
-        "favicon": "https://img.logo.dev/zttv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "昭通交通旅游广播",
@@ -4475,16 +3385,6 @@
         "favicon": "https://img.logo.dev/lncm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "柯桥人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/2422/64k.mp3",
-        "favicon": "https://img.logo.dev/zgkqw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "柯桥人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/2422/64k.mp3",
-        "favicon": "https://img.logo.dev/zgkqw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "柳州交通广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20571/64k.mp3",
         "favicon": "https://img.logo.dev/lzgd.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4500,19 +3400,9 @@
         "favicon": "https://img.logo.dev/author.baidu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "株洲交通广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/3971/64k.mp3",
-        "favicon": "https://img.logo.dev/zzbtv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "栾城怀旧金曲965",
         "url": "http://lhttp.qingting.fm/live/5022038/64k.mp3?",
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "桃江电台",
-        "url": "https://lhttp.qtfm.cn/live/20500086/64k.mp3",
-        "favicon": "https://img.logo.dev/taojiangnews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "桐乡人民广播电台",
@@ -4595,54 +3485,14 @@
         "favicon": "https://img.logo.dev/v.ylrb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "榆树综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500231/64k.mp3",
-        "favicon": "https://img.logo.dev/v.130400.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "正阳综合广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20212397/64k.mp3",
         "favicon": "https://img.logo.dev/m.zmdnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "武义广播FM87.7",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXwuyiaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/wynews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "武义广播FM87.7",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXwuyiaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/wynews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "武安人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/5022474/64k.mp3",
-        "favicon": "https://img.logo.dev/waxww.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "武汉交通广播·武汉市应急广播电台",
-        "url": "http://ls.qingting.fm/live/4665.m3u8",
-        "favicon": "https://img.logo.dev/whbc.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "武汉新闻广播",
-        "url": "http://lhttp.qingting.fm/live/20198/64k.mp3",
-        "favicon": "https://img.logo.dev/whbc.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "武汉经典音乐广播·岁月悠长，听见好时光",
-        "url": "http://ls.qingting.fm/live/1297.m3u8",
-        "favicon": "https://img.logo.dev/whbc.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "武汉经济广播",
         "url": "https://ytcastmp3.radio.cn/75/stream_11046.mp3?type=1&key=47fccb8241fa808e5bbcdf7e1c57e5ba&time=6969f548",
         "favicon": "https://img.logo.dev/radio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "武汉经济广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20200/64k.mp3",
-        "favicon": "https://img.logo.dev/whbc.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "每日经济新闻AI电视",
@@ -4660,34 +3510,9 @@
         "favicon": "https://img.logo.dev/stream3.hndt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "永吉县人民广播电台(2)",
-        "url": "http://stream9.jlntv.cn/yongjigb/playlist.m3u8",
-        "favicon": "https://img.logo.dev/xzyongji.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "永嘉综合广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyongjiaaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/yjnet.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "永嘉综合广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXyongjiaaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/yjnet.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "永宁电台 银川经典音乐广播",
         "url": "https://rscdn.ajmide.com/r_2023/nglive_2023.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "永川之声100.7",
-        "url": "https://lhttp.qtfm.cn/live/20210236/64k.mp3",
-        "favicon": "https://img.logo.dev/yongchuanwang.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "永年人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/20212203/64k.mp3",
-        "favicon": "https://img.logo.dev/yongniannews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "永康电台FM106.6",
@@ -4720,11 +3545,6 @@
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "江夏综合广播 魅力FM1064城市生活音乐广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022716/64k.mp3",
-        "favicon": "https://img.logo.dev/zsjxia.app.dawuhanapp.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "江山市广播电视台广播节目",
         "url": "http://play-sh.quklive.com/live/1621846880977914.m3u8",
         "favicon": "https://img.logo.dev/shouyou.3dmgame.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4743,61 +3563,6 @@
         "name": "江源综合广播",
         "url": "http://stream9.jlntv.cn/jiangyuangb/playlist.m3u8",
         "favicon": "https://img.logo.dev/jlntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏交通广播网",
-        "url": "http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏健康广播",
-        "url": "http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏故事广播",
-        "url": "http://lzlive.vojs.cn/rWjyus9/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏文艺广播",
-        "url": "http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏新闻广播",
-        "url": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏新闻综合广播",
-        "url": "http://lzlive.vojs.cn/rTyLc36/92/live.m3u8",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏经典流行音乐广播",
-        "url": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏经典流行音乐广播",
-        "url": "https://lhttp.qtfm.cn/live/4938/64k.mp3",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏财经广播",
-        "url": "http://lzlive.vojs.cn/caijing/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏金陵之声",
-        "url": "http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "江苏音乐广播",
-        "url": "http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8?",
-        "favicon": "https://img.logo.dev/vojs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "江西信息交通广播",
@@ -4897,17 +3662,7 @@
     {
         "name": "沅江综合广播",
         "url": "https://liveplay-srs.voc.com.cn/hls/broadcast/163_a8d90e.m3u8",
-        "favicon": "https://img.logo.dev/yjxww.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "沈丘综合广播",
-        "url": "http://live.ximalaya.com/radio-first-page-app/live/2778/64.m3u8",
-        "favicon": "https://img.logo.dev/shenqiu.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "沈阳新民广播FM103.9",
-        "url": "http://lhttp.qingting.fm/live/5022535/64k.mp3",
-        "favicon": "https://img.logo.dev/xinmin.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/liveplay-srs.voc.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "沈阳经典音乐广播",
@@ -5085,26 +3840,6 @@
         "favicon": "https://img.logo.dev/apps.apple.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "泉州交通广播",
-        "url": "https://lhttp.qingting.fm/live/15318189/64k.mp3",
-        "favicon": "https://img.logo.dev/qztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "泉州刺桐之声",
-        "url": "https://lhttp.qingting.fm/live/5022360/64k.mp3",
-        "favicon": "https://img.logo.dev/qztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "泉州新闻综合广播",
-        "url": "https://lhttp.qingting.fm/live/15318346/64k.mp3",
-        "favicon": "https://img.logo.dev/qztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "泉州经济生活广播",
-        "url": "https://live.xmcdn.com/live/1166/64.m3u8",
-        "favicon": "https://img.logo.dev/qztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "法国国际广播电台",
         "url": "https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3",
         "favicon": "https://img.logo.dev/rfi.fr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5130,6 +3865,11 @@
         "favicon": "https://img.logo.dev/tv.1545ts.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "泾县新闻综合广播",
+        "url": "https://apisave.jxnn.cn/hls/jxfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/apisave.jxnn.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "洛阳文艺广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20211321/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5145,14 +3885,34 @@
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "测试1",
-        "url": "http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8",
-        "favicon": "https://img.logo.dev/uniqueradio.jp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "测试17",
+        "url": "http://cdn71.liveonlineservices.com/hls/stv.m3u8",
+        "favicon": "https://img.logo.dev/cdn71.liveonlineservices.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "测试22",
         "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
         "favicon": "https://img.logo.dev/euroindiemusic.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "测试23",
+        "url": "http://d.liveatc.net/rcss2",
+        "favicon": "https://img.logo.dev/d.liveatc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "测试24",
+        "url": "http://d.liveatc.net/vhhh5",
+        "favicon": "https://img.logo.dev/d.liveatc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "测试25",
+        "url": "http://d.liveatc.net/rjoo1",
+        "favicon": "https://img.logo.dev/d.liveatc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "测试26",
+        "url": "http://d.liveatc.net/rjsf",
+        "favicon": "https://img.logo.dev/d.liveatc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "浙江之声",
@@ -5248,21 +4008,6 @@
         "name": "浙江音乐调频",
         "url": "http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8",
         "favicon": "https://img.logo.dev/cztv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "浦东文艺生活广播 城市沸点FM100.1",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022341/64k.mp3",
-        "favicon": "https://img.logo.dev/pudongtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "浦东综合广播 东上海之声FM106.5",
-        "url": "https://lhttp-hw.qtfm.cn/live/21355/64k.mp3",
-        "favicon": "https://img.logo.dev/pudongtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "浦口综合广播",
-        "url": "http://live.xmcdn.com/live/2697/64.m3u8",
-        "favicon": "https://img.logo.dev/pukou.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "海上财经",
@@ -5455,19 +4200,9 @@
         "favicon": "https://img.logo.dev/m.danji100.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "清丰融媒广播 濮阳经典调频1038",
-        "url": "https://lhttp.qingting.fm/live/5021461/64k.mp3",
-        "favicon": "https://img.logo.dev/qingfengw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "清晨音乐台",
         "url": "http://lhttp.qingting.fm/live/4915/64k.mp3",
         "favicon": "https://img.logo.dev/m.weibo.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "清苑人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/5021803/64k.mp3",
-        "favicon": "https://img.logo.dev/qyxbtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "清苑区105.8飞扬调频",
@@ -5475,9 +4210,9 @@
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "温岭1036·温岭人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/4567/64k.mp3",
-        "favicon": "https://img.logo.dev/wlnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "渠县新闻综合广播",
+        "url": "http://183.222.248.153:81/hls/nu6vbbdw.m3u8",
+        "favicon": "https://img.logo.dev/tv.quxian.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "温岭1036·温岭人民广播电台",
@@ -5485,89 +4220,9 @@
         "favicon": "https://img.logo.dev/wlnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "温州之声",
-        "url": "http://lhttp.qingting.fm/live/1155/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州之声",
-        "url": "http://lhttp.qingting.fm/live/1155/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州交通广播",
-        "url": "http://lhttp.qingting.fm/live/1156/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州交通广播",
-        "url": "http://lhttp.qingting.fm/live/1156/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州对农广播",
-        "url": "http://lhttp.qingting.fm/live/1158/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州对农广播",
-        "url": "http://lhttp.qingting.fm/live/1158/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州私家车音乐广播",
-        "url": "http://lhttp.qingting.fm/live/1149/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州私家车音乐广播",
-        "url": "http://lhttp.qingting.fm/live/1149/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州经济广播",
-        "url": "https://lhttp.qtfm.cn/live/1157/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州经济广播",
-        "url": "https://lhttp.qtfm.cn/live/1157/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州经济生活广播",
-        "url": "http://lhttp.qingting.fm/live/1157/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州经济生活广播",
-        "url": "http://lhttp.qingting.fm/live/1157/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州综合广播",
-        "url": "https://lhttp.qtfm.cn/live/1155/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州综合广播",
-        "url": "https://lhttp.qtfm.cn/live/1155/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州音乐之声",
-        "url": "https://lhttp.qtfm.cn/live/1149/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "温州音乐之声",
-        "url": "https://lhttp.qtfm.cn/live/1149/64k.mp3",
-        "favicon": "https://img.logo.dev/wztv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "渭南综合广播",
-        "url": "https://lhttp.qingting.fm/live/5022388/64k.mp3",
-        "favicon": "https://img.logo.dev/wnnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "温岭1036·温岭人民广播电台",
+        "url": "http://lhttp.qingting.fm/live/4567/64k.mp3",
+        "favicon": "https://img.logo.dev/wlnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "湖北之声（调频版）（2）",
@@ -5595,24 +4250,14 @@
         "favicon": "https://img.logo.dev/mgtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "湖南金鹰955|Hunan",
+        "url": "https://rscdn.ajmide.com/r_1700/nglive_1700.m3u8",
+        "favicon": "https://img.logo.dev/rscdn.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "湖南音乐之声广播 芒果音乐台",
         "url": "https://lhttp-hw.qtfm.cn/live/4979/64k.mp3",
         "favicon": "https://img.logo.dev/weibo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "湛江经济广播（娱乐怀旧金曲）",
-        "url": "https://lhttp-hw.qtfm.cn/live/5069/64k.mp3",
-        "favicon": "https://img.logo.dev/zjwtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "湛江综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20617/64k.mp3",
-        "favicon": "https://img.logo.dev/zjwtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "滁州南谯之声 经典983电台",
-        "url": "https://lhttp-hw.qtfm.cn/live/20211575/64k.mp3",
-        "favicon": "https://img.logo.dev/szbk.chuzhou.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "滕州广播电视台",
@@ -5655,19 +4300,9 @@
         "favicon": "https://img.logo.dev/a.app.qq.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "漳浦综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022658/64k.mp3",
-        "favicon": "https://img.logo.dev/zpxww.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "潍坊交通广播",
         "url": "https://lhttp.qtfm.cn/live/4014/64k.mp3",
         "favicon": "https://img.logo.dev/wfcmw.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "潍坊市潍城区 FM100.8城市之声",
-        "url": "https://lhttp.qtfm.cn/live/20211696/64k.mp3",
-        "favicon": "https://img.logo.dev/wfdaily.net.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "潍坊新闻广播",
@@ -5695,49 +4330,14 @@
         "favicon": "https://img.logo.dev/weibo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "濮阳交通广播",
-        "url": "https://lhttp.qtfm.cn/live/1233/64k.mp3",
-        "favicon": "https://img.logo.dev/pytv.ha.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "濮阳县FM1053快乐调频",
         "url": "https://lhttp-hw.qtfm.cn/live/20206/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "濮阳综合广播",
-        "url": "https://lhttp.qingting.fm/live/20207739/64k.mp3",
-        "favicon": "https://img.logo.dev/pytv.ha.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "火声电台",
         "url": "https://rscdn.ajmide.com/r_3161/nglive_3161.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "烟台交通广播",
-        "url": "https://lhttp.qtfm.cn/live/1684/64k.mp3",
-        "favicon": "https://img.logo.dev/yantaitv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "烟台经典音乐广播",
-        "url": "http://lhttp.qingting.fm/live/20500097/64k.mp3",
-        "favicon": "https://img.logo.dev/yantaitv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "烟台综合广播",
-        "url": "https://lhttp.qtfm.cn/live/1682/64k.mp3",
-        "favicon": "https://img.logo.dev/radio.jiaodong.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "烟台音乐广播",
-        "url": "http://live.xmcdn.com/live/2716/64.m3u8",
-        "favicon": "https://img.logo.dev/yantaitv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "烟台音乐广播",
-        "url": "https://lhttp.qtfm.cn/live/1683/64k.mp3",
-        "favicon": "https://img.logo.dev/yantaitv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "爱上海 LIVE 24",
@@ -5765,19 +4365,14 @@
         "favicon": "https://img.logo.dev/ixigua.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "玉林综合广播",
-        "url": "https://lhttp.qingting.fm/live/1762/64k.mp3",
-        "favicon": "https://img.logo.dev/yltvb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "玉溪交通旅游广播",
-        "url": "http://lhttp.qingting.fm/live/20211563/64k.mp3",
-        "favicon": "https://img.logo.dev/yxtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "玉山新闻综合广播",
+        "url": "https://play-a2.quklive.com/live/1744269984309138.m3u8",
+        "favicon": "https://img.logo.dev/play-a2.quklive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "玉溪新闻综合广播",
-        "url": "http://lhttp.qingting.fm/live/5022031/64k.mp3",
-        "favicon": "https://img.logo.dev/yxtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://hwapi.yntv.net/r5fc3f/wr84m9.m3u8",
+        "favicon": "https://img.logo.dev/yuxinet.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "玉环综合广播",
@@ -5803,11 +4398,6 @@
         "name": "珲春综合广播",
         "url": "http://stream9.jlntv.cn/hcgb/playlist.m3u8",
         "favicon": "https://img.logo.dev/author.baidu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "瓦房店人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/20500094/64k.mp3",
-        "favicon": "https://img.logo.dev/wfdrtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "甘孜康巴藏语综合广播",
@@ -5905,11 +4495,6 @@
         "favicon": "https://img.logo.dev/sjzntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "石狮人民广播电台",
-        "url": "http://live.xmcdn.com/live/2730/64.m3u8",
-        "favicon": "https://img.logo.dev/sstv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "磁县融媒综合广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20500116/64k.mp3",
         "favicon": "https://img.logo.dev/zysbs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5985,26 +4570,6 @@
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "秦皇岛交通广播",
-        "url": "http://lhttp.qingting.fm/live/20849/64k.mp3",
-        "favicon": "https://img.logo.dev/qhdcm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "秦皇岛体育广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20835/64k.mp3",
-        "favicon": "https://img.logo.dev/qhdcm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "秦皇岛旅游经济广播",
-        "url": "http://lhttp.qingting.fm/live/20859/64k.mp3",
-        "favicon": "https://img.logo.dev/qhdcm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "秦皇岛综合广播",
-        "url": "http://lhttp.qingting.fm/live/20855/64k.mp3",
-        "favicon": "https://img.logo.dev/qhdcm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "章丘广播电视台",
         "url": "https://lhttp.qtfm.cn/live/20212207/64k.mp3",
         "favicon": "https://img.logo.dev/downcc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6028,11 +4593,6 @@
         "name": "第一财经电视伴音",
         "url": "http://a1live.livecdn.yicai.com/live/radio_tv.m3u8",
         "favicon": "https://img.logo.dev/yicai.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "红安县电台",
-        "url": "https://lhttp.qtfm.cn/live/5022646/64k.mp3",
-        "favicon": "https://img.logo.dev/redhongan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "织金人民广播电台综合广播",
@@ -6150,74 +4710,14 @@
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "肇庆旅游之声",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/2654/64.m3u8?transcode=ts",
-        "favicon": "https://img.logo.dev/xjrb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "肇庆旅游之声",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/2893/64.m3u8?transcode=ts",
-        "favicon": "https://img.logo.dev/xjrb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "肇庆综合广播",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/2892/64.m3u8?transcode=ts",
-        "favicon": "https://img.logo.dev/xjrb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "肇庆高新之声",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500213/64k.mp3",
-        "favicon": "https://img.logo.dev/ronghehao-h5-zhaoqing-v3.nanyuecloud.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "肇庆高要综合广播",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/2870/64.m3u8?transcode=ts",
-        "favicon": "https://img.logo.dev/xjrb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "肥乡广播电视台音乐广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20500104/64k.mp3",
         "favicon": "https://img.logo.dev/feixiang.hebnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "腹股沟第三方他还会",
-        "url": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
-        "favicon": "https://img.logo.dev/shenniaotv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "自贡交通广播",
-        "url": "https://lhttp.qtfm.cn/live/20211650/64k.mp3",
-        "favicon": "https://img.logo.dev/zgbctv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "自贡文化旅游广播",
-        "url": "https://lhttp.qtfm.cn/live/20529/64k.mp3",
-        "favicon": "https://img.logo.dev/zgbctv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "自贡综合广播",
-        "url": "https://lhttp.qtfm.cn/live/20207784/64k.mp3",
-        "favicon": "https://img.logo.dev/zgbctv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "舞迷心窍",
         "url": "http://stream3.hndt.com/now/WBhgSD3A/playlist.m3u8",
         "favicon": "https://img.logo.dev/stream3.hndt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "芜湖交通经济广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5027/64k.mp3",
-        "favicon": "https://img.logo.dev/wuhubtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "芜湖综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5029/64k.mp3",
-        "favicon": "https://img.logo.dev/wuhubtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "芜湖音乐故事广播",
-        "url": "https://lhttp.qtfm.cn/live/5028/64k.mp3",
-        "favicon": "https://img.logo.dev/wuhunews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "苏家屯区盛京FM105.6",
@@ -6240,11 +4740,6 @@
         "favicon": "https://img.logo.dev/dcdown.pc6.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "荆州交通广播",
-        "url": "https://lhttp.qtfm.cn/live/1312/64k.mp3",
-        "favicon": "https://img.logo.dev/v.jznews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "莫扎特电台",
         "url": "https://rscdn.ajmide.com/r_3147/nglive_3147.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6265,11 +4760,6 @@
         "favicon": "https://img.logo.dev/hezegd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "萍乡新闻综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022409/64k.mp3",
-        "favicon": "https://img.logo.dev/pxnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "营口交通文艺广播",
         "url": "http://live.ximalaya.com/radio-first-page-app/live/2862/64.m3u8",
         "favicon": "https://img.logo.dev/ximalaya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6283,26 +4773,6 @@
         "name": "营口音乐之声",
         "url": "http://live.ximalaya.com/radio-first-page-app/live/2863/64.m3u8",
         "favicon": "https://img.logo.dev/ximalaya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "萧山有线广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "萧山有线广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "萧山综合广播",
-        "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "萧山综合广播",
-        "url": "https://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8",
-        "favicon": "https://img.logo.dev/xianghunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "蒙古之声",
@@ -6350,11 +4820,6 @@
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "蝠声综合频道",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/1428/64.m3u8?transcode=ts",
-        "favicon": "https://img.logo.dev/xjrb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "衡水文艺广播",
         "url": "https://lhttp.qtfm.cn/live/5021857/64k.mp3",
         "favicon": "https://img.logo.dev/m.weibo.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6395,19 +4860,9 @@
         "favicon": "https://img.logo.dev/qjnews.cztv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "襄州综合广播 都市965汽车音乐广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500108/64k.mp3",
-        "favicon": "https://img.logo.dev/zgxy.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "襄阳交通音乐广播",
         "url": "http://ls.qingting.fm/live/1308.m3u8",
         "favicon": "https://img.logo.dev/xyrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "襄阳文化教育广播",
-        "url": "http://lhttp.qingting.fm/live/5057/64k.mp3",
-        "favicon": "https://img.logo.dev/xiangyang.cjyun.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "襄阳综合广播",
@@ -6415,19 +4870,9 @@
         "favicon": "https://img.logo.dev/xyrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "西宁交通文艺广播",
-        "url": "http://lhttp.qingting.fm/live/5022283/64k.mp3",
-        "favicon": "https://img.logo.dev/xntv.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "西宁交通文艺广播 FM104.3",
         "url": "http://lhttp.qtfm.cn/live/5022283/64k.mp3",
         "favicon": "https://img.logo.dev/m.qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "西宁新闻综合广播",
-        "url": "http://lhttp.qingting.fm/live/5022282/64k.mp3",
-        "favicon": "https://img.logo.dev/xntv.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "西宁新闻综合广播 FM95.6",
@@ -6505,29 +4950,9 @@
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "许昌交通广播",
-        "url": "http://lhttp.qingting.fm/live/5022095/64k.mp3",
-        "favicon": "https://img.logo.dev/xctv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "许昌综合广播",
-        "url": "https://lhttp.qtfm.cn/live/5022092/64k.mp3",
-        "favicon": "https://img.logo.dev/xctv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "诏安广播电视台综合广播",
         "url": "https://lhttp-hw.qtfm.cn/live/20500186/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "诸暨人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/5022482/64k.mp3",
-        "favicon": "https://img.logo.dev/zjbtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "诸暨人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/5022482/64k.mp3",
-        "favicon": "https://img.logo.dev/zjbtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "贝多芬电台",
@@ -6575,14 +5000,19 @@
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "贵港交通文艺广播风尚调频",
+        "url": "https://play-a2.quklive.com/live/1763082797182267.m3u8",
+        "favicon": "https://img.logo.dev/play-a2.quklive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "贵港综合广播 金曲1019",
+        "url": "https://play-a2.quklive.com/live/1763082752100268.m3u8",
+        "favicon": "https://img.logo.dev/play-a2.quklive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "贵港综合广播/贵港金曲1019/FM101.9",
         "url": "https://lhttp-hw.qtfm.cn/live/20697/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "资阳综合广播",
-        "url": "https://zbzy.zyrb.com.cn/sclivedt/zydt.m3u8",
-        "favicon": "https://img.logo.dev/zyrb.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "赤峰交通广播",
@@ -6608,11 +5038,6 @@
         "name": "越夜越动听",
         "url": "https://rscdn.ajmide.com/r_3184/nglive_3184.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "轮台之声",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500099/64k.mp3",
-        "favicon": "https://img.logo.dev/xjlt.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "辉南综合广播",
@@ -6750,19 +5175,14 @@
         "favicon": "https://img.logo.dev/10c9-www.plus.jlntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "通榆综合广播",
-        "url": "http://stream7.jlntv.cn/tygb/playlist.m3u8",
-        "favicon": "https://img.logo.dev/tongyu.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "通许融媒广播电台",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500157/64k.mp3",
-        "favicon": "https://img.logo.dev/zyjjw.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "通辽交通文艺广播",
         "url": "https://video.tongliaowang.com:2443/live/cid5.m3u8",
         "favicon": "https://img.logo.dev/m.liqucn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "通辽旅游广播",
+        "url": "https://p2hs.vzan.com/slowlive/802262131846613854/live.m3u8",
+        "favicon": "https://img.logo.dev/p2hs.vzan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "通辽汉语综合广播",
@@ -6775,16 +5195,6 @@
         "favicon": "https://img.logo.dev/m.liqucn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "遂宁交通旅游广播",
-        "url": "http://lhttp.qingting.fm/live/20180/64k.mp3",
-        "favicon": "https://img.logo.dev/snxw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "遂宁综合广播",
-        "url": "http://lhttp.qingting.fm/live/20182/64k.mp3",
-        "favicon": "https://img.logo.dev/snxw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "遂昌综合广播",
         "url": "http://l.cztvcloud.com/channels/lantian/SXsuichangaud/128k.m3u8",
         "favicon": "https://img.logo.dev/scnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6793,71 +5203,11 @@
         "name": "遂昌综合广播",
         "url": "http://l.cztvcloud.com/channels/lantian/SXsuichangaud/128k.m3u8",
         "favicon": "https://img.logo.dev/scnews.zjol.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "遂溪台",
-        "url": "https://lhttp-hw.qtfm.cn/live/1284/64k.mp3",
-        "favicon": "https://img.logo.dev/suixi.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "遵义交通文艺广播",
-        "url": "https://lhttp.qingting.fm/live/20741/64k.mp3",
-        "favicon": "https://img.logo.dev/zybtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邢台交通•音乐广播",
-        "url": "http://lhttp.qingting.fm/live/15318481/64k.mp3",
-        "favicon": "https://img.logo.dev/xttv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邢台交通音乐广播",
-        "url": "https://jwcdnqx.hebyun.com.cn/live/xtjtyygb/1500k/tzwj_video.m3u8",
-        "favicon": "https://img.logo.dev/xttv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邢台新闻广播",
-        "url": "http://lhttp.qingting.fm/live/20211628/64k.mp3",
-        "favicon": "https://img.logo.dev/xttv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邢台爱在104（沙河市融媒体中心）",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022484/64k.mp3",
-        "favicon": "https://img.logo.dev/shaheshi.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邢台生活广播",
-        "url": "http://lhttp.qingting.fm/live/15318265/64k.mp3",
-        "favicon": "https://img.logo.dev/xttv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邢台经济生活广播",
-        "url": "https://jwcdnqx.hebyun.com.cn/live/wkx/1500k/tzwj_video.m3u8",
-        "favicon": "https://img.logo.dev/xttv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邢台综合广播",
-        "url": "https://jwcdnqx.hebyun.com.cn/live/xinxingtaiRD/1500k/tzwj_video.m3u8",
-        "favicon": "https://img.logo.dev/xttv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "那曲综合广播",
         "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzhgb.m3u8",
         "favicon": "https://img.logo.dev/nq.tianma3600.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邳州人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/2809/64k.mp3",
-        "favicon": "https://img.logo.dev/pznews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邵阳经济广播",
-        "url": "http://lhttp.qingting.fm/live/20500058/64k.mp3",
-        "favicon": "https://img.logo.dev/sytv.net.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "邵阳综合广播",
-        "url": "http://lhttp.qingting.fm/live/20148/64k.mp3",
-        "favicon": "https://img.logo.dev/sytv.net.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "邹平市融媒体中心综合广播",
@@ -6875,59 +5225,9 @@
         "favicon": "https://img.logo.dev/m.weibo.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "郑州交通广播",
-        "url": "https://lhttp.qtfm.cn/live/1211/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州人民广播电台 交通广播",
-        "url": "http://lhttp.qingting.fm/live/1211/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州人民广播电台 文化娱乐广播",
-        "url": "http://lhttp.qingting.fm/live/1222/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州人民广播电台 新闻广播",
-        "url": "http://lhttp.qingting.fm/live/1220/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州人民广播电台 经济广播",
-        "url": "http://lhttp.qingting.fm/live/1221/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州人民广播电台 音乐广播",
-        "url": "http://lhttp.qingting.fm/live/4921/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州文体旅游广播",
-        "url": "https://lhttp.qtfm.cn/live/1222/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州新闻综合广播",
-        "url": "https://lhttp.qtfm.cn/live/1220/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "郑州经典音乐广播",
         "url": "https://lhttp-hw.qtfm.cn/live/1223/64k.mp3",
         "favicon": "https://img.logo.dev/weibo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州经济生活广播",
-        "url": "https://lhttp.qtfm.cn/live/1221/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "郑州音乐广播",
-        "url": "https://lhttp.qtfm.cn/live/4921/64k.mp3",
-        "favicon": "https://img.logo.dev/zzradio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "郫都综合广播亚洲音乐965",
@@ -7017,22 +5317,12 @@
     {
         "name": "铁岭电视台新闻综合频道",
         "url": "https://live-play-tlrb.newaircloud.com/tlrb/3dc36395-a7a3-4855-9bd6-8d223cf9ac30.m3u8",
-        "favicon": "https://img.logo.dev/tieling.nen.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "铜仁交通旅游广播",
-        "url": "https://lhttp.qingting.fm/live/20211615/64k.mp3",
-        "favicon": "https://img.logo.dev/trrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/live-play-tlrb.newaircloud.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "铜山综合广播 徐州经典音乐FM942",
         "url": "https://lhttp-hw.qtfm.cn/live/15318160/64k.mp3",
         "favicon": "https://img.logo.dev/xuzhou.people.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "铜陵综合广播",
-        "url": "http://lhttp.qingting.fm/live/21303/64k.mp3",
-        "favicon": "https://img.logo.dev/tlbts.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "银川交通音乐广播",
@@ -7085,36 +5375,6 @@
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "镇江交通广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/3985/64k.mp3",
-        "favicon": "https://img.logo.dev/zjmc.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "镇江交通广播",
-        "url": "https://zjtv-wshls.homecdn.com/live/6451e.m3u8",
-        "favicon": "https://img.logo.dev/zjmc.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "镇江文艺广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/4605/64k.mp3",
-        "favicon": "https://img.logo.dev/zjmc.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "镇江文艺广播",
-        "url": "https://zjtv-wshls.homecdn.com/live/64524.m3u8",
-        "favicon": "https://img.logo.dev/zjmc.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "镇江综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/3984/64k.mp3",
-        "favicon": "https://img.logo.dev/zjmc.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "镇江综合广播",
-        "url": "https://zjtv-wshls.homecdn.com/live/64522.m3u8",
-        "favicon": "https://img.logo.dev/zjmc.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "镇海104.7 Nice FM",
         "url": "https://lhttp-hw.qtfm.cn/live/20033/64k.mp3",
         "favicon": "https://img.logo.dev/zhxww.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7123,31 +5383,11 @@
         "name": "镇海104.7 Nice FM",
         "url": "https://lhttp-hw.qtfm.cn/live/20033/64k.mp3",
         "favicon": "https://img.logo.dev/zhxww.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "镇雄新闻综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20210752/64k.mp3",
-        "favicon": "https://img.logo.dev/ynzxnews.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "长三角公共卫生网络电台",
         "url": "https://rscdn.ajmide.com/r_3142/nglive_3142.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "长兴人民广播电台·Up Radio FM97.3太湖之声",
-        "url": "https://lhttp.qtfm.cn/live/5022311/64k.mp3",
-        "favicon": "https://img.logo.dev/zjcxnews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "长兴人民广播电台·Up Radio FM97.3太湖之声",
-        "url": "https://lhttp.qtfm.cn/live/5022311/64k.mp3",
-        "favicon": "https://img.logo.dev/zjcxnews.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "长垣广播电视台综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318663/64k.mp3",
-        "favicon": "https://img.logo.dev/zyjjw.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "长春乡村戏曲广播",
@@ -7215,11 +5455,6 @@
         "favicon": "https://img.logo.dev/csxrmt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "长沙市望城区人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/5022076/64k.mp3",
-        "favicon": "https://img.logo.dev/wangchengtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "长治交通广播",
         "url": "https://lhttp.qtfm.cn/live/5021851/64k.mp3",
         "favicon": "https://img.logo.dev/weibo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7243,31 +5478,6 @@
         "name": "阳光悦读智听电台",
         "url": "https://rscdn.ajmide.com/r_3853/nglive_3853.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "阳江旅游环保广播",
-        "url": "https://lhttp.qtfm.cn/live/15318428/64k.mp3",
-        "favicon": "https://img.logo.dev/yjtvw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "阳江综合广播",
-        "url": "https://lhttp.qtfm.cn/live/15318429/64k.mp3",
-        "favicon": "https://img.logo.dev/yjtvw.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "阳泉交通广播",
-        "url": "http://lhttp.qingting.fm/live/15318165/64k.mp3",
-        "favicon": "https://img.logo.dev/yqrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "阳泉经济广播",
-        "url": "http://lhttp.qingting.fm/live/20211652/64k.mp3",
-        "favicon": "https://img.logo.dev/yqrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "阳泉综合广播",
-        "url": "http://lhttp.qingting.fm/live/15318568/64k.mp3",
-        "favicon": "https://img.logo.dev/yqrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "阿克苏市融媒体中心综合广播",
@@ -7300,31 +5510,6 @@
         "favicon": "https://img.logo.dev/sxtvs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "陕西农村广播",
-        "url": "https://lhttp.qtfm.cn/live/1602/64k.mp3",
-        "favicon": "https://img.logo.dev/snrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "陕西卫视伴音",
-        "url": "https://piccpndali.v.myalicdn.com/audio/shan3xi_2.m3u8",
-        "favicon": "https://img.logo.dev/snrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "陕西新闻广播",
-        "url": "https://lhttp.qtfm.cn/live/1600/64k.mp3",
-        "favicon": "https://img.logo.dev/snrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "陕西经济广播·唐诗电台",
-        "url": "https://lhttp-hw.qtfm.cn/live/1603/64k.mp3",
-        "favicon": "https://img.logo.dev/snrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "陕西青少广播",
-        "url": "http://live.ximalaya.com/radio-first-page-app/live/870/64.m3u8",
-        "favicon": "https://img.logo.dev/snrtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "陕西青少广播好听1055（经典流行金曲）",
         "url": "https://lhttp.qtfm.cn/live/4885/64k.mp3",
         "favicon": "https://img.logo.dev/sxtvs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7342,17 +5527,12 @@
     {
         "name": "雅安广播电视台综合广播",
         "url": "http://iovliveplay.radio.cn/fm/1600000003331h.m3u8",
-        "favicon": "https://img.logo.dev/yaantv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/iovliveplay.radio.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "集安综合广播",
         "url": "http://stream3.jlntv.cn/jagb/playlist.m3u8",
         "favicon": "https://img.logo.dev/baike.baidu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "集美广播",
-        "url": "http://lhttp.qingting.fm/live/5022479/64k.mp3",
-        "favicon": "https://img.logo.dev/xmtv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "雨声电台",
@@ -7465,19 +5645,9 @@
         "favicon": "https://img.logo.dev/m.downkuai.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "青海交通音乐卫星广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5009/64k.mp3",
-        "favicon": "https://img.logo.dev/qhbtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "青海交通音乐广播 FM97.2",
         "url": "http://lhttp.qtfm.cn/live/5009/64k.mp3",
         "favicon": "https://img.logo.dev/m.qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "青海卫视伴音",
-        "url": "https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8",
-        "favicon": "https://img.logo.dev/qhbtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "青海安多藏语广播",
@@ -7485,34 +5655,9 @@
         "favicon": "https://img.logo.dev/cnr.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "青海新闻综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/20063/64k.mp3",
-        "favicon": "https://img.logo.dev/qhbtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "青海新闻综合广播 青海之声",
-        "url": "http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8?wsSession=1c983a4091d3a5f8a963629b-174700972161410&wsIPSercert=5bb043949891952939522be8c9bd5410",
-        "favicon": "https://img.logo.dev/qhbtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "青海经济广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5008/64k.mp3",
-        "favicon": "https://img.logo.dev/qhbtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "青海经济生活广播 FM90.3",
         "url": "http://lhttp.qtfm.cn/live/5008/64k.mp3",
         "favicon": "https://img.logo.dev/m.qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "青田广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXqingtianaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/zgqt.zj.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "青田广播",
-        "url": "http://l.cztvcloud.com/channels/lantian/SXqingtianaud/128k.m3u8",
-        "favicon": "https://img.logo.dev/zgqt.zj.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "靖宇县综合广播",
@@ -7525,11 +5670,6 @@
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "韩城综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318413/64k.mp3",
-        "favicon": "https://img.logo.dev/sxhcrm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "音乐剧剧场",
         "url": "https://rscdn.ajmide.com/r_3148/nglive_3148.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7540,29 +5680,19 @@
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "韶关综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5022074/64k.mp3",
-        "favicon": "https://img.logo.dev/sgxw.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "项城936 项城综艺交通广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/15318335/64k.mp3",
-        "favicon": "https://img.logo.dev/xc-w.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "项城广播-国风国潮105.9",
         "url": "https://lhttp-hw.qtfm.cn/live/20210757/64k.mp3",
         "favicon": "https://img.logo.dev/xiangcheng.gov.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "颍上广播电视台FM96.2",
-        "url": "https://lhttp-hw.qtfm.cn/live/20500039/64k.mp3",
-        "favicon": "https://img.logo.dev/ys-news.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "风声电台",
         "url": "https://rscdn.ajmide.com/r_3164/nglive_3164.m3u8",
         "favicon": "https://img.logo.dev/m.ajmide.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "馒头说·历史的温度",
+        "url": "https://rscdn.ajmide.com/r_3172/nglive_3172.m3u8",
+        "favicon": "https://img.logo.dev/storymedia.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "马鞍山交通音乐广播",
@@ -7598,11 +5728,6 @@
         "name": "高阳县怀旧金曲964",
         "url": "http://lhttp.qingting.fm/live/5021555/64k.mp3?",
         "favicon": "https://img.logo.dev/qingting.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "魏县人民广播电台",
-        "url": "http://lhttp.qingting.fm/live/20212412/64k.mp3",
-        "favicon": "https://img.logo.dev/wz5.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "鲅鱼圈综合广播",
@@ -7653,16 +5778,6 @@
         "name": "麻城综合广播",
         "url": "https://video.yscxy.cn:8888/mctv3.m3u8?t=${Date.now()}",
         "favicon": "https://img.logo.dev/macheng.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "黄山综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/1968/64k.mp3",
-        "favicon": "https://img.logo.dev/qxndt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "黄岛综合广播",
-        "url": "https://lhttp.qingting.fm/live/20176/64k.mp3",
-        "favicon": "https://img.logo.dev/qwmedia.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "黄岩电台",
@@ -7730,11 +5845,6 @@
         "favicon": "https://img.logo.dev/hljtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "黔东南交通广播",
-        "url": "http://lhttp.qingting.fm/live/5022285/64k.mp3",
-        "favicon": "https://img.logo.dev/qdntv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "黔东南州凯里广播电台",
         "url": "https://lhttp.qtfm.cn/live/5022045/64k.mp3",
         "favicon": "https://img.logo.dev/qdnrbs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7745,29 +5855,19 @@
         "favicon": "https://img.logo.dev/qdnrbs.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "黔西南旅游广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5046/64k.mp3",
-        "favicon": "https://img.logo.dev/qxndt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "黔西南综合广播",
-        "url": "https://lhttp-hw.qtfm.cn/live/5045/64k.mp3",
-        "favicon": "https://img.logo.dev/qxndt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "齐河年代882",
         "url": "https://lhttp-hw.qtfm.cn/live/20500197/64k.mp3",
         "favicon": "https://img.logo.dev/2265.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "齐齐哈尔综合广播",
-        "url": "https://lhttp.qtfm.cn/live/20500133/64k.mp3",
-        "favicon": "https://img.logo.dev/qqhrnews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "龙井综合广播",
         "url": "http://stream9.jlntv.cn/longjinggb/playlist.m3u8",
         "favicon": "https://img.logo.dev/jlntv.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "龙山综合广播龙凤之声",
+        "url": "https://liveplay-srs.voc.com.cn/hls/broadcast/146_80a15b.m3u8",
+        "favicon": "https://img.logo.dev/liveplay-srs.voc.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "龙泉驿区龙泉人民广播电台",
@@ -7778,10 +5878,5 @@
         "name": "龙游人民广播电台FM95.4",
         "url": "https://lhttp-hw.qtfm.cn/live/15318359/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "아리랑모바일방송",
-        "url": "https://lhttp.qingting.fm/live/5022144/64k.mp3",
-        "favicon": "https://img.logo.dev/yanji.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

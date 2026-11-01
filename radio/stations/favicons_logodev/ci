@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ACM Radio",
         "url": "https://listen.radioking.com/radio/670561/stream/734653",
         "favicon": "https://img.logo.dev/eglisecma.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -95,9 +90,39 @@
         "favicon": "https://img.logo.dev/albayane.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Augusta International",
+        "url": "https://ecmanager4.pro-fhi.net:2250/stream",
+        "favicon": "https://img.logo.dev/radioaugusta.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Côte d'Ivoire",
+        "url": "https://listen.radioking.com/radio/732974/stream/799223",
+        "favicon": "https://img.logo.dev/rtiplay.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio de la Paix",
+        "url": "https://www.radiodelapaix.ci/radio.mp3",
+        "favicon": "https://img.logo.dev/radiodelapaix.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Dialogue Citoyens",
+        "url": "https://stream.zeno.fm/74514wb9yy8uv",
+        "favicon": "https://img.logo.dev/radiodialoguecitoyens.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio ESJC",
         "url": "https://stream4.vestaradio.com/RadioESJC",
         "favicon": "https://img.logo.dev/esjc.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Espoir",
+        "url": "https://dc1.serverse.com/proxy/radioespoir/stream",
+        "favicon": "https://img.logo.dev/radioespoir.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Génération",
+        "url": "https://listen.radioking.com/radio/322058/stream/369815",
+        "favicon": "https://img.logo.dev/radio.fondationmarieesther.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Jam",
@@ -108,6 +133,31 @@
         "name": "Radio Maria Ivory Coast",
         "url": "https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream",
         "favicon": "https://img.logo.dev/radiomaria.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nationale Catholique (RNC) — La Voix de l'Évangile",
+        "url": "https://dc1.serverse.com/proxy/rncapp/stream",
+        "favicon": "https://img.logo.dev/rnc-ci.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Pulsar Katiola",
+        "url": "https://stream10.vestaradio.com/RADIO-PULSAR-KATIOLA",
+        "favicon": "https://img.logo.dev/radiopulsarkatiola.vestaradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Saphir",
+        "url": "https://stream.radiosaphir.com/listen/radiosaphir-106.8-fm/radio.mp3",
+        "favicon": "https://img.logo.dev/radiosaphir.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTI Fréquence 2",
+        "url": "https://listen.radioking.com/radio/734192/stream/800486",
+        "favicon": "https://img.logo.dev/rtiplay.ci?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RVM Radio",
+        "url": "https://radio.rvmsikensi.com/radio/8000/radio.mp3",
+        "favicon": "https://img.logo.dev/rvmsikensi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Serveur de Messages Prophétiques",

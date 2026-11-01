@@ -1,17 +1,7 @@
 [
     {
-        "name": "LOVE FM: All you need is Love ♥ Amor en la radio",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "EXA FM Honduras: Tegucigalpa 100.5 FM / San Pedro Sula 89.3 FM / Choluteca 95.9 FM / Litoral 93.9 FM",
         "url": "https://stream.zeno.fm/0n4tnx3wd5zuv",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "EXA FM: Música Pop en Español e Inglés",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
         "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -28,16 +18,6 @@
         "name": "94 SU FM 94.1 Tegucigalpa",
         "url": "http://ice42.securenetsystems.net/94SUFM",
         "favicon": "https://img.logo.dev/94sufm.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Blue Wave Radio",
@@ -126,13 +106,8 @@
     },
     {
         "name": "Radio America  94.7 Tegucigalpa",
-        "url": "http://26563.live.streamtheworld.com:3690/AMERICA_SC",
+        "url": "http://26653.live.streamtheworld.com/AMERICA_SC",
         "favicon": "https://img.logo.dev/radioamericahn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO FÉNIX INTERNACIONAL",
-        "url": "http://listen.usuarios.space:8036/live",
-        "favicon": "https://img.logo.dev/radiofenixinternacional.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Globo 88.5 HN",
@@ -185,11 +160,6 @@
         "favicon": "https://img.logo.dev/soygarifuna.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Stereo Ceiba 99.9 - La Ceiba",
-        "url": "http://24493.live.streamtheworld.com/RADIO_CEIBAAAC_SC",
-        "favicon": "https://img.logo.dev/stereoceiba.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Stereo Dimensión - La 96",
         "url": "https://rr5100.globalhost1.com:7328/stream",
         "favicon": "https://img.logo.dev/crh.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -208,11 +178,6 @@
         "name": "Suave FM 102.5 Tegucigalpa",
         "url": "http://ice42.securenetsystems.net/SUAVE",
         "favicon": "https://img.logo.dev/suave.hn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Super 100 Tegucigalpa 100.1",
-        "url": "http://26653.live.streamtheworld.com/SUPER100_SC",
-        "favicon": "https://img.logo.dev/super100hn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOX FM",

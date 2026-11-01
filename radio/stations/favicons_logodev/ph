@@ -5,16 +5,6 @@
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "100.7 Love Radio Lucena",
-        "url": "https://loveradiolucena.radioca.st/",
-        "favicon": "https://img.logo.dev/loveradiolucena.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "100.7 XFM Tagum",
         "url": "http://209.126.124.126:8681/stream",
         "favicon": "https://img.logo.dev/amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -96,8 +86,18 @@
     },
     {
         "name": "105.5 RADIO ONE",
-        "url": "https://prox.radyoph.com/s/78ad4eb6964be290fb10795192321847",
-        "favicon": "https://img.logo.dev/prox.radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "http://in-icecast.eradioportal.com:8000/rwluzon",
+        "favicon": "https://img.logo.dev/in-icecast.eradioportal.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "105.5 RADIO ONE LITE",
+        "url": "https://stream-178.zeno.fm/r8pmp16khf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOHBtcDE2a2hmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktRRHREM1ZjVElxN3hfWFRra3A4X1EiLCJpYXQiOjE3ODAzMDk0NDQsImV4cCI6MTc4MDMwOTUwNH0.jF2jnAwv16igOcpKToSdZhBMic7GscoiRoJcNl5dmXk",
+        "favicon": "https://img.logo.dev/radio-free.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "105.9 Hot FM - DWLA",
+        "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+        "favicon": "https://img.logo.dev/azura.loveradio.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "105.9 One FM - DWLA",
@@ -108,26 +108,6 @@
         "name": "105.9 One FM Manila",
         "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
         "favicon": "https://img.logo.dev/cignal.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "105.9 True FM",
-        "url": "https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/truefm.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "105.9 True FM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/truefm.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "105.9 True FM",
-        "url": "https://cast5.servcast.net/proxy/truefmph/stream",
-        "favicon": "https://img.logo.dev/truefm.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "105.9 True FM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/news.tv5.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "106 Dream FM",
@@ -145,24 +125,19 @@
         "favicon": "https://img.logo.dev/easyrock.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "106.7 Radyo5 True FM HD",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/news.tv5.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "106.7 True FM - DWET",
         "url": "https://cast5.servcast.net/proxy/truefmph/stream",
         "favicon": "https://img.logo.dev/cignal.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "106.7 True FM - DWET",
+        "url": "https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u8",
+        "favicon": "https://img.logo.dev/satlitetv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "106.9 WGB FM TABACO",
         "url": "https://canada1.reliastream.com/proxy/dexlain2?mp=/stream&1763679567738",
         "favicon": "https://img.logo.dev/pbnbicol.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "107.1 Radyo Kontra Weeaboo",
-        "url": "http://95.154.197.82:24823/stream",
-        "favicon": "https://img.logo.dev/kontrawibu.caster.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "107.7 BIG RADIO Bongabong, Oriental Mindoro",
@@ -178,11 +153,6 @@
         "name": "819 DXUM-AM Davao City",
         "url": "http://62.138.18.102:8569/stream",
         "favicon": "https://img.logo.dev/fr1.amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "87.5 Republ1ka FM1 HD",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/pbs.gov.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "90.7 Love Radio - DZMB",
@@ -220,6 +190,16 @@
         "favicon": "https://img.logo.dev/news.tv5.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "92.3 XFM - DWFM",
+        "url": "http://148.72.153.65:9198/stream",
+        "favicon": "https://img.logo.dev/radio-free.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "93.5 City Radio",
+        "url": "https://cdnstream1.typicalmedia.net/yourradio",
+        "favicon": "https://img.logo.dev/cdnstream1.typicalmedia.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "93.5 Easy Rock - DYEY",
         "url": "http://easyrockboracay.radioca.st:8887/stream",
         "favicon": "https://img.logo.dev/easyrock.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -233,6 +213,11 @@
         "name": "94.5 K5 NEWS FM KALIBO",
         "url": "http://209.126.124.126:8730/stream",
         "favicon": "https://img.logo.dev/us1.amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "95.9 XFM Gensan",
+        "url": "http://37.157.242.102:18607/stream",
+        "favicon": "https://img.logo.dev/xfmgeneralsantoscity.ai.studio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "96.1 Infinite Radio Panabo City",
@@ -318,11 +303,6 @@
         "name": "ABN 96.5 FM Laoag",
         "url": "https://stream.zeno.fm/vkm1e1y2f3quv",
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ABS-CBN All Radio 101.9 FM",
-        "url": "http://209.126.124.126:8852/stream",
-        "favicon": "https://img.logo.dev/allradio1035.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ABS-CBN All Radio 101.9 FM",
@@ -501,12 +481,12 @@
     },
     {
         "name": "AXR Manila",
-        "url": "http://22273.live.streamtheworld.com:3690/AXR_SC",
+        "url": "http://22283.live.streamtheworld.com:3690/AXR_SC",
         "favicon": "https://img.logo.dev/axr.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AXR Manila",
-        "url": "http://28103.live.streamtheworld.com:3690/AXR_MANILA_SC",
+        "url": "http://28093.live.streamtheworld.com/AXR_MANILA_SC",
         "favicon": "https://img.logo.dev/axr.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -557,6 +537,11 @@
     {
         "name": "Barangay LS 91.1 Lucena",
         "url": "http://uk2freenew.listen2myradio.com:10449/",
+        "favicon": "https://img.logo.dev/gmanetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Barangay LS 91.1 Lucena",
+        "url": "http://uk18freenew.listen2myradio.com:27364/",
         "favicon": "https://img.logo.dev/gmanetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1105,6 +1090,11 @@
         "favicon": "https://img.logo.dev/cctn47.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Channel [V] Radio 101.9 DWDB-FM",
+        "url": "https://listen.radioking.com/radio/453221/stream/508076",
+        "favicon": "https://img.logo.dev/en.wikipedia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Christmas Radio Philippines",
         "url": "http://209.126.124.126:8888/stream",
         "favicon": "https://img.logo.dev/us1.amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1113,6 +1103,11 @@
         "name": "Christmas Radio Philippines - Powered By www.amfmph.net",
         "url": "https://us1.amfmph.com/ssl/christmasradio?mp=/stream&1641738050672",
         "favicon": "https://img.logo.dev/amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CityRadio / DZCY",
+        "url": "https://cdnstream1.typicalmedia.net/yourradio",
+        "favicon": "https://img.logo.dev/cdnstream1.typicalmedia.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cloudstaff Radio",
@@ -1175,6 +1170,11 @@
         "favicon": "https://img.logo.dev/radyopangasinan.xo.je?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DWLA 105.9 Hot FM",
+        "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+        "favicon": "https://img.logo.dev/azura.loveradio.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DWNX 91.1 RMN Naga",
         "url": "https://stream.zeno.fm/1ytydzphq7zuv",
         "favicon": "https://img.logo.dev/thermnnetworks.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1200,11 +1200,6 @@
         "favicon": "https://img.logo.dev/774dwww.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DXAB One Radyo 1296 AM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/cignal.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "DXBH Hope Radio 103.7Mhz",
         "url": "https://stream.dxbh.net/main_mp3",
         "favicon": "https://img.logo.dev/dxbh.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1228,11 +1223,6 @@
         "name": "DXUM DAVAO",
         "url": "http://148.72.153.65:9229/stream",
         "favicon": "https://img.logo.dev/amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DYAB One Radyo 1512 AM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/cignal.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DYHB 747 RMN Bacolod",
@@ -1270,21 +1260,6 @@
         "favicon": "https://img.logo.dev/pbs.gov.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DZAR Radyo Ronda Plus 1026 AM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/rpnradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DZAR Radyo Ronda Plus 1026 AM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/rpnradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DZAR Radyo Ronda Plus 1026 AM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/rpnradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Dzas 702",
         "url": "https://stream.radio.co/s14821250a/listen",
         "favicon": "https://img.logo.dev/febc.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1317,11 +1292,6 @@
     {
         "name": "DZMM Radyo Patrol 630",
         "url": "http://209.126.124.126:8852/stream",
-        "favicon": "https://img.logo.dev/pcmc.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DZMM Radyo Patrol 630",
-        "url": "http://209.126.124.126:8852/stream",
         "favicon": "https://img.logo.dev/abs-cbn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1343,16 +1313,6 @@
         "name": "DZRH News Television",
         "url": "https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8",
         "favicon": "https://img.logo.dev/dzrh.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DZRJ-AM",
-        "url": "http://111.125.87.226:8000/dzrjam",
-        "favicon": "https://img.logo.dev/rjplanet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DZTM One Radyo 1026 AM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/cignal.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Eagle FM 95.5",
@@ -1458,6 +1418,11 @@
         "name": "Energy FM Manila",
         "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
         "favicon": "https://img.logo.dev/eradioportal.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "EWTN Philippines",
+        "url": "https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8",
+        "favicon": "https://img.logo.dev/ewtn-sgrewind.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EWTN Philippines",
@@ -1650,11 +1615,6 @@
         "favicon": "https://img.logo.dev/amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FMR News Radio 92.3 Manila",
-        "url": "http://209.126.124.126:8852/stream",
-        "favicon": "https://img.logo.dev/pcmc.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "FMR Regional",
         "url": "http://de3.amfmph.com:8715/live",
         "favicon": "https://img.logo.dev/pcmc.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1815,14 +1775,19 @@
         "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "iFM Cauayan",
-        "url": "https://livestream.rmn.ph/ifmcauayan",
+        "name": "iFM Baguio",
+        "url": "http://livestream.rmn.ph:8000/ifmbaguio",
         "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "iFM Cebu",
-        "url": "http://45.136.19.0:8064/stream",
-        "favicon": "https://img.logo.dev/thermnnetworks.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "iFM Cagayan de Oro",
+        "url": "http://livestream.rmn.ph:8000/ifmcdo",
+        "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iFM Cauayan",
+        "url": "https://livestream.rmn.ph/ifmcauayan",
+        "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "iFM Cebu",
@@ -1835,8 +1800,23 @@
         "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "iFM Dagupan",
+        "url": "http://livestream.rmn.ph:8000/ifmdagupan",
+        "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iFM Davao",
+        "url": "http://livestream.rmn.ph:8000/ifmdavao",
+        "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "iFM Iloilo",
         "url": "http://62.138.18.102:8288/stream",
+        "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iFM Laoag",
+        "url": "http://livestream.rmn.ph:8000/ifmlaoag",
         "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1848,6 +1828,16 @@
         "name": "iFM Roxas",
         "url": "https://livestream.rmn.ph/ifmroxas",
         "favicon": "https://img.logo.dev/thermnnetworks.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iFM Tacloban",
+        "url": "http://livestream.rmn.ph:8000/rmntacloban",
+        "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "iFM Vigan",
+        "url": "https://livestream.rmn.ph/ifmvigan",
+        "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "iFM Vigan",
@@ -1885,6 +1875,11 @@
         "favicon": "https://img.logo.dev/jilworldwide.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Jexie FM",
+        "url": "https://cd.radyoph.com:8030/jexiefm",
+        "favicon": "https://img.logo.dev/cd.radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Joy FM Davao Oriental",
         "url": "http://122.53.61.251:8000/webilecaraga.ogg",
         "favicon": "https://img.logo.dev/stream.joyfm-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1908,16 +1903,6 @@
         "name": "Jungle Radio",
         "url": "https://dj.radyoph.com:8020/jungleradio",
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "K5 News FM 101.9 FM",
-        "url": "http://209.126.124.126:8852/stream",
-        "favicon": "https://img.logo.dev/abs-cbn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "K5 News FM 101.9 Manila",
-        "url": "http://209.126.124.126:8852/stream",
-        "favicon": "https://img.logo.dev/abs-cbn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "K5 News FM Antique",
@@ -2023,11 +2008,6 @@
         "name": "Kings Radio Philippines",
         "url": "http://209.126.124.126:8708/stream",
         "favicon": "https://img.logo.dev/us1.amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KJM 94.3 FM",
-        "url": "https://stream.amfm.link:8010/kjm",
-        "favicon": "https://img.logo.dev/stream.amfm.link?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Klick FM 106.3 Bacolod",
@@ -2148,11 +2128,6 @@
         "name": "Love Radio Lucena",
         "url": "http://148.251.43.231:8158/stream",
         "favicon": "https://img.logo.dev/loveradio.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Love Radio Lucena",
-        "url": "http://loveradiolucena.radioca.st:8158/stream",
-        "favicon": "https://img.logo.dev/loveradiolucena.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Love Radio Malaybalay",
@@ -2335,8 +2310,13 @@
         "favicon": "https://img.logo.dev/iradioph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Monster Radio RX 93.1",
+        "url": "https://in-icecast.eradioportal.com:8443/monsterrrx",
+        "favicon": "https://img.logo.dev/rx931.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "MOR",
-        "url": "http://22253.live.streamtheworld.com:3690/MORFM_S01_SC",
+        "url": "http://28103.live.streamtheworld.com:3690/MORFM_S01_SC",
         "favicon": "https://img.logo.dev/ent.abs-cbn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2356,7 +2336,7 @@
     },
     {
         "name": "MOR Entertainment (PLS Format)",
-        "url": "http://28103.live.streamtheworld.com/MORFM_S01_SC",
+        "url": "http://22253.live.streamtheworld.com:3690/MORFM_S01_SC",
         "favicon": "https://img.logo.dev/ent.abs-cbn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2396,8 +2376,13 @@
     },
     {
         "name": "MYX Philippines",
-        "url": "http://22283.live.streamtheworld.com:3690/MYXFM_SC",
+        "url": "http://28093.live.streamtheworld.com/MYXFM_SC",
         "favicon": "https://img.logo.dev/myx.global?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Newsline Central Luzon 105.5 FM",
+        "url": "https://makatistream.brigadanews.ph/",
+        "favicon": "https://img.logo.dev/makatistream.brigadanews.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NewsRadio Buletin Southern Luzon",
@@ -2490,11 +2475,6 @@
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "One FM Tarlac",
-        "url": "https://prox.radyoph.com/s/78ad4eb6964be290fb10795192321847",
-        "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "One Radio News FM Daet",
         "url": "http://165.154.210.116:9907/oneradiodaet",
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2520,19 +2500,14 @@
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PGRP Radio",
-        "url": "http://stream.zeno.fm/2xm2rdg48cquv",
-        "favicon": "https://img.logo.dev/sa-mp.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "PH Lite",
         "url": "https://stream.amfm.link/listen/ch1/phlite",
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "PH Lite",
-        "url": "https://stream.amfm.link/listen/ch1/phlite",
-        "favicon": "https://img.logo.dev/stream.amfm.link?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "url": "https://xcite.radyoph.com:8000/phlite",
+        "favicon": "https://img.logo.dev/xcite.radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pines FM Bataraza",
@@ -2585,26 +2560,6 @@
         "favicon": "https://img.logo.dev/radio.org.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Disney Philippines - Cebu FM 87.5",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Disney Philippines - Cebu FM 87.5",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Disney Philippines - Davao FM 105.9",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Disney Philippines 96.7 FM",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Libertas Pampanga",
         "url": "https://stream.zeno.fm/9td2da86gg8uv",
         "favicon": "https://img.logo.dev/holycrosscollegepampanga.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2628,6 +2583,11 @@
         "name": "Radio Maria Philippines",
         "url": "https://dreamsiteradiocp2.com/proxy/rmphilippine?mp=/stream?ver=748140",
         "favicon": "https://img.logo.dev/radiomaria.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO ONE 105.5 FM",
+        "url": "http://in-icecast.eradioportal.com:8000/rwluzon",
+        "favicon": "https://img.logo.dev/in-icecast.eradioportal.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo 630",
@@ -2660,21 +2620,6 @@
         "favicon": "https://img.logo.dev/radyobanderafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radyo Bandera Sweet FM",
-        "url": "https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream",
-        "favicon": "https://img.logo.dev/radyobandera.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Bandera Sweet FM Iloilo",
-        "url": "https://us1.amfmph.com/ssl/sweetfmiloilo?mp=/stream",
-        "favicon": "https://img.logo.dev/radyobanderailoilo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo Bandera Sweet FM Iloilo",
-        "url": "https://us1.amfmph.com/ssl/sweetfmiloilo?mp=/stream",
-        "favicon": "https://img.logo.dev/radyobanderailoilo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radyo Bandera Trento",
         "url": "https://cd.amfm.link:8010/bandera_trento",
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2695,14 +2640,14 @@
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radyo Kidlat 91.3 FM",
-        "url": "https://stream.zeno.fm/t3bvque9fc9uv",
-        "favicon": "https://img.logo.dev/samelco-1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radyo Magasin",
         "url": "http://58.97.187.52:5007/rp3",
         "favicon": "https://img.logo.dev/radyopilipinas.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radyo Merkado Aklan",
+        "url": "http://rmstream.todostreamcast.com:8000/rmaklan",
+        "favicon": "https://img.logo.dev/rmstream.todostreamcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyo Natin (Mindanao)",
@@ -3200,11 +3145,6 @@
         "favicon": "https://img.logo.dev/radyopilipino.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radyo Serbato Butuan",
-        "url": "https://stream.zeno.fm/uhvwdbxa1k8uv",
-        "favicon": "https://img.logo.dev/urtmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radyo Sincero GenSan",
         "url": "http://mercury.reliastream.com:8013/stream",
         "favicon": "https://img.logo.dev/getradio.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3215,14 +3155,19 @@
         "favicon": "https://img.logo.dev/getradio.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radyo Todo 88.5 FM",
+        "url": "http://rmstream.todostreamcast.com/radyotodoaklan",
+        "favicon": "https://img.logo.dev/rmstream.todostreamcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radyo Todo Aklan 88.5",
+        "url": "https://radyotodoaklan.vonnhost.workers.dev/radyotodoaklan",
+        "favicon": "https://img.logo.dev/radyotodo.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radyo Veritas 846",
         "url": "http://icecast.eradioportal.com:8000/radyo-veritas-846",
         "favicon": "https://img.logo.dev/veritasph.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radyo5 105.9 True FM",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/news.tv5.com.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radyong Sira!",
@@ -3238,11 +3183,6 @@
         "name": "Radyong Sira!",
         "url": "https://a7.asurahosting.com:9110/radio.mp3",
         "favicon": "https://img.logo.dev/radyongsira.ltg.network?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rainbow 107.1 Emotions FM",
-        "url": "https://cast.rainbow-fm.com/listen/rainbow_fm/radio.mp3",
-        "favicon": "https://img.logo.dev/rainbow-fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raysland Radio",
@@ -3265,19 +3205,9 @@
         "favicon": "https://img.logo.dev/amfmph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Retro House Radio",
-        "url": "https://listen.streamaudio.co/proxy/retrohouseradio/house",
-        "favicon": "https://img.logo.dev/retrohouseradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rhythm 101 FM Online",
-        "url": "https://stream.zeno.fm/kpbamsatoqxtv",
-        "favicon": "https://img.logo.dev/rhythm101.devcoderz.site?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RJ FM 100.3",
-        "url": "http://111.125.87.226:8000/rjfm",
-        "favicon": "https://img.logo.dev/rjplanet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RMN DXCC 828 Cagayan De Oro",
+        "url": "http://livestream.rmn.ph:8000/rmncdo",
+        "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RMN DXDC 621 Davao",
@@ -3317,6 +3247,11 @@
     {
         "name": "RMN DYRI Iloilo",
         "url": "https://us1.amfmph.com/ssl/rmniloilo?mp=/stream",
+        "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RMN DYVR 657 Roxas",
+        "url": "https://livestream.rmn.ph/rmndyvrroxas",
         "favicon": "https://img.logo.dev/rmn.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3383,11 +3318,6 @@
         "name": "RPN DZRL Batac",
         "url": "http://88.198.70.25:8956/stream",
         "favicon": "https://img.logo.dev/tunein.rpnradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RTG FM ㋡",
-        "url": "https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267?sABC=67sn43rs%231%23ahyy%23ubzrcntr_jnpxra&mode=preroll&aw_0_1st.skey=1744454636&cb=424203436&listenerid=null&aw_0_1st.playerid=homepage_wacken&amsparams=playerid:homepage_wacken;skey:1744454639?.mp3;audio.mp3",
-        "favicon": "https://img.logo.dev/zharlzzz.netlify.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RW 95.1",
@@ -3463,16 +3393,6 @@
         "name": "Spirit FM Masbate",
         "url": "https://us4new.listen2myradio.com:12373/;",
         "favicon": "https://img.logo.dev/spiritfmmasbate.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Spotlight Radio FM",
-        "url": "https://cast2.my-control-panel.com/proxy/dennis/stream",
-        "favicon": "https://img.logo.dev/spotlightradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Spotlight Radio FM",
-        "url": "http://65.21.202.84:8184/stream",
-        "favicon": "https://img.logo.dev/spotlightradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Star FM 92.7 Pampanga",
@@ -3655,9 +3575,9 @@
         "favicon": "https://img.logo.dev/en.wikipedia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Unbox Radio",
-        "url": "https://stream.zeno.fm/2m8rqpd37p8uv",
-        "favicon": "https://img.logo.dev/jackonline.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "UM RADIO",
+        "url": "https://stream.zeno.fm/fing1gwxuqztv",
+        "favicon": "https://img.logo.dev/umindanao.edu.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Unbox Radio",
@@ -3665,9 +3585,9 @@
         "favicon": "https://img.logo.dev/jackonline.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "V-Hive Radio Philippines",
-        "url": "http://192.99.8.192:3154/vhiveradiostream",
-        "favicon": "https://img.logo.dev/vhiveradioph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Unbox Radio",
+        "url": "https://stream.zeno.fm/2m8rqpd37p8uv",
+        "favicon": "https://img.logo.dev/jackonline.ph?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "V81 Radio",
@@ -3683,11 +3603,6 @@
         "name": "Voice Radio Catarman",
         "url": "https://stream.zeno.fm/gbfhjvrljhxuv",
         "favicon": "https://img.logo.dev/radyoph.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wave 89.1",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/wave891.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Wild FM Butuan",
@@ -3818,6 +3733,11 @@
         "name": "Win Radio Manila",
         "url": "https://stream-31.zeno.fm/2ss1hgnu6hhvv",
         "favicon": "https://img.logo.dev/winradioph.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wish 107.5",
+        "url": "https://www.wish1075.com/",
+        "favicon": "https://img.logo.dev/wish1075.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WOW RADIO",

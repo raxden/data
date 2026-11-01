@@ -5,14 +5,19 @@
         "favicon": "https://img.logo.dev/cadenaradialdeleste.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ABC Cardinal 730AM",
-        "url": "http://media.streambrothers.com:18342/stream",
+        "name": "ABC Cardinal 730 AM",
+        "url": "https://radios-paraguay.com/5-abc-cardinal-730am.html",
         "favicon": "https://img.logo.dev/abc.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "ABC Cardinal 730AM",
+        "url": "https://ny1.radio.primcast.com/8342/stream",
+        "favicon": "https://img.logo.dev/abc.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ABC Cardinal 730AM",
+        "url": "http://media.streambrothers.com:18342/stream",
+        "favicon": "https://img.logo.dev/abc.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Amabmay FM 100.5",
@@ -28,6 +33,16 @@
         "name": "Aspen FM 102.7 Paraguay",
         "url": "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/radioaspen.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cardinal Romance 98.5 FM",
+        "url": "https://radoxo.com/paraguay/radio-abc-fm",
+        "favicon": "https://img.logo.dev/abc.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cardinal Romance 98.5 FM",
+        "url": "https://ny1.radio.primcast.com/8350/stream",
+        "favicon": "https://img.logo.dev/abc.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cuevas FM 91.7",
@@ -58,11 +73,6 @@
         "name": "Estacion 105  105.1 FM",
         "url": "http://radio.host.com.py:9460/;",
         "favicon": "https://img.logo.dev/turadio.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Exa FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fabulosa FM 104.5",
@@ -120,6 +130,11 @@
         "favicon": "https://img.logo.dev/amambayfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Amor 95.9FM",
+        "url": "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8",
+        "favicon": "https://img.logo.dev/copaco.desdeparaguay.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Aranduka 87.9 FM",
         "url": "http://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/m.desdeparaguay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -165,6 +180,16 @@
         "favicon": "https://img.logo.dev/radioconcierto.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Digital 88.5 Fm Paraguay",
+        "url": "http://streaming.camaronhosting.com:8036/",
+        "favicon": "https://img.logo.dev/streaming.camaronhosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Digital 88.5 Fm Paraguay",
+        "url": "http://streaming.camaronhosting.com:8036/",
+        "favicon": "https://img.logo.dev/streaming.camaronhosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Disney Paraguay FM 96.5",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8?dist=web-radiodisney",
         "favicon": "https://img.logo.dev/py.radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -195,16 +220,6 @@
         "favicon": "https://img.logo.dev/paraguayonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO MARIA PARAGUAY",
-        "url": "http://dreamsiteradiocp.com:8090/stream",
-        "favicon": "https://img.logo.dev/radiomaria.org.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mix 90.1 FM",
-        "url": "https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/radiomix.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Monumental 1080 AM",
         "url": "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
         "favicon": "https://img.logo.dev/monumental.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -223,11 +238,6 @@
         "name": "Radio Palma 106.5 FM",
         "url": "http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf",
         "favicon": "https://img.logo.dev/palma.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Pop 93.3 FM",
-        "url": "http://rps1.radiopop.com.py:8000/stream",
-        "favicon": "https://img.logo.dev/radiopop.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio RQP 94.3 FM",
@@ -250,11 +260,6 @@
         "favicon": "https://img.logo.dev/desdeparaguay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Top Milenium 91.5 FM",
-        "url": "http://sonic.host-live.com:8398/stream",
-        "favicon": "https://img.logo.dev/topmilenium915.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Universo 92.5 Fm",
         "url": "http://radio.cdehosting.net:8042/stream",
         "favicon": "https://img.logo.dev/cadenaradialdeleste.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -270,19 +275,14 @@
         "favicon": "https://img.logo.dev/urbana.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Vibras 92.7FM",
-        "url": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/vibras.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Ysapy 90.7 FM",
-        "url": "http://streamsoymedios.com:8014/stream",
-        "favicon": "https://img.logo.dev/radioysapy.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rock&Pop Paraguay",
         "url": "https://cp9.serverse.com/proxy/rockandpop/stream",
         "favicon": "https://img.logo.dev/rockandpop.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RQP Paraguay 94.3 FM",
+        "url": "https://radios-paraguay.com/71-rqp.html",
+        "favicon": "https://img.logo.dev/rqp.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sin Fronteras 98.5 FM",
@@ -295,13 +295,8 @@
         "favicon": "https://img.logo.dev/c32.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tropicalia 93.9FM",
-        "url": "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/tropicalia.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Vibras 92.7FM",
         "url": "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8?k=5d1b32cc4cfb2b10be3ecff56d8aeee5e59993cfc1a5234cc73eca0b8b7f7487&exp=1651095717",
-        "favicon": "https://img.logo.dev/vibras.com.py?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/copaco.desdeparaguay.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

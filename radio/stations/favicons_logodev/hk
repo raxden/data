@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Apple-FM.net",
         "url": "http://sc7b.apple-fm.net:8188/",
         "favicon": "https://img.logo.dev/apple-fm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -90,11 +85,6 @@
         "favicon": "https://img.logo.dev/rthk.hk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Disney Asia FM 100.7",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RTHK Radio 1",
         "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8",
         "favicon": "https://img.logo.dev/rthk.org.hk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -107,17 +97,7 @@
     {
         "name": "RTHK Radio 1",
         "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
-        "favicon": "https://img.logo.dev/rthkaudio1-lh.akamaihd.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RTHK Radio 1",
-        "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
         "favicon": "https://img.logo.dev/rthk.org.hk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RTHK Radio 1",
-        "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8",
-        "favicon": "https://img.logo.dev/rthkaudio1-lh.akamaihd.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RTHK Radio 2",
@@ -175,6 +155,16 @@
         "favicon": "https://img.logo.dev/rthk.hk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "test",
+        "url": "http://example.com/x.mp3",
+        "favicon": "https://img.logo.dev/example.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal Health Radio (粵語)",
+        "url": "https://radio.universalhealthradio.org/uhr-yue.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "ZENO FM 良友同行频道",
         "url": "https://stream.zeno.fm/2uvcyzjw38ivv",
         "favicon": "https://img.logo.dev/729ly.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -193,16 +183,6 @@
         "name": "中央人民廣播電台 經濟之聲",
         "url": "http://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
         "favicon": "https://img.logo.dev/cnr.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "中山環保旅遊之聲",
-        "url": "https://lhttp.qingting.fm/live/1278/64k.mp3",
-        "favicon": "https://img.logo.dev/zsbtv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "中山綜合廣播",
-        "url": "https://lhttp.qingting.fm/live/1277/64k.mp3",
-        "favicon": "https://img.logo.dev/zsbtv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "凤凰卫视中文台",
@@ -265,26 +245,6 @@
         "favicon": "https://img.logo.dev/hwadzan.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "深圳交通廣播",
-        "url": "https://lhttp-hw.qtfm.cn/live/1272/64k.mp3",
-        "favicon": "https://img.logo.dev/sztv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "深圳新聞廣播",
-        "url": "http://lhttp.qingting.fm/live/1270/64k.mp3",
-        "favicon": "https://img.logo.dev/sztv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "深圳生活廣播",
-        "url": "http://ls.qingting.fm/live/1273.m3u8",
-        "favicon": "https://img.logo.dev/sztv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "深圳音樂廣播",
-        "url": "http://ls.qingting.fm/live/1271.m3u8",
-        "favicon": "https://img.logo.dev/sztv.com.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "源声态汽车音乐电台",
         "url": "https://lhttp-hw.qtfm.cn/live/20500021/64k.mp3",
         "favicon": "https://img.logo.dev/qtfm.cn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -325,19 +285,14 @@
         "favicon": "https://img.logo.dev/hwadzan.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "良友电台友音乐频道",
-        "url": "https://c25.radioboss.fm:8334/stream",
-        "favicon": "https://img.logo.dev/r1.lyradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "良友电台同行频道",
-        "url": "https://c23.radioboss.fm/stream/194",
-        "favicon": "https://img.logo.dev/r1.lyradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "華語 HITS",
         "url": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
         "favicon": "https://img.logo.dev/new.brg-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "講台Talkonly",
+        "url": "https://live.talkonly.net:8443/talkonly.mp3",
+        "favicon": "https://img.logo.dev/live.talkonly.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "香港新城电台知讯台",

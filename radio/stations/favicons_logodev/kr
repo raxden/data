@@ -15,18 +15,13 @@
         "favicon": "https://img.logo.dev/radio.bsod.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AFN GO DAEGU",
         "url": "https://22963.live.streamtheworld.com/AFNP_DGUAAC.aac?country=KR&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=11fdf19a-4184-4c11-f1ce-9c93ca088fa1",
         "favicon": "https://img.logo.dev/afngo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AFN GO HUMPHREYS The Eagle",
-        "url": "http://14623.live.streamtheworld.com:3690/AFNP_OSNAAC_SC",
+        "url": "http://14623.live.streamtheworld.com/AFNP_OSNAAC_SC",
         "favicon": "https://img.logo.dev/afngo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -110,11 +105,6 @@
         "favicon": "https://img.logo.dev/cbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Clasico kbs",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI3OTAzNzB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=hs~eVwbWcG42msDJairoFvHFDoUj-UDXoozBgSauUu5KhkxTd05Rz9YTR63cxA1zS~CXrhaE1ocHz1CbCQ-uVYKd242jS8mGO4R0aDKvU1xBklfpOGv19r7hkpSDZE8Pu5aL82Q5TK1iHSYVR9EiRYj9fRWZ3fmUQ4cMFWkI1ezRJ0EPpDvxKQrshdhtK7n6tZSeeCFYweK3h4aM562HRwg-hCSHyq3ezN9P4SsIGcuFghf0jprrM1rQUxWU7p3TO2TGj8XVSR8HDZjB4AUF7AFRoaIlAnNJe2WqIjz2hK7eOYK5lXwh9vFaOsb6qKrNR~m2mlqNS106ncD5QdkeEQ__",
-        "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Classic Odyssey",
         "url": "http://live07.inlive.co.kr:21110/",
         "favicon": "https://img.logo.dev/inlive.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -126,7 +116,7 @@
     },
     {
         "name": "CPBC",
-        "url": "https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTI2ODYwMjAsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJhZWZiZTM3MC03ZGZlLTQyODAtOTViZC1lZTZjY2VhNzkyOTAiLCJpYXQiOjE3OTI2NDI4MjB9.VgGIOj1nr5veJ6W0zhOYod56PzjyJ8K-d4eBl_Fmkfo",
+        "url": "https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1NTI0MjMsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1NzQzNmU3Ny1mNWJhLTRjZGQtYjUwOC1mMTYyMzllODE1YWEiLCJpYXQiOjE3OTM1MDkyMjN9.JFWnNAKyIKd1x7icQIzX3GLfAPrp5G5sfChyaIULwhQ",
         "favicon": "https://img.logo.dev/cpbc.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -175,6 +165,11 @@
         "favicon": "https://img.logo.dev/ebs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "FEBC Seoul 106.9 FM (서울극동방송)",
+        "url": "http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8",
+        "favicon": "https://img.logo.dev/seoul.febc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "FEBC 제주극동방송 FM 104.7",
         "url": "http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8",
         "favicon": "https://img.logo.dev/jeju.febc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -205,6 +200,11 @@
         "favicon": "https://img.logo.dev/igbf.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
+        "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyODcxOTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=JbYk9iak-IXKqPJeke0XNgp5ROwmp-F6vY4cNWnmNVFfS4gc77jxa-JR~LWc5MU2VmcJmlxj0sijblEQKEHnsLFs7juNmO7Iz7J8ym~52mcqUm6hg~k3DfG9l78hbygIxU0fx3X35~7rKkoKKhmBgspsTbuAp8AO~lT3N37Wrx22pAFlDFpqCUi-45fb9yAkBGGtnIvi9u-ovLX6iMq7XEBmKjIsQeyyOJMsovMvcg9QXHJAbsj0ofnwHgCzHpHweRlP91QNlOovsTnAcYvoKeoS2fsSTiyNkJr9SoH-W-GXtbisZksSwSIdZByKabZzV2D4E~nGkZ2s4eRd8pxDiw__",
+        "favicon": "https://img.logo.dev/2fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "JeonjuFM",
         "url": "http://radiostream.communityradio.kr/jcfm1",
         "favicon": "https://img.logo.dev/jcfm.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -226,7 +226,7 @@
     },
     {
         "name": "KBS 1R",
-        "url": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5Mjg0MzE5Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=TAcn958oM6928Tea4~z8dE~OGNEcD9MQuLMkOs7w2mjhEBP81ErwNHNEsNEHLpwi8ne7Dod8B2Nj9-z7isvHBz~ZFdHnyIPL44TKYYEUdgtIcNPF2nUww7DjrC7CH-Z1DnOfnt9ZWilpjs4fSQfy7b7u-o6yIKUvYBqzadspU0lsQB8J9MJ5pOdHQcdu4iJ2m~33lBPrmBoKoDaEhO0KIS0FkTvktJJhZPSBP2RIXgmh-Y3n7MLztIJey4LkccVScKD0-6D2A5ZU0TYsH~SgVcnJlozsIntDy4qo~zhjAOz5cq9M5S~WbgiKmq3K0pIarl61Lv5iXJPyBNdqpbq6wg__",
+        "url": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI3NjQxNX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=LDrgkbZlgCGiKeKLeqf1szbJljhsfs~5PzDQcGkQXcRXkS8aI5PtH6BdCaMQlrptdaLyZLCQI1cmfqF9J7eykFClvxQi~osK01JiX5LVLMXYcEQfmHyaum9Ws8-DxJvyfv1VNrQHH2uVCun3YBeSmMe4htaDBQwOMTMZ68Noatgfns7ZBxPoD1hNPWfAMbcz~PUabIwChZYQwpiFnafKBLfxDHJJ19k86FjI83bDYPbhAtIOjgdEGbXQ5megbkf8v3h0~3fjCyjc7IZT6Hn3ZqEMEBdn1ZoYiZ8jRGdC4JKM0Ld6~hLSUXT8YORyvwZMtBhiYzcTDR8WhrV9n~0axw__",
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -236,7 +236,7 @@
     },
     {
         "name": "KBS 1Radio",
-        "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjgyOTk3OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=E8D8SD3Yu6sh1AA5e1zt8I6catGSMg4oIYNaJidlPY2oc~oHzwQftQ5Yzb6xvd2uZqc~E1L721kgKvVwfybyCcCxnJLbbfdGmewqhUfytnIP-2kJT3mM3nX85CdOTKV1SU6z85UT1toYA-4IgKtTNxdyh2f9hHCOtyid5hvEJSheYovtNvpjvgNzNUPG~ZJ4QZPpOzg5Xc32XY6vnqM7rWkvB6P~GA9JYbmMecMvquYFkMfxdnDp~2U13QmYmJle8iToe5na6gzjd7U33bXnSw1uvWFkyuw0zpg0klN~qNMvuF-0mjJ8G8JVbAJj09bqtPz0EZX0xS0MD4ifWnqW5Q__",
+        "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzI2MzE4OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=WNLXoLObthQ2TWktnOs04QShjQElhqeoGuib8x3cgcOyZEj9SBXItsnZ25l2Bbmts9OCfvWWHPOS8oGyq5K3dDQqwTWpoWEEJobTL5LFPb2r4Iq0HRHsWM~N-vbU369VOJunbzQfmwMs04KKnOvLBgjZGwxcV0hPBCpSKglU8lFc7X8YcaDd1dvWcPihmCPTXa1mxbPfXxyuSSI9XR6qMn4i8dpcMXGYsR8idNLx91uqw3rDAsmA8WkOy-JLl4gDRc7ziU3CMqPWTxjbGS1O8tyQnKG0YShr~UPctD7hg5H0yLRAy2QmD3YZexp5k7bE0MIq~jlq1Mo0k84qQgnXXQ__",
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -250,29 +250,9 @@
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "KBS CLASSIC",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4ODM5OTd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=E7ntaiwBHVsl1izzsgScLtypHVweTTTqHHxjKiUbSsuvdV~aQzpedRQyqZ-jZEVRJjmcXC6cZbsHnUhqTwUABvHy0eYP0EWJJzl0VdfHEIfek73ZT3SUl1KLJHmuG14~wow7jlr1VGWk3pxl4Fh9A8hgDo5gdFi-i-qKp-d5YlZfJT3i65-qhC988jWJlAufpiikHPfUuibwChpbiie6y3Qmd6eyC4dpHqcfsT2th5L2lPsijX5VRYJ77jFwpUERfvkbj4xdcbWJDmq~082ThDzpvh25HBQI-wv1oHDPzabkwXcsrH7AJm6~0SiDVpTTsvA6UC~ulKX4gUayoAdBPg__",
-        "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI3OTk5Njh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DGlT2-N4tdeyJ0RChN5N-lq60EMvEalJbvkPSOLtIlLpMHpfG329dWtmXuw3AxlKFLeRqVW4TDOgecbpaYvJBrQse63zdMZvwn0-zCG0ltjCd7BwmyhAMV9RN6-q6~BswUCybAlJeHdWhBeMoJ1uDmCiV~HZPiI-xhVqph178WPsQ41W6iDZwjHl60QkZrClgBPoIm484dN459FTaUNTAByBPXOe4zeiwcRJlwXG-CYgxxsZEplTGs~L26cxXzkYLdxZ3js8RdlmVaOCzuBdne23KnnWWWTb3y7M8c7CG69JR4vNoAXJH-JgerPMXGDJruksTooBGHn4eEPpq9bDvw__",
-        "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "KBS Classic FM",
         "url": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm",
         "favicon": "https://img.logo.dev/radio.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KBS CLASSIC FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MzExOTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ObO2AXDqrXbZyJDa~9741WtaK7~~ekr34-8cwGvwYmAWnO8vHUFPWMkpT3txIsBYbJNRm1yEmgTGyowVAjjKUKYFa5RhfmydMrBqzi1BwDQnyGJ6xBlqW0BIFl8BUn6mKf8AzUnozEEYjFSpnm-P78dpSPeE0ooRC-hRZp64IIWce0QLdcXfbHfJQ3RiEDuJx-I8Dj4QGlOysto7LKF~OpFUWeGvlNL-XWLGldr3DNxKAQnOFifHWRZpiM0VV1sZtSI0ynqt5R5hc03boGKT9qEZWEwASfka0NSZqP69Wz5I1khUzLovq6UijKsICPxeU8yvaazu~pUU5qxehyRIEg__",
-        "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MzExOTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ObO2AXDqrXbZyJDa~9741WtaK7~~ekr34-8cwGvwYmAWnO8vHUFPWMkpT3txIsBYbJNRm1yEmgTGyowVAjjKUKYFa5RhfmydMrBqzi1BwDQnyGJ6xBlqW0BIFl8BUn6mKf8AzUnozEEYjFSpnm-P78dpSPeE0ooRC-hRZp64IIWce0QLdcXfbHfJQ3RiEDuJx-I8Dj4QGlOysto7LKF~OpFUWeGvlNL-XWLGldr3DNxKAQnOFifHWRZpiM0VV1sZtSI0ynqt5R5hc03boGKT9qEZWEwASfka0NSZqP69Wz5I1khUzLovq6UijKsICPxeU8yvaazu~pUU5qxehyRIEg__",
-        "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBS classic fm",
@@ -281,27 +261,17 @@
     },
     {
         "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MTE0MTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=NvXNKnkOrYeVrhp87NyOnrlQh5DoKldC7LdrIBLg3Og7-PCyPHAMoTlSrL89a9Bmppst7rG9aFM2-WwyHr04Xd0Zh99fECyZdNp7zG1KCJ9CmX7TAJqacqz-WwW7L9xZsEpPu1u-5-ovNne51DZ9XUtc9dWdU5OB6eqPy5Uaq8axL9PrkCa10IjG7saWVNtzrCp6gnx9TCM~KW5B0DKevyc2CXI4ocjkwdbEMGgTiUIaIJixPxGKyAnHhVeDHncScxAiU-rYyeFaApkC0yU18byPPuY-Yooouwhtlr52QSrqPbe7u6kvPGGf0Wmyz3ryvsVZrZl27qvrjzrv3Gisrw__",
+        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyNDMzODZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=LLBiqU6q8c-Zxr~EnI897m2T~9tEGxO7yu0tXCzh-KLNlXtR5JFMqKK6KXUc6C8SPEEi4reQAJsCPKW-ynj9YGJWResUa8lBr18nfYNpCkMZwiPFwTEPaAzr6EQYa1rSIrgWHzg8Aktjjjgl3ubIBvD-C2ZrVWvzIUaEP2PogAdZVFl5W5AGhw5OFRfN1iyJsQ49MAyypbOjKwc2nJ7I6yiI1CqmyQU5DdyttaZ21IpD~JX7IViSvnduiTKNCwTFtkc8don2jXelwVthPQrp3c69gmcQNNSx~8mnK87zwoqWjfj1XfV7scC7O9-sCPuQe7I2oZBoSGPaBOSuUaBSwQ__",
         "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MTMwOTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=mvmj5AjA1l3fxWu7uzLkxU~-MhyOtzblLm7pJD55i7ZSj6aaU2dYgPq~42eYC81kaN97PEV~uvHMOv2FjQuk7nHy1HaEPTrsoM9wOcD45UCcszucF6Vh02ACY5F32OnfN~xTh-E2HJbCOenYmPIj4jLgQ0pCoH5NiYqv1lBYAiD~q4aQ0QG0o4tlA3k5KtMacs3zmEbEtKuyP~vvjS7dzE465TjNOuuEqYZCe9bPmpQbjyYdGDn3zpjM-vguLtvnzvJyvPPwkeq~ek~ruqfN7Yh~eQTPMHrQhlOSZFyImbf6jiZv~jyGhLBlLw3-HozLeR77O3y0BWe221OI7dulLw__",
+        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2NzgzOTd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nZk4tXIZP2vAT77B0qkqUFU83wdASgj5eseWijT4yh0IniIZZnh7VketzSW01~3H6imOR-Zv1h1tsTggh1H1x8LyxzE9Sai4vO~pjbcVctfhU6QaqRAQ0WrOIGXm2EWENXmPaNYWm-OX~1H8bp7TWt-961WekfMf3yhemJlPpsF9902-oFIGFHT1SDLzbdyGeDkMCRJOZmkRWYt4CZwmBU8BJmVTRjV9ZEjjjzKLk5RpocwkYgOUglfNRbZ0mU~0Tr6o0hoSf-am5ZM0AEdGKJ6KSnibi4UdR0c1Q-5rx~Ig8U5ZkZ~lsQY8DzbsKsY~Yz-sT5SLu2rKuBJQc1GYWA__",
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "kbs classic fm",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MDExNzZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DAKPKQy80ggWDkNY6AC-vBKze~1mpAB1a8Qn2s36Se1QOcT8dYCb2jXl-ZUpuKLe48HL5b~0xzXlehp8qbFwxx8GVlppQtlAKSLmAEdc7iqUoqcBXgXirUnalMawdS0vlhtm5pTuqkRSAGYM8r14bUIEAbn7PXFWgsBdgKq1tSZvKPuAhV0Cuqwq7kkp0ROS6s29TMUHUdHb19moB~j66RLAAVCIZ1bSg8wKCWdnzZ9coyrFKJOAQPNWy9AjrMdvS~UmITaT0mpjhmp5tbfFltnF6hEZu183OWDm0bqu8Q64R0Os0TpVvMZEzU-o6r1XWQB2RZ9qToD46rNSi4lzzA__",
-        "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4ODE1Mjl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aYcDLb1fYaATQt3jCxMlc4zE9qXJgleAkECM3sw4siG3PpeVO2GB5HOx5lJGEByMPIWtyC0CrwMRKmmaOUpZza3MgSomQa2yhmesbV2ex86mmP5i0eB6lu8z~L5wb51sGrV~ufPV-nQtWikCUqSVSihxfiwLd670MuTiHETh2RTVzC453guZW5TPUHlr-BS0I9-qt4jb-dkIfPTlCJnZCgN6Z8dZ8M2fyb23cM-s~Bb1MMMFgclLO~oILxCmb0SDwvZzlqgarRx88ZxfLTdKTh2FyojjdXW0P0QeDVKHHaCxFKxY1SNHVkNrTYjijf3H3F~LhKupgutL0OS4Nypwjw__",
-        "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI3OTUxNzZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Pkje91phcMjfWgLuUDS0S5WRlrAHMHU96kW6gMWeteYNWV1B-NM48FV3yrpiXOWqMabWwJSXFq8J4hSBl-qgBATmBr~t~tkFCE6pCO1w7hjKgrW5iOAWUrnFVaMHYJTromGCL7IvE0jyN86gNskXGjy8R8PsqvQjx~6-G~tAGr4EolInPvMgpHUxZyNcf9hffQ6zyWe7ErezXNf3j0-DFBUBW8iZmfoAKGLCuJ7Nq4P-VK4UA4PePtrJVyffom3BYK5bnG-qhTKBGDH2YIUz8JYUkTNGP2~bVfgl3X2dA0NJnUQSPm~MNyNE1byf6fLnRIXTM89ivaWu~8dLT~ge5A__",
+        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2Njc1NjJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DAXdgHBnWLd0BgwhYlwO23p6sJHq1YHuEGBPCohSv743o0iICyCjP4koKOyl71Uj47N31C-4I-1MdjyZP87og9Pz821bPjQPKSanao86SoACQlVBvdgFMjtJFTjxCjIFXjkCw2i41hZK0w1exw3qPUk9fKmbZoy7THZN~HLQ7QTN-PxiNfEPQus2r86Xm7tDCTxrwFL0spSufN9tjM9lJjLTwfID-8oipKLn7MOPCUJZ~DcABqA5R9~UijXkd2FgwodRchoD7hqHi83p28WB3ZG-mN8-zR7YvkYToeD23pU0qkwaidl3CMqUrKvXP5KupiIDgPUe0w4oS-8Xsrhhaw__",
         "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -311,47 +281,37 @@
     },
     {
         "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MzI5OTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=WHct0IMmo4qIzUqYk6UVxuJTdgUjkZM-nKwLQlZHGHsgh8wtduyGjprnx6Cvz53O95SEJSjhH0aSnYdPoFjHXVSB5qfoEc8ig2m1QrzcY0~kvVB-pWQTaw0txWSDWwrx78xqwyktAkLNGAUGfUApfYF79UuF~EaIGktcaRoY9eXDUvjyU6k~5y2-t8UHZtTNFDcLyL1QxJA6L97vMWXn8Phb-G00TfzVNjuJw1QQTkPDwHoQFeKzora7ZjRIC2Ds~D7pl8PsSSEdI9xj0QYw0jaBltEumaN9tK9nbD~b5xYYLuooaiIX81OKTQF99CRsJfDUbKrAbu8LtAf1sUvgmQ__",
+        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyNjUwMjB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Rb-Qcs-gJ4Y9Od5RWMExPsw00B-YVj7WryoalTgk16S5QUgzd07IKdcuTSq0d6uf9-LaIEbCmQ2MMcwDCkVEiDCZecWl~D7Y-cw9Y6rSI44dCW3rnQ0HHbszDawYdUOcqyijcS6SpAIvfWjLZGP0j0f3GqkvCYn~gPCen53W9UIAPC0zxwyZ16of4JasOjSlp3n5JVkB2kiJM1OClsMOZINJ71cGAB7e-2KYoKNXZBDXl6-rCSzdcoD1Q4hoAQ-zAvBUIw3aCfsS6mLmAM1hTPj6s9NZoflLK3wqNAusOp-3pnJBBPMummIdvUG7D~ihCt9-0FsefDd4~xOEMMPWRQ__",
         "favicon": "https://img.logo.dev/radio.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MDQ3NDJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=mcFI~0YFGOpBl7sXNdoKsQBsb8vWjf-XXg8wbNx9ZHa4mHywVjjdpot99k8bHVx1yYEZAJSK~Rj4tXM6Qsc-IaQvq4QzLrooD0wPHbrNg0gywqmldfmu92D-jpIcWuR-vIB7kb852Dhhi1GCjXYvhEHvO31YIojICvFrXvYYsEFDJBbuLKemC7G4ySc6SZViULebc5fz4pv1WYzWfSbmC7g5IKafjmEvOkRJ72sAjSp7LBHIMFBykYb20JbgL89Nou0oRM01Fe0GXL2NOHrVHrXXRwuhuOYU3cwsyDPLZwXcMp8BPakiQvxHxMGttoPfgd0He9VpnuF-B-WWOXM0UQ__",
-        "favicon": "https://img.logo.dev/1fm.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KBS Classic FM",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MTU1NTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Xz6IIkhO6Z9rEa90cS52VhGE0XuwtvTi78xp9H2kJoY7ydBOaYYXSfi7~vkIrEiTgpf~BncIAh~seeuVa4oBHxayI~E3Gm06GBnoJIK~BW6FEk8kNlsy-gInNyWuZ~wgb-06xiIya3Mje4XQtYZOO1fGL6NYIkzwD89FGIpNmva4vzdwsR83r21T3SKlsPFResEZ45-Ltbj4AqlJRHKTUTEANPIfffDyylnit9MNRNgOCclqrER5Y54feue3V1HDvGJxAkhu6mXEhIRbSMPW2NQDxMI9lnLQwMgQH4f56eproiDCKbghUELzbjLmsvPIT7VCOwElxWjNNDg~TvsCDw__",
-        "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBS Classic FM zstream",
-        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4NzYyMDd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=UvgAKZ8vR7u8aEmXExhtPGeboBkj0iTEEuFJyhTHiiQBrAqwc8oQp0wFAgAzw-xVokdL8m9N~nKzpVBAlLck1s~oy4-Rb1aLa7R9K8pH~YZvrdY8WET-93W-X2x85CHq4ojbwGEad5SCnKmrlvod4zR0QeFXDtDDRq-uCz7zqAFaL0VN7WwGx0X-m1320s1JPaoujrccGMjREqIIp8ctrypxFNwqcFImSGZJMOHGh2ibdCmawm4lbkAiM2AFn9NPS5rMV96XDGdYVX15tGUHlXNW1wyOadUBajPWnqnTVd9KQ71D5gDUoandRonr9ihfEGEfdd2dovAzTS5uIbB2cw__",
+        "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMzMDgxNjR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=fadEkw6boBzvb~pex--I~5ZsNSNh~f3glECt1OctQXfxX-rQRpdXhCI1SmYU-j6iRpGsupXzdIjF2ViaFK0Oh9hnW9pcesM-k~8Be2GOs8oEBX4HVAv48pAfXUiGKzssYQx-LkCG3D6H9~AG5rIoBiGDb9o8IV0FFeEMeAHDIqvnpurKCq-~EhY6AgNXXTwiMPaOmspcq-xC0f~TkujoemnUX56UBC2zWR7suw1Tx1orxnU7Xqv4h9XGA6uiKeKSJpQPX3F3Yqujywp60ovZTxLICEXOMfH~MTE-qXEtE9HkwMHJMGHanlqSXgwmiF2mJmJvTodTLH48dpGsPLd6dw__",
         "favicon": "https://img.logo.dev/radio.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBS Cool FM",
-        "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4MjY0MDF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=W1rLrvVWxPT6m-LRwnTNqdDNp9X7v94zwJ-dBdKf4X675O3e1Nl3E5K7FncP8MdkvEjVSw5hogu71wshbHBeU1yMuCDhVNpKDj-sTYX0FxnpLYOZwj-vE74N-rKkvn9mUcpigeZG2Lqg16jJuss5RxcuPIehmA~2n30NAdnKfRQE9B1EF13NlnZVmjAl3Lv7XiyEJnmXhFFtFFR~KD5SLw8dN-BNoxvyF0ZNkCwoTUMHueKJLNhrMMJg9PNWCTeE2ZK4nj~fHthlZVvwcOp5SkhHbVd0ZF5ahuFTL1wmiXZUre0Uj2xJs4mTYdlhFem2j6VwfVohKPIcbgBJUosb3w__",
+        "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyNjA3ODd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=LAMPJ4jeybTg50RhwefmtDqDTjunerkHxDwKAJAgEXgwWPHQ8DQme1G-L9v9IlV-2ZBclNfgPwc7NNt5i~T2p4Y50e20sUgetCMKeoQ1vIDzOGfwkFTn8Um-c4zqlktAlgC4i06DataFwGI6VUF~Cr0zgiqWQOIbwp5k7F~Yimdji4-~kNAbz7BUH7LOu~JFVaxKS4VuEvs3V1myK7OgegFkxIgu1OZjX0pBmVI1cOpiGs40RRAHU2rnVr8az~4b3zoHcFdGRa5PiCmzEVbmsZRfWsO1OOqOrLjx5SdwdGEgUMtNxvxynJmM1o~J54gP-dfi2I4u-P8NIDY9tTWXaA__",
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBS Cool FM",
-        "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4ODE2MDN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=hNXM47L2h2rAlcBOiZ~PCK8rJirHEIjwkH6FY6tVJk0HQqBtVssmbU5uSOWly6G2CS4uOHtmAC0IjvNGzylndg6WdfvN~DNBngavFstI1FqVj-xCzTq-X~kdRoKz7LNy26E69z9LKwCCEs2takBFjL7RwjYk7XefZy5u40Q3ohhUk-HoYfh0QMYOENi0nM6kmAyHRJTPSYiG2bq7c1SqT7QX2zEVO6tQV5trFWDhDP4cUGVh2O2qryMcTBIvpdHYYDVvwrcDOyGZfcn18uAzf5zG1c4FHdrIncyewYhyleze~T3TF5cA4VmFjIcoJL01-Yj0SUYjFkalU~ZLrtWu8g__",
+        "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMzMTQ3OTN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ZxEicUBteOIK-pczJx~8Zk-xD1Thai~fOELHfyPP6bvm6~ENqaZ-GpPDZE9IQbEBCfEm8PMT2Qcn8e-S0jhm0-ThaBBwK1Dv3QlpVBO-Ntyd0lTYFu43xvHPLsJZXKdCzlUzUZLTFz0eqim0EBNWC4R3i8YW4coznBzqvsHE2jPDLYmmAobT7dXvxVuR5Uqt8JBy~YYW0vk4fxVH7wfgEhs2Bgx4soYxgTXPx37TmL8al9yz7uDNdX8fz1IjN~gQ1v9hx50YhKAJotMm4plExnsMnp88-Ag71WREmPcBhtqKKBVD1FL1XpK5BQcTjgpZdU5Hu8ObnTBar3osPnId0g__",
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBS Cool FM",
-        "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI3OTE1NjJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QgtE3eaQycyAqCFRMR7EDWEx5BePNVRBT8XZgANvywVr2D6a6gL1irZIihZ3ji7aU7cgGUNMyPzJnw3h-oJlmCqrygP-x5tjOCZ2jQ~ihT1q5e~pqDbhbwxCVwxofGf9cuSZsmi~ZpBBRRNjS23tz6SLG6g0-Ya5ZX2FFvAxwALz68uEUm2gEmhrTJRUw9Y81B6QCx4~i6i3AZadtjfUGThWWEeAN872eAQfmwP8z--MV~Z05h1BxLEP9J9qZCw1T4IKKdVxUOt8Gr~oHbScMJI4APMqQfjrvolyXRiqWl2JWwEWOAKOQnO79mdAWIWfRHQZ~o70MnrUMlvtb3xEKw__",
+        "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTM2NTkxNjR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=K971H~TYyRfroye4mfqpGrRI-oW1rXzrb30u6V9YbagzyvPPfWXg3RkyWzmrLQBZvn0vfc2DsXt0vL3XfkmO2OooAN4cl6UpAXybxYzYKj2CsAy~~BjCdQbDURZs-90p3zejrBX61BbutZkZYtKCUV1j8T2jzvbG8avxF0YYDotDL2CAoxb-M70XqafqkLHK9iT1RVoFbSKHI5N7Ng3Mc2c0ylhXB9Nit3YvkzNd25Ldtl3YBrOcdi2scWffTN4BiwUNpolCMZGcLLRUcbntjtBJK8dmodjbxU6EH3BGf2O2z~A2TRyRScg8yNnmsRDUQ2ahfGkZV~NTWi~LD6ciMw__",
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBS Cool FM",
-        "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4ODUxNjJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QUbDADo8V-LE8RNJAOrUSgp8uRzfRVz8vTVQMZ8857TgOca5zitLcqtCC~nsLarZCBEJi9Pgw8DMei85lmxh~JcZVilzNwLN7jXkBCIne-kbnWytwguvOP99dCNGL0f0pIm0Nlf~-SDWVHnp1XuSpOX2eBsXkyCimsCSSocG6zHDAhJ3TvKXGuvQuVr0yaw96jQ1BfN7YNcr5O5eEmxtFV5xyCjmMhZssf2JBarqobcvZdBO3ELy3o1LmUPTTvlN87wd0n7Fxq2sYcX7DqGxsc2pt1I8OAfSjch6qckw6oVbnramE7OU-f40yvprV-YdSh~mD6pMTgEKDHCSjbTY2g__",
+        "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMzMjA4MTd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ZWt2YsYZIb-g8iieXikd27ZgKLmp92OH0IlPmvTnpJ1eMCSG~PhVOxJ5zXYakWvWCK1ID47NWCM7t3gIu42uIiHxr9JnJtY3YP0pTP480PMWOCWNFH5hh8VujAi9VvWU2Xrm9NmKb-~fAY4DgZxqbVq440E1M0d7j7zelXsBNogNsGk2lhLV92J4iBFP0JZD5~UQwQ1tHdNvuteBA3Bp14~cdUIMhwlUVROwNTmD7b-kKneTyW0smCLZbtSljm88pdOCVBN-eRaer1IKrUzSAJgs~RUpYq-JtZdwNzJl3AAYpPMWxnJV~pzw8vji9rOo~pbi1Q6Z0HifUc6-ODVwIw__",
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KBS Cool FM",
-        "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI4NDkxNzh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=adgh~-ghwzXKV8DP1l-6z1rqBTqmOkLRXS2MknkFLDqgLlYXrQe3Ox87PzFgXJF6TMUICNFqPJ~J0c0AKDx9nkPLy045Jc8-fcVhBz01Xv4OkDUtQMGcocglOFpruKaxO6Sa88jBNHp3vRzrk1ZyNmhvK1K~5mtvbPOyLGsJyyWMJ3Ct3cN1HX7rSBoDJApCRjqbqDT1HFzvgF6hmWZBEjlCWdDpXFHsFTBCHv1kwAiO43XYqhybm9hvO8qs~Ajb31mvmF4BS55POShMJ~QnfKyGrDVlV1HCfmOxEMNd5wudM~IBV0P3UaeknAOfPQU~tYiLhIm~E9djS2KINSiyOA__",
+        "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTMyODExNTN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=UrzAZDc3KMZyX0yN7ZUognhuymQeTFWPQXopvaXhS-WKZxbUHM3wBkX-KwpoeUaIXTDtALeSGx8txX2uGv~Omz~kNBxnjMavmVdKv05Rg2weozU6a-K6UU~sXFZVRoX6I85mJa32QCN2-9HwCaHzrsAhTlRWhfs8HJ44Elwvr1Pzwh-4YpC3TPlheaaDUKi2JMcwIcOmDtqP5WgmSH77h6GALVJKVwF1lH8ysCZpoHqHzEMOfatYnjgwU6zaJFTS4r5ZuZLwKW0PN5-aO2DuCys7fFEHwUtAja7kk6y7ZtaBFHd1PmjhG37F5989stFHqUozHyT4gAe-9RtgTxNwdg__",
         "favicon": "https://img.logo.dev/kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -361,12 +321,12 @@
     },
     {
         "name": "KBS_kor",
-        "url": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5Mjg2NzIwNX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=HhD7TWqaczcfNuD67Aikx-O6BmrLTAdHpHC0P6F4rjhljJncz3Z4zCdcdehR5rAkNFEcRosH-FARX0EPSedhiDA9RXbWRfzc6-uncAXDNnj8Ny4NNt1oszTreliFBlvlS5G5Rur0qc8sFMFZck7Z3W6wJwWDX0hLigmQaW2vvFzRItHDTg~nSaKBwuxKjaA7NqY8XLl2QOakhwshXWr8lAzHLp1Os214YTWc4WkcaZsuO2wtJRHm6~e872BQtaYKzj4MKElGQ7Pe7nezePSAC7cPDonq08N232cwyg4XOk-JHAjaAn4Ryd3sbvTASJ7RfbS08ufcweLTqfIhbdZm8A__",
+        "url": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzMwMDQwOH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=BGty2caufasjgBH2AdsEZKF5w7yLTTUqfGkHcj83P5R~BfM5LYomRCta~uOv3aT3XiJ6UxSTnP5t-gZIESCvHchb8CYYaBEdq7P4jytqsKU-YM1YB8wPj-t7PUogLiCCgjwt-kmD2o2Ghbra43maa7H2TyS-L935LW2j6XDDnlYf-UrYqcs6~2kLEuG2vHLQCm9duqDjvCwrNIzxx5z5clnS0w3UCSm1ZY9a5AOzKRgXeUY55MIE4JxHo7pk5bNtMeSoQqR-dbv5BIulLEfXHDzxgixZan0o0EjAT8TftEWCKTYNXjIqEtxui~vjKO-TBXbUfLHQo2ZMz0VQ3IlCaQ__",
         "favicon": "https://img.logo.dev/radio.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "kbs해피fm",
-        "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5Mjk4MjM2N319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=moayf4fUHOXd8atvY9iP8cNDSCvtQuLMJwdzBSCoAwkcGz5-OeT20z2lQBTTjoFFKtopsXv4E7jf9Uwi9ZIQcRfLvOHHR3UhylzGAN1fyyhfCV8BJVwOeNZIGZ5q-Cs7o8iCTr34sC5aTR40Bq9oKd1yNShMJWttwncDHD~PCEtL5VHlJQ1lT8YIWfTRqI1KgmPjI4MszBnJzCDU4N3CuW3DUTfg2HltWLse3Q9L4HdnPOBRcmCY6W~5Nk2h2b1Kg79QQm40NtHOtkXYHHdjALrkg064vrPxUm-gtPY1KA4~OrR~q-6qtl5cSAL9mEulBJRbgWCyLDr-4YK5-U5hFQ__",
+        "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzQxNjc3MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aDb2fw6uRuJ0amRINufWDtApUVmtJV6-iQjTpqY102JDpcrPd72K-h~lHYwBSyfouiy-hu8YYsYrLkIycbH-FfA14WUFHEet9gW2TirhVfGBTeCydbrYGB4j~WarvzU2DzkhbIIm-LkfMhkMI3W-pPrlVKy2pQ3-bAlDqU1RKjZv6HygpB2q7mwUWAxla3it7X8Ar~kciOXwQldHiJb4IEcrnnaiaxE0UChke5AJaBK0cdG7Jr-5O4sAVvMsLhFJ~ZrBhmjLaTa8wYtHQAdmfJT77MnyS2xMePHtgBidXpu0A-SfZ7vfZ6nCndwjFomzKOmVGUIxG4hAjwDUoARROw__",
         "favicon": "https://img.logo.dev/2radio-bora.gscdn.kbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -396,17 +356,17 @@
     },
     {
         "name": "MBC FM",
-        "url": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=68919E1363883D34B742559934D1FF47259F32B5C000821F3840ABa5A6AF3726A6a663783BD25A45F0BF34A1B6bD71D5C345F4F61278F2959F0858196353AF9407330DA027CA0C6978619518ADDCED4D7A1637155985D2ECC6AAF778E76AED6B790730144F878DD339BEE1A3D0FAB467",
+        "url": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6C213512E3C43554E848B5673E913F49B59D3FC5B40AD2F731504DaDE68337067Ca0335932D2E64250DC392137b981CF67A36F3A6FEBBF4E377CAE80B9C5D70FC366EDDFB9A480245DF74EE8AEA1B20F31FD6B1C3F0D5138FAB535560F5C3DF5001B4C9A10D1D5DCD4FEF65BD33D045B",
         "favicon": "https://img.logo.dev/imbc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MBC FM for you",
-        "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6431E711935B3F841D4965FA3551F743551A38A5570E222C3AE080a506873E36D7aD934B3ED2A94B204D35B1D5bFB1A79994841EDDDDB25CC23E5AB73580CD95CA88010CD39D4A462AA05A3A95D600EC2E6490634974A0DD5828260E33FE58AE07269916D33E4F6852059D1E8A4A7F9D",
+        "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6BA1BD1463EA32042D4115453591D84A05BD39757F05522737B034aA36E03FF639a823493342B545A088381134b3B16C1BAB8017F2A2B244480E2DBBB9C195D82CAB126A850E8AA17EEDA1E364709A818FDB0AA5DB1FF5280CB3F1EF3431638F5B1956A1FC802143EDABF686FD413C91",
         "favicon": "https://img.logo.dev/m.imbc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MBC FM4U",
-        "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=69B1841A83103904DB45D5B53A31F34E05893FF57800F2363B60E3a516B63EC69Ea8D3AF3FD22C47E01436A1A7bAB1A9EEEA0436F3BB215246FC2773FDDCCC9FF6C04EF472B03A7E6C74A6420BBABFD0BE4B65F3FF21D5C79980F3A1E519BFEF184543F44EFCDDF1FF6E44E347653B1F",
+        "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6FF1F31E337D3E448F4895B032811B48A5E33B352803D21A3EA0EDa866BA31A610a843F93A32A145C03B368163b2710B8337DEFC15798CB869381755BE39F57A58BD4566CF2AC5FB7EAE94CF2A14CE837B26EC6CAF843D44D0A4E20C91C9895A414547AFE92895C325FDB01291E5C73F",
         "favicon": "https://img.logo.dev/imbc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -416,7 +376,7 @@
     },
     {
         "name": "MBC 올댓뮤직",
-        "url": "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6DF1B017F32C3C24984845463DD1684AA5F53A65E809D2BA31C0CFa336873C0696a243EF3442FB4CF02C31A1F3bAD194605B2E15EC06D44C4D66CAC1A7EBD685D2446DABA68C036EC03FDA39E2D381FB3705986A2B1E6C6ADD1D4C4D82FFFC8503C650CF7BB909A86AA5F3280086A97E",
+        "url": "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6A71131C038E39F49540D5E63ED1584085D733055909928333D051a196FF3B76AEaAC3B83782B549F0233CE1F5bAC180FA8CD728C8806F606043C9216F103A59C6862DD5A545E567774298503DEA20FE843CEC51F6F3D62FB745E6ED2328D6F040153655E9C909A101E1638D548D0A4C",
         "favicon": "https://img.logo.dev/imbc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -431,28 +391,18 @@
     },
     {
         "name": "SBS Love FM",
-        "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTI3MTg0MTYsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMzQyYWNjZjQtNDBkMy00MDBjLTg2YmQtY2VkMWNlOTYxMWM4IiwiaWF0IjoxNzkyNjc1MjE2fQ.wgO6RaNNyO6NxrthJrpZ60vXrUDr0OwqljxOi4cYUA0",
+        "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTMxNjEyMTcsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMzQxNjJiNWUtOWE4NS00ZTkxLTgxODctN2JkOTQ0NGE3OWU2IiwiaWF0IjoxNzkzMTE4MDE3fQ.94ERS5lWtL39r-yzcjQ4LV6JjAsJwpvvrFXgBpwU2IA",
         "favicon": "https://img.logo.dev/sbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SBS Love FM",
-        "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTI2NjQ0MDcsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZGUzYWJkMjktZTQ5NS00MTgzLWFjMmMtNTZmOTUyOWRjYTc5IiwiaWF0IjoxNzkyNjIxMjA3fQ.7SDL_FGHA-hdu8QBtxQHTHZaj_-7Ym_afytmukFbHB0",
+        "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1MzIwMDksInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiMGRlMTZiNDAtY2QwOC00YWE3LTlmMzItNjMwMTdmY2U2YWRmIiwiaWF0IjoxNzkzNDg4ODA5fQ.zf9ccNbG4dsNoGSXfjhnfPdjsOyeifxWhIYV7u5aaoU",
         "favicon": "https://img.logo.dev/sbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SBS Power FM",
-        "url": "https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTI2ODYwMTAsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjlkMDFiOGE3LThlMDMtNDFkYS1iYWZhLTM1YzYyZGU5NzdlNCIsImlhdCI6MTc5MjY0MjgxMH0.PMNO73j0Gu8tDxuzEDDcbUuhW9OUZBZSYD__4ffU3R4",
+        "url": "https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM1NTEyMDUsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImM1MmU1MTYzLTAxN2MtNDEyYi1hMzExLWUxMWYwY2FjMGI0YyIsImlhdCI6MTc5MzUwODAwNX0.SqeLhr52pGzha977F63zywtDhY4fQ5-QYIYPomy4tSM",
         "favicon": "https://img.logo.dev/sbs.co.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SCN - Seongseo Community FM",
-        "url": "http://115.85.182.39/scnfm",
-        "favicon": "https://img.logo.dev/scnfm.or.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SoneFM (SuwonFM)",
-        "url": "http://115.85.182.39/sonefm",
-        "favicon": "https://img.logo.dev/scnfm.or.kr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TBN 울산교통방송",

@@ -505,11 +505,6 @@
         "favicon": "https://img.logo.dev/kanali5.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "98.1 Radio 1",
-        "url": "http://proradio.gr:8004/radio981m",
-        "favicon": "https://img.logo.dev/radio981.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "984 Kriti",
         "url": "http://cast4.my-control-panel.com:9003/stream",
         "favicon": "https://img.logo.dev/radio984.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -518,11 +513,6 @@
         "name": "99 Ράδιο 1",
         "url": "http://n13.radiojar.com/t0x7dyqmsuhvv?rj-ttl=5&rj-tok=AAABhH0rD-QAgA2xJnC5B93PWQ",
         "favicon": "https://img.logo.dev/99fm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "99.7 Δίαυλος 1",
-        "url": "http://stream.kncdn.net:7512/1/?1671793270131",
-        "favicon": "https://img.logo.dev/tripoli-church.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "99fm radio 1",
@@ -555,16 +545,6 @@
         "favicon": "https://img.logo.dev/xat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Acropol 1242",
-        "url": "https://webinternetradio.eu:59373/",
-        "favicon": "https://img.logo.dev/radioacropol.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Action 24",
         "url": "https://push-int.siliconweb.com/actionlive/actiontv/icecast.audio",
         "favicon": "https://img.logo.dev/action24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -586,13 +566,18 @@
     },
     {
         "name": "AFN 360 Souda Bay",
-        "url": "http://21633.live.streamtheworld.com:3690/AFNE_SDB_SC",
+        "url": "http://23613.live.streamtheworld.com:3690/AFNE_SDB_SC",
         "favicon": "https://img.logo.dev/afneurope.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "After PM",
         "url": "https://hamsat.eu/relay",
         "favicon": "https://img.logo.dev/afterpm.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Aigaio News",
+        "url": "http://europa.shoutca.st:8721/stream?type=http&nocache=24274",
+        "favicon": "https://img.logo.dev/europa.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Akous 80s",
@@ -635,6 +620,11 @@
         "favicon": "https://img.logo.dev/aktinaradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Alfa 96",
+        "url": "https://sh.onweb.gr/8624/;",
+        "favicon": "https://img.logo.dev/alfaradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Alimos",
         "url": "https://streamyourdream.org:8092/stream",
         "favicon": "https://img.logo.dev/alimos.gov.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -670,11 +660,6 @@
         "favicon": "https://img.logo.dev/alpha989.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Alpha Delta 1359",
-        "url": "https://webinternetradio.eu:59277/",
-        "favicon": "https://img.logo.dev/radioalphadelta.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Alpha News Δράμα",
         "url": "http://radio.streamings.gr:8002/stream",
         "favicon": "https://img.logo.dev/alpha-news.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -688,11 +673,6 @@
         "name": "Alpha Καστοριά",
         "url": "http://n09.radiojar.com/wxc5sezupy5tv?1516183875=&rj-tok=AAABePtbMkMA_HDtKIp2EyprKQ&rj-ttl=5",
         "favicon": "https://img.logo.dev/alphafm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Amore 87.5",
-        "url": "http://s4.onweb.gr:8442/;",
-        "favicon": "https://img.logo.dev/radioamore.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Amvrakia 91.9",
@@ -792,6 +772,16 @@
     {
         "name": "AQUARIUS FM 105,5",
         "url": "https://sh.onweb.gr:7011/stream",
+        "favicon": "https://img.logo.dev/aquariusfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Aquarius FM 105.5",
+        "url": "https://cast6.my-control-panel.com/proxy/aquarius1055/stream",
+        "favicon": "https://img.logo.dev/aquariusfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Aquarius FM 105.5",
+        "url": "https://cast6.my-control-panel.com/proxy/aquarius1055/stream",
         "favicon": "https://img.logo.dev/aquariusfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1025,11 +1015,6 @@
         "favicon": "https://img.logo.dev/best973.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Best Radio",
-        "url": "http://best926live.mdc.akamaized.net/strmBest/userBest/chunks.m3u8",
-        "favicon": "https://img.logo.dev/best926live.mdc.akamaized.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Best Radio 92.6",
         "url": "https://best.live24.gr/best1222",
         "favicon": "https://img.logo.dev/atticaradios.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1128,11 +1113,6 @@
         "name": "Blue Radio",
         "url": "http://sip.blueradio.gr:8033/stream?type=http&nocache=308275",
         "favicon": "https://img.logo.dev/blueradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BLUE SPACE",
-        "url": "https://sp1.19cloudsnetwork.gr/8008/stream",
-        "favicon": "https://img.logo.dev/sp1.19cloudsnetwork.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Blue Space 107,2 FM Athens",
@@ -1330,6 +1310,11 @@
         "favicon": "https://img.logo.dev/christianity.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Chroma 105.8 - Thessaloniki",
+        "url": "https://hroma1058thess.live24.gr/hroma1058thess",
+        "favicon": "https://img.logo.dev/hroma1058thess.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Citizen",
         "url": "https://sp3.streams.ovh/8082/;",
         "favicon": "https://img.logo.dev/citizenradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1393,11 +1378,6 @@
         "name": "Cocktail Web Radio",
         "url": "https://music.cocktailwebradio.com:1045/stream",
         "favicon": "https://img.logo.dev/cocktailwebradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Coffee Web Radio",
-        "url": "https://solid9.streamupsolutions.com/proxy/teqgebwz/stream",
-        "favicon": "https://img.logo.dev/thewebradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Comfuzio 24",
@@ -1540,11 +1520,6 @@
         "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "DeeJay 94.2",
-        "url": "http://usa2-vn.mixstream.net:8018/;",
-        "favicon": "https://img.logo.dev/rdj.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Deejay 95.7",
         "url": "https://netradio.live24.gr/deejay957",
         "favicon": "https://img.logo.dev/deejay.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1648,6 +1623,11 @@
         "name": "Diesi 101.3",
         "url": "https://n05a-eu.rcs.revma.com/gkfwrhqxbfhvv",
         "favicon": "https://img.logo.dev/diesi.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dim Radio GR",
+        "url": "https://aphrodite.freespirits.gr:8010/radio.mp3",
+        "favicon": "https://img.logo.dev/aphrodite.freespirits.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Disco Cafe",
@@ -1755,14 +1735,29 @@
         "favicon": "https://img.logo.dev/dreamer.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Dromos 89,8",
+        "url": "https://n07-eu1.rcs.revma.com/10q3enqxbfhvv",
+        "favicon": "https://img.logo.dev/dromosfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DRS 95.3",
         "url": "https://drs953.live24.gr/drs953",
         "favicon": "https://img.logo.dev/drs953.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DRS 95.3",
+        "url": "http://drs953.live24.gr/drs953",
+        "favicon": "https://img.logo.dev/drs953.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DRS FM 95.3",
         "url": "https://drs953.live24.gr/drs953",
         "favicon": "https://img.logo.dev/drs953.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "E 103",
+        "url": "https://cast.radiohost.ovh/radioeps?mp=/stream",
+        "favicon": "https://img.logo.dev/epsilon103.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "E 103",
@@ -2000,9 +1995,9 @@
         "favicon": "https://img.logo.dev/cosmopolitanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Epsilon",
-        "url": "https://webinternetradio.eu:48805/",
-        "favicon": "https://img.logo.dev/radioepsilon.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Epic Radio",
+        "url": "https://ec4.yesstreaming.net:2135/stream",
+        "favicon": "https://img.logo.dev/cosmopolitanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ERA Deftero Programma",
@@ -2390,11 +2385,6 @@
         "favicon": "https://img.logo.dev/formediaradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Fraoulitsa",
-        "url": "https://webinternetradio.eu:59402/",
-        "favicon": "https://img.logo.dev/radiofraoulitsa.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Freespirits Services",
         "url": "https://aphrodite.freespirits.gr:8000/radio.mp3",
         "favicon": "https://img.logo.dev/freespirits.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2408,11 +2398,6 @@
         "name": "Fresh 92.9",
         "url": "http://178.33.135.244:3062/stream",
         "favicon": "https://img.logo.dev/fresh929.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fresh Web Radio GR",
-        "url": "https://solid55.streamupsolutions.com/proxy/bfwxkhir/stream",
-        "favicon": "https://img.logo.dev/thewebradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FreshRadio",
@@ -2483,6 +2468,11 @@
         "name": "Gavdos 88.8FM",
         "url": "https://sc2.streamwithq.com:2000/stream/GavdosFm/",
         "favicon": "https://img.logo.dev/gavdos888.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Genesis FM",
+        "url": "https://greeksonic.alphaserver.gr/8018/stream",
+        "favicon": "https://img.logo.dev/greeksonic.alphaserver.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ghost12 Radio",
@@ -2595,11 +2585,6 @@
         "favicon": "https://img.logo.dev/grooveradio.rf.gd?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Halkidiki 98.8",
-        "url": "https://ice.greekstream.net/988",
-        "favicon": "https://img.logo.dev/radiohalkidiki.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Happy 104",
         "url": "https://ath10400fm.live24.gr/ath10400fm",
         "favicon": "https://img.logo.dev/happy104.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2640,6 +2625,11 @@
         "favicon": "https://img.logo.dev/hit889.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hit 93.5",
+        "url": "https://radio.escape-media.gr:8008/stream",
+        "favicon": "https://img.logo.dev/radio.escape-media.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hit Eclectic",
         "url": "http://netradio.live24.gr/bootleg",
         "favicon": "https://img.logo.dev/hitradio.website?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2675,14 +2665,19 @@
         "favicon": "https://img.logo.dev/easyradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hot FM 104.6 Greece",
+        "url": "https://hotfm.live24.gr/hotfm",
+        "favicon": "https://img.logo.dev/hotfm.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Houseradio",
         "url": "https://i9.streams.ovh/sc/contactradio/stream",
         "favicon": "https://img.logo.dev/houseradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "http://wz0liw.scahw.com.au/live/backyard-bbq.stream/playlist.m3u8",
-        "url": "http://wz0liw.scahw.com.au/live/backyard-bbq.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/wz0liw.scahw.com.au?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "HROMA - VOLOS 88.2",
+        "url": "https://metrovolos882.live24.gr/metrovolos882",
+        "favicon": "https://img.logo.dev/metrovolos882.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "HXO fm",
@@ -2720,24 +2715,19 @@
         "favicon": "https://img.logo.dev/ikariaki.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Imagine 89.7",
-        "url": "https://imagine897.radioca.st/stream",
-        "favicon": "https://img.logo.dev/imagine897.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Imagine 897 Thessaloniki,gr",
-        "url": "https://imagine897.radioca.st/stream",
-        "favicon": "https://img.logo.dev/imagine897.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Imagine Radio 897 Thessaloniki Greece",
-        "url": "https://imagine897.radioca.st/stream",
-        "favicon": "https://img.logo.dev/imagine897.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Imaret Online",
+        "url": "https://c16.radioboss.fm:8398/stream",
+        "favicon": "https://img.logo.dev/imaret.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "In Kefalonia 89.2",
         "url": "https://sp3.streams.ovh/8096/stream",
         "favicon": "https://img.logo.dev/inkefalonia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Innersound Radio",
+        "url": "https://music.innersound-radio.com/proxy/nnrsnd//;?type=http",
+        "favicon": "https://img.logo.dev/innersound-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ioannina DeeJay 89.6",
@@ -2815,6 +2805,11 @@
         "favicon": "https://img.logo.dev/justradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kalithea",
+        "url": "https://solid55.streamupsolutions.com/proxy/kyrgxpte/stream",
+        "favicon": "https://img.logo.dev/kalitheapress.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Kalloni 87.5",
         "url": "https://solid55.streamupsolutions.com/proxy/pelsssbw?mp=/;type=mp3",
         "favicon": "https://img.logo.dev/radiokalloni.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2850,6 +2845,11 @@
         "favicon": "https://img.logo.dev/kardia95.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kartel",
+        "url": "https://stream.rcs.revma.com/zp7ndnm6xxcwv?dist=karteliasweb&lsid=cookie%3Adbf7b278-21b1-44e4-8199-d75ad1473d6d&gdpr=1&gdpr_consent=CQs2X0AQs2X0AAKA9AENC2FgAAAAAEPgAAyIAAATOgIAALAAqACAAGQARQAmABdAD8AISAdwB3gEWAPaAlUBeYDLAJnAAAAA.ILOQHYAFAAWABWADAAMgAgABaADIAIsATABNACkAFsALoAXwAwgB-gEGAQkA7gDvAItAXUBdgDgAHtAP2AjEBKoCWQF5gMZAZYBM4Czg.YAAAAAAAAAAA",
+        "favicon": "https://img.logo.dev/lalala.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Kaseta Radio",
         "url": "https://azuracast.streams.gr/listen/kasetaradio/radio.mp3",
         "favicon": "https://img.logo.dev/kasetaradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2876,18 +2876,23 @@
     },
     {
         "name": "Kefalonication Radio",
-        "url": "https://kefalonicationradio.stream.laut.fm/kefalonicationradio?t302=2026-10-23_00-49-54&uuid=de811fa8-0b0d-0dcf-5c11-60d515ac1600",
+        "url": "https://kefalonicationradio.stream.laut.fm/kefalonicationradio?t302=2026-10-28_01-07-40&uuid=92df77c0-c5fb-80d4-5be9-e023ef808632",
         "favicon": "https://img.logo.dev/kefalonication-radio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kerkyra 100.1",
-        "url": "http://live.cast-control.eu:9118/stream;?1552397300972",
-        "favicon": "https://img.logo.dev/startmediacorfu.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Keratea",
+        "url": "https://i6.streams.ovh/sc/ioannis/stream",
+        "favicon": "https://img.logo.dev/xat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kids Radio",
         "url": "https://n03.rcs.revma.com/n7d6z9ez1duvv",
         "favicon": "https://img.logo.dev/kidsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kifinas",
+        "url": "https://cast2.radiohost.ovh/kifinasradio?mp=/stream",
+        "favicon": "https://img.logo.dev/kifinasradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KIIS 95.8",
@@ -2990,16 +2995,6 @@
         "favicon": "https://img.logo.dev/kpaxradio.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Korinthos",
-        "url": "http://cast.radiohost.ovh:9004/stream?1501748611584.mp3",
-        "favicon": "https://img.logo.dev/radiokorinthos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Korinthos 105.6",
-        "url": "http://cast.radiohost.ovh:9004/stream?1501748611584.mp3",
-        "favicon": "https://img.logo.dev/radiokorinthos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Korinthos Radio",
         "url": "https://sonic.streams.ovh/9926/stream",
         "favicon": "https://img.logo.dev/1180radioweb.0lx.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3018,6 +3013,11 @@
         "name": "Kosmos Jazz GR",
         "url": "https://radiostreaming.ert.gr/ert-webjazz",
         "favicon": "https://img.logo.dev/ertecho.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KOUKLAKIA RADIO",
+        "url": "http://mcr.streams.gr:10340/stream",
+        "favicon": "https://img.logo.dev/mcr.streams.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KPaX Radio",
@@ -3060,14 +3060,14 @@
         "favicon": "https://img.logo.dev/xat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Lamia DeeJay 91.2",
+        "url": "http://mediacp.32bit.gr:8014/stream",
+        "favicon": "https://img.logo.dev/mediacp.32bit.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Lamia Polis 87.7",
         "url": "https://s6.e-resellers.gr/8038/stream",
         "favicon": "https://img.logo.dev/lamiapolis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Lampros Hlios",
-        "url": "https://webinternetradio.eu:37068/",
-        "favicon": "https://img.logo.dev/radiolamproshlios.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Lampsi 92.3",
@@ -3097,6 +3097,11 @@
     {
         "name": "LD Radio",
         "url": "https://solid2.streamupsolutions.com/proxy/ugkkakew?mp=/;type=mp3",
+        "favicon": "https://img.logo.dev/ldradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LD Radio.eu",
+        "url": "https://premium.streams.gr/ic/ldradio/stream",
         "favicon": "https://img.logo.dev/ldradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3165,11 +3170,6 @@
         "favicon": "https://img.logo.dev/liquidfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Live 101 FM",
-        "url": "https://azuralive.streams.ovh/radio/8190/radio.mp3?1615372278",
-        "favicon": "https://img.logo.dev/azuralive.streams.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Live 89.6",
         "url": "http://netradio.live24.gr/livefm896",
         "favicon": "https://img.logo.dev/livefm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3225,6 +3225,11 @@
         "favicon": "https://img.logo.dev/loveradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Love FM GR",
+        "url": "https://radio.1055rock.gr:32669/live",
+        "favicon": "https://img.logo.dev/radio.1055rock.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Love Radio 97.5",
         "url": "http://netradio.live24.gr/loveradio-1000",
         "favicon": "https://img.logo.dev/loveradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3278,11 +3283,6 @@
         "name": "Magic 98.2",
         "url": "https://netradio.live24.gr/magic982",
         "favicon": "https://img.logo.dev/magicfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Makedonia 1386",
-        "url": "https://webinternetradio.eu:48238/",
-        "favicon": "https://img.logo.dev/radiomakedonia1386.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mancode",
@@ -3363,11 +3363,6 @@
         "name": "Mega News 104.6",
         "url": "https://radio.garden/api/ara/content/listen/otrjcnPs/channel.mp3?1789758249626",
         "favicon": "https://img.logo.dev/meganews1046.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Melody",
-        "url": "https://i9.streams.ovh/sc/radiome2/stream",
-        "favicon": "https://img.logo.dev/radiomelody.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Melody 104.5",
@@ -3513,6 +3508,11 @@
         "name": "Mikel Radio",
         "url": "https://i4.streams.ovh/sc/kpaliotz/;stream.mp3?_=2",
         "favicon": "https://img.logo.dev/mikelradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Minore",
+        "url": "http://minorefm.live24.gr/minorefm",
+        "favicon": "https://img.logo.dev/minorefm.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "minore 96,1",
@@ -3680,6 +3680,11 @@
         "favicon": "https://img.logo.dev/myfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "My Laikos",
+        "url": "http://mcr.streams.gr:10200/stream",
+        "favicon": "https://img.logo.dev/mcr.streams.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "My Radio 104,6",
         "url": "https://streaming.myradio1046.fm/myradio1046",
         "favicon": "https://img.logo.dev/myradio1046.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3705,14 +3710,14 @@
         "favicon": "https://img.logo.dev/my-radio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "my-radio-shmera-gr",
-        "url": "https://sp3.streams.ovh:8058/",
-        "favicon": "https://img.logo.dev/shmera.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Mykonos Live Radio",
         "url": "https://solid55.streamupsolutions.com/proxy/lsdmuqhb?mp=/stream",
         "favicon": "https://img.logo.dev/mykonosliveradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MyLaikos.gr",
+        "url": "http://mcr.streams.gr:10200/stream",
+        "favicon": "https://img.logo.dev/mcr.streams.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nea TV",
@@ -3730,6 +3735,11 @@
         "favicon": "https://img.logo.dev/neofm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "NET 101.9",
+        "url": "https://netradio.live24.gr/lamianet1019",
+        "favicon": "https://img.logo.dev/lamianet.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "NextRadio",
         "url": "https://c22.radioboss.fm/stream/212",
         "favicon": "https://img.logo.dev/nextradio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3738,6 +3748,11 @@
         "name": "NG Radio",
         "url": "https://rdst.win:59178/stream",
         "favicon": "https://img.logo.dev/ngradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nitro 98.6",
+        "url": "https://politismedia-sec.live24.gr/streameepride",
+        "favicon": "https://img.logo.dev/politismedia-sec.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nitro Non Stop",
@@ -3750,9 +3765,9 @@
         "favicon": "https://img.logo.dev/streamee.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "North",
-        "url": "http://netradio.live24.gr/north98thess",
-        "favicon": "https://img.logo.dev/radionorth.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Nitro Radio",
+        "url": "http://nitro.live24.gr/nitro4555?1378770360515.mp3",
+        "favicon": "https://img.logo.dev/nitro.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nostos 100.6",
@@ -3763,11 +3778,6 @@
         "name": "Nostos 100.6",
         "url": "https://neos.win:37878/stream?type=.mp3?ver=325606",
         "favicon": "https://img.logo.dev/nostosradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Notes",
-        "url": "https://neos.win:48720/stream",
-        "favicon": "https://img.logo.dev/radionotes.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Notes 106",
@@ -3778,6 +3788,11 @@
         "name": "Notes 96",
         "url": "https://s1.parapolitikaradio.gr:8010/notes96",
         "favicon": "https://img.logo.dev/notes96.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nova 106",
+        "url": "http://novafm106.media.friktoria.net:8000/novafm106.mp3",
+        "favicon": "https://img.logo.dev/novafm106.media.friktoria.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nova 93.1",
@@ -3835,11 +3850,6 @@
         "favicon": "https://img.logo.dev/radio.nt00.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Oasis GR",
-        "url": "https://ams-pioneer02.dedicateware.com:2315/stream?x=1694811989100",
-        "favicon": "https://img.logo.dev/radiooasis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Off Radio - Athens",
         "url": "http://s3.yesstreaming.net:7062/stream",
         "favicon": "https://img.logo.dev/offradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3885,11 +3895,6 @@
         "favicon": "https://img.logo.dev/olymposfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Olytsikas",
-        "url": "https://webinternetradio.eu:48790/",
-        "favicon": "https://img.logo.dev/radioolytsikas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Omega Radio Greek Music",
         "url": "https://rdst.win:59962/stream",
         "favicon": "https://img.logo.dev/live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3905,11 +3910,6 @@
         "favicon": "https://img.logo.dev/oparadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Orama 101.7",
-        "url": "https://netradio.live24.gr/orama1017",
-        "favicon": "https://img.logo.dev/radio-orama.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Orange 88.3",
         "url": "https://netradio.live24.gr/orange883kavala",
         "favicon": "https://img.logo.dev/orange883.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3920,9 +3920,9 @@
         "favicon": "https://img.logo.dev/originalfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Orthodoxia kai Paradosi",
-        "url": "http://radio.lts-group.eu:52390/ANS",
-        "favicon": "https://img.logo.dev/siatistaagiosnikolaos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Oscar 90.9",
+        "url": "http://mediacp.32bit.gr:8008/stream",
+        "favicon": "https://img.logo.dev/mediacp.32bit.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Oxygen Web Radio",
@@ -4010,11 +4010,6 @@
         "favicon": "https://img.logo.dev/parapolitika.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Parea",
-        "url": "https://webinternetradios.eu:59492/",
-        "favicon": "https://img.logo.dev/radioparea.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Parea Radio",
         "url": "https://parea-radio-b7474105.radiocult.fm/stream",
         "favicon": "https://img.logo.dev/parearadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4095,11 +4090,6 @@
         "favicon": "https://img.logo.dev/planetwebradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Play 91.5",
-        "url": "http://s6.onweb.gr:8058/stream",
-        "favicon": "https://img.logo.dev/radioplay.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Play Gold",
         "url": "http://n02.radiojar.com/431m8b6qcm5tv?rj-ttl=5&rj-tok=AAABeMb0Lj0AJxDa01j50hVL0Q",
         "favicon": "https://img.logo.dev/playradio.one?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4122,7 +4112,7 @@
     {
         "name": "Playfm.gr",
         "url": "https://c36.radioboss.fm:8106/stream",
-        "favicon": "https://img.logo.dev/playfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c36.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "PlayTrance Radio-TV (Main Channel Normal Quality)",
@@ -4138,16 +4128,6 @@
         "name": "Plus Radio",
         "url": "http://eco.onestreaming.com:8039/",
         "favicon": "https://img.logo.dev/plusradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Point Radio",
-        "url": "http://radio.streamings.gr:8029/stream",
-        "favicon": "https://img.logo.dev/point-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Point-Radio",
-        "url": "http://radio.streamings.gr:8029/stream2",
-        "favicon": "https://img.logo.dev/point-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Polis 102.6",
@@ -4225,6 +4205,11 @@
         "favicon": "https://img.logo.dev/pressing.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Preveza 93",
+        "url": "https://stream3.proradio.gr/listen/radiopreveza/radiopreveza",
+        "favicon": "https://img.logo.dev/radiopreveza.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "PRIDE 986",
         "url": "https://politismedia-sec.live24.gr/streameepride",
         "favicon": "https://img.logo.dev/pride.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4240,11 +4225,6 @@
         "favicon": "https://img.logo.dev/radio.prime1037.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Prisma 91.8",
-        "url": "http://eco.onestreaming.com:8414/;",
-        "favicon": "https://img.logo.dev/prismafm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Proto 99",
         "url": "http://s1.onweb.gr:8052/;",
         "favicon": "https://img.logo.dev/protofm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4253,11 +4233,6 @@
         "name": "Proto Κως",
         "url": "http://server.insms.gr:45114/;stream.mp3",
         "favicon": "https://img.logo.dev/radioproto.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Psychedelic Freaks Radio",
-        "url": "https://radio.psyfreaks.com/listen/psyfreaks/radio.mp3",
-        "favicon": "https://img.logo.dev/psyfreaks.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Psyndora Chillout",
@@ -4290,24 +4265,9 @@
         "favicon": "https://img.logo.dev/pulsar-radio.ece.uop.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Purple",
-        "url": "http://n11.radiojar.com/weqykpegsm5tv?rj-ttl=5&rj-tok=AAABeMeCQf8A2Jh75qr_M9worw",
-        "favicon": "https://img.logo.dev/purpleradioathens.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Pylia",
-        "url": "https://webinternetradio.eu:59415/",
-        "favicon": "https://img.logo.dev/pyliaradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Pylos Live",
         "url": "http://s4.myradiostream.com:14374/;",
         "favicon": "https://img.logo.dev/pyloslive.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 5 GR",
-        "url": "https://streamer.out.gr/8006/stream",
-        "favicon": "https://img.logo.dev/radio5.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 69 GR",
@@ -4350,11 +4310,6 @@
         "favicon": "https://img.logo.dev/902.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 91.5",
-        "url": "https://netradio.live24.gr/radio915patra",
-        "favicon": "https://img.logo.dev/radio915patras.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio 98.4",
         "url": "https://cast4.my-control-panel.com/proxy/anastas2/stream",
         "favicon": "https://img.logo.dev/radio984.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4365,39 +4320,9 @@
         "favicon": "https://img.logo.dev/radio984.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Aisthisi Net",
-        "url": "https://cast.magicstreams.gr:9064/live",
-        "favicon": "https://img.logo.dev/radioaisthisi.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Akou+",
         "url": "https://everest.streams.ovh/akousyn",
         "favicon": "https://img.logo.dev/akousyn.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO AMORE 87,5 FM",
-        "url": "https://sh.onweb.gr:7072/;",
-        "favicon": "https://img.logo.dev/radioamore.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Anemos",
-        "url": "http://168.119.74.185:9008/stream",
-        "favicon": "https://img.logo.dev/radioanemos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Apollon",
-        "url": "https://webinternetradio.eu:47026/",
-        "favicon": "https://img.logo.dev/radioapollon.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Apollon 1242 AM",
-        "url": "http://live.radioapollon1242.am:37026/",
-        "favicon": "https://img.logo.dev/radioapollon1242.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Apopsi",
-        "url": "http://link.radiojar.com/radio-apopsi",
-        "favicon": "https://img.logo.dev/radioapospi.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Aptaliko",
@@ -5362,22 +5287,12 @@
     {
         "name": "Radio Drama 99.1",
         "url": "http://pstnet6.shoutcastnet.com:60160/stream",
-        "favicon": "https://img.logo.dev/rd991.radiostream123.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Elliniko",
-        "url": "http://168.119.74.185:9888/autodj",
-        "favicon": "https://img.logo.dev/radioelliniko.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/pstnet6.shoutcastnet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO EPIRUS 94.5",
         "url": "https://neos.win:59454/stream",
         "favicon": "https://img.logo.dev/radioepirus.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO EVIA 104.1 FM",
-        "url": "https://shoutcast.k-planet.eu/9900/stream;",
-        "favicon": "https://img.logo.dev/radioevia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Evros",
@@ -5405,11 +5320,6 @@
         "favicon": "https://img.logo.dev/mcr2.streams.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Galaxy 99",
-        "url": "https://solid1.streamupsolutions.com/proxy/tfcgioyq?mp=/stream",
-        "favicon": "https://img.logo.dev/radiogalaxy99.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Galilea",
         "url": "http://s1.onweb.gr:8446/;",
         "favicon": "https://img.logo.dev/galilea.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5423,11 +5333,6 @@
         "name": "Radio GOLD 103.3 FM Greece",
         "url": "http://radiogold.live24.gr/radiogold?",
         "favicon": "https://img.logo.dev/radiogold.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Gold 2",
-        "url": "http://radiogold.live24.gr/radiogoldies",
-        "favicon": "https://img.logo.dev/tvgold.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Hersonissos 97.2",
@@ -5453,16 +5358,6 @@
         "name": "Radio Kos 98 FM",
         "url": "https://play.streams.gr:22082/stream",
         "favicon": "https://img.logo.dev/kostv.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Kyklos",
-        "url": "https://azuracast.streams.ovh/listen/radiokyklos/radio.mp3",
-        "favicon": "https://img.logo.dev/radiokyklos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Lady",
-        "url": "https://webinternetradios.eu:48830/",
-        "favicon": "https://img.logo.dev/radiolady.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Lampsi",
@@ -5535,16 +5430,6 @@
         "favicon": "https://img.logo.dev/radiomitilini.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Nostalgia",
-        "url": "http://radionostalgiagr.dyndns.org:2314/",
-        "favicon": "https://img.logo.dev/radio-nostalgia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Nostalgia GR",
-        "url": "http://radionostalgiagr.dyndns.org:8010/;",
-        "favicon": "https://img.logo.dev/radio-nostalgia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Nowhere",
         "url": "https://i.streams.ovh:2200/sc/radionow/stream",
         "favicon": "https://img.logo.dev/radionw.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5565,16 +5450,6 @@
         "favicon": "https://img.logo.dev/radio-paris.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Patra 106,5",
-        "url": "https://live.cast-control.eu:2000/stream/radiopatra",
-        "favicon": "https://img.logo.dev/radiopatra.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Patra 106,5",
-        "url": "https://live.cast-control.eu:2000/stream/radiopatra",
-        "favicon": "https://img.logo.dev/radiopatra.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Pieria 104.2 FM",
         "url": "https://rpieria.radioca.st/;stream.mp3",
         "favicon": "https://img.logo.dev/radiopieria.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5583,11 +5458,6 @@
         "name": "Radio Pirate Live",
         "url": "https://listen.radioking.com/radio/497272/stream/554374",
         "favicon": "https://img.logo.dev/radiopirate.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Play 91.5 Fm Stereo (Gr Xanthi)",
-        "url": "https://s6.onweb.gr:7026/live",
-        "favicon": "https://img.logo.dev/radioplay.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Pólis 99.4",
@@ -5600,21 +5470,6 @@
         "favicon": "https://img.logo.dev/politiaradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Sfakia",
-        "url": "https://ams-pioneer02.dedicateware.com:1215/stream",
-        "favicon": "https://img.logo.dev/radio.sfakiacrete.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Stournareika 92.5 fm Stereo",
-        "url": "https://i8.streams.ovh/sc/radiostournareika/stream",
-        "favicon": "https://img.logo.dev/radiostournareika.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Stournareika 92.5 FM Stereo (Trikala)",
-        "url": "http://i8.streams.ovh:18051/stream",
-        "favicon": "https://img.logo.dev/radiostournareika.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Ta Asteria",
         "url": "https://cast.serverps.gr/proxy/radioasteria/stream",
         "favicon": "https://img.logo.dev/xat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5625,11 +5480,6 @@
         "favicon": "https://img.logo.dev/radiotechnis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio X",
-        "url": "https://n07.radiojar.com/yv5xu5h7zwwtv?rj-ttl=5&rj-tok=AAABeMgD8O4ADk3iEmxYJju41w",
-        "favicon": "https://img.logo.dev/radiox.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Yellow GR",
         "url": "http://radio.streamings.gr/proxy/radioyellow?mp=/stream",
         "favicon": "https://img.logo.dev/radio-yellow.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5638,11 +5488,6 @@
         "name": "radio-rizitis",
         "url": "https://sh.onweb.gr/8040/stream",
         "favicon": "https://img.logo.dev/radiorizites.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio5",
-        "url": "https://streamer.out.gr/8006/stream",
-        "favicon": "https://img.logo.dev/radio5.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RadioActive",
@@ -5680,24 +5525,9 @@
         "favicon": "https://img.logo.dev/radioin.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radionotes",
-        "url": "https://neos.win:48720/stream",
-        "favicon": "https://img.logo.dev/radionotes.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RadioPoint",
         "url": "https://i4.streams.ovh/sc/srizakhs/streammp3",
         "favicon": "https://img.logo.dev/radiopoint.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioPoll",
-        "url": "https://rdst.win:48110/stream",
-        "favicon": "https://img.logo.dev/radiopoll20watt.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radiotirnavos",
-        "url": "http://s3.onweb.gr:8528/stream",
-        "favicon": "https://img.logo.dev/radiotirnavos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RadIQ Happy",
@@ -5820,11 +5650,6 @@
         "favicon": "https://img.logo.dev/redfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rempetissa",
-        "url": "https://webinternetradios.eu:59339/",
-        "favicon": "https://img.logo.dev/radiorempetissa.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "REPLAY NEWS - Ελληνικά",
         "url": "https://replaynewsgr.ice.infomaniak.ch/replaynewsgr-128.mp3",
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5855,11 +5680,6 @@
         "favicon": "https://img.logo.dev/rockradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rock Aces Radio",
-        "url": "http://i9.streams.ovh:19030/stream",
-        "favicon": "https://img.logo.dev/rockaces.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rock Angels Radio",
         "url": "https://azuracast.streams.ovh/listen/rockangels/radio.mp3",
         "favicon": "https://img.logo.dev/rockangelsradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5872,7 +5692,7 @@
     {
         "name": "Rock Hard Greece",
         "url": "https://noc.ezhellas.com:44450/live",
-        "favicon": "https://img.logo.dev/rockhard.space?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/noc.ezhellas.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock Melodic Radio",
@@ -5895,34 +5715,9 @@
         "favicon": "https://img.logo.dev/rockradiostation.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rock Station",
-        "url": "http://89.163.217.252:9898/stream?type=http&amp;nocache=8",
-        "favicon": "https://img.logo.dev/rockstation.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rock Velvet",
-        "url": "https://free.rcast.net/62225",
-        "favicon": "https://img.logo.dev/rockstation.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rockarolla Radio",
-        "url": "https://solid2.streamupsolutions.com/proxy/msoepowo?mp=/stream",
-        "favicon": "https://img.logo.dev/rockarolla.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rockha Radio",
         "url": "https://radio.rockharadio.com/listen/rockharadio/radio.mp3",
         "favicon": "https://img.logo.dev/rockharadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rodon 95",
-        "url": "http://live3.istoikona.net:8324/stream",
-        "favicon": "https://img.logo.dev/rodonfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rodos FM",
-        "url": "https://i.streams.ovh:9327/stream",
-        "favicon": "https://img.logo.dev/rodosfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rokkea",
@@ -5960,11 +5755,6 @@
         "favicon": "https://img.logo.dev/rtpress.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rythmos 94.6",
-        "url": "https://sc2.streamwithq.com:2000/stream/Rithmos946",
-        "favicon": "https://img.logo.dev/rythmos946.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rythmos 94.9",
         "url": "http://stream.radiojar.com/aw1w2xfx1vduv",
         "favicon": "https://img.logo.dev/soundis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6000,16 +5790,6 @@
         "favicon": "https://img.logo.dev/samothrakiradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Santorini 106.4",
-        "url": "http://eco.onestreaming.com:8316/stream?type=http&nocache=55775",
-        "favicon": "https://img.logo.dev/santorinifm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Santorini FM 106,4",
-        "url": "https://eco.onestreaming.com/proxy/santorini1/stream",
-        "favicon": "https://img.logo.dev/santorinifm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Santorini Jazz Radio",
         "url": "https://stream.santorinijazzradio.com/a2vmt89kd5uvv",
         "favicon": "https://img.logo.dev/santorinijazzradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6023,11 +5803,6 @@
         "name": "Satradio",
         "url": "https://fra-pioneer08.dedicateware.com:1370/;?type=http&nocache=1770150927",
         "favicon": "https://img.logo.dev/satradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Scanner 102.2",
-        "url": "http://s1.onweb.gr:8074/stream?type=http&nocache=61679",
-        "favicon": "https://img.logo.dev/scannerfm.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Serra",
@@ -6065,11 +5840,6 @@
         "favicon": "https://img.logo.dev/sfera.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sfera 94.4",
-        "url": "http://netradio.live24.gr/sfera941nauplio",
-        "favicon": "https://img.logo.dev/sferaradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Sfera 96.6",
         "url": "http://n01.radiojar.com/mg2vq26eewzuv?rj-ttl=5&rj-tok=AAABePDKYnkA9kVa1QYWTKFxIQ",
         "favicon": "https://img.logo.dev/sferafm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6078,11 +5848,6 @@
         "name": "Sfera 98.7",
         "url": "https://i5.streams.ovh:2200/ssl/web100?mp=/stream&1603386012927",
         "favicon": "https://img.logo.dev/sfera987.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sfera 98.9",
-        "url": "http://stream-mp3aac.live24.gr/sfera989",
-        "favicon": "https://img.logo.dev/sfera989.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sfera Kids",
@@ -6105,16 +5870,6 @@
         "favicon": "https://img.logo.dev/sferikos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Shook",
-        "url": "http://s1.onweb.gr:8812/;",
-        "favicon": "https://img.logo.dev/shook.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Shook 104.4",
-        "url": "https://sh.onweb.gr/8812/;/chillout.mp3?type=http&nocache=377274",
-        "favicon": "https://img.logo.dev/shook.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Siatista 95.7",
         "url": "http://eco.onestreaming.com:8606/;",
         "favicon": "https://img.logo.dev/radiosiatista.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6125,9 +5880,9 @@
         "favicon": "https://img.logo.dev/sierafm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Silibre",
-        "url": "http://89.163.217.252/8010/stream",
-        "favicon": "https://img.logo.dev/silibre.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Simple Radio",
+        "url": "https://ice.streams.ovh:1765/stream",
+        "favicon": "https://img.logo.dev/simpleradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sin",
@@ -6202,7 +5957,7 @@
     {
         "name": "Sky 91.3",
         "url": "http://cressida.shoutca.st:9158/stream?type=http&nocache=61",
-        "favicon": "https://img.logo.dev/skyfm-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/cressida.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sky 99.2",
@@ -6251,7 +6006,7 @@
     },
     {
         "name": "Sohos FM 88.7",
-        "url": "http://212.95.45.82:32032/stream",
+        "url": "http://178.32.146.187:2046/stream",
         "favicon": "https://img.logo.dev/sohosfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -6280,19 +6035,9 @@
         "favicon": "https://img.logo.dev/sokolatafm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Soul Radio GR",
-        "url": "https://cast4.magicstreams.gr:10053/stream",
-        "favicon": "https://img.logo.dev/soulradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Souxe",
         "url": "https://n09.radiojar.com/ugs98yvkb?rj-ttl=5&rj-tok=AAABhSUTgCAAJJ7vOqIw4wkuXw",
         "favicon": "https://img.logo.dev/radiosouxe.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Spirto 104.7",
-        "url": "https://tls-chrome.live24.gr/2497?http://130.185.234.108:8095/;.mp3",
-        "favicon": "https://img.logo.dev/spirtofm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Spirto Web Radio",
@@ -6515,39 +6260,19 @@
         "favicon": "https://img.logo.dev/studiofm.xat.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Studio Ρέθυμνο 980",
-        "url": "http://sc2.streamwithq.com:8120/;",
-        "favicon": "https://img.logo.dev/studio980.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Studio12-22",
         "url": "https://cast6.asurahosting.com/proxy/radiosky/stream",
         "favicon": "https://img.logo.dev/studio12-22.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Styl 104.9",
-        "url": "http://s3.onweb.gr:8530/;",
-        "favicon": "https://img.logo.dev/stylfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Styl FM 104.8",
-        "url": "https://sh.onweb.gr:7064/;",
-        "favicon": "https://img.logo.dev/stylfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Style 100",
+        "url": "https://eco.onestreaming.com/proxy/style100/stream",
+        "favicon": "https://img.logo.dev/style100fm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stylida 94.1",
         "url": "https://aphrodite.freespirits.gr:8110/radio.mp3",
         "favicon": "https://img.logo.dev/stylidafm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Suburbia Parties - Athens Hardcore Radio",
-        "url": "https://s9.webradio-hosting.com/proxy/suburbiaparties/stream",
-        "favicon": "https://img.logo.dev/radio.suburbiaparties.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SUBURBiA Planet Hardcore",
-        "url": "https://srv01.suburbiaparties.com/listen/suburbia/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.suburbiaparties.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Summer Radio",
@@ -6560,6 +6285,11 @@
         "favicon": "https://img.logo.dev/peloponnisosnews.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Super 88",
+        "url": "https://eco.onestreaming.com:18882/stream",
+        "favicon": "https://img.logo.dev/super88radio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Super 89.8",
         "url": "https://casty.youmix.gr/listen/superfm898/superfm",
         "favicon": "https://img.logo.dev/superfm898.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6570,39 +6300,14 @@
         "favicon": "https://img.logo.dev/super904.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Super FM 101 Thessaloniki",
-        "url": "http://ice.greekstream.net/superfm",
-        "favicon": "https://img.logo.dev/superfm101.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Super FM Chania",
-        "url": "http://s3.onweb.gr:8454/",
-        "favicon": "https://img.logo.dev/superfm896.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Super FM Thessaloniki",
-        "url": "https://ice.greekstream.net/superfm",
-        "favicon": "https://img.logo.dev/superfm.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Super Star GR",
-        "url": "https://centova.streams.gr:8016/stream?1726303819222",
-        "favicon": "https://img.logo.dev/superstarradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Superhitradio",
-        "url": "https://s10.streamingcloud.online/stream/13578/Superhitradio",
-        "favicon": "https://img.logo.dev/superhitradio.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Super FM 104.3",
+        "url": "https://stream1.rcast.net/73922",
+        "favicon": "https://img.logo.dev/super-fm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SWU FM",
         "url": "https://admin.stream.rinse.fm/proxy/swu/stream",
         "favicon": "https://img.logo.dev/rinse.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Symi Radio",
-        "url": "https://stream-47.zeno.fm/2me3a1e6ag0uv?zs=3WKmTDgjSoW6sclZWjyckg",
-        "favicon": "https://img.logo.dev/symiradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Synora 98.7",
@@ -6615,29 +6320,24 @@
         "favicon": "https://img.logo.dev/syzefxi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Talos 88.6",
-        "url": "https://tls-chrome.live24.gr/1206?http://eco.onestreaming.com:8840/stream",
-        "favicon": "https://img.logo.dev/talosfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Team 102",
-        "url": "https://hotsoft.net.gr:9105/index.html?sid=1",
-        "favicon": "https://img.logo.dev/teamfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Technolocos deep web radio",
         "url": "https://technolocos.net/listen/technolocos/radio.mp3",
         "favicon": "https://img.logo.dev/technolocos.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "The Gallery Radio",
+        "url": "https://thegallery.gr/gr/radio/",
+        "favicon": "https://img.logo.dev/thegallery.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Gallery Radio",
+        "url": "https://streamings.gr/",
+        "favicon": "https://img.logo.dev/thegallery.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "The Sound FM",
         "url": "https://cast.radiohost.ovh/soundfm?mp=/stream",
         "favicon": "https://img.logo.dev/olddj.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TheDotRadio",
-        "url": "https://c16.radioboss.fm:8026/stream",
-        "favicon": "https://img.logo.dev/thedotradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Thespies",
@@ -6785,11 +6485,6 @@
         "favicon": "https://img.logo.dev/uncutradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Underground GR",
-        "url": "https://duthradio.ddns.net:8000/radio.mp3?refresh=1723580064779",
-        "favicon": "https://img.logo.dev/undergroundradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Up 92.9",
         "url": "http://ice.streamcloud.mediacdn.com/lampsi929herakleio",
         "favicon": "https://img.logo.dev/929.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6855,11 +6550,6 @@
         "favicon": "https://img.logo.dev/velvet968.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "venus",
-        "url": "https://sh.onweb.gr/8410/;",
-        "favicon": "https://img.logo.dev/venusradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Venus 105.1",
         "url": "https://sh.onweb.gr:7124/stream",
         "favicon": "https://img.logo.dev/venusfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6873,16 +6563,6 @@
         "name": "Venus Mykonos",
         "url": "https://politismedia-sec.live24.gr/streameemykonos",
         "favicon": "https://img.logo.dev/streamee.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Venus Radio",
-        "url": "http://s1.onweb.gr:8410/;",
-        "favicon": "https://img.logo.dev/venusradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Venus Radio 99.3",
-        "url": "https://sh.onweb.gr/8410/;",
-        "favicon": "https://img.logo.dev/venusradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VintageRadio",
@@ -6967,7 +6647,7 @@
     {
         "name": "We Radio 89.4",
         "url": "https://radio.1055rock.gr:32667/live",
-        "favicon": "https://img.logo.dev/weradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radio.1055rock.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Weird Fishes",
@@ -7000,11 +6680,6 @@
         "favicon": "https://img.logo.dev/xanthiradiodj.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "XFM GR",
-        "url": "https://solid1.streamupsolutions.com/proxy/zizthduh?mp=/=stream",
-        "favicon": "https://img.logo.dev/xfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Xilia Diamantia",
         "url": "https://i8.streams.ovh/ic/xiliadiamantia/stream",
         "favicon": "https://img.logo.dev/xiliadiamantia.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7013,6 +6688,11 @@
         "name": "Xmas Love 97.5",
         "url": "https://n0e.radiojar.com/gt0xy4z88f0uv?rj-ttl=5&rj-tok=AAABi7fTOIkAxUgpckpuwZwLcQ",
         "favicon": "https://img.logo.dev/xmas.loveradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "XROMA 105.8",
+        "url": "http://hroma1058thess.live24.gr/hroma1058thess",
+        "favicon": "https://img.logo.dev/hroma1058thess.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Xryses Notes",
@@ -7028,11 +6708,6 @@
         "name": "Yes! 91.2",
         "url": "https://ams-pioneer02.dedicateware.com:1060/;?type=http&nocache=10656",
         "favicon": "https://img.logo.dev/yesradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Yolo 102.1",
-        "url": "http://netradio.live24.gr/yoloradio",
-        "favicon": "https://img.logo.dev/yolo1021.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "You 98.7",
@@ -7160,19 +6835,14 @@
         "favicon": "https://img.logo.dev/christianity.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ακρόαμα 94.6",
-        "url": "http://s1.onweb.gr:8066/;",
-        "favicon": "https://img.logo.dev/radioakroama.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Ακρίτες",
+        "url": "http://akritespontou.live24.gr/akritespontou",
+        "favicon": "https://img.logo.dev/akritespontou.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ακρόαμα 95.5",
         "url": "http://live.e-streaming.eu:8100/1",
         "favicon": "https://img.logo.dev/akroamaradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Αλέξανδρος 106.3",
-        "url": "http://proxima.shoutca.st:9012/;",
-        "favicon": "https://img.logo.dev/radioalexandros.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Αλήθεια 95.7",
@@ -7198,11 +6868,6 @@
         "name": "Άμφισσα",
         "url": "http://stream3.468.gr:8104/;listen.pls",
         "favicon": "https://img.logo.dev/radioamfissa.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ανάμνηση 91",
-        "url": "http://radioanamnisi.live24.gr/radioanamnisi910",
-        "favicon": "https://img.logo.dev/radioanamnisi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Άνοιξη 100.7",
@@ -7233,11 +6898,6 @@
         "name": "Αργολίδα FM 103.8",
         "url": "https://24streams.gr:8100/stream?ver=461868",
         "favicon": "https://img.logo.dev/argolida-fm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Αργοσαρωνικός",
-        "url": "http://s3.onweb.gr:8536/;",
-        "favicon": "https://img.logo.dev/radioargosaronikos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Αρμονία 103.2",
@@ -7285,6 +6945,11 @@
         "favicon": "https://img.logo.dev/radiovera.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Βερενίκη 89.5",
+        "url": "https://everest.streams.ovh:1290/stream",
+        "favicon": "https://img.logo.dev/radiovereniki.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Βόλος",
         "url": "http://www.gointernet.gr:8014/;stream.mp3",
         "favicon": "https://img.logo.dev/volos986.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7293,11 +6958,6 @@
         "name": "Γαλαξίας 92.1",
         "url": "https://sonic.serverps.gr/8018/stream",
         "favicon": "https://img.logo.dev/galaxiasfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Γαλαξίας 92.1 Σέρρες",
-        "url": "https://tls-chrome.live24.gr/4072?http://cast.streams.ovh:12059/stream/",
-        "favicon": "https://img.logo.dev/radiogalaxias.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Γαλιλαία",
@@ -7310,14 +6970,14 @@
         "favicon": "https://img.logo.dev/radiogamma.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "γκρίκς",
-        "url": "https://solid9.streamupsolutions.com/proxy/vlerkait/stream",
-        "favicon": "https://img.logo.dev/thewebradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Γλέντι 101.1",
         "url": "http://onairmediagroup.live24.gr/glenti1011xanthi",
         "favicon": "https://img.logo.dev/glentifm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Γλέντι 95",
+        "url": "https://sh.onweb.gr/8554/;",
+        "favicon": "https://img.logo.dev/sh.onweb.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Γλέντι FM 101.1",
@@ -7400,6 +7060,11 @@
         "favicon": "https://img.logo.dev/diktyofm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Δίκτυο Fm",
+        "url": "https://www.diktyofm.gr/liveplayer/",
+        "favicon": "https://img.logo.dev/diktyofm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Δίκτυο FM 91.5",
         "url": "https://eu1.fastcast4u.com/proxy/diktyofm?mp=/1&1669757862949&1769842426192",
         "favicon": "https://img.logo.dev/diktyofm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7410,14 +7075,14 @@
         "favicon": "https://img.logo.dev/dionisos892.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Δίστομο 106.1",
-        "url": "http://radio.icehosting.com:8091/live.mp3",
-        "favicon": "https://img.logo.dev/radiodistomo.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Δρόμος 105.4",
         "url": "https://sc2.streamwithq.com:8124/stream?type=http&nocache=239",
         "favicon": "https://img.logo.dev/dromosfm1054.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ΔΡΟΜΟΣ 89,8",
+        "url": "https://n07-eu1.rcs.revma.com/10q3enqxbfhvv",
+        "favicon": "https://img.logo.dev/dromosfm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Δρομοσ 89,8 | Dromos 89,8",
@@ -7545,19 +7210,9 @@
         "favicon": "https://img.logo.dev/entasiradio.tuc.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Έντεχνα",
-        "url": "https://rasp35.ddnsfree.com:3535/stream",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Έντεχνος 92.5",
         "url": "https://stream-mp3aac.live24.gr/max925-her",
         "favicon": "https://img.logo.dev/entexnos925.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ένωση",
-        "url": "http://live.sugarweb.gr/973.mp3",
-        "favicon": "https://img.logo.dev/radioenosi.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Επικοινωνία 94",
@@ -7730,11 +7385,6 @@
         "favicon": "https://img.logo.dev/enromiosini.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Έρωτας 92",
-        "url": "http://eco.onestreaming.com:8368/;",
-        "favicon": "https://img.logo.dev/radioerotas.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ερωτικός",
         "url": "https://eu1.fastcast4u.com/proxy/nmarog01",
         "favicon": "https://img.logo.dev/eroticos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7760,24 +7410,9 @@
         "favicon": "https://img.logo.dev/eroticos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Εύβοια 104.1",
-        "url": "https://shoutcast.k-planet.eu/9900/stream;",
-        "favicon": "https://img.logo.dev/radioevia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Εύβοια 104.1",
-        "url": "http://89.163.217.252:9900/;",
-        "favicon": "https://img.logo.dev/radioevia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Εύδιος Λιμήν 101.9",
         "url": "https://eco.onestreaming.com/proxy/imga/stream",
         "favicon": "https://img.logo.dev/imga.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ζημιά 93.9",
-        "url": "http://www.gointernet.gr:8012/;listen.pls",
-        "favicon": "https://img.logo.dev/zimia939.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ζημιά 94.5",
@@ -7810,16 +7445,6 @@
         "favicon": "https://img.logo.dev/e-sarakatsanos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Θάλασσα και Παράδοση",
-        "url": "http://i.streams.ovh:9391/stream",
-        "favicon": "https://img.logo.dev/website.com.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Θάλασσα και Παράδοση",
-        "url": "http://i.streams.ovh:9391/stream",
-        "favicon": "https://img.logo.dev/website.com.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Θέμα 98.7",
         "url": "https://radio.themapatras.gr/radio",
         "favicon": "https://img.logo.dev/themapatras.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7830,14 +7455,14 @@
         "favicon": "https://img.logo.dev/themakritis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Θεσσαλία 96",
-        "url": "http://webradio.northbridge.gr/proxy/thessaliafm/stream",
-        "favicon": "https://img.logo.dev/thessaliafm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Θήβα 97.5",
         "url": "https://streaming.sbzsystems.com/proxy/radiothiva/stream/",
         "favicon": "https://img.logo.dev/radiothiva.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ΘΗΤΑ 107.1",
+        "url": "https://netradio.live24.gr/music1071thess",
+        "favicon": "https://img.logo.dev/thitanews.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Θράκη 99.8",
@@ -7885,11 +7510,6 @@
         "favicon": "https://img.logo.dev/ksenyxtis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ιερά Αρχιεπισκοπή Κρήτης",
-        "url": "https://i7.streams.ovh/ic/iakradi1/stream",
-        "favicon": "https://img.logo.dev/i7.streams.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ιερά Μητρόπολη Ξάνθης",
         "url": "https://radio.streamings.gr/proxy/imxanthis?mp=/stream",
         "favicon": "https://img.logo.dev/im-xanthis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7903,11 +7523,6 @@
         "name": "Ιερά Μητρόπολις Σύρου 95.4",
         "url": "http://sh.onweb.gr:8852/;stream",
         "favicon": "https://img.logo.dev/imsyrou.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ιερός Ναός Αγ. Γεωργίου Αμιρά Βιάννου",
-        "url": "https://stream-47.zeno.fm/39ctbne6kfhvv?zs=9q9C7p4RRn264troeLXFEw&acu-uid=728422785299&triton-uid=cookie%3A479b3bea-0ca4-4186-99f8-a37926c7742f",
-        "favicon": "https://img.logo.dev/seamiras.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Καλάβρυτα",
@@ -7928,11 +7543,6 @@
         "name": "Καντίνι Web Radio",
         "url": "https://fra-pioneer08.dedicateware.com/kantiniradio",
         "favicon": "https://img.logo.dev/kantiniradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Κέρκυρα",
-        "url": "http://live.cast-control.eu:9118/stream;?1552397300972",
-        "favicon": "https://img.logo.dev/startmediacorfu.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Κόσμος 93.8",
@@ -7973,11 +7583,6 @@
         "name": "ΚΣΕΝΥΧΤΙΣ ΜΙΤΙΛΙΝΙ",
         "url": "http://play.streams.gr:22058/live",
         "favicon": "https://img.logo.dev/ksenyxtis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Κύκλος",
-        "url": "http://c30.radioboss.fm:8299/stream",
-        "favicon": "https://img.logo.dev/radiokyklos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Κύμα 90.3",
@@ -8055,19 +7660,9 @@
         "favicon": "https://img.logo.dev/my.aegean.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Λυδία 94.2",
-        "url": "http://eu1.radiolydia.com:1086/stream",
-        "favicon": "https://img.logo.dev/radiolydia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Λυδία 94.2",
-        "url": "https://tls-chrome.live24.gr/271?http://eu1.radiolydia.com:1086/stream",
-        "favicon": "https://img.logo.dev/radiolydia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Λυδία FM 94.2",
-        "url": "http://eu1.radiolydia.com:1086/;",
-        "favicon": "https://img.logo.dev/radiolydia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Λόφος",
+        "url": "https://stream.myaegean.gr/lofosradio.mp3",
+        "favicon": "https://img.logo.dev/my.aegean.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Λύχνος",
@@ -8105,9 +7700,9 @@
         "favicon": "https://img.logo.dev/radiomegalonisos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Μελωδία 102.4",
-        "url": "https://radio.streamings.gr/proxy/melodia1024?mp=/stream",
-        "favicon": "https://img.logo.dev/radiomelodia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Μελωδία 106.8",
+        "url": "http://eu5.fastcast4u.com:5020/stream",
+        "favicon": "https://img.logo.dev/eu5.fastcast4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Μελωδία 106.9",
@@ -8170,6 +7765,11 @@
         "favicon": "https://img.logo.dev/radiomires.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Μοναδική Πολιτεία 96 - Αδελφότης Μεταμορφώσεως του Σωτήρος Ναυπάκτου",
+        "url": "http://mp96fm.live24.gr/monadikipolitia96",
+        "favicon": "https://img.logo.dev/mp96fm.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Μουσική Λάμψη 103.3",
         "url": "https://tls-chrome.live24.gr/775?http://stream.myip.gr:9214/",
         "favicon": "https://img.logo.dev/mousikilampsi.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8205,11 +7805,6 @@
         "favicon": "https://img.logo.dev/radiomitilini.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Νέα Στύρα 95.4",
-        "url": "https://cast.radios24.eu:2200/radio/styrafm?mp=/stream",
-        "favicon": "https://img.logo.dev/styrafm954.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Νέο Ραδιόφωνο 97.9",
         "url": "http://s1.onweb.gr:8820/stream?type=http&nocache=24195",
         "favicon": "https://img.logo.dev/newradio.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8220,11 +7815,6 @@
         "favicon": "https://img.logo.dev/nisiotika.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Νοσταλγία",
-        "url": "http://radionostalgiagr.dyndns.org:2314/stream?type=http&nocache=167",
-        "favicon": "https://img.logo.dev/radio-nostalgia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Νότες 96",
         "url": "https://netradio.live24.gr/stylfmathens",
         "favicon": "https://img.logo.dev/live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8233,16 +7823,6 @@
         "name": "Νότες 96",
         "url": "https://netradio.live24.gr/stylfmathens",
         "favicon": "https://img.logo.dev/live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ξηρόμερο 88.3",
-        "url": "https://cast.magicstreams.gr/ic/raxfm/stream",
-        "favicon": "https://img.logo.dev/xiromero883.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ξυλαγανή 104.5",
-        "url": "http://solid2.streamupsolutions.com:24950/stream",
-        "favicon": "https://img.logo.dev/radioxilagani.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ο νέος Freedom",
@@ -8263,91 +7843,6 @@
         "name": "Όμορφη Πόλη 89.9",
         "url": "https://radio.streamings.gr/proxy/radioxanthis?mp=/stream&1668711454106",
         "favicon": "https://img.logo.dev/radio899.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία - Αγία Γραφή",
-        "url": "https://rasp35.ddnsfree.com:3535/radio_el",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία - Αγία Γραφή",
-        "url": "https://rasp35.ddnsfree.com:3535/radio_el",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Άγιος Παϊσιος",
-        "url": "https://rasp35.ddnsfree.com:3535/pss",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Άγιος Παϊσιος",
-        "url": "https://rasp35.ddnsfree.com:3535/pss",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία και Παράδοση 103",
-        "url": "http://radio.lts-group.eu:52390/ANS",
-        "favicon": "https://img.logo.dev/siatistaagiosnikolaos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Μυτηλιναίος",
-        "url": "https://rasp35.ddnsfree.com:3535/mtlns",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Μυτηλιναίος",
-        "url": "https://rasp35.ddnsfree.com:3535/mtlns",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Παναγώπουλος",
-        "url": "https://rasp35.ddnsfree.com:3535/pngpls",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Σωτηρόπουλος",
-        "url": "https://rasp35.ddnsfree.com:3535/strpls",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Σωτηρόπουλος",
-        "url": "https://rasp35.ddnsfree.com:3535/strpls",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Σωτηρόπουλος",
-        "url": "https://rasp35.ddnsfree.com:3535/strpls",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Σωτηρόπουλος",
-        "url": "https://rasp35.ddnsfree.com:3535/strpls",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Ύμνοι",
-        "url": "https://rasp35.ddnsfree.com:3535/ymnoi",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Ύμνοι",
-        "url": "https://rasp35.ddnsfree.com:3535/ymnoi",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Ύμνοι",
-        "url": "https://rasp35.ddnsfree.com:3535/ymnoi",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Ύμνοι",
-        "url": "https://rasp35.ddnsfree.com:3535/ymnoi",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ορθοδοξία Ύμνοι",
-        "url": "https://rasp35.ddnsfree.com:3535/ymnoi",
-        "favicon": "https://img.logo.dev/rasp35.ddnsfree.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ΟΡΤ 92.3",
@@ -8373,6 +7868,11 @@
         "name": "Παλμός 94,9",
         "url": "https://tls-chrome.live24.gr/3858?http://37.157.242.101:24467/",
         "favicon": "https://img.logo.dev/palmos949kos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Παμβώτις 105.7",
+        "url": "http://iphone.live24.gr/pamvotis1057ioannina",
+        "favicon": "https://img.logo.dev/iphone.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Πανόραμα 100.8",
@@ -8415,16 +7915,6 @@
         "favicon": "https://img.logo.dev/radioparatiritis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Πάτρα 106.5",
-        "url": "http://live.cast-control.eu:9102/;",
-        "favicon": "https://img.logo.dev/radiopatra.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Πάτρα 106.5",
-        "url": "http://live.cast-control.eu:9102/stream?type=http&nocache=144",
-        "favicon": "https://img.logo.dev/radiopatra.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Παύλειος Λόγος - Ι.M.Β.Ν.Κ 90.2",
         "url": "http://eco.onestreaming.com:8548/",
         "favicon": "https://img.logo.dev/imverias.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8433,6 +7923,11 @@
         "name": "Παύλειος Λόγος 90.2",
         "url": "http://eco.onestreaming.com:8548/;",
         "favicon": "https://img.logo.dev/imverias.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Παύλος Βασιλείου Live",
+        "url": "https://azuracast.streams.gr/listen/paulosvasileioulive/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.streams.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Πειραιάς Κανάλι 1",
@@ -8520,11 +8015,6 @@
         "favicon": "https://img.logo.dev/imsyrou.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ράδιο 1 Χαλκίδα",
-        "url": "http://proradio.gr:8004/radio981m",
-        "favicon": "https://img.logo.dev/radio981.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ράδιο 104.4  Άγιος Νικόλαος",
         "url": "http://10440fm.live24.gr/10440fm",
         "favicon": "https://img.logo.dev/104fm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8550,14 +8040,19 @@
         "favicon": "https://img.logo.dev/radioaliveri1.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ράδιο Ανάμνηση 91",
-        "url": "https://netradio.live24.gr/radioanamnisi910?1666873984284",
-        "favicon": "https://img.logo.dev/radioanamnisi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ράδιο Απτάλικο",
         "url": "https://station.aptaliko.gr/radio/8000/radio.mp3",
         "favicon": "https://img.logo.dev/live.aptaliko.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ΡΑΔΙΟ ΑΡΧΑΓΓΕΛΟΣ",
+        "url": "https://www.radio941.gr/",
+        "favicon": "https://img.logo.dev/radio941.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ΡΑΔΙΟ ΑΡΧΑΓΓΕΛΟΣ",
+        "url": "http://eco.onestreaming.com:8536/",
+        "favicon": "https://img.logo.dev/radio941.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ράδιο Ατίθασος",
@@ -8570,24 +8065,9 @@
         "favicon": "https://img.logo.dev/grevenamedia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ΡΑΔΙΟ ΔΙΠΛΟΠΕΝΙΕΣ",
-        "url": "https://play.streams.gr/sc/radiodiplopenies/stream",
-        "favicon": "https://img.logo.dev/radiodiplopenies.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ράδιο Δίφωνο",
-        "url": "https://i4.streams.ovh/sc/difono/stream?1769840900373",
-        "favicon": "https://img.logo.dev/radio-difono.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ράδιο Ελληνικά Ακούσματα",
-        "url": "https://s2.e-resellers.gr/proxy/kviwebradio/stream",
-        "favicon": "https://img.logo.dev/radioakousmata.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ράδιο Ελληνικά Ακούσματα",
-        "url": "https://s2.e-resellers.gr/proxy/kviwebradio/stream",
-        "favicon": "https://img.logo.dev/radioakousmata.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Ράδιο Δράμα 99.1",
+        "url": "http://pstnet6.shoutcastnet.com:60160/stream",
+        "favicon": "https://img.logo.dev/pstnet6.shoutcastnet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ράδιο Ελπίδα 96.1",
@@ -8605,11 +8085,6 @@
         "favicon": "https://img.logo.dev/radiokapsoyra.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ράδιο Λευκίμμη 105.5",
-        "url": "https://i3.streams.ovh/ic/radiolefkimmi/stream",
-        "favicon": "https://img.logo.dev/radiolefkimmi.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ράδιο Μάγκας",
         "url": "https://solid1.streamupsolutions.com/proxy/cqbyibwg?mp=/stream",
         "favicon": "https://img.logo.dev/radio.garden?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8625,34 +8100,9 @@
         "favicon": "https://img.logo.dev/radiosamos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ράδιο Σφακιά",
-        "url": "https://ams-pioneer02.dedicateware.com:1215/stream",
-        "favicon": "https://img.logo.dev/radio.sfakiacrete.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ραδιοενέργεια",
-        "url": "http://s1.onweb.gr:8828/;",
-        "favicon": "https://img.logo.dev/radioenergeia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ραδιοκύματα 102.6",
-        "url": "http://s8.onweb.gr:8702/;",
-        "favicon": "https://img.logo.dev/radiowaves.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ραδιοκύματα 102.6",
-        "url": "https://sh.onweb.gr/8702/stream",
-        "favicon": "https://img.logo.dev/radiowaves.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ραδιοφράγματα",
         "url": "http://185.86.150.52:8000/live",
         "favicon": "https://img.logo.dev/radiofragmata.squat.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ραδιοφωνία Κισσάβου 97.8",
-        "url": "http://eco.onestreaming.com:8103/stream?type=http&nocache=25309",
-        "favicon": "https://img.logo.dev/rk978.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ραδιοφωνική Λέσχη 97,6",
@@ -8663,11 +8113,6 @@
         "name": "Ραδιοφωνική Λέσχη 97.6",
         "url": "http://s3.onweb.gr:8438/stream?type=http&nocache=56820",
         "favicon": "https://img.logo.dev/976.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ρεμπέτικο για λίγους",
-        "url": "https://stream-177.zeno.fm/wqcp8gq67vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cWNwOGdxNjd2enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imd3bDUyOGR0UzJxWXkzX0xwUkdJVGciLCJpYXQiOjE3NzQ2NzYwNTYsImV4cCI6MTc3NDY3NjExNn0.Zj53dXOszIlXNR6FQQotK2mPos1MLdXqCDRf5rm97zE",
-        "favicon": "https://img.logo.dev/rempetikogialigous.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ρίζες",
@@ -8705,11 +8150,6 @@
         "favicon": "https://img.logo.dev/tvkosmos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ρυθμός 94.6",
-        "url": "http://sc2.streamwithq.com:8098/;listen.pls",
-        "favicon": "https://img.logo.dev/rythmos946.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ρυθμός 96.8",
         "url": "https://centova.streams.gr/ic/rythmos968/stream",
         "favicon": "https://img.logo.dev/tvd.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8740,11 +8180,6 @@
         "favicon": "https://img.logo.dev/rythmosweb.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ρυθμός Αχαΐας 94.9",
-        "url": "https://netradio.live24.gr/rythmospatras949",
-        "favicon": "https://img.logo.dev/rythmos949achaias.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ρυθμός Κέρκυρας 99.7",
         "url": "https://sh.onweb.gr//8832/stream/",
         "favicon": "https://img.logo.dev/rythmos997.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8760,29 +8195,14 @@
         "favicon": "https://img.logo.dev/soundis.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ρυθμός Φλώρινας",
-        "url": "https://i7.streams.ovh/ic/rythmos1044/stream",
-        "favicon": "https://img.logo.dev/i7.streams.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ρωμαίος 94",
         "url": "https://rdst.win:59400/stream",
         "favicon": "https://img.logo.dev/radioromeos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Σαντορίνη",
-        "url": "http://eco.onestreaming.com:8316/stream?type=http&nocache=22964",
-        "favicon": "https://img.logo.dev/santorinifm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Σάρωθρον",
         "url": "https://radios.studio110.eu/radio/8010/radio.mp3",
         "favicon": "https://img.logo.dev/sarothron.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Σέρρες 98.9",
-        "url": "http://solid33.streamupsolutions.com:32014/stream",
-        "favicon": "https://img.logo.dev/radioserres.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ΣΚΑΪ 100.3",
@@ -8855,11 +8275,6 @@
         "favicon": "https://img.logo.dev/radiostork.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Στουρναραίικα 92.5",
-        "url": "https://i8.streams.ovh/sc/radiostournareika/stream",
-        "favicon": "https://img.logo.dev/radiostournareika.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Στόχος 104.9",
         "url": "https://rdst.win:37777/stream",
         "favicon": "https://img.logo.dev/stoxos1049.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8890,11 +8305,6 @@
         "favicon": "https://img.logo.dev/melodia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Τάκης",
-        "url": "https://i9.streams.ovh/sc/radiotak/stream",
-        "favicon": "https://img.logo.dev/radiotakhs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ταμυναϊκή Ραδιοφωνία 103.9",
         "url": "https://stream.iplayradio.net/proxy/taminaikiradiofonia/stream?",
         "favicon": "https://img.logo.dev/taminaikiradiofonia.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8913,11 +8323,6 @@
         "name": "Τρανζίστορ 100.3",
         "url": "https://metromedia.live24.gr/tranzistor1003thess",
         "favicon": "https://img.logo.dev/tranzistor1003.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Τύρναβος 103.8",
-        "url": "http://s3.onweb.gr:8528/;",
-        "favicon": "https://img.logo.dev/radiotirnavos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Υδρόγειος News Ηράκλειο",
@@ -8950,6 +8355,11 @@
         "favicon": "https://img.logo.dev/radio972.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Χιακός 102.4",
+        "url": "https://cast2.radiohost.ovh/xiakos?mp=/stream",
+        "favicon": "https://img.logo.dev/xiakoslaos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Χρόνος 87.5",
         "url": "https://cast.radiohost.ovh/radioxronos?mp=/default",
         "favicon": "https://img.logo.dev/xronos.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8960,9 +8370,24 @@
         "favicon": "https://img.logo.dev/xrysesnotes.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Χρώμα 102.1",
-        "url": "http://streams.enjoyfm.gr:48500/xroma.mp3",
-        "favicon": "https://img.logo.dev/xromafm.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Χρώμα 105,8 Θεσσαλονίκη",
+        "url": "https://hroma1058thess.live24.gr/hroma1058thess",
+        "favicon": "https://img.logo.dev/hroma1058thess.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Χρώμα 105.8 Θεσσαλονίκη",
+        "url": "https://hroma1058thess.live24.gr/hroma1058thess",
+        "favicon": "https://img.logo.dev/hroma1058thess.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Χρώμα 88.2",
+        "url": "http://metrovolos882.live24.gr/metrovolos882",
+        "favicon": "https://img.logo.dev/metrovolos882.live24.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Χώρος 94.2",
+        "url": "https://xoros.samos.aegean.gr/stream?1792959015622",
+        "favicon": "https://img.logo.dev/xoros.samos.aegean.gr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ωμέγα FM",

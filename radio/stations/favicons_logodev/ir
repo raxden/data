@@ -5,16 +5,6 @@
         "favicon": "https://img.logo.dev/navahang.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "..mohammed_ayyub",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "enationFM",
         "url": "http://dal4.ir.enationfm.stream:8308/;",
         "favicon": "https://img.logo.dev/enation.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -26,8 +16,13 @@
     },
     {
         "name": "hamsafar",
-        "url": "http://n11.radiojar.com/pyea7q9h5ehvv",
+        "url": "http://n07.radiojar.com/pyea7q9h5ehvv",
         "favicon": "https://img.logo.dev/hamsafarradio.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Harrooz",
+        "url": "https://streams.radio.co/s163d89567/listen",
+        "favicon": "https://img.logo.dev/shows.acast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Iran International (HTTPS stream)",
@@ -55,11 +50,6 @@
         "favicon": "https://img.logo.dev/iranintl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Muhammad Siddiq al-Minshawi",
-        "url": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "parsa",
         "url": "http://parsa.icdndhcp.com:18000/stream",
         "favicon": "https://img.logo.dev/radio.sarcheshmeh.us?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -68,11 +58,6 @@
         "name": "Radio Faaz",
         "url": "https://free.rcast.net/230792",
         "favicon": "https://img.logo.dev/radiofaaz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Gachsaran",
-        "url": "https://radio.gachsaran.org/gach",
-        "favicon": "https://img.logo.dev/radio.gachsaran.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Iran International",
@@ -115,6 +100,11 @@
         "favicon": "https://img.logo.dev/radiozza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio-Quran",
+        "url": "http://s4.cdn3.iranseda.ir:1935/liveedge/radio-quran/index.m3u8",
+        "favicon": "https://img.logo.dev/radio.iranseda.ir?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RadioSimorgh",
         "url": "https://stream.zeno.fm/jl8n7thgcdftv",
         "favicon": "https://img.logo.dev/is.gd?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -128,6 +118,11 @@
         "name": "RadioYar",
         "url": "https://shoutcast.glwiz.com/RadioYAR.mp3",
         "favicon": "https://img.logo.dev/radioyar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "uploadkon",
+        "url": "https://uploadkon.ir/uploads/eb9812_26Highrise-grab-diva.mp3",
+        "favicon": "https://img.logo.dev/uploadkon.ir?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "امبدد",

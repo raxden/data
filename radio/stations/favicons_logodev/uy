@@ -1,15 +1,5 @@
 [
     {
-        "name": "LOVE FM: All you need is Love / Música Romántica",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "24 de Agosto",
         "url": "https://24deagosto-zikoxweb.radioca.st/stream",
         "favicon": "https://img.logo.dev/24deagosto.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -200,6 +190,11 @@
         "favicon": "https://img.logo.dev/delsol.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Del Sol FM",
+        "url": "http://radio.dl.uy:9950/radio",
+        "favicon": "https://img.logo.dev/radio.dl.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DelSol",
         "url": "https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0",
         "favicon": "https://img.logo.dev/delsol.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -233,11 +228,6 @@
         "name": "ESPACIO SPORT 91.5 FM",
         "url": "https://medios.ciudaddigital.com.uy:18098/EspacioFM",
         "favicon": "https://img.logo.dev/915espaciofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Exa FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Exito - FM 99.7",
@@ -290,16 +280,6 @@
         "favicon": "https://img.logo.dev/fmhit.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Fm Inolvidable 93.1",
-        "url": "https://inolvidable-2.nty.uy/",
-        "favicon": "https://img.logo.dev/inolvidable-2.nty.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fm Inolvidable 93.1",
-        "url": "https://inolvidable-2.nty.uy/",
-        "favicon": "https://img.logo.dev/inolvidable-2.nty.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "FM La Costa 88.3",
         "url": "https://streaming3.hostingmontevideo.com:8074/stream",
         "favicon": "https://img.logo.dev/lacostafm88.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -347,7 +327,7 @@
     {
         "name": "Kairos FM Uruguay",
         "url": "https://panel.streamenviron.com:8264/radiokairos",
-        "favicon": "https://img.logo.dev/radiokairos.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/panel.streamenviron.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "La Clave Uruguay 92.9 FM",
@@ -385,11 +365,6 @@
         "favicon": "https://img.logo.dev/lavozdemelo.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "La voz de Paysandú - AM 1320",
-        "url": "http://salida.stream.com.uy:8508/stream",
-        "favicon": "https://img.logo.dev/radiocw39.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Laser FM",
         "url": "https://server.laradio.online/proxy/eduardo_correa?mp=/stream",
         "favicon": "https://img.logo.dev/laserfm.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -413,26 +388,6 @@
         "name": "Mega FM",
         "url": "https://radio.cimaspeed.com/8070/stream",
         "favicon": "https://img.logo.dev/megafm.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Metropolis 104.9",
-        "url": "https://metropolis-web-1.nty.uy/",
-        "favicon": "https://img.logo.dev/metropolis-web-1.nty.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Metropolis 104.9",
-        "url": "https://metropolis-web-1.nty.uy/",
-        "favicon": "https://img.logo.dev/metropolis-web-1.nty.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Metropolis Punta 95.9",
-        "url": "https://metropolis-web-1.nty.uy/",
-        "favicon": "https://img.logo.dev/metropolis-web-1.nty.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Metropolis Punta 95.9",
-        "url": "https://metropolis-web-1.nty.uy/",
-        "favicon": "https://img.logo.dev/metropolis-web-1.nty.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Multimedios Rincón AM 1510 - Fray Bentos",
@@ -490,11 +445,6 @@
         "favicon": "https://img.logo.dev/radio41.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Activa Florida 101.1",
-        "url": "https://streaming1.hostingmontevideo.com:7014/;",
-        "favicon": "https://img.logo.dev/radioactivaflorida.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Arapey",
         "url": "http://emisiones.com.uy:8085/arapey",
         "favicon": "https://img.logo.dev/10minutos.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -508,11 +458,6 @@
         "name": "Radio Babilonia",
         "url": "http://89.167.37.248:8000/listen/babilonia2/radio.mp3",
         "favicon": "https://img.logo.dev/audioserver.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Carmelo",
-        "url": "https://server.laradio.online/proxy/martin_barragan05?mp=/stream",
-        "favicon": "https://img.logo.dev/radiocarmelo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Carve",
@@ -550,11 +495,6 @@
         "favicon": "https://img.logo.dev/radiocontinental.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Cristal AM 1470 - Las Piedras",
-        "url": "https://medios.ciudaddigital.com.uy:18126/CristalAM",
-        "favicon": "https://img.logo.dev/radiocristaldeluruguay.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Cultura 1290 AM",
         "url": "https://radios.iwstreaming.uy/8034/stream",
         "favicon": "https://img.logo.dev/mediospublicos.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -580,6 +520,11 @@
         "favicon": "https://img.logo.dev/uy.radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio El Aguantadero",
+        "url": "https://streaming.gostreaming.com.ar/8096/;",
+        "favicon": "https://img.logo.dev/radioelaguantadero.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio El Espectador",
         "url": "https://espectador-1.nty.uy/",
         "favicon": "https://img.logo.dev/espectador.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -590,14 +535,14 @@
         "favicon": "https://img.logo.dev/radiofelicidad.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Fm 99.1",
-        "url": "https://rr5100.globalhost1.com/8454/stream",
-        "favicon": "https://img.logo.dev/radiofm991.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Futura - 91.1 FM",
         "url": "https://alba-uy-radiofutura-futura.stream.mediatiquestream.com/index.m3u8",
         "favicon": "https://img.logo.dev/rf.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Futura - 91.1 FM",
+        "url": "https://radiolatina.live:10849/",
+        "favicon": "https://img.logo.dev/radiofutura.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio La Zurda",
@@ -625,11 +570,6 @@
         "favicon": "https://img.logo.dev/nuevotiempo.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Patria",
-        "url": "https://medios.ciudaddigital.com.uy:18052/PatriaAM",
-        "favicon": "https://img.logo.dev/radiopatria.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Pedal",
         "url": "https://streaming1.hostingmontevideo.com:7003/stream.mp3",
         "favicon": "https://img.logo.dev/radiopedal.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -652,27 +592,12 @@
     {
         "name": "Radio Prado Sur",
         "url": "https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;",
-        "favicon": "https://img.logo.dev/radiopradosur.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Río Branco",
-        "url": "https://medios.ciudaddigital.com.uy:18164/RioBranco",
-        "favicon": "https://img.logo.dev/radioriobranco.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/usa2.fastcast4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Rivera CX144 AM 1440",
         "url": "http://usa15.ciudaddigital.com.uy:8060/RiveraAM",
         "favicon": "https://img.logo.dev/radiorivera.com.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio San Carlos",
-        "url": "http://198.49.65.43:10396/;",
-        "favicon": "https://img.logo.dev/radiosancarlos.uy?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Señales",
-        "url": "https://s1.radiosenialesfm.com:8030/radio.mp3",
-        "favicon": "https://img.logo.dev/radiosenialesfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Uno FM",

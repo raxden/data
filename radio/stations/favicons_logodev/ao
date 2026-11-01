@@ -1,30 +1,5 @@
 [
     {
-        "name": "EXA FM: Música pop em inglês e espanhol",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOVE FM:  Músicas pop espanholas clássicas dos anos 80, 90 e 2000",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Absolute country",
-        "url": "http://strm112.1.fm/acountry_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Absolute country",
-        "url": "http://strm112.1.fm/acountry_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AfriRádio",
         "url": "https://cast4.asurahosting.com/proxy/afriradi/stream",
         "favicon": "https://img.logo.dev/afriradio.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -45,9 +20,19 @@
         "favicon": "https://img.logo.dev/lacluanda.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Platina FM",
+        "url": "https://stream.zeno.fm/bckqpsxrqv8uv",
+        "favicon": "https://img.logo.dev/platinafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Powermix FM",
         "url": "https://cast.iplayradio.net/listen/powermixfm/stream",
         "favicon": "https://img.logo.dev/powermixfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Adventus",
+        "url": "https://stream-176.surfernetwork.com/kxu1vjyliqguv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHUxdmp5bGlxZ3V2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InJaVVNJenRuUnItRnJxVjA3VFd5aVEiLCJpYXQiOjE3OTM0MDU1MjYsImV4cCI6MTc5MzQwNTU4Nn0.zpYvTSgIg4M4NfIl3Ugm7JsVbYTybJ4Th4q3u9ytP6k",
+        "favicon": "https://img.logo.dev/radioadventus.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Bairro de Angola",
@@ -80,6 +65,16 @@
         "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio D'Agosto 92.0",
+        "url": "https://live.paineldj.com.br/proxy/radio1ago?mp=/stream",
+        "favicon": "https://img.logo.dev/radiodagosto.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Escola",
+        "url": "https://centova87.instainternet.com/proxy/cfjluanda?mp=/stream",
+        "favicon": "https://img.logo.dev/centova87.instainternet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Jihenda",
         "url": "https://s02.brascast.com:7830/live",
         "favicon": "https://img.logo.dev/radiojihenda.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -98,6 +93,16 @@
         "name": "Radio Luanda",
         "url": "https://paineldj5.com.br:20089/stream",
         "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Lumbamba",
+        "url": "https://stream-179.surfernetwork.com/l4feq7zw5d2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsNGZlcTd6dzVkMnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJiajVrTW1CUy0ySW95d0dMUVYwLUEiLCJpYXQiOjE3OTM0NTYxNjQsImV4cCI6MTc5MzQ1NjIyNH0.GOhawoZJVWbfjoCPghMEn93y-z8cle2ksf9kkqAj31s",
+        "favicon": "https://img.logo.dev/radiolumbamba89.ismyradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Lunda Norte",
+        "url": "https://paineldj6.com.br:20114/stream",
+        "favicon": "https://img.logo.dev/radiolundanorte.rf.gd?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Lunda Sul",
@@ -130,9 +135,19 @@
         "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio Maranata",
+        "url": "https://azura4.cmaudioevideo.com:8450/radio.aac",
+        "favicon": "https://img.logo.dev/radiomaranatahuila.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rádio Marginal",
         "url": "https://stream-radio-marginal-by.newsgen.io/rmlive.mp3",
         "favicon": "https://img.logo.dev/marginal.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Maria Angola",
+        "url": "https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream",
+        "favicon": "https://img.logo.dev/radiomaria.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio MFM",
@@ -160,9 +175,29 @@
         "favicon": "https://img.logo.dev/rna.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio Nosso Tempo",
+        "url": "https://ssl.srvstm.com:6756/NossoTempo",
+        "favicon": "https://img.logo.dev/radionossotempo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Nova 102.5 FM",
+        "url": "https://stream.zeno.fm/0k4sknvq1p8uv",
+        "favicon": "https://img.logo.dev/radionova.co.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Rashi",
         "url": "https://s2.free-shoutcast.com/stream/18214",
         "favicon": "https://img.logo.dev/radiorashi.alle.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Solidária",
+        "url": "https://link.radio.br:16052/stream",
+        "favicon": "https://img.logo.dev/radiosolidaria.ao?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio STTOP FM",
+        "url": "https://wz7.servidoresbrasil.com:8478/stream",
+        "favicon": "https://img.logo.dev/sttopfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Viana",

@@ -70,24 +70,9 @@
         "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Techno - FM - Channel",
-        "url": "https://stream.techno.fm/radio1-320k.mp3",
-        "favicon": "https://img.logo.dev/techno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "VIRGIN RADIO UK: Rock‘n’Roll Radio From The Top Of The Tower",
         "url": "https://virgin.live.stream.broadcasting.news/stream",
         "favicon": "https://img.logo.dev/virginradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.Fm Baroque Music",
-        "url": "https://strm112.1.fm/baroque_mobile_mp3?utm_source=chatgpt.com",
-        "favicon": "https://img.logo.dev/radio.1cloud.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "10 Radio 105.3 - Wiveliscombe",
@@ -520,11 +505,6 @@
         "favicon": "https://img.logo.dev/60north.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "60s Swinging Radio",
-        "url": "http://s2.xrad.io:8058/stream",
-        "favicon": "https://img.logo.dev/radio60s.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "80's Heaven",
         "url": "https://s4.radio.co/s03ff25558/listen",
         "favicon": "https://img.logo.dev/80sheaven.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -548,11 +528,6 @@
         "name": "90s 2000s & More",
         "url": "https://lunar.citrus3.com:8162/stream",
         "favicon": "https://img.logo.dev/lunar.citrus3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "90s Hiphop",
-        "url": "https://strm112.1.fm/spanishtophits_mobile_mp3?aw_0_req.gdpr=true",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "95.6 B Radio",
@@ -805,6 +780,11 @@
         "favicon": "https://img.logo.dev/eilo.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Ambient Abyss Broadcasting",
+        "url": "https://broadcast.shoutstream.co.uk:8068/stream",
+        "favicon": "https://img.logo.dev/radioplug.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ambient on Party Vibe Radio",
         "url": "http://www.partyviberadio.com:8056/stream/1/",
         "favicon": "https://img.logo.dev/partyvibe.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -850,6 +830,11 @@
         "favicon": "https://img.logo.dev/highrise.game?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Andys80s",
+        "url": "http://lin1.ash.fast-serv.com:9844/;",
+        "favicon": "https://img.logo.dev/lin1.ash.fast-serv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Angel Radio",
         "url": "https://edge.clrmedia.co.uk/angel_hb",
         "favicon": "https://img.logo.dev/angelradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -888,6 +873,16 @@
         "name": "Apocalypse Radio",
         "url": "https://radiopanel.scoobynetworks.uk:10990/stream?type=http&nocache=28",
         "favicon": "https://img.logo.dev/apocalypse-radio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Arabika Radio - راديو أرابيكا",
+        "url": "https://listen.arabika.co.uk/radio.mp3",
+        "favicon": "https://img.logo.dev/arabika.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Arabika Radio - راديو أرابيكا",
+        "url": "https://listen.arabika.co.uk/radio.mp3",
+        "favicon": "https://img.logo.dev/arabika.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Archive Radio",
@@ -930,11 +925,6 @@
         "favicon": "https://img.logo.dev/arrowesound.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "AryStation - Beyond Reality",
-        "url": "https://a11.asurahosting.com:8740/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.metachitect.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ashdown Radio",
         "url": "https://streaming.broadcast.radio/uckfieldfmmp3?_=365639",
         "favicon": "https://img.logo.dev/ashdownradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -943,6 +933,16 @@
         "name": "Ashdown Radio",
         "url": "https://streaming.broadcast.radio/uckfieldfmmp3?_=43091",
         "favicon": "https://img.logo.dev/ashdownradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Asian Star Radio",
+        "url": "https://radio.canstream.co.uk:9067/live.mp3",
+        "favicon": "https://img.logo.dev/radio.canstream.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Aspen Waite Radio",
+        "url": "http://listen-awaite.sharp-stream.com/aspenwaiteprem.mp3",
+        "favicon": "https://img.logo.dev/listen-awaite.sharp-stream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Athavan Radio",
@@ -1083,21 +1083,6 @@
         "name": "BBC Afrique Radio",
         "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8",
         "favicon": "https://img.logo.dev/bbc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BBC Arabic",
-        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
-        "favicon": "https://img.logo.dev/stream.live.vc.bbcmedia.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BBC Arabic",
-        "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-        "favicon": "https://img.logo.dev/stream.live.vc.bbcmedia.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BBC Arabic",
-        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
-        "favicon": "https://img.logo.dev/stream.live.vc.bbcmedia.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "BBC Arabic Radio",
@@ -1302,11 +1287,6 @@
     {
         "name": "BBC Radio 5 Live (UK)",
         "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live.m3u8",
-        "favicon": "https://img.logo.dev/bbc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BBC Radio 5 Sports Extra",
-        "url": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_live_sports_extra",
         "favicon": "https://img.logo.dev/bbc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1567,6 +1547,16 @@
     {
         "name": "BBC Radio Orkney (96k)",
         "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_orkney.m3u8",
+        "favicon": "https://img.logo.dev/bbc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BBC Radio Oxford",
+        "url": "https://lsn.lv/bbchttps://lsn.lv/bbcradio.m3u8?station=bbc_radio_oxford%22&bitrate=320000%22",
+        "favicon": "https://img.logo.dev/bbc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BBC Radio Oxford (Fixed)",
+        "url": "https://lsn.lv/bbcradio.m3u8?station=bbc_radio_oxford%22&bitrate=320000%22",
         "favicon": "https://img.logo.dev/bbc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1891,7 +1881,7 @@
     },
     {
         "name": "BFBS Edge",
-        "url": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs22.mp3",
+        "url": "http://edge-audio-07-gos2.sharp-stream.com/ssvcbfbs22.mp3",
         "favicon": "https://img.logo.dev/radio.bfbs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2085,6 +2075,11 @@
         "favicon": "https://img.logo.dev/blueingreenradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Blues Radio UK",
+        "url": "https://blues-radio-uk-3f77be5c.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/rockradiouk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Bolton FM",
         "url": "https://radio.canstream.co.uk:8083/live.mp3",
         "favicon": "https://img.logo.dev/boltonfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2153,6 +2148,11 @@
         "name": "Boot Boy Radio",
         "url": "https://streaming04.liveboxstream.uk/proxy/dwain?mp=/stream",
         "favicon": "https://img.logo.dev/bootboyradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BOREALIS MUSIC RECORDS",
+        "url": "https://leo.streamerr.co/8052/stream",
+        "favicon": "https://img.logo.dev/leo.streamerr.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bounce Nation Radio",
@@ -2395,11 +2395,6 @@
         "favicon": "https://img.logo.dev/caldervalleyradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Calm N Chill Radio",
-        "url": "https://stream.zeno.fm/yvcddifycietv",
-        "favicon": "https://img.logo.dev/theresmarty.pages.dev?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Cam FM",
         "url": "https://stream.camfm.co.uk/camfm",
         "favicon": "https://img.logo.dev/camfm.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2578,6 +2573,11 @@
         "name": "Caroline Flashback",
         "url": "http://sc2.radiocaroline.net:10558/;?type=http&nocache=69242",
         "favicon": "https://img.logo.dev/carolineflashback.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Castle Radio",
+        "url": "https://c36.radioboss.fm:8114/stream",
+        "favicon": "https://img.logo.dev/c36.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBN-Television",
@@ -2910,6 +2910,11 @@
         "favicon": "https://img.logo.dev/global.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "COG Grand Radio",
+        "url": "http://cressida.shoutca.st:8118/stream",
+        "favicon": "https://img.logo.dev/cressida.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Colin Mogagabe",
         "url": "https://music-station.live/listen/crw_radio/radio.mp3",
         "favicon": "https://img.logo.dev/music-station.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2941,7 +2946,7 @@
     },
     {
         "name": "COSMIC FUZZ FM",
-        "url": "https://15113.live.streamtheworld.com/SAM04AAC335_SC",
+        "url": "https://26343.live.streamtheworld.com/SAM04AAC335_SC",
         "favicon": "https://img.logo.dev/cosmicfuzzfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3090,6 +3095,11 @@
         "favicon": "https://img.logo.dev/crystalfm.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Crystal Love Radio",
+        "url": "https://betelgeuse.nucast.co.uk:8034/stream",
+        "favicon": "https://img.logo.dev/betelgeuse.nucast.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Cuillin FM (Isle of Skye)",
         "url": "http://comet.shoutca.st:8338/stream",
         "favicon": "https://img.logo.dev/cuillinfm.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3220,11 +3230,6 @@
         "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Dance Wave!",
-        "url": "https://dancewave.online/dance.flac.ogg",
-        "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "DanceFMLive Trance",
         "url": "https://broadcast.dancefmlive.com/radio/8010/radio.mp3",
         "favicon": "https://img.logo.dev/dancefmlive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3253,6 +3258,11 @@
         "name": "Darbar Sahib Radio",
         "url": "http://s6.autopo.st:8561/stream",
         "favicon": "https://img.logo.dev/darbarsahibradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dare Radio",
+        "url": "https://radio.entertainmenttechnologies.co.uk:8060/stream",
+        "favicon": "https://img.logo.dev/radio.entertainmenttechnologies.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Data Transmission Radio",
@@ -3490,6 +3500,16 @@
         "favicon": "https://img.logo.dev/readdork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DougFM",
+        "url": "https://icecast.martiboa.co.uk/stream",
+        "favicon": "https://img.logo.dev/icecast.martiboa.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DougFM",
+        "url": "https://icecast2.martiboa.co.uk/stream",
+        "favicon": "https://img.logo.dev/icecast2.martiboa.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Downtown Country",
         "url": "http://edge-baueral-03-gos2.sharp-stream.com/downtowncountry.aac?aw_0_1st.skey=1780170528",
         "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3510,14 +3530,14 @@
         "favicon": "https://img.logo.dev/www2.rokitradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Drearburh - The Ninth House Radio",
-        "url": "http://server.buntyandtheboffin.co.uk:4000/listen/drearburh/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.buntyandtheboffin.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Drift Radio",
         "url": "https://drift.radio/listen",
         "favicon": "https://img.logo.dev/drift.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Drive 105",
+        "url": "http://icecast.easystream.co.uk:8000/drive105",
+        "favicon": "https://img.logo.dev/icecast.easystream.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Drum & Bass on Party Vibe Radio",
@@ -3553,6 +3573,21 @@
         "name": "Dubstep Radio",
         "url": "http://eilo.org:8000/dubstep",
         "favicon": "https://img.logo.dev/eilo.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dubtec Radio",
+        "url": "https://dubtec-radio.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/dubtec-radio.radiocult.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DubTerrain",
+        "url": "http://ic2255.c471.fast-serv.com/listen",
+        "favicon": "https://img.logo.dev/ic2255.c471.fast-serv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DukeBox Radio – The Voice of the Wellington Academy",
+        "url": "https://stream4.themediasite.co.uk:8020/;",
+        "favicon": "https://img.logo.dev/dukeboxradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dundee Radio Club",
@@ -3600,6 +3635,11 @@
         "favicon": "https://img.logo.dev/nationplayer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "EasyListening.com",
+        "url": "https://easylistening.out.airtime.pro/easylistening_a",
+        "favicon": "https://img.logo.dev/easylistening.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "EAVA FM",
         "url": "https://radio.canstream.co.uk:8000/eavafm.mp3",
         "favicon": "https://img.logo.dev/eavafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3608,6 +3648,11 @@
         "name": "EAVA FM 102.5 FM",
         "url": "https://radio.canstream.co.uk:8000/eavafm.mp3",
         "favicon": "https://img.logo.dev/eavafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "EB IT Radio",
+        "url": "https://s3.citrus3.com:8330/stream",
+        "favicon": "https://img.logo.dev/eb-it.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Eden Fm 107.5",
@@ -3638,11 +3683,6 @@
         "name": "EHFM",
         "url": "https://ehfm.out.airtime.pro/ehfm_a",
         "favicon": "https://img.logo.dev/ehfm.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Eighties Playback Radi",
-        "url": "https://cast3.asurahosting.com/proxy/rob12/stream",
-        "favicon": "https://img.logo.dev/playbackradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Eirewave",
@@ -3825,6 +3865,11 @@
         "favicon": "https://img.logo.dev/nts.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Files Media Radio Station",
+        "url": "https://radio.filesmedia.net/listen/files_media_radio_station/radio_hq.mp3",
+        "favicon": "https://img.logo.dev/radio.filesmedia.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Fine Day Radio",
         "url": "https://stream.aiir.com/yzidfxuujtmuv?_=827551",
         "favicon": "https://img.logo.dev/finedayradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3878,6 +3923,11 @@
         "name": "Forever Hits FM",
         "url": "http://stream.zeno.fm/bxq4nstoqdbvv",
         "favicon": "https://img.logo.dev/hitsplayer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Forth 1 Mp3",
+        "url": "https://stream-al.hellorayo.co.uk/forth1.mp3?direct=true&aw_0_1st.skey=1602676850",
+        "favicon": "https://img.logo.dev/stream-al.hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Forth1",
@@ -4125,9 +4175,14 @@
         "favicon": "https://img.logo.dev/gbnews.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "gb news",
+        "url": "http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF",
+        "favicon": "https://img.logo.dev/listen-gbnews.sharp-stream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "GB News",
         "url": "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GB News (UK) 48k eAAC+",
@@ -4260,6 +4315,11 @@
         "favicon": "https://img.logo.dev/goldradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Gold Radio UK/Metal Radio UK",
+        "url": "https://celicatr7-ccc438e6.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/rockradiouk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "GRACE UNVEILED RADIO",
         "url": "https://icy.cloudrad.io/0e198bfe",
         "favicon": "https://img.logo.dev/graceunveiledshow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4335,6 +4395,11 @@
         "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Greatest Hits Radio Gloucestershire",
+        "url": "https://www.hellorayo.co.uk/greatest-hits/gloucestershire/play?stationId=509",
+        "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Greatest Hits Radio Liverpool & NW",
         "url": "http://edge-bauermz-03-gos2.sharp-stream.com/magic1548.aac?aw_0_1st.skey=1789766388",
         "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4353,11 +4418,6 @@
         "name": "Green Radio",
         "url": "https://gains.reviveradio.net/proxy/greenradio?mp=/stream",
         "favicon": "https://img.logo.dev/gains.reviveradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gremlin's Jukebox",
-        "url": "http://ec2.yesstreaming.net:1960/stream",
-        "favicon": "https://img.logo.dev/radiogremlin.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Grey Clay Radio",
@@ -4975,6 +5035,16 @@
         "favicon": "https://img.logo.dev/hospitalradioexeter.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hospital Radio Glamorgan",
+        "url": "http://mp3streaming.planetwideradio.com:8000/glamorg",
+        "favicon": "https://img.logo.dev/radioglamorgan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hospital Radio Glamorgan",
+        "url": "https://streaming.broadcastradio.com:8002/glamorg?1725024804656=",
+        "favicon": "https://img.logo.dev/radioglamorgan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hospital Radio Hillingdon",
         "url": "http://streaming.broadcastradio.com:10040/hrhillingdonmp3",
         "favicon": "https://img.logo.dev/radiohillingdon.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4993,6 +5063,11 @@
         "name": "Hot FM UK",
         "url": "https://hotfmuk.radioca.st/;",
         "favicon": "https://img.logo.dev/hotfm.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hot FM UK",
+        "url": "http://chandra.shoutca.st:8009/;",
+        "favicon": "https://img.logo.dev/chandra.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hot Gold",
@@ -5295,14 +5370,9 @@
         "favicon": "https://img.logo.dev/cast1.typicalmedia.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Jazz fm",
-        "url": "https://www.hellorayo.co.uk/jazz-fm",
-        "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Jazz fm",
-        "url": "http://edge-baueral-03-gos2.sharp-stream.com/jazzhigh.aac?aw_0_1st.skey=1791667235%20Title1=jazzhigh.aac",
-        "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "JAZZ & CHILL",
+        "url": "http://salalondon.ddns.net:8002/;.m3u",
+        "favicon": "https://img.logo.dev/salalondon.ddns.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jazz London Radio",
@@ -5366,7 +5436,7 @@
     },
     {
         "name": "Joyhits UK FLAC",
-        "url": "https://joyhits.online/joyhits.flac.ogg",
+        "url": "http://joyhits.online/joyhits.flac.ogg",
         "favicon": "https://img.logo.dev/joyhits.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -5383,6 +5453,11 @@
         "name": "Juice Radio",
         "url": "https://n18-eu.rcs.revma.com/yb1ut1uvz42vv?rj-ttl=5&rj-tok=AAABnxGTmHIAVjQns1DDlukppg",
         "favicon": "https://img.logo.dev/juiceonair.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jungle Dope Labs",
+        "url": "https://listen.nobexradio.com/station_jdlradio",
+        "favicon": "https://img.logo.dev/listen.nobexradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Just Home Music",
@@ -5468,6 +5543,11 @@
         "name": "KIDS RAVE RADIO",
         "url": "http://s3.radio.co/se1c4cc1fb/listen",
         "favicon": "https://img.logo.dev/kidsraveradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KinClub Radio",
+        "url": "https://kinclubradio.com/kinclub-radio.mp3",
+        "favicon": "https://img.logo.dev/radio.kin-club.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KINDRED",
@@ -5910,6 +5990,11 @@
         "favicon": "https://img.logo.dev/livefmuk.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Liverpool Community Radio (LCR 106.7)",
+        "url": "http://n04.radiojar.com/0p8xfnpxfnzuv",
+        "favicon": "https://img.logo.dev/rhubarb-ferret-xdh2.squarespace.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Liverpool Live Radio",
         "url": "https://stream.aiir.com/xbmvsamvpnluv",
         "favicon": "https://img.logo.dev/liverpoolliveradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6095,6 +6180,11 @@
         "favicon": "https://img.logo.dev/lushstarr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Luton Urban Radio",
+        "url": "http://pollux.shoutca.st:8031/stream",
+        "favicon": "https://img.logo.dev/pollux.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "LV18 Radio Mi Amigo",
         "url": "https://n0c.radiojar.com/0e16w6ha74uvv?rj-ttl=5&rj-tok=AAABkUcb0WkA7LgvZIzrVWH30g",
         "favicon": "https://img.logo.dev/lv18radio.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6143,6 +6233,11 @@
         "name": "Made In Kent Radio",
         "url": "http://uksoutha.streaming.broadcast.radio:11510/creation",
         "favicon": "https://img.logo.dev/madeinkent.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Magic 105.4",
+        "url": "https://hellorayo.co.uk/magic/",
+        "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Magic Classical",
@@ -6455,6 +6550,16 @@
         "favicon": "https://img.logo.dev/movedahouse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "MPB Radio 1 DJ Sets",
+        "url": "https://streaming.mpbnl.nl/mpbnl/mpb_radio_1_themed/stream.aac",
+        "favicon": "https://img.logo.dev/mpbradio1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MPB Radio 1 Eurodance",
+        "url": "http://streaming.mpbnl.nl/mpbnl/mpb_radio_1_90s/stream.aac",
+        "favicon": "https://img.logo.dev/mpbradio1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Music Galaxy Radio",
         "url": "https://eu10.fastcast4u.com/themusi2",
         "favicon": "https://img.logo.dev/themusicgalaxyradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6698,16 +6803,6 @@
         "name": "Nicecream Blue",
         "url": "https://play.nicecream.fm/radio/8020/blue.mp3",
         "favicon": "https://img.logo.dev/nicecream.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nineties Playback Radio",
-        "url": "https://cast5.asurahosting.com/proxy/rob123/stream",
-        "favicon": "https://img.logo.dev/playbackradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "nitro-FM",
-        "url": "https://radio.nitro-server.uk/listen/nitrohost/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.nitro-server.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NME1",
@@ -6971,7 +7066,7 @@
     },
     {
         "name": "OnlineDJRadio",
-        "url": "http://play.onlinedjradio.com:8000/stream64_live",
+        "url": "http://play.onlinedjradio.com:8000/live",
         "favicon": "https://img.logo.dev/onlinedjradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -6988,11 +7083,6 @@
         "name": "OnoRadio",
         "url": "https://a8.asurahosting.com:6750/radio.mp3",
         "favicon": "https://img.logo.dev/onoradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Open Circle Radio",
-        "url": "http://station.youropencircle.net:8000/live192.mp3",
-        "favicon": "https://img.logo.dev/youropencircle.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "OpenTempoFM",
@@ -7155,21 +7245,6 @@
         "favicon": "https://img.logo.dev/perilfm.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Persian Vibe Radio",
-        "url": "https://radio.aydayazdani.com/stream",
-        "favicon": "https://img.logo.dev/radio.aydayazdani.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Persian Vibe Radio",
-        "url": "https://radio.aydayazdani.com/stream",
-        "favicon": "https://img.logo.dev/radio.aydayazdani.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Persian Vibe Radio",
-        "url": "https://radio.aydayazdani.com/stream",
-        "favicon": "https://img.logo.dev/radio.aydayazdani.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Phoenix FM",
         "url": "http://hyades.shoutca.st:8555/stream",
         "favicon": "https://img.logo.dev/phoenixfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7178,6 +7253,11 @@
         "name": "Phonic FM",
         "url": "http://stream.cotswoldgrp.com:8003/main",
         "favicon": "https://img.logo.dev/phonic.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Piccadilly Gold",
+        "url": "https://visual.shoutca.st/stream/8116",
+        "favicon": "https://img.logo.dev/visual.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Piestream",
@@ -7200,11 +7280,6 @@
         "favicon": "https://img.logo.dev/internet-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Platinum Gold Radio",
-        "url": "http://s2.voscast.com:10128/;",
-        "favicon": "https://img.logo.dev/platinumgold.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Play Radio",
         "url": "https://stream.radiojar.com/0zs50dbr274tv",
         "favicon": "https://img.logo.dev/playradio.one?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7218,11 +7293,6 @@
         "name": "PLAYBACKUK",
         "url": "https://chilledstreaming.com:8650/mobile.mp3",
         "favicon": "https://img.logo.dev/playbackuk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Playground Radio",
-        "url": "http://playground.stream.laut.fm/playground?t302=2019-08-15_17-45-19&uuid=74a24b34-418f-487d-872b-1377b197775b",
-        "favicon": "https://img.logo.dev/playgroundradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Point Blank FM",
@@ -7295,6 +7365,11 @@
         "favicon": "https://img.logo.dev/portobelloradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Positive Radio",
+        "url": "https://eu1.reliastream.com/proxy/tpsradio2?mp=/stream",
+        "favicon": "https://img.logo.dev/positiveradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Power Ace Radio",
         "url": "https://music-station.live/radio/8030/radio.mp3",
         "favicon": "https://img.logo.dev/poweraceradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7345,6 +7420,11 @@
         "favicon": "https://img.logo.dev/premier.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Presstv",
+        "url": "https://www.presstv.co.uk/",
+        "favicon": "https://img.logo.dev/presstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Pride FM",
         "url": "https://stream.rcs.revma.com/vn72q8cvkg3vv?_=121520",
         "favicon": "https://img.logo.dev/pridefm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7390,21 +7470,21 @@
         "favicon": "https://img.logo.dev/psychedelicsecretsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Psychedelicized Radio",
-        "url": "https://cast1.asurahosting.com/proxy/psychedelicized/stream",
-        "favicon": "https://img.logo.dev/psychedelicized.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Psychedelicized Radio – Music For Your Head!",
-        "url": "https://stream.psychedelicized.com/listen/psychedelicized/radio.mp3",
-        "favicon": "https://img.logo.dev/psychedelicized.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "PsyStream",
         "url": "http://radio.psymusic.co.uk:8040/radio1_192k.mp3",
         "favicon": "https://img.logo.dev/psymusic.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Pump Radio",
+        "url": "http://listen.pumpradio.net/stream",
+        "favicon": "https://img.logo.dev/pumpradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Purbeck Sounds",
+        "url": "https://streaming.radio.co/sea45037f6/listen",
+        "favicon": "https://img.logo.dev/purbecksounds.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Pure Beat Radio",
         "url": "https://cast6.asurahosting.com/proxy/purebeat/stream",
         "favicon": "https://img.logo.dev/purebeatradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7413,6 +7493,11 @@
         "name": "Pure Beat Radio",
         "url": "https://cast6.asurahosting.com/proxy/purebeat/stream",
         "favicon": "https://img.logo.dev/purebeatradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pure Dance",
+        "url": "http://n06-eu.rcs.revma.com/53670r24eq3vv",
+        "favicon": "https://img.logo.dev/puredance.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Pure Radio",
@@ -7510,11 +7595,6 @@
         "favicon": "https://img.logo.dev/raajfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Addictive 50s",
-        "url": "http://quincy.torontocast.com:2920/stream",
-        "favicon": "https://img.logo.dev/radio-addictive-50s.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Africana",
         "url": "http://kepler.shoutca.st:8201/stream",
         "favicon": "https://img.logo.dev/radioafricana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7535,29 +7615,19 @@
         "favicon": "https://img.logo.dev/radioalty.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Amelia",
-        "url": "http://radioamelia.duckdns.org:8282/radioamelia",
-        "favicon": "https://img.logo.dev/radioamelia.duckdns.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Asian Air",
+        "url": "https://s2.citrus3.com:2000/public/asianairradio",
+        "favicon": "https://img.logo.dev/s2.citrus3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Bloodstream",
-        "url": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream",
-        "favicon": "https://img.logo.dev/radiobloodstream.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bloodstream",
-        "url": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream",
-        "favicon": "https://img.logo.dev/radiobloodstream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Asian Air",
+        "url": "https://s2.citrus3.com:8282/stream",
+        "favicon": "https://img.logo.dev/s2.citrus3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Broadgreen",
         "url": "http://europa.shoutca.st:8324/;",
-        "favicon": "https://img.logo.dev/radiobroadgreeen.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Broadstairs",
-        "url": "http://s19.myradiostream.com:3684/",
-        "favicon": "https://img.logo.dev/radiobroadstairs.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/europa.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Bronglais",
@@ -7573,6 +7643,11 @@
         "name": "Radio Buena Vida",
         "url": "https://s4.radio.co/s69b281ac0/listen",
         "favicon": "https://img.logo.dev/buenavida.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bury",
+        "url": "http://radio.canstream.co.uk:8162/live.mp3",
+        "favicon": "https://img.logo.dev/radiobury.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Camarthenshire",
@@ -7598,11 +7673,6 @@
         "name": "Radio Caroline",
         "url": "http://sc6.radiocaroline.net:8040/",
         "favicon": "https://img.logo.dev/radiocaroline.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Caroline",
-        "url": "http://sc6.radiocaroline.net:8040/;stream.mp3",
-        "favicon": "https://img.logo.dev/radiocaroline.audio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Caroline",
@@ -7680,14 +7750,19 @@
         "favicon": "https://img.logo.dev/radiochristmas.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO DANCE 90s",
-        "url": "https://radiodance.streamingmedia.it/uk.aac",
-        "favicon": "https://img.logo.dev/radio.dance?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Drake",
+        "url": "http://quasar.shoutca.st:8015/stream",
+        "favicon": "https://img.logo.dev/quasar.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Dream",
-        "url": "http://ec5.yesstreaming.net:3590/stream",
-        "favicon": "https://img.logo.dev/radiodream.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Elton John",
+        "url": "https://hq3.yesstreaming.net/5/stream",
+        "favicon": "https://img.logo.dev/rej.world?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Elton John • REJ.World",
+        "url": "https://radio.rej.world/57018431",
+        "favicon": "https://img.logo.dev/rej.world?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio England - Pumpkin FM",
@@ -7710,6 +7785,11 @@
         "favicon": "https://img.logo.dev/radioessex.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Europulse",
+        "url": "https://app.aloncast.com/api/stream/radio-europulse-fb29b6",
+        "favicon": "https://img.logo.dev/surf.aloncast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Faza",
         "url": "https://radiocast.cr8tive-digital.com/radiofaza",
         "favicon": "https://img.logo.dev/radiofaza.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7725,29 +7805,9 @@
         "favicon": "https://img.logo.dev/radiogeneral.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Gibraltar Plus",
-        "url": "http://s2.myradiostream.com:32910/;",
-        "favicon": "https://img.logo.dev/radiogibraltarplus.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Grapevine",
         "url": "https://streaming06.liveboxstream.uk/proxy/radiogra?mp=/stream",
         "favicon": "https://img.logo.dev/radiograpevine.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Groovy",
-        "url": "http://stream.radio.co/s560edbdb7/listen",
-        "favicon": "https://img.logo.dev/radiogroovy.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Groovy",
-        "url": "https://stream.radio.co/s560edbdb7/listen",
-        "favicon": "https://img.logo.dev/radiogroovy.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Groovy",
-        "url": "https://stream.radio.co/s560edbdb7/listen",
-        "favicon": "https://img.logo.dev/radiogroovy.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Hallam",
@@ -7803,11 +7863,6 @@
         "name": "Radio Horton",
         "url": "https://radiohorton.radioca.st/;",
         "favicon": "https://img.logo.dev/radiohorton.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio In The Mix",
-        "url": "http://ukbeatz.radioca.st:8293/stream",
-        "favicon": "https://img.logo.dev/radiointhemix.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Jackie",
@@ -7870,11 +7925,6 @@
         "favicon": "https://img.logo.dev/radiolear.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Leyland",
-        "url": "https://streaming06.liveboxstream.uk/proxy/leyland2?mp=/stream",
-        "favicon": "https://img.logo.dev/radioleyland.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Maria England",
         "url": "https://dreamsiteradiocp5.com/proxy/rmengland?mp=/stream",
         "favicon": "https://img.logo.dev/radiomariaengland.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7883,6 +7933,11 @@
         "name": "Radio Mount Vernon",
         "url": "https://n12.radiojar.com/ku02q7d2mewtv.m4a?1692523176=&rj-tok=AAABihJHf8oAqyE3VoN0H-CC_Q&rj-ttl=5",
         "favicon": "https://img.logo.dev/radiomountvernon.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio nan Gàidheal",
+        "url": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_nan_gaidheal",
+        "favicon": "https://img.logo.dev/bbc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Newark",
@@ -7896,13 +7951,8 @@
     },
     {
         "name": "Radio Newquay",
-        "url": "http://s46.myradiostream.com:8816/;",
+        "url": "http://s46.myradiostream.com:8816/stream",
         "favicon": "https://img.logo.dev/radionewquay.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Ninesprings",
-        "url": "https://stream.radioninesprings.com/ninesprings-high?_=293441",
-        "favicon": "https://img.logo.dev/radioninesprings.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio North Angus",
@@ -7930,14 +7980,14 @@
         "favicon": "https://img.logo.dev/radio-o.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Panj",
+        "url": "http://s3.voscast.com:11264/stream",
+        "favicon": "https://img.logo.dev/radiopanj.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Platfform",
         "url": "https://streaming.broadcastradio.com/wmcorg",
         "favicon": "https://img.logo.dev/wmc.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Pro Music 90s",
-        "url": "http://88.198.70.25:8414/;",
-        "favicon": "https://img.logo.dev/promusic90.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Radio",
@@ -7970,21 +8020,6 @@
         "favicon": "https://img.logo.dev/radioreverb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio rock UK",
-        "url": "http://n09.radiojar.com/5exb2mtkunhvv",
-        "favicon": "https://img.logo.dev/radiorockuk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Rock UK",
-        "url": "http://n11.radiojar.com/5exb2mtkunhvv",
-        "favicon": "https://img.logo.dev/radiorockuk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Santa - London (MP3)",
-        "url": "http://stream.zeno.fm/dpdd77k99f0uv",
-        "favicon": "https://img.logo.dev/radiosanta.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Scarborough",
         "url": "https://s3.radio.co/s201b7a9d0/listen",
         "favicon": "https://img.logo.dev/radioscarborough.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8003,11 +8038,6 @@
         "name": "Radio Sidewinder",
         "url": "http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a",
         "favicon": "https://img.logo.dev/radiosidewinder.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Silky",
-        "url": "http://46.28.49.164:7226/stream",
-        "favicon": "https://img.logo.dev/radiosilky.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO SINGH NAAD",
@@ -8035,9 +8065,14 @@
         "favicon": "https://img.logo.dev/bbc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Sunshine",
-        "url": "http://ec1.yesstreaming.net:3190/stream",
-        "favicon": "https://img.logo.dev/radiosunshine.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio TV Pater",
+        "url": "https://play.radioking.io/radio-tv-pater",
+        "favicon": "https://img.logo.dev/radiotvpater.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tyneside",
+        "url": "http://stream.radiotyneside.co.uk/tyneside128.mp3",
+        "favicon": "https://img.logo.dev/radiotyneside.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio UTSAV",
@@ -8070,19 +8105,9 @@
         "favicon": "https://img.logo.dev/radiowaters.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Wave: Deluge",
-        "url": "http://www.leviathan-network.com:8000/stream/2/",
-        "favicon": "https://img.logo.dev/radio-wave.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Wave: Lifeline",
-        "url": "http://www.leviathan-network.com:8000/stream/1/",
-        "favicon": "https://img.logo.dev/radio-wave.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio West Middlesex",
-        "url": "https://uk6.internet-radio.com/proxy/radiowestmiddlesex?mp=/stream;",
-        "favicon": "https://img.logo.dev/radiowestmiddlesex.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio West Fife",
+        "url": "http://stream4.themediasite.co.uk:8108/stream",
+        "favicon": "https://img.logo.dev/radiowestfife.scot?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio West Norfolk",
@@ -8128,6 +8153,11 @@
         "name": "Radio Woking",
         "url": "https://radiowoking.radioca.st/stream?rp_source=1&=&&___cb=821829812672569",
         "favicon": "https://img.logo.dev/radiowoking.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Wyvern",
+        "url": "https://radio.canstream.co.uk:8039/live.mp3?_=977325",
+        "favicon": "https://img.logo.dev/radiowyvern.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio X",
@@ -8240,6 +8270,11 @@
         "favicon": "https://img.logo.dev/radiojackie.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "radiomore.love",
+        "url": "https://stream.zeno.fm/tkma7tghp8vtv",
+        "favicon": "https://img.logo.dev/radiomore.love?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RadioNev (24x7 hit music lounge)",
         "url": "https://a7.asurahosting.com/listen/radionev/radio.mp3",
         "favicon": "https://img.logo.dev/radionev.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8260,21 +8295,6 @@
         "favicon": "https://img.logo.dev/radiosega.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RadioWave",
-        "url": "https://1.radiowave.eu/listen/test/aacHQ",
-        "favicon": "https://img.logo.dev/radiowave.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioWave",
-        "url": "https://1.radiowave.eu/listen/test/aacHQ",
-        "favicon": "https://img.logo.dev/radiowave.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radiowave.eu",
-        "url": "https://radiowave.eu/hls/test/live.m3u8",
-        "favicon": "https://img.logo.dev/radiowave.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RadioX UK",
         "url": "https://media-ice.musicradio.com/RadioXUKMP3",
         "favicon": "https://img.logo.dev/radiox.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8288,16 +8308,6 @@
         "name": "Rafa Bible Radio English",
         "url": "https://gains.reviveradio.net/proxy/rafabibleradioeng?mp=/stream",
         "favicon": "https://img.logo.dev/rafaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rage FM",
-        "url": "http://uk2-pn.mixstream.net:8002/",
-        "favicon": "https://img.logo.dev/ragefm.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Raiders Radio",
-        "url": "https://s2.citrus3.com:8464/stream",
-        "favicon": "https://img.logo.dev/raidersradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raidió Fáilte",
@@ -8318,6 +8328,11 @@
         "name": "Rainbow Radio Wales",
         "url": "https://stream.zeno.fm/dtbgwan9sd0uv",
         "favicon": "https://img.logo.dev/rainbowradio.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rainbow Radio Wales KIDS",
+        "url": "https://stream.zeno.fm/3cbdm81pvxhvv",
+        "favicon": "https://img.logo.dev/player.aiir.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RAM FM - 80s Hit Radio",
@@ -8375,6 +8390,11 @@
         "favicon": "https://img.logo.dev/reachonair.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Real Rock Radio",
+        "url": "https://eu10.fastcast4u.com/rrr1",
+        "favicon": "https://img.logo.dev/realrockradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Real roots radio",
         "url": "https://streams.radio.co/s1df61e0af/listen",
         "favicon": "https://img.logo.dev/realrootsradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8388,6 +8408,11 @@
         "name": "Recycle Radio Speakeasy",
         "url": "https://ice.recycleradio.co.uk:8443/rradio.opus",
         "favicon": "https://img.logo.dev/recycleradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Red Kite Radio",
+        "url": "http://23.81.33.82:24944/stream",
+        "favicon": "https://img.logo.dev/redkiteradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Red Rose Radio",
@@ -8430,13 +8455,8 @@
         "favicon": "https://img.logo.dev/reiverfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rendell Radio",
-        "url": "http://s10.myradiostream.com:34794/",
-        "favicon": "https://img.logo.dev/rendellradiomusic.yolasite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Renegade Radio",
-        "url": "http://149.255.60.195:8085/stream",
+        "url": "http://149.255.60.195/proxy/renegade?mp=/stream",
         "favicon": "https://img.logo.dev/renegaderadio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -8488,26 +8508,6 @@
         "name": "Retro Soul Radio London",
         "url": "https://stream.galaxywebsolutions.com/proxy/retrosoul?mp=/stream",
         "favicon": "https://img.logo.dev/retrosoulradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RetroByte Radio",
-        "url": "https://retrobytesradio.radioca.st/stream",
-        "favicon": "https://img.logo.dev/retrobyteradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RetroByte Radio",
-        "url": "https://retrobyteradio.radioca.st/stream",
-        "favicon": "https://img.logo.dev/retrobyteradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Revolution Radio One",
-        "url": "https://visual.shoutca.st/stream/revolutionone/stream",
-        "favicon": "https://img.logo.dev/revolutionradio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Revolution Radio Online",
-        "url": "https://visual.shoutca.st:8136/stream",
-        "favicon": "https://img.logo.dev/revolutionradio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rewind Radio",
@@ -8568,6 +8568,21 @@
         "name": "Roch Valley Radio",
         "url": "https://rochvalley.radioca.st/stream?_=723854",
         "favicon": "https://img.logo.dev/rochvalleyradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock Radio UK",
+        "url": "https://rock-radio-uk-d66e3635.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/rockradiouk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock.Scot",
+        "url": "http://uksoutha.streaming.broadcast.radio:16641/caledonia-tx-ltd",
+        "favicon": "https://img.logo.dev/rock.scot?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock.Scot",
+        "url": "https://uksoutha.streaming.broadcast.radio/caledonia-tx-ltd",
+        "favicon": "https://img.logo.dev/rock.scot?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rockabilly-Radio.net",
@@ -8705,44 +8720,14 @@
         "favicon": "https://img.logo.dev/rotherhamradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RSTV - Classics (MP3)",
-        "url": "http://stream.zeno.fm/kf9928sde78uv",
-        "favicon": "https://img.logo.dev/rstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Royal Harbour Radio",
+        "url": "http://s9.citrus3.com:8402/stream",
+        "favicon": "https://img.logo.dev/royal-harbour-radio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RSTV - DnB (MP3)",
-        "url": "http://stream.zeno.fm/hl9sghvkxdvuv",
-        "favicon": "https://img.logo.dev/rstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RSTV - Lo-Fi (MP3)",
-        "url": "http://stream.zeno.fm/c58ssug3668uv",
-        "favicon": "https://img.logo.dev/rstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RSTV - Outbound Connections (AAC)",
-        "url": "http://stream.zeno.fm/opkccpfrxwvuv",
-        "favicon": "https://img.logo.dev/rstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RSTV - Outbound Connections (MP3)",
-        "url": "http://stream.zeno.fm/opkccpfrxwvuv",
-        "favicon": "https://img.logo.dev/rstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RSTV - Play - Breakdown Station (MP3)",
-        "url": "http://stream.zeno.fm/8ip8p04ajnptv",
-        "favicon": "https://img.logo.dev/rstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RSTV - Punk (MP3)",
-        "url": "http://stream.zeno.fm/eb7a62ctduhvv",
-        "favicon": "https://img.logo.dev/rstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RSTV - RnB (MP3)",
-        "url": "http://stream.zeno.fm/qm22c59vqnhvv",
-        "favicon": "https://img.logo.dev/rstv.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RSTV Dance DB91-TX",
+        "url": "https://radiozender.mpbnetwerken.nl/rstvdance.mp3",
+        "favicon": "https://img.logo.dev/dance.rstvnetworks.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RSTV Dance DB91-TX",
@@ -8773,6 +8758,11 @@
         "name": "RustFM",
         "url": "https://listen.rustfm.com/listen/rustfm/radio.mp3",
         "favicon": "https://img.logo.dev/rustfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RustRadio",
+        "url": "https://listen.rustradio.co.uk:8443/stream",
+        "favicon": "https://img.logo.dev/listen.rustradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rutland and Stamford Sound",
@@ -8828,11 +8818,6 @@
         "name": "Sanskar Radio",
         "url": "https://radio.canstream.co.uk:8024/live.mp3",
         "favicon": "https://img.logo.dev/sanskarradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Santa Christmas Radio (MP3)",
-        "url": "http://stream.zeno.fm/e0m2rnz86p8uv",
-        "favicon": "https://img.logo.dev/santachristmasradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Satsang Radio",
@@ -8950,19 +8935,14 @@
         "favicon": "https://img.logo.dev/shmu.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Shuffle 2",
-        "url": "http://radio.streemlion.com:1460/stream",
-        "favicon": "https://img.logo.dev/shuffle2.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Shropshire Live",
+        "url": "http://stream.aiir.com/iahhslxolv3uv",
+        "favicon": "https://img.logo.dev/shropshirelive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SIBC",
         "url": "http://tx9.zetcast.net:8100/stream",
         "favicon": "https://img.logo.dev/sibc.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sid Valley Radio",
-        "url": "http://live.sidvalleyradio.co.uk:8010/",
-        "favicon": "https://img.logo.dev/sidvalleyradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Signature Radio",
@@ -9023,6 +9003,11 @@
         "name": "Skyline Radio - Wolverhampton (MP3)",
         "url": "http://stream.zeno.fm/gppe0uht9c0uv",
         "favicon": "https://img.logo.dev/skylineradio.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Slack City",
+        "url": "https://www.slackcity.org.uk/",
+        "favicon": "https://img.logo.dev/slackcity.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SLAY Radio",
@@ -9125,11 +9110,6 @@
         "favicon": "https://img.logo.dev/smoothgrooving.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "SMOOTH JAZZ 24/7 UK",
-        "url": "http://smoothjazz247.edge.audiocdn.com/11222_192.mp3",
-        "favicon": "https://img.logo.dev/smoothjazz247.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Smooth Radio",
         "url": "http://media-the.musicradio.com/SmoothEastMids",
         "favicon": "https://img.logo.dev/smoothradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9185,16 +9165,6 @@
         "favicon": "https://img.logo.dev/icecast.thisisdax.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Soar Sound",
-        "url": "https://icecast.maxxwave.co.uk/soarsound",
-        "favicon": "https://img.logo.dev/soarsound.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Social Light Radio",
-        "url": "http://uk5.internet-radio.com:8318/live",
-        "favicon": "https://img.logo.dev/social-lights.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Soho Radio",
         "url": "https://sohoradiomusic.doughunt.co.uk:8010/128mp3",
         "favicon": "https://img.logo.dev/sohoradiolondon.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9225,19 +9195,19 @@
         "favicon": "https://img.logo.dev/solarradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Soleil Radio",
+        "url": "https://stream.rcs.revma.com/sa3ccwa9yy8uv",
+        "favicon": "https://img.logo.dev/soleilradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Solid Gold Gem AM",
         "url": "http://4483.cloudrad.io:8130/;",
-        "favicon": "https://img.logo.dev/solidgoldgem.am?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/4483.cloudrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Solid Gold Gem AM",
         "url": "http://4483.cloudrad.io:8130/;stream.mp3#40#4",
         "favicon": "https://img.logo.dev/solidgoldgemam.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Solid Soul Grooves Radio - Stourbridge (MP3)",
-        "url": "http://stream.zeno.fm/u08ymmrybg8uv",
-        "favicon": "https://img.logo.dev/solidsoulgroovesradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Somervalley fm",
@@ -9295,29 +9265,14 @@
         "favicon": "https://img.logo.dev/soulcentralradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Soul City Radio UK",
+        "url": "https://sirius.nucast.co.uk/listen/soul_city_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/soulcityradiouk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Soul Connexion Radio",
         "url": "https://stream.soulconnexionradio.com/1045",
         "favicon": "https://img.logo.dev/soulconnexionradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soul Groove Radio",
-        "url": "http://stream2.hippynet.co.uk:8023/live",
-        "favicon": "https://img.logo.dev/soulgrooveradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soul Groove Radio",
-        "url": "http://stream6.hippynet.co.uk:8023/automation",
-        "favicon": "https://img.logo.dev/soulgrooveradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soul Groove Radio",
-        "url": "http://stream2.hippynet.co.uk:8023/live",
-        "favicon": "https://img.logo.dev/soulgrooveradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soul Groove Radio",
-        "url": "http://stream6.hippynet.co.uk:8023/playout",
-        "favicon": "https://img.logo.dev/soulgrooveradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SOUL RADIO Only Classic Soul",
@@ -9327,47 +9282,32 @@
     {
         "name": "Soul Rhythms Radio",
         "url": "http://forwardmystream.com/soulrhythmsradiouk",
-        "favicon": "https://img.logo.dev/soulrhythmsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soul Rhythms Radio UK",
-        "url": "https://a7.asurahosting.com:8230/radio.mp3",
-        "favicon": "https://img.logo.dev/soulrhythmsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/forwardmystream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Soul Rhythms Radio UK",
         "url": "http://forwardmystream.com/soulrhythmsradiouk",
-        "favicon": "https://img.logo.dev/soulrhythmsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soul Rhythms Radio UK",
-        "url": "https://a7.asurahosting.com:8230/radio.mp3",
-        "favicon": "https://img.logo.dev/soulrhythmsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soul Rhythms Radio UK",
-        "url": "https://a7.asurahosting.com:8230/radio.mp3",
-        "favicon": "https://img.logo.dev/soulrhythmsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soul Rhythms Radio UK",
-        "url": "https://a7.asurahosting.com:8230/radio.mp3",
-        "favicon": "https://img.logo.dev/soulrhythmsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/forwardmystream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Soul Rhythms Radio UK",
         "url": "http://forwardmystream.com/soulrhythmsradiouk",
-        "favicon": "https://img.logo.dev/soulrhythmsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/forwardmystream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Soul Roots Radio",
-        "url": "https://streams.radio.co/sbdfc075c0/listen",
-        "favicon": "https://img.logo.dev/soulrootsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Souledout CI Replay",
+        "url": "https://stream.zeno.fm/2052x88ks68uv",
+        "favicon": "https://img.logo.dev/souledoutci.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SOULPOWER-RADIO.COM",
         "url": "https://s2.radio.co/sb0964023c/listen",
         "favicon": "https://img.logo.dev/soulpower-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sound Radio Wales",
+        "url": "https://listen.streamaudio.co/proxy/soundradiowales/stream",
+        "favicon": "https://img.logo.dev/soundradio.wales?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sound X",
@@ -9378,6 +9318,11 @@
         "name": "Soundart Radio",
         "url": "https://radio.canstream.co.uk:8134/live.mp3",
         "favicon": "https://img.logo.dev/soundartradio.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SoundCast Radio",
+        "url": "https://uksoutha.streaming.broadcast.radio/soundcast-radio?1790782091718=",
+        "favicon": "https://img.logo.dev/soundcastradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sounds of Christmas",
@@ -9410,16 +9355,6 @@
         "favicon": "https://img.logo.dev/southern-roots.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Space Unicorn Radio",
-        "url": "https://spaceunicorn.radio/stream",
-        "favicon": "https://img.logo.dev/spaceunicorn.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Space Unicorn Radio (not https)",
-        "url": "http://spaceunicorn.radio:8000/stream",
-        "favicon": "https://img.logo.dev/spaceunicorn.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Spark FM",
         "url": "https://stream1.hippynet.co.uk:8117/live.mp3",
         "favicon": "https://img.logo.dev/sparksunderland.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9430,24 +9365,9 @@
         "favicon": "https://img.logo.dev/558.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Spice Digital",
-        "url": "https://a8.asurahosting.com:7000/radio.mp3",
-        "favicon": "https://img.logo.dev/spicedigitaluk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Splinterwood Rock'n Roll Radio",
         "url": "http://31.3.245.162:8000/",
         "favicon": "https://img.logo.dev/splinterwoodradio.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Spotlight Radio",
-        "url": "https://stream1.hippynet.co.uk:8075/stream",
-        "favicon": "https://img.logo.dev/spotlightradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SpotPixle Radio - Ashford (MP3)",
-        "url": "http://stream.zeno.fm/ck4rxvgazs8uv",
-        "favicon": "https://img.logo.dev/spotpixle.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SSRadio",
@@ -9510,6 +9430,11 @@
         "favicon": "https://img.logo.dev/stoneslive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Stony Radio",
+        "url": "https://carina.streamerr.co:8072/stream",
+        "favicon": "https://img.logo.dev/stonyradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Storm Radio",
         "url": "https://streaming.radio.co/s6df48fd88/listen",
         "favicon": "https://img.logo.dev/stormfm.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9565,6 +9490,16 @@
         "favicon": "https://img.logo.dev/stuallan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "STV Rad!o",
+        "url": "http://www.radiofeeds.net/playlists/sharptemp.pls?station=stv_central-aac",
+        "favicon": "https://img.logo.dev/player.stv.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Stv Radio",
+        "url": "https://player.stv.tv/live/stvradio",
+        "favicon": "https://img.logo.dev/player.stv.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Sub.fm",
         "url": "http://subfm.radioca.st/Sub.FM",
         "favicon": "https://img.logo.dev/sub.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9610,6 +9545,11 @@
         "favicon": "https://img.logo.dev/sunriseradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sunset Sol Radio",
+        "url": "https://c40.radioboss.fm/stream/79",
+        "favicon": "https://img.logo.dev/sunsetsolradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Sunshine 855",
         "url": "http://icecast.easystream.co.uk:8000/sunshine855",
         "favicon": "https://img.logo.dev/sunshineradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9628,16 +9568,6 @@
         "name": "Sunshine Radio (Shropshire)",
         "url": "http://icecast.easystream.co.uk:8000/sunshine855",
         "favicon": "https://img.logo.dev/sunshineradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sunshine Radio Online UK",
-        "url": "https://stream1.themediasite.co.uk/8036/stream",
-        "favicon": "https://img.logo.dev/sunshineradioonline.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Supreme FM",
-        "url": "http://88.198.70.25:8220/;",
-        "favicon": "https://img.logo.dev/supremefm.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Surf Rock Radio",
@@ -9665,6 +9595,11 @@
         "favicon": "https://img.logo.dev/surreyhillsradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "SVETUR",
+        "url": "http://svetur.intellmedia.lt:8282/tiesiogiai.mp3",
+        "favicon": "https://img.logo.dev/svetur.intellmedia.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Sweat - Infinite Mixtapes | NTS",
         "url": "https://stream-mixtape-geo.ntslive.net/mixtape24",
         "favicon": "https://img.logo.dev/nts.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9673,11 +9608,6 @@
         "name": "Sweat | NTS",
         "url": "https://stream-mixtape-geo.ntslive.net/mixtape24",
         "favicon": "https://img.logo.dev/nts.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Swinging radio 60s",
-        "url": "http://s2.xrad.io:8058/stream",
-        "favicon": "https://img.logo.dev/radio60s.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Switch FM London",
@@ -9703,11 +9633,6 @@
         "name": "SWU FM",
         "url": "https://admin.stream.rinse.fm/proxy/swu/stream",
         "favicon": "https://img.logo.dev/rinse.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SymteRadio",
-        "url": "http://usa19.fastcast4u.com:6070/live",
-        "favicon": "https://img.logo.dev/symteradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SYNK Radio",
@@ -9756,12 +9681,12 @@
     },
     {
         "name": "talkSPORT",
-        "url": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
+        "url": "https://radio.talksport.com/stream",
         "favicon": "https://img.logo.dev/talksport.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TalkSPORT",
-        "url": "https://radio.talksport.com/stream",
+        "name": "talkSPORT",
+        "url": "http://radio.talksport.com/stream?aisGetOriginalStream=true",
         "favicon": "https://img.logo.dev/talksport.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -9855,24 +9780,9 @@
         "favicon": "https://img.logo.dev/team-fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Teamsport Radio",
-        "url": "https://uksouth1.juiceboxradio.com/tsradionational",
-        "favicon": "https://img.logo.dev/teamsportradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Techno on Party Vibe Radio",
         "url": "http://www.partyviberadio.com:8046/stream/1/",
         "favicon": "https://img.logo.dev/partyvibe.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Techno.FM",
-        "url": "http://stream.techno.fm/radio.mp3",
-        "favicon": "https://img.logo.dev/techno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Techno.FM (320 kbit)",
-        "url": "http://stream.techno.fm/radio320.mp3",
-        "favicon": "https://img.logo.dev/techno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Teenbuzz Radio",
@@ -9935,11 +9845,6 @@
         "favicon": "https://img.logo.dev/bigtop40.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Bradshaws Radio",
-        "url": "http://tktechnicals.co.uk:8000/bradshaws",
-        "favicon": "https://img.logo.dev/tktechnicals.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Breeze....92.3FM",
         "url": "http://195.154.79.204:8189/xstream",
         "favicon": "https://img.logo.dev/cbnvirginislands.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9953,6 +9858,11 @@
         "name": "The Buzz",
         "url": "https://streaming05.liveboxstream.uk/proxy/kookyinc/stream",
         "favicon": "https://img.logo.dev/thisisthebuzz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Buzz (Nottingham)",
+        "url": "http://n04a-eu.rcs.revma.com/q1rt5wsk9znwv",
+        "favicon": "https://img.logo.dev/n04a-eu.rcs.revma.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "The Buzz Mcr",
@@ -10035,11 +9945,6 @@
         "favicon": "https://img.logo.dev/thesoundlabuk.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Sound Of Trance",
-        "url": "http://s1.thesoundoftrance.co.uk:8000/",
-        "favicon": "https://img.logo.dev/thesoundoftrance.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Sound Radio",
         "url": "https://ukwesta.streaming.broadcast.radio/thesoundradio",
         "favicon": "https://img.logo.dev/soundradio.im?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10080,28 +9985,18 @@
         "favicon": "https://img.logo.dev/theviberadionetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Voice Of Doom",
-        "url": "https://streaming.galaxywebsolutions.com:9046/stream",
-        "favicon": "https://img.logo.dev/thevoiceofdoom.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Voice Of Doom",
-        "url": "https://streaming.galaxywebsolutions.com:9046/stream",
-        "favicon": "https://img.logo.dev/thevoiceofdoom.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Void – Underground Music Radio",
         "url": "https://thevoidrad.io/stream320",
         "favicon": "https://img.logo.dev/thevoidrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "thezone",
-        "url": "http://uk1.internet-radio.com:8355/stream",
-        "favicon": "https://img.logo.dev/thezonedublin.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "This is the Coast",
+        "url": "https://streaming.broadcastradio.com:10765/thisisthecoast",
+        "favicon": "https://img.logo.dev/thisisthecoast.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "This is the Coast",
-        "url": "https://streaming.broadcastradio.com:10765/thisisthecoast",
+        "url": "https://streaming.broadcast.radio/thisisthecoast",
         "favicon": "https://img.logo.dev/thisisthecoast.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -10123,21 +10018,6 @@
         "name": "Times Radio (UK) 48k AAC",
         "url": "http://timesradio.wireless.radio/stream-mobile?ref=rf",
         "favicon": "https://img.logo.dev/thetimes.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Times Radio UK",
-        "url": "http://timesradio.wireless.radio/stream",
-        "favicon": "https://img.logo.dev/thetimes.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TK Radio",
-        "url": "http://tktechnicals.co.uk:8000/live",
-        "favicon": "https://img.logo.dev/tktechnicals.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TK Radio 80's",
-        "url": "http://tktechnicals.co.uk:8000/eighties",
-        "favicon": "https://img.logo.dev/tktechnicals.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TMCR FM",
@@ -10165,14 +10045,14 @@
         "favicon": "https://img.logo.dev/themusicmachine.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TNM Radio (Mobile)",
-        "url": "http://stream.tnm-radio.eu/ultra",
-        "favicon": "https://img.logo.dev/tnm-radio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Toby's Tunes",
         "url": "https://stream.aiir.com/he5hocuryqbvv",
         "favicon": "https://img.logo.dev/classichits.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Together Radio",
+        "url": "http://opportunity.shoutca.st:8068/stream",
+        "favicon": "https://img.logo.dev/opportunity.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tonic Ska Radio",
@@ -10180,19 +10060,14 @@
         "favicon": "https://img.logo.dev/tonicskaradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Tony's Place Radio",
+        "url": "https://tonysplace.co.uk/api/radio/stream",
+        "favicon": "https://img.logo.dev/tonysplace.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "TooHotRadio.net",
         "url": "https://stream.toohotradio.net/128",
         "favicon": "https://img.logo.dev/toohotradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Top Tunes Radio (MP3)",
-        "url": "http://stream.zeno.fm/d9e0p8539f8uv",
-        "favicon": "https://img.logo.dev/toptunesradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Top Tunes Radio 2 (MP3)",
-        "url": "http://stream.zeno.fm/yxo8lp7kqoeuv",
-        "favicon": "https://img.logo.dev/toptunesradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Torbay Hospital Radio",
@@ -10235,6 +10110,11 @@
         "favicon": "https://img.logo.dev/totalrock.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Track Radio",
+        "url": "https://n21-eu.rcs.revma.com/dd8zb7wns2nwv",
+        "favicon": "https://img.logo.dev/n21-eu.rcs.revma.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "TRANCE.one",
         "url": "http://radio.trance.one:7777/online",
         "favicon": "https://img.logo.dev/trance.one?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10245,14 +10125,14 @@
         "favicon": "https://img.logo.dev/trancepulsefm.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Trancetechnic Radio",
-        "url": "https://s11.ssl-stream.com/ssl/trancete?mp=/stream",
-        "favicon": "https://img.logo.dev/trancetechnic.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Trans Radio UK",
+        "url": "https://streamer.radio.co/s85ebb74c4/listen",
+        "favicon": "https://img.logo.dev/transradiouk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Trash Can Radio",
         "url": "http://orion.shoutca.st:8031/live",
-        "favicon": "https://img.logo.dev/trashcanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/orion.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Treehouse Radio",
@@ -10300,11 +10180,6 @@
         "favicon": "https://img.logo.dev/trustam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TTNS",
-        "url": "https://listen.thethursdaynightshow.com/live",
-        "favicon": "https://img.logo.dev/thethursdaynightshow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Tuneskool Radio",
         "url": "https://c18.radioboss.fm:8423/stream",
         "favicon": "https://img.logo.dev/tuneskoolradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10331,18 +10206,23 @@
     },
     {
         "name": "UCB 2",
-        "url": "https://edge-audio-w2-02.sharp-stream.com:80/55_ucb_2_128_mp3",
+        "url": "https://edge-audio-03-gos2.sharp-stream.com:80/55_ucb_2_128_mp3",
         "favicon": "https://img.logo.dev/icy-e-01.sharp-stream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "UCB 2",
-        "url": "https://edge-audio-w2-01.sharp-stream.com:80/55_ucb_2_128_mp3",
+        "url": "https://edge-audio-03-gos2.sharp-stream.com:80/55_ucb_2_128_mp3",
         "favicon": "https://img.logo.dev/icy-e-01.sharp-stream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ugnjamz",
         "url": "https://streaming.live365.com/a27539",
         "favicon": "https://img.logo.dev/ugnjamz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ujima Radio",
+        "url": "https://radio.canstream.co.uk:8037/live.mp3",
+        "favicon": "https://img.logo.dev/radio.canstream.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "UK 1940S Radio",
@@ -10370,14 +10250,14 @@
         "favicon": "https://img.logo.dev/ukhealthradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "UK Hits - London (MP3)",
-        "url": "http://stream.zeno.fm/dpqrqe9nrv8uv",
-        "favicon": "https://img.logo.dev/ukhits.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "UK National Radio",
         "url": "https://das-edge14-live365-dal02.cdnstream.com/a80402",
         "favicon": "https://img.logo.dev/uknationalradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "UK Pressure Radio",
+        "url": "https://eu57-sonic.instainternet.com/8076/stream",
+        "favicon": "https://img.logo.dev/eu57-sonic.instainternet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "UK Roots FM 2024 03",
@@ -10385,9 +10265,29 @@
         "favicon": "https://img.logo.dev/ukrootsfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "UKG Radio",
+        "url": "https://streams.radio.co/s9549b306a/listen",
+        "favicon": "https://img.logo.dev/ukgradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "UKG247",
+        "url": "https://az13.yesstreaming.net:8050/radio.mp3",
+        "favicon": "https://img.logo.dev/ukg247.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Ultimate Radio",
         "url": "http://icecast1.rdit.uk:8100/stream",
-        "favicon": "https://img.logo.dev/ultimateradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/icecast1.rdit.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Underground Bass",
+        "url": "https://listen.undergroundbass.com:8804/stream",
+        "favicon": "https://img.logo.dev/undergroundbass.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Unique Radio",
+        "url": "https://securestreams.autopo.st:2530/",
+        "favicon": "https://img.logo.dev/uniqueradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Unique session radio",
@@ -10412,6 +10312,11 @@
     {
         "name": "University Radio York",
         "url": "https://audio.ury.org.uk/live-mobile?rp_source=1&=&&___cb=1809942474326",
+        "favicon": "https://img.logo.dev/ury.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "University Radio York",
+        "url": "https://ury.org.uk/live/",
         "favicon": "https://img.logo.dev/ury.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -10485,6 +10390,11 @@
         "favicon": "https://img.logo.dev/vectisradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Venture 995 fm",
+        "url": "https://c20.radioboss.fm:8383/stream?_ic2=1792075891550",
+        "favicon": "https://img.logo.dev/c20.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Venture Radio",
         "url": "https://streamz.anytek.co.uk/proxy/tracla00",
         "favicon": "https://img.logo.dev/ventureradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10493,6 +10403,16 @@
         "name": "Venture Radio - Pumpkin FM",
         "url": "https://cast2.asurahosting.com/proxy/ventureradio/stream",
         "favicon": "https://img.logo.dev/pumpkinfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Veterans Radio Net",
+        "url": "https://radio.supremestreaming.net:7001/stream",
+        "favicon": "https://img.logo.dev/veteransradionet.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Veterans Radio Net UK",
+        "url": "https://radio.supremedigitalhosting.com:2083/widgets/player/single/?p=8008",
+        "favicon": "https://img.logo.dev/veteransradionet.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Vibe 1",
@@ -10520,6 +10440,16 @@
         "favicon": "https://img.logo.dev/vibegrooves-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Vibe Radio",
+        "url": "https://live.viberadio.org/listen/viberadio/radio.mp3",
+        "favicon": "https://img.logo.dev/live.viberadio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vibe25 Radio",
+        "url": "https://streamer.radio.co/s7afcaa07d/listen",
+        "favicon": "https://img.logo.dev/vibe25radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Vintage Radio birkenhead",
         "url": "https://streaming04.liveboxstream.uk/proxy/vintager/stream",
         "favicon": "https://img.logo.dev/vintageradio.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10530,14 +10460,9 @@
         "favicon": "https://img.logo.dev/vintageradio.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "VIP Radio Birmingham (MP3)",
-        "url": "http://stream.zeno.fm/3pj93ecmhuouv",
-        "favicon": "https://img.logo.dev/vipradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VIP Radio Birmingham (MP3)",
-        "url": "http://stream.zeno.fm/3pj93ecmhuouv",
-        "favicon": "https://img.logo.dev/vipradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Vinyl Night Radio",
+        "url": "https://s4.radio.co/sb2dc1ab4f/listen",
+        "favicon": "https://img.logo.dev/vinylnightradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Virgin Radio",
@@ -10600,11 +10525,6 @@
         "favicon": "https://img.logo.dev/visitorradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Vixen 101",
-        "url": "https://s33.myradiostream.com:15184/;?type=http",
-        "favicon": "https://img.logo.dev/vixen101.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Vocal Booth Radio",
         "url": "https://c22.radioboss.fm:8785/stream",
         "favicon": "https://img.logo.dev/vocalboothradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10650,9 +10570,14 @@
         "favicon": "https://img.logo.dev/wavewsm.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "WBLS Radio",
-        "url": "http://s2.myradiostream.com:3604/;",
-        "favicon": "https://img.logo.dev/wblsradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Wayne Holden Music Radio",
+        "url": "http://s6.citrus3.com/stream/wayneholdenmusicradio",
+        "favicon": "https://img.logo.dev/wayneholdenmusic.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "We Get Lifted Radio",
+        "url": "http://s3.radio.co/sa80d22794/listen",
+        "favicon": "https://img.logo.dev/wegetliftedradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "We Get Lifted Radio (WGLR) 192k mp3",
@@ -10668,6 +10593,11 @@
         "name": "Weekend Offender Radio",
         "url": "https://uk2.internet-radio.com/proxy/weekendoffender?mp=/stream;",
         "favicon": "https://img.logo.dev/weekendoffender.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WellHeart London",
+        "url": "https://wellheart.londonviberadio.com/stream",
+        "favicon": "https://img.logo.dev/wellheart.londonviberadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Welwyn Hatfield Radio",
@@ -10687,7 +10617,7 @@
     {
         "name": "WesternSpirit Music Radio",
         "url": "https://c20.radioboss.fm:8569/stream",
-        "favicon": "https://img.logo.dev/westernspiritmusicradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c20.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Westside Radio",
@@ -10715,6 +10645,26 @@
         "favicon": "https://img.logo.dev/whitecliffsradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Wimbledon",
+        "url": "https://radio.wimbledon.com/hls/live/2125093-b/radio/main_1.m3u8",
+        "favicon": "https://img.logo.dev/wimbledon.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wimbledon Radio",
+        "url": "https://radio.wimbledon.com/hls/live/2125093/radio/main_1.m3u8",
+        "favicon": "https://img.logo.dev/wimbledon.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wimbledon Radio Centre Court",
+        "url": "https://radio.wimbledon.com/hls/live/2125340/radio/centre_1.m3u8",
+        "favicon": "https://img.logo.dev/wimbledon.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wimbledon Radio No 1 Court",
+        "url": "https://radio.wimbledon.com/hls/live/2125341/radio/court1_1.m3u8",
+        "favicon": "https://img.logo.dev/wimbledon.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Winchester Radio",
         "url": "https://winchest.radioca.st/stream?rp_source=1&=&&___cb=427101946874329",
         "favicon": "https://img.logo.dev/winchester.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10730,29 +10680,19 @@
         "favicon": "https://img.logo.dev/windrushradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "WK-END",
-        "url": "http://sirius.shoutca.st:8409/stream?type=http",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WK-END",
-        "url": "http://sirius.shoutca.st:8409/stream?type=http",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "WNBC London",
         "url": "http://148.251.43.231:8120/stream",
         "favicon": "https://img.logo.dev/wnbc.london?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Wolfman Radio",
+        "url": "http://global.citrus3.com:8134/stream",
+        "favicon": "https://img.logo.dev/wolfmanradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Word Central Radio",
         "url": "https://play.radioking.io/word-central-radio/707122",
         "favicon": "https://img.logo.dev/wordcentralradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "World Radio Network Russian (WRN)",
-        "url": "http://shoutcast.wrn.org:8025/WRN-R",
-        "favicon": "https://img.logo.dev/wrn.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Worldwide FM",
@@ -10805,6 +10745,16 @@
         "favicon": "https://img.logo.dev/playbackuk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Wynne Evans Show",
+        "url": "https://streaming.broadcast.radio/wynneevansshow",
+        "favicon": "https://img.logo.dev/wynneevansshow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wyvern Gold",
+        "url": "http://stream.aiir.com/4nrmrub7cznvv",
+        "favicon": "https://img.logo.dev/radiowyvern.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "XenFM",
         "url": "https://radio.xenfm.com/listen/xenfm/radio.mp3",
         "favicon": "https://img.logo.dev/xenfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10855,11 +10805,6 @@
         "favicon": "https://img.logo.dev/yellowtealpurple.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "YO1 Extra",
-        "url": "http://ec1.yesstreaming.net:1490/stream",
-        "favicon": "https://img.logo.dev/yo1extra.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Yo1 Radio",
         "url": "https://stream1.themediasite.co.uk:8026/;?_=215164",
         "favicon": "https://img.logo.dev/yo1radio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10898,11 +10843,6 @@
         "name": "zappa streams",
         "url": "https://streams.norbert.de/zappa.flac",
         "favicon": "https://img.logo.dev/norbert.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zenith Classic Rock",
-        "url": "http://91.189.64.188:3644/zenith128mp3",
-        "favicon": "https://img.logo.dev/zenithclassicrock.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zero Radio",

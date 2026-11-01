@@ -5,19 +5,9 @@
         "favicon": "https://img.logo.dev/kimlarsen.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "80's Hits",
-        "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac",
-        "favicon": "https://img.logo.dev/radiostationer.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "902 FM",
         "url": "http://s38.myradiostream.com:8598/.mp3",
         "favicon": "https://img.logo.dev/902fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Alfa Gold",
@@ -201,6 +191,11 @@
     },
     {
         "name": "DR P3",
+        "url": "http://live-icy.dr.dk/A/A05H.mp3",
+        "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DR P3",
         "url": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -266,6 +261,11 @@
     },
     {
         "name": "DR P4 Fyn",
+        "url": "http://live-icy.dr.dk/A/A07H.mp3",
+        "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DR P4 FYN",
         "url": "http://live-icy.dr.dk/A/A07H.mp3",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -388,6 +388,16 @@
         "name": "DR P4 Syd (AAC)",
         "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DR P4 Trekanten",
+        "url": "https://www.dr.dk/lyd/p4trekanten",
+        "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DR P4 TREKANTEN",
+        "url": "http://e.radio-danmark.dk/embed/p4-trekanten-401490",
+        "favicon": "https://img.logo.dev/radio-danmark.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DR P4 Trekanten",
@@ -528,11 +538,6 @@
         "name": "DR P6 Beat HLS 96",
         "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/playlist-96000.m3u8",
         "favicon": "https://img.logo.dev/dr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "DR P6 Jazz",
-        "url": "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/playlist-320000.m3u8",
-        "favicon": "https://img.logo.dev/drliveradio.akamaized.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DR P8 JAZZ",
@@ -757,7 +762,7 @@
     {
         "name": "Psyradio - Chillout",
         "url": "http://komplex2.psyradio.org:8020/chillout/;",
-        "favicon": "https://img.logo.dev/psyradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/komplex2.psyradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "r8Dio",
@@ -768,11 +773,6 @@
         "name": "Radio 100",
         "url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
         "favicon": "https://img.logo.dev/radioplay.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 40plus",
-        "url": "http://stream.radiosolutions.dk/radio40plus",
-        "favicon": "https://img.logo.dev/radio40plus.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 7 Ravensburg",
@@ -880,11 +880,6 @@
         "favicon": "https://img.logo.dev/radiofolk.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Freja",
-        "url": "http://solid67.streamupsolutions.com:15507/stream",
-        "favicon": "https://img.logo.dev/radiofreja.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Globus",
         "url": "https://stream.probroadcast.dk/radioglobus",
         "favicon": "https://img.logo.dev/radioglobus.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -940,11 +935,6 @@
         "favicon": "https://img.logo.dev/sn.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Limfjord",
-        "url": "http://media.limfjordnetradio.dk/limfjord128",
-        "favicon": "https://img.logo.dev/radiolimfjord.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio M",
         "url": "https://radioserver.dk/radiom",
         "favicon": "https://img.logo.dev/radiom.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -957,12 +947,17 @@
     {
         "name": "Radio Mælkebøtten",
         "url": "http://live2.rcast.net:8722/;stream",
-        "favicon": "https://img.logo.dev/radiomb.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/live2.rcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio MB",
         "url": "http://live2.rcast.net:8722/;stream",
-        "favicon": "https://img.logo.dev/radiomb.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/live2.rcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio MFK",
+        "url": "https://stream1.radiomfk.dk/radiomfk",
+        "favicon": "https://img.logo.dev/radiomfk.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Midtsjælland",
@@ -978,11 +973,6 @@
         "name": "Radio Nord",
         "url": "http://netradio.radionord.dk:8000/RadioNord",
         "favicon": "https://img.logo.dev/radionord.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Odsherred",
-        "url": "http://87.104.40.139:88/broadwave.mp3",
-        "favicon": "https://img.logo.dev/radioodsherred.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Østsjælland Rollo",
@@ -1033,11 +1023,6 @@
         "name": "Radio Sydhavsoerne Lolland",
         "url": "https://radio1.jfmtech.dk/sydhavlolland",
         "favicon": "https://img.logo.dev/netradio.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Varde",
-        "url": "http://stream.wlmm.dk/radiovardemp3",
-        "favicon": "https://img.logo.dev/wlmm.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Viborg",
@@ -1180,16 +1165,6 @@
         "favicon": "https://img.logo.dev/skala.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tango Copenhagen",
-        "url": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen",
-        "favicon": "https://img.logo.dev/tangocopenhagen.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tango Copenhagen Radio",
-        "url": "https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0",
-        "favicon": "https://img.logo.dev/tangocopenhagen.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "TechnoBase.FM - AACplus 96k",
         "url": "http://listen.technobase.fm/tunein-aacplus-pls",
         "favicon": "https://img.logo.dev/listen.technobase.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1220,24 +1195,9 @@
         "favicon": "https://img.logo.dev/radioplay.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "UMLANDO Radio",
-        "url": "https://a2.asurahosting.com:6520/radio.mp3",
-        "favicon": "https://img.logo.dev/umlando.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Vi Elsker Radio",
         "url": "http://netradio.skala.fm/vielsker",
         "favicon": "https://img.logo.dev/skala.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Vinyl Hits",
-        "url": "http://stream.vinylhits.dk/vinylaac",
-        "favicon": "https://img.logo.dev/vinylhits.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Vinylhits.dk",
-        "url": "http://stream.vinylhits.dk/vinylmp3",
-        "favicon": "https://img.logo.dev/vinylhits.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Vox Pop",
@@ -1253,11 +1213,6 @@
         "name": "World Music Radio",
         "url": "http://stream.wlmm.dk:8010/wmrmp3",
         "favicon": "https://img.logo.dev/wmr.dk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "World Music Radio",
-        "url": "http://stream.wlmm.dk:8010/wmr",
-        "favicon": "https://img.logo.dev/wmr.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "X FM K",

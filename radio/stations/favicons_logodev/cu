@@ -1,22 +1,12 @@
 [
     {
-        "name": "LOVE FM: All you need is Love ♥ Música con Amor",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "96.7 Radio Rebelde FM",
         "url": "https://theonestopradio.com/stream?url=https://icecast.teveo.cu/zrXXWK9F",
-        "favicon": "https://img.logo.dev/theonestopradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiorebelde.cu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AFN 360 Guantanamo Bay",
-        "url": "http://29053.live.streamtheworld.com/AFNE_GMO_SC",
+        "url": "http://22653.live.streamtheworld.com:3690/AFNE_GMO_SC",
         "favicon": "https://img.logo.dev/afneurope.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -55,16 +45,6 @@
         "favicon": "https://img.logo.dev/atodamecha.lovestoblog.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Exa FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Neonradioxl",
-        "url": "http://s12.myradiostream.com:16754/listen.m4a",
-        "favicon": "https://img.logo.dev/ww.wner.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Prensa Latina",
         "url": "https://cdn4.onstream.audio:9267/stream",
         "favicon": "https://img.logo.dev/radio.prensa-latina.cu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -81,7 +61,7 @@
     },
     {
         "name": "Radio Campesina Cubana",
-        "url": "https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2026-10-22_23-43-57&uuid=1a85a2ec-ba6c-4ca2-f036-efbad616618a",
+        "url": "https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2026-10-27_23-15-23&uuid=60208d29-bfb6-22d2-e3a4-9521c1f7a0ec",
         "favicon": "https://img.logo.dev/radioscuba.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -95,13 +75,28 @@
         "favicon": "https://img.logo.dev/radio.archipielago.uno?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Habana Cuba 102.5 FM",
+        "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/McW3fLhs",
+        "favicon": "https://img.logo.dev/radiohc.cu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio María de la Caridad",
         "url": "https://usa6.fastcast4u.com/proxy/aserranog/stream",
         "favicon": "https://img.logo.dev/soloist.ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ROMANCE106",
-        "url": "http://s13.myradiostream.com:41400/listen.m4a",
-        "favicon": "https://img.logo.dev/ww.wner.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Progreso 90.3 FM",
+        "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/XjfW7qWN",
+        "favicon": "https://img.logo.dev/radioprogreso.icrt.cu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Rebelde 1180 AM",
+        "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd",
+        "favicon": "https://img.logo.dev/radiorebelde.cu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Reloj Cuba 950 AM",
+        "url": "https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/b3jbfThq",
+        "favicon": "https://img.logo.dev/radiocubana.cu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

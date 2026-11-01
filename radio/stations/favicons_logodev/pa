@@ -30,11 +30,6 @@
         "favicon": "https://img.logo.dev/estereoazul.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Exa FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Fabulosa Estéreo 100.5 FM",
         "url": "https://www.streaming507.net:8130/stream",
         "favicon": "https://img.logo.dev/fabulosaestereo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -85,14 +80,9 @@
         "favicon": "https://img.logo.dev/originalstereo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO MARIA PANAMA",
-        "url": "http://dreamsiteradiocp.com:8082/stream",
-        "favicon": "https://img.logo.dev/radiomaria.pa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO MARIA PANAMA",
-        "url": "https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream",
-        "favicon": "https://img.logo.dev/radiomaria.pa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Ancon",
+        "url": "https://servidor40-3.brlogic.com:7074/live?source=website",
+        "favicon": "https://img.logo.dev/radioanconpanama.webradiosite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RPC Radio",
@@ -105,9 +95,9 @@
         "favicon": "https://img.logo.dev/radioparallevar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Stereo Vida Panama",
-        "url": "https://stream.zeno.fm/fz1rcfd1x1zuv",
-        "favicon": "https://img.logo.dev/stereovida.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Super Q Panama",
+        "url": "https://sqserver.superqpanama.net:8005/superqpanama",
+        "favicon": "https://img.logo.dev/superqpanama.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Telemetro Radio",

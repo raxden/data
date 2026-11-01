@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/263hitradio.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Breeze FM 91.2",
         "url": "https://stream.zeno.fm/d1vbtsfem98uv",
         "favicon": "https://img.logo.dev/breezefm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,6 +13,11 @@
         "name": "Capitalk 100.4FM Harare",
         "url": "https://edge.iono.fm/xice/162_medium.aac",
         "favicon": "https://img.logo.dev/capitalkfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CENTRAL RADIO 98.5",
+        "url": "https://centralstream.zbc.co.zw:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/centralstream.zbc.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Classic 263",
@@ -75,6 +75,21 @@
         "favicon": "https://img.logo.dev/nust.ac.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Platinum FM",
+        "url": "https://edge.iono.fm/xice/161_medium.mp3",
+        "favicon": "https://img.logo.dev/platinumfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Power FM Zimbabwe",
+        "url": "https://backupradiostreaming.zbc.co.zw:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/powerfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Skyz Metro FM",
+        "url": "https://stream.zeno.fm/2634b6n4qy8uv",
+        "favicon": "https://img.logo.dev/skyzmetroradio.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Star FM",
         "url": "https://stream.zeno.fm/66qwf50nw98uv",
         "favicon": "https://img.logo.dev/starfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -83,5 +98,15 @@
         "name": "Star FM 89.7",
         "url": "https://edge.iono.fm/xice/159_medium.aac",
         "favicon": "https://img.logo.dev/starfm.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ZiFM Stereo",
+        "url": "https://edge.iono.fm/xice/134_high.aac",
+        "favicon": "https://img.logo.dev/zifmstereo.co.zw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "zim NET radio",
+        "url": "https://zimnetradio.net/mainstream/radio.mp3",
+        "favicon": "https://img.logo.dev/zimnetradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

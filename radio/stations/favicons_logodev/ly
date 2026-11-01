@@ -1,8 +1,13 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Almunir Radio – Benghazi",
+        "url": "https://live.munir.ly/proxy/almunir/stream",
+        "favicon": "https://img.logo.dev/live.munir.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Almunir Radio – Tripoli",
+        "url": "https://live.munir.ly/proxy/almunirtip/stream",
+        "favicon": "https://img.logo.dev/live.munir.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Libyana Hits FM",
@@ -13,25 +18,5 @@
         "name": "The Salaf Way 100.3 FM Tripoli LY",
         "url": "http://airtime.salafway.ly/",
         "favicon": "https://img.logo.dev/salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة طريق السلف",
-        "url": "https://airtime.salafwayfm.ly/",
-        "favicon": "https://img.logo.dev/airtime.salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة نور الإيمان المسموعة 105.7 FM",
-        "url": "https://stream.zeno.fm/r6eprdta6nhvv",
-        "favicon": "https://img.logo.dev/radionouraleman.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة نور الإيمان المسموعة 105.7 FM",
-        "url": "https://stream.zeno.fm/r6eprdta6nhvv",
-        "favicon": "https://img.logo.dev/radionouraleman.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تفسير بن عثيمين",
-        "url": "https://qurango.net/radio/tafseer",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

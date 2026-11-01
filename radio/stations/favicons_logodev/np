@@ -15,11 +15,6 @@
         "favicon": "https://img.logo.dev/hamropatro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ACORAB",
         "url": "https://www.hamropatro.com/api/radio/stream/156",
         "favicon": "https://img.logo.dev/hamropatro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -203,6 +198,11 @@
         "name": "Kalika F.M",
         "url": "https://www.hamropatro.com/api/radio/stream/38",
         "favicon": "https://img.logo.dev/hamropatro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kalika FM",
+        "url": "http://kalika-stream.softnep.com:7740/;",
+        "favicon": "https://img.logo.dev/kalika-stream.softnep.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kalika FM Musical",
@@ -705,11 +705,6 @@
         "favicon": "https://img.logo.dev/hamropatro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Swadesh 93.2 FM",
-        "url": "http://216.55.141.189:8653/stream?type=http&nocache=66846",
-        "favicon": "https://img.logo.dev/swadeshfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Swadesh FM",
         "url": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158",
         "favicon": "https://img.logo.dev/hamropatro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -758,6 +753,11 @@
         "name": "Unique FM (97.6 MHz)",
         "url": "https://www.hamropatro.com/api/radio/stream/360",
         "favicon": "https://img.logo.dev/hamropatro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal Health Radio (नेपाली)",
+        "url": "https://radio.universalhealthradio.org/uhr-ne.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VSansar Online Radio",

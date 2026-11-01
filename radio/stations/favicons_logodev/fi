@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/ticktock.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Aito Iskelmä",
         "url": "https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
         "favicon": "https://img.logo.dev/supla.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -270,6 +265,11 @@
         "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio City",
+        "url": "https://stream-redirect.bauermedia.fi/radiocity/radiocity_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+        "favicon": "https://img.logo.dev/rayo.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Classic",
         "url": "https://streaming.radioplay.fi/fi_classic_128.mp3",
         "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -341,8 +341,13 @@
     },
     {
         "name": "Radio Helsinki 98,5 Mhz",
-        "url": "https://stream.radiohelsinki.fi/stream",
+        "url": "https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1793506616&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1",
         "favicon": "https://img.logo.dev/radiohelsinki.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Hiekka",
+        "url": "https://radiohiekka.ovh:8443/stream",
+        "favicon": "https://img.logo.dev/radiohiekka.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Kaakko",
@@ -370,19 +375,14 @@
         "favicon": "https://img.logo.dev/radioplay.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Moreeni",
+        "url": "https://moreenistream.tuni.fi/moreeni.mp3",
+        "favicon": "https://img.logo.dev/radiomoreeni.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Musa",
         "url": "http://n09.radiojar.com/n6yg5q0z8vzuv.m4a",
         "favicon": "https://img.logo.dev/radiomusa.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Natale",
-        "url": "https://streaming.radiostreamlive.com/radionatale_devices",
-        "favicon": "https://img.logo.dev/radionatale.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Natale",
-        "url": "https://streaming.radiostreamlive.com/radionatale_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E",
-        "favicon": "https://img.logo.dev/radionatale.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Nostalgia",
@@ -403,6 +403,11 @@
         "name": "Radio Nova",
         "url": "https://stream.bauermedia.fi/radionova/radionova_128.mp3",
         "favicon": "https://img.logo.dev/radionova.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nova",
+        "url": "http://live-bauerfi.sharp-stream.com/fi_radionova_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1784119314&aw_0_1st.bauer_loggedin=true",
+        "favicon": "https://img.logo.dev/rayo.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio nova",
@@ -525,6 +530,11 @@
         "favicon": "https://img.logo.dev/kaupunkikanava.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Vaasa",
+        "url": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+        "favicon": "https://img.logo.dev/radiovaasa.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Voima",
         "url": "https://cast2.radiovoima.fi/voima.mp3",
         "favicon": "https://img.logo.dev/radiovoima.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -538,11 +548,6 @@
         "name": "Radioverkko",
         "url": "http://kuuntele.radioverkko.fi:8000/live",
         "favicon": "https://img.logo.dev/radioverkko.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadiOwO",
-        "url": "https://stream.muhennos.xyz/listen/radiowo/radio.mp3",
-        "favicon": "https://img.logo.dev/stream.muhennos.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RAKKAUDEN WAPPURADIO",
@@ -593,6 +598,11 @@
         "name": "Rondo Classic Klasu Pro",
         "url": "https://iradio.fi/klasupro.flac",
         "favicon": "https://img.logo.dev/rondo.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sandels",
+        "url": "https://radiosandels.radiotaajuus.fi:9050/radio",
+        "favicon": "https://img.logo.dev/radiosandels.radiotaajuus.fi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Savon Aallot",

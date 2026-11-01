@@ -20,11 +20,6 @@
         "favicon": "https://img.logo.dev/streaming.positivity.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "1-Exclusively Thin Lizzy",
         "url": "https://streaming.exclusive.radio/er/thinlizzy/icecast.audio",
         "favicon": "https://img.logo.dev/exclusive.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -35,6 +30,21 @@
         "favicon": "https://img.logo.dev/my2.radiolize.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Abdulwali Al-Arkani",
+        "url": "https://serverkw.quran-uni.com:8238/",
+        "favicon": "https://img.logo.dev/serverkw.quran-uni.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulwali Al-Arkani",
+        "url": "https://serverkw.quran-uni.com:8238/",
+        "favicon": "https://img.logo.dev/serverkw.quran-uni.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Abdulwali Al-Arkani",
+        "url": "https://serverkw.quran-uni.com:8238/",
+        "favicon": "https://img.logo.dev/serverkw.quran-uni.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Abu Dhabi fm",
         "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8",
         "favicon": "https://img.logo.dev/admn.ae?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -43,6 +53,16 @@
         "name": "Adrian Boult - Classical Radio",
         "url": "http://drive.uber.radio/uber/cradrianboult/icecast.audio",
         "favicon": "https://img.logo.dev/classicalradio.world?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al Arabiya 99 FM",
+        "url": "https://stream.radiojar.com/s1mygd1frxquv",
+        "favicon": "https://img.logo.dev/99fm.ae?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Al Khaleejiya 100.9 FM",
+        "url": "https://stream.radiojar.com/5wpf9e4erxquv",
+        "favicon": "https://img.logo.dev/1009.ae?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Andrea Bocelli - Classical Radio",
@@ -445,6 +465,11 @@
         "favicon": "https://img.logo.dev/classicalradio.world?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Calm Classical",
+        "url": "https://drive.uber.radio/uber/calmclassical/icecast.audio",
+        "favicon": "https://img.logo.dev/surfmusik.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Calm Smooth",
         "url": "https://nl4.mystreaming.net/uber/calmsmooth/icecast.audio",
         "favicon": "https://img.logo.dev/radioly.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -710,29 +735,9 @@
         "favicon": "https://img.logo.dev/dubaieye1038.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Easy 00s",
-        "url": "https://streaming.exclusive.radio/uber/easy00/icecast.audio",
-        "favicon": "https://img.logo.dev/play.easy.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Easy 60s",
-        "url": "https://streaming.exclusive.radio/uber/easy60/icecast.audio",
-        "favicon": "https://img.logo.dev/play.easy.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Easy 70s",
-        "url": "https://streaming.exclusive.radio/uber/easy70/icecast.audio",
-        "favicon": "https://img.logo.dev/play.easy.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Easy 80s",
         "url": "https://nl4.mystreaming.net/uber/easy80/icecast.audio",
         "favicon": "https://img.logo.dev/you.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Easy 90s",
-        "url": "https://streaming.exclusive.radio/uber/easy90/icecast.audio",
-        "favicon": "https://img.logo.dev/play.easy.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Easy Bing Crosby",
@@ -740,24 +745,9 @@
         "favicon": "https://img.logo.dev/play.you.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Easy Crooners",
-        "url": "https://streaming.exclusive.radio/uber/easycrooners/icecast.audio",
-        "favicon": "https://img.logo.dev/play.easy.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Easy Folk",
-        "url": "https://streaming.exclusive.radio/uber/easyfolk/icecast.audio",
-        "favicon": "https://img.logo.dev/play.easy.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Easy Kenny G",
         "url": "https://nl4.mystreaming.net/uber/easykennyg/icecast.audio",
         "favicon": "https://img.logo.dev/you.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Easy Mix",
-        "url": "https://streaming.exclusive.radio/uber/easymix/icecast.audio",
-        "favicon": "https://img.logo.dev/play.easy.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Easy Radio - Andrea Bocelli",
@@ -2995,11 +2985,6 @@
         "favicon": "https://img.logo.dev/play.you.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Positively Peaceful 432Hz -om",
-        "url": "https://streaming.positivity.radio/pr/posipeaceful/icecast.audio",
-        "favicon": "https://img.logo.dev/radiowelle.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Positively Piano -om",
         "url": "https://streaming.positivity.radio/pr/piano/icecast.audio",
         "favicon": "https://img.logo.dev/play.you.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3095,11 +3080,6 @@
         "favicon": "https://img.logo.dev/classicalradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Disney Arab World 106.9 FM",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Mango Global",
         "url": "https://listen.openstream.co/4635/audio",
         "favicon": "https://img.logo.dev/radiomango.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3113,11 +3093,6 @@
         "name": "Radio Relax",
         "url": "https://online.radiorelax.ua/RadioRelax_Int_HD",
         "favicon": "https://img.logo.dev/online.radiorelax.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rak Radio UAE",
-        "url": "https://stream.chiliradio.app/gulfradio",
-        "favicon": "https://img.logo.dev/rakradio.ae?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ray Charles",
@@ -3190,74 +3165,9 @@
         "favicon": "https://img.logo.dev/2.mystreaming.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "StarBox Blues",
-        "url": "https://drive.uber.radio/uber/starboxblues/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Country Classic",
-        "url": "https://drive.uber.radio/uber/starboxcountry/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Easy",
-        "url": "https://drive.uber.radio/uber/starboxeasy/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Indie",
-        "url": "https://drive.uber.radio/uber/starboxindie/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Jazz",
-        "url": "https://drive.uber.radio/uber/starboxjazz/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Motown",
-        "url": "https://drive.uber.radio/uber/starboxmotown/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Northern Soul",
-        "url": "https://drive.uber.radio/uber/starboxnorthernsoul/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Reggae",
-        "url": "https://drive.uber.radio/uber/starboxreggae/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox RnB",
-        "url": "https://drive.uber.radio/uber/starboxrnb/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Rock",
-        "url": "https://drive.uber.radio/uber/starboxrock/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Soft Rock",
-        "url": "https://drive.uber.radio/uber/starboxsoftrock/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "StarBox Soul",
-        "url": "https://drive.uber.radio/uber/starboxsoul/icecast.audio",
-        "favicon": "https://img.logo.dev/starbox.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Stevie Wonder",
         "url": "https://streaming.exclusive.radio/er/steviewonder/icecast.audio",
         "favicon": "https://img.logo.dev/exclusive.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Suno FM",
-        "url": "http://51.255.235.165:5476/",
-        "favicon": "https://img.logo.dev/suno1024.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TAG 91.1",
@@ -3660,39 +3570,9 @@
         "favicon": "https://img.logo.dev/ticktock.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tinder Radio - Bollywood",
-        "url": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
-        "favicon": "https://img.logo.dev/tinder.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tinder Radio - Christmas Carols",
-        "url": "https://streaming.exclusive.radio/er/christmascarols/icecast.audio",
-        "favicon": "https://img.logo.dev/tinder.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tinder Radio - Christmas Pop",
-        "url": "https://streaming.exclusive.radio/er/christmaspop/icecast.audio",
-        "favicon": "https://img.logo.dev/tinder.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tinder Radio - Hollywood & Broadway Musicals",
-        "url": "https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio",
-        "favicon": "https://img.logo.dev/tinder.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Tinder radio bollywood",
         "url": "https://2.mystreaming.net/uber/bollywoodmix/icecast.audio",
         "favicon": "https://img.logo.dev/2.mystreaming.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tinder Radio Hollywood & Broadway Musicals",
-        "url": "https://nl4.mystreaming.net/er/hollywoodandbroadway/icecast.audio",
-        "favicon": "https://img.logo.dev/tinder.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tinder Radio Hollywood & Broadway Musicals",
-        "url": "https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio",
-        "favicon": "https://img.logo.dev/tinder.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Van Morrison",

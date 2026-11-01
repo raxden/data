@@ -1,18 +1,8 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CAND",
         "url": "https://lives.antv.gov.vn/channel/antv/channel/antv_480p/chunks.m3u8",
         "favicon": "https://img.logo.dev/lives.antv.gov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CAND",
-        "url": "https://cf9a5872ebf6f9a.cmccloud.com.vn/ANTV/antv1.m3u8",
-        "favicon": "https://img.logo.dev/cf9a5872ebf6f9a.cmccloud.com.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CHẠM RADIO",
@@ -20,9 +10,19 @@
         "favicon": "https://img.logo.dev/vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Digital Radio Hongkong",
+        "url": "http://ice.digitalradiohk.net:8000/drhk",
+        "favicon": "https://img.logo.dev/ice.digitalradiohk.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hà Nội Community Radio",
         "url": "https://ha-noi-community-radio.radiocult.fm/stream",
         "favicon": "https://img.logo.dev/hanoicommunityradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hai Phong FM 102.2",
+        "url": "https://cdn.thhp.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8",
+        "favicon": "https://img.logo.dev/thhp.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KC Radio Asia 80s & 90s",
@@ -45,16 +45,6 @@
         "favicon": "https://img.logo.dev/kgtv.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "L0ves0n9scafe",
-        "url": "http://listen.57fm.com/lscafe",
-        "favicon": "https://img.logo.dev/listen.57fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nhân dân TV",
-        "url": "https://arpt.tvic.vn/live/nhandan720/chunklist_w1899174222.m3u8",
-        "favicon": "https://img.logo.dev/arpt.tvic.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio VOH FM 95.6 MHz",
         "url": "https://voh.com.vn/radio/kenh-fm-956-02221123001000956.html",
         "favicon": "https://img.logo.dev/voh.com.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -73,11 +63,6 @@
         "name": "RVA Vietnamese",
         "url": "https://livestream.rvasia.org:8443/Vietnamese.mp3",
         "favicon": "https://img.logo.dev/livestream.rvasia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TNT Atlanta Radio",
-        "url": "https://cast4.servcast.net/proxy/longpham2/stream",
-        "favicon": "https://img.logo.dev/cast4.servcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOH AM 610",
@@ -130,9 +115,24 @@
         "favicon": "https://img.logo.dev/vovmedia.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "VOV1",
-        "url": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
-        "favicon": "https://img.logo.dev/vov1.vov.gov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "VOV2",
+        "url": "https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8",
+        "favicon": "https://img.logo.dev/vov2.vov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV2 (HD + for copyrighted contents)",
+        "url": "https://audio-lss.vov.vn/live/vov2.m3u8",
+        "favicon": "https://img.logo.dev/vov2.vov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV3",
+        "url": "https://audio-lss.vov.vn/live/vov3.m3u8",
+        "favicon": "https://img.logo.dev/vov3.vov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VOV3",
+        "url": "https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8",
+        "favicon": "https://img.logo.dev/vov3.vov.vn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOV5 WORLD RADIO",

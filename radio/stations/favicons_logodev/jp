@@ -5,18 +5,13 @@
         "favicon": "https://img.logo.dev/kamakurafm.co.jp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ".quran",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "83.4MHz FMSETAGAYA",
         "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
         "favicon": "https://img.logo.dev/fmsetagaya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "A Radio for ACG & others",
-        "url": "https://hkradio.myaddr.io/listen/new_radio/radio.aac",
+        "url": "https://hkradio.myaddr.io/listen/new_radio/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF",
         "favicon": "https://img.logo.dev/hkradio.myaddr.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -25,13 +20,8 @@
         "favicon": "https://img.logo.dev/joqr.co.jp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AFN GO TOKYO",
-        "url": "http://18433.live.streamtheworld.com:3690/AFNP_TKO_SC",
+        "url": "http://13743.live.streamtheworld.com:3690/AFNP_TKO_SC",
         "favicon": "https://img.logo.dev/afngo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -65,19 +55,9 @@
         "favicon": "https://img.logo.dev/ashiya.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "BAY WAVE 塩竈のラジオ",
-        "url": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Beethoven Piano Sonatas",
         "url": "https://mpc1.mediacp.eu/stream/globaltopcharts",
         "favicon": "https://img.logo.dev/cdn.radoxo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BeFM",
-        "url": "https://mtist.as.smartstream.ne.jp/30079/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Big B Radio - Jpop",
@@ -115,21 +95,6 @@
         "favicon": "https://img.logo.dev/chofu-fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "FM RADIO3 (ラジオ3)",
-        "url": "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FMアップル",
-        "url": "https://mtist.as.smartstream.ne.jp/30090/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FMおたる",
-        "url": "https://mtist.as.smartstream.ne.jp/30025/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "FMはまなす",
         "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
         "favicon": "https://img.logo.dev/fm761.jp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -153,11 +118,6 @@
         "name": "FMはまなすジャパン",
         "url": "http://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
         "favicon": "https://img.logo.dev/fm761.jp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FMメイプル",
-        "url": "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FMりべーる",
@@ -225,6 +185,11 @@
         "favicon": "https://img.logo.dev/stcat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Gotanno Radio micro FM station",
+        "url": "https://radio.gotanno.love/;",
+        "favicon": "https://img.logo.dev/radio.gotanno.love?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hitsujikai Radio",
         "url": "http://streaming.radio.co/se4a8e6a93/listen",
         "favicon": "https://img.logo.dev/hitsujikai-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -233,6 +198,11 @@
         "name": "Hitsujikai Radio",
         "url": "http://streaming.radio.co/se4a8e6a93/listen",
         "favicon": "https://img.logo.dev/hitsujikai-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "J-Pop Christmas",
+        "url": "https://cast3.torontocast.com:1170/;",
+        "favicon": "https://img.logo.dev/cast3.torontocast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "J1 Gold (HTTP)",
@@ -301,13 +271,8 @@
     },
     {
         "name": "Miku Radio",
-        "url": "https://miku.fm/listen/miku/mp3-320",
+        "url": "https://miku.fm/listen/miku/aac-128",
         "favicon": "https://img.logo.dev/miku.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "MILCpod",
-        "url": "https://radio.milradio.info:9000/milcpod.m3u8",
-        "favicon": "https://img.logo.dev/radio.milradio.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Moon Mission Recordings",
@@ -485,6 +450,66 @@
         "favicon": "https://img.logo.dev/r-a-d.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radi.fm Clásica Global",
+        "url": "https://live.radi.fm/stream/es.aac",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm Clásica Global",
+        "url": "https://live.radi.fm/live/stn%3Aac83060d5fc74312/index.m3u8",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm Classical Global",
+        "url": "https://live.radi.fm/stream/en.aac",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm Classical Global",
+        "url": "https://live.radi.fm/live/stn%3A69ac40e04d0644b2/index.m3u8",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm Klassik DACH",
+        "url": "https://live.radi.fm/stream/de.aac",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm Klassik DACH",
+        "url": "https://live.radi.fm/live/stn%3Adc8e0d915dad44e7/index.m3u8",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm Monde Classique",
+        "url": "https://live.radi.fm/stream/fr.aac",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm Monde Classique",
+        "url": "https://live.radi.fm/live/stn%3A0af489e6915b4f23/index.m3u8",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm Nippon",
+        "url": "https://live.radi.fm/live/stn%3Af7df1c8bba9c4e50/index.m3u8",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm クラシック Nippon",
+        "url": "https://live.radi.fm/stream/ja.aac",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm 中文古典音乐",
+        "url": "https://live.radi.fm/stream/zh.aac",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radi.fm 中文古典音乐",
+        "url": "https://live.radi.fm/live/stn%3A5a8b2c0eb17b4d64/index.m3u8",
+        "favicon": "https://img.logo.dev/live.radi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RadiCro",
         "url": "https://radicrojapan.out.airtime.pro/radicrojapan_b",
         "favicon": "https://img.logo.dev/radicro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -495,9 +520,14 @@
         "favicon": "https://img.logo.dev/radicro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RadioMixjp",
-        "url": "https://radiomixjp.servepics.com/stream",
-        "favicon": "https://img.logo.dev/radiomixjp.servepics.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Hayama",
+        "url": "https://server10.reliastream.com/proxy/radiohayama",
+        "favicon": "https://img.logo.dev/radiohayama.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Shiga",
+        "url": "https://sv10.hdradios.net:21920/stream",
+        "favicon": "https://img.logo.dev/wp.radioshiga.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rainwave All",
@@ -523,16 +553,6 @@
         "name": "Shonan Beach FM 78.9 湘南ビーチ",
         "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
         "favicon": "https://img.logo.dev/beachfm.co.jp?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "stereo anime",
-        "url": "https://radio.stereoanime.com/listen/stereoanime/128",
-        "favicon": "https://img.logo.dev/stereoanime.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "stereoanime",
-        "url": "https://radio.stereoanime.com/listen/stereoanime/128",
-        "favicon": "https://img.logo.dev/stereoanime.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Súper Tokio Radio",
@@ -593,51 +613,6 @@
         "name": "エフエム世田谷",
         "url": "http://mtist.as.smartstream.ne.jp/30027/livestream/playlist.m3u8",
         "favicon": "https://img.logo.dev/fmsetagaya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "カシオペアFM",
-        "url": "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "タコヤリイカラジオ",
-        "url": "https://tekitouradio.onrender.com/radio",
-        "favicon": "https://img.logo.dev/tekitouradio.onrender.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "みやこハーバーラジオ",
-        "url": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ラジオカロスサッポロ FM78.1",
-        "url": "https://mtist.as.smartstream.ne.jp/30034/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ラジオ石巻",
-        "url": "https://mtist.as.smartstream.ne.jp/30037/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ラヂオもりおか FM76.9",
-        "url": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ラヂオ気仙沼",
-        "url": "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "レインボータウンFM",
-        "url": "https://mtist.as.smartstream.ne.jp/30036/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "横手かまくらエフエム",
-        "url": "https://mtist.as.smartstream.ne.jp/30076/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/superradio.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "羊飼いラジオ Hitsujikai Radio",

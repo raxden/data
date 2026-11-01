@@ -1,23 +1,8 @@
 [
     {
-        "name": "80´s Flash Back",
-        "url": "http://ice-11.spilarinn.is/80flashback",
-        "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "80's Bylgjan",
         "url": "http://icecast.365net.is:8000/orb80s.aac",
         "favicon": "https://img.logo.dev/vefutvarp.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Apparatid",
-        "url": "http://icecast.365net.is:8000/orbApparatid.aac",
-        "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bylgjan",
@@ -38,11 +23,6 @@
         "name": "Country Bylgjan",
         "url": "http://icecast.365net.is:8000/orbFmExtra.aac",
         "favicon": "https://img.logo.dev/vefutvarp.visir.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Flashback 60s",
-        "url": "https://ice-11.spilarinn.is/60flashback",
-        "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fred Film Radio-26 Íslenska",
@@ -70,6 +50,11 @@
         "favicon": "https://img.logo.dev/aki.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Bodun 105.5 Reykjavik",
+        "url": "http://radio.bodun.is:8000/stream",
+        "favicon": "https://img.logo.dev/radio.bodun.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rás 1",
         "url": "http://netradio.ruv.is/ras1.aac",
         "favicon": "https://img.logo.dev/netradio.ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -78,11 +63,6 @@
         "name": "Rás2",
         "url": "http://netradio.ruv.is/ras2.aac",
         "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Restro 89,5",
-        "url": "http://ice-11.spilarinn.is/retromobile",
-        "favicon": "https://img.logo.dev/spilarinn.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Retro",
@@ -113,6 +93,11 @@
         "name": "Rúv rás1",
         "url": "http://netradio.ruv.is/ras1.aac",
         "favicon": "https://img.logo.dev/ruv.is?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Seyðisfjörður Community Radio",
+        "url": "https://seyisfjorur-community-radio.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/seydisfjordurcommunityradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Suðurland FM",

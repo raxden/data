@@ -1,8 +1,8 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Boss FM Grenada",
+        "url": "http://cp.usa8.fastcast4u.com:5195/;",
+        "favicon": "https://img.logo.dev/cp.usa8.fastcast4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "City Sound 97.5 FM",
@@ -13,6 +13,11 @@
         "name": "Hot Shotz Radio - Grenada",
         "url": "http://usa1.fastcast4u.com:3292/stream",
         "favicon": "https://img.logo.dev/usa1.fastcast4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Power 95 FM Grenada",
+        "url": "https://www.power95fm.com/index.html",
+        "favicon": "https://img.logo.dev/power95fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Real FM - Grenada",

@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/bay.com.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Bay 89.7",
         "url": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1",
         "favicon": "https://img.logo.dev/bay.com.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -58,5 +53,10 @@
         "name": "RADJU MARIJA MALTA",
         "url": "http://dreamsiteradiocp.com:8102/stream",
         "favicon": "https://img.logo.dev/radjumarija.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vibe Fm Dance Malta",
+        "url": "https://vibe.mt/",
+        "favicon": "https://img.logo.dev/vibe.mt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

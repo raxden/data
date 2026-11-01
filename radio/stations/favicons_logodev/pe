@@ -1,15 +1,5 @@
 [
     {
-        "name": "LOVE FM: Amor en cada canción / Clásicos del pop",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Andina Radio",
         "url": "http://panel.innovatestream.pe:7058/;",
         "favicon": "https://img.logo.dev/andinaradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,11 +8,6 @@
         "name": "Antena Rock",
         "url": "https://stream-176.zeno.fm/nxrzmaij5zouv?zt=",
         "favicon": "https://img.logo.dev/antenarock.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Antena Sur 90.3 FM",
-        "url": "https://stream.zeno.fm/tu63bf6g31zuv",
-        "favicon": "https://img.logo.dev/radioantenasur.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bethel Radio",
@@ -90,11 +75,6 @@
         "favicon": "https://img.logo.dev/estacion90sradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Exa FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Exitosa Noticias Chiclayo",
         "url": "https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561",
         "favicon": "https://img.logo.dev/exitosanoticias.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -125,6 +105,11 @@
         "favicon": "https://img.logo.dev/filarmonia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Fm Hits 80s",
+        "url": "https://cast.fmhits80s.net.pe/listen/fm_hits_80s/stream128",
+        "favicon": "https://img.logo.dev/cast.fmhits80s.net.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "FMLima",
         "url": "https://stream.zeno.fm/qotg58sxvehvv",
         "favicon": "https://img.logo.dev/fmlima.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -133,11 +118,6 @@
         "name": "Frecuencia 100 101.9",
         "url": "https://sp.oyotunstream.com/7066/;",
         "favicon": "https://img.logo.dev/radio.frecuencia100fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FRECUENCIA 1330 AM  (parque azangaro miraflores) LUIS ANGEL ANCON PATIÑO",
-        "url": "https://maximacenterdata.com/8124/stream",
-        "favicon": "https://img.logo.dev/radiofrecuencia1330amondasdelmisti.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Full Techno",
@@ -180,14 +160,19 @@
         "favicon": "https://img.logo.dev/interactivaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kaizen Live Radio",
+        "url": "https://radiostreaming.pro/8386/stream",
+        "favicon": "https://img.logo.dev/radio.kaizenlive.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Karibeña",
         "url": "https://karibena.egostreaming.pe/radio/6898b6e52d9e088a6de159/",
         "favicon": "https://img.logo.dev/lakaribena.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "La Inolvidable",
-        "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4",
-        "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "La casetera online música hispana 80' 90' 2000",
+        "url": "https://conectperu.com/8578/stream",
+        "favicon": "https://img.logo.dev/radiospe.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "La Inolvidable",
@@ -196,7 +181,7 @@
     },
     {
         "name": "La Inolvidable",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC",
+        "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4",
         "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -221,8 +206,13 @@
     },
     {
         "name": "La Ñ (FMLima)",
-        "url": "https://stream-281.surfernetwork.com/tk4wmqvnnnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0azR3bXF2bm5ucnV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImZhSmJtem5DUjRPeGR2U1RUT1pGSFEiLCJpYXQiOjE3OTI2ODEwODMsImV4cCI6MTc5MjY4MTE0M30.yGM52_hmweuU5vv5TxQoE9UtfDVTyuWOWuaq1gVVWfM",
+        "url": "https://stream-281.surfernetwork.com/tk4wmqvnnnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0azR3bXF2bm5ucnV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkVFNzVrbWd4UVFXQm5MTWZXTGRxREEiLCJpYXQiOjE3OTMxMTYwNDUsImV4cCI6MTc5MzExNjEwNX0.ZZBEzY2ClwpTEKl3-IPd0I3OzG9sZdarzsQIofosGXU",
         "favicon": "https://img.logo.dev/fmlima.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "La Noventera",
+        "url": "https://host.gometri.com/proxy/lanoventera/stream/",
+        "favicon": "https://img.logo.dev/host.gometri.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "la Noventera",
@@ -260,11 +250,6 @@
         "favicon": "https://img.logo.dev/player.rdp.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Melodia Arequipa",
-        "url": "http://stream.radiomelodia.com.pe:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radiomelodia.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Moderna Radio Papá",
         "url": "https://radio.transmite.pe/8020/stream/;type=mp3",
         "favicon": "https://img.logo.dev/radiomoderna.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -273,6 +258,11 @@
         "name": "MUSIC OKEY",
         "url": "https://stream.rcast.net/73429",
         "favicon": "https://img.logo.dev/musicokey.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nueva Q",
+        "url": "https://mdstrm.com/audio/6839e1f153fcf56d988d5943/live.m3u8?property=aiir",
+        "favicon": "https://img.logo.dev/radionuevaq.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nuevaolera",
@@ -295,6 +285,11 @@
         "favicon": "https://img.logo.dev/ondacero.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Onda Cero te Activa",
+        "url": "https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio",
+        "favicon": "https://img.logo.dev/ondacero.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Onda De Libertad Radio | Contenido de liberación",
         "url": "https://radios.blumhost.es:8220/stream",
         "favicon": "https://img.logo.dev/ondadelibertad.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -303,6 +298,11 @@
         "name": "Onda Popular",
         "url": "https://dattavolt.com/8278/stream?1634322652441",
         "favicon": "https://img.logo.dev/radioondapopular.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Onda Popular (Cajamarca)",
+        "url": "https://envivo.top:8443/am",
+        "favicon": "https://img.logo.dev/radioondapopular.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ovación (620 AM)",
@@ -360,18 +360,13 @@
         "favicon": "https://img.logo.dev/latino.radioretroperu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 1160",
-        "url": "https://stream.zeno.fm/0r0d0r0d0r0uv",
-        "favicon": "https://img.logo.dev/radio1160.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Progreferon",
+        "url": "https://nd02.ehostingperu.net:8000/stream",
+        "favicon": "https://img.logo.dev/nd02.ehostingperu.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 1160",
         "url": "https://stream.zeno.fm/0r0d0r0d0r0uv",
-        "favicon": "https://img.logo.dev/radio1160.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 1160  Lima",
-        "url": "http://192.99.148.184:3624/stream",
         "favicon": "https://img.logo.dev/radio1160.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -402,7 +397,7 @@
     {
         "name": "Radio 1550 FM huancayo",
         "url": "https://radio1550.com/",
-        "favicon": "https://img.logo.dev/radio1550.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/streaming.virtugo.digital?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 1550 Huancayo",
@@ -420,29 +415,29 @@
         "favicon": "https://img.logo.dev/radio1550.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 200 Bicentenario",
-        "url": "https://stream.zeno.fm/wgs6m5ewe48uv",
-        "favicon": "https://img.logo.dev/radio200b.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio 90s chimbote online",
         "url": "https://stream-283.surfernetwork.com/z7sb4usufoltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6N3NiNHVzdWZvbHR2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhFUW9tYWdlUjZtWXBrM2xObjRRbnciLCJpYXQiOjE3ODgxNTA1NTUsImV4cCI6MTc4ODE1MDYxNX0.GqnCdz8WTFB33RApM48QBAw5g19gHU888WYIUvzZBdo",
         "favicon": "https://img.logo.dev/90schimbote.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio A 94.9",
-        "url": "https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhZdW15RGpRUXFxUnF5TjV6VHNUa2ciLCJpYXQiOjE3OTI2NjQwMjQsImV4cCI6MTc5MjY2NDA4NH0.gX18y7g6R4fBhqPIDUuavP72s-xSiF2C8gMuyNPFC7s",
+        "url": "https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik5MYUNNMkhaUWpHOHZVQ0Q0VW5UdmciLCJpYXQiOjE3OTMwOTY3OTYsImV4cCI6MTc5MzA5Njg1Nn0.nnAZmooewJHyCwB0VsXYWwAL8_brirIgURKmRCInjZ0",
         "favicon": "https://img.logo.dev/fmlima.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio A la radio del amor",
-        "url": "https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkNKRHNWUHZkUjlHRUpKZnJZZXU3TmciLCJpYXQiOjE3OTI2NzEwNjcsImV4cCI6MTc5MjY3MTEyN30.ocqnfPlNyK7J8Hjl4AkqVypyDjAs7Q94bofq_VsT748",
+        "url": "https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlNpVUVGN2ZWUUN5cl95bkEtNGgwdFEiLCJpYXQiOjE3OTMxMTMwNTEsImV4cCI6MTc5MzExMzExMX0.8iEB5GqZ8cKCmolDNgVpZxNRrSYaernRW4kk8q2m1MM",
         "favicon": "https://img.logo.dev/emisoras.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio ABN (Lima)",
         "url": "https://jml-stream.com/radio/8000/radio.mp3",
         "favicon": "https://img.logo.dev/envivo.abn.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Activa 93.7 FM Jaen",
+        "url": "https://sp.onliveperu.com/8108/stream",
+        "favicon": "https://img.logo.dev/sondondo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Amistades Forever",
@@ -475,19 +470,9 @@
         "favicon": "https://img.logo.dev/radioastoriaiquitos.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Camaná",
-        "url": "https://das-edge15-live365-dal02.cdnstream.com/a68417",
-        "favicon": "https://img.logo.dev/radiocamana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Camaná",
-        "url": "https://das-edge15-live365-dal02.cdnstream.com/a68417",
-        "favicon": "https://img.logo.dev/radiocamana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Camaná",
-        "url": "https://das-edge15-live365-dal02.cdnstream.com/a68417",
-        "favicon": "https://img.logo.dev/radiocamana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Bambamarca 1020 AM - Cajamarca, Bambamarca",
+        "url": "https://envivo.top:8443/lider",
+        "favicon": "https://img.logo.dev/sondondo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Caramelo",
@@ -545,11 +530,6 @@
         "favicon": "https://img.logo.dev/radiocumbiamix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Cumbre",
-        "url": "https://stream.zeno.fm/t8b5cmybtd0uv",
-        "favicon": "https://img.logo.dev/radiocumbre.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Cusco Legal la voz del pueblo",
         "url": "https://stream-144.zeno.fm/ryrhxgus0wzuv",
         "favicon": "https://img.logo.dev/raddios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -585,19 +565,14 @@
         "favicon": "https://img.logo.dev/ebenezertv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio El Patron 95.7 FM - Cajamarca, San Miguel",
+        "url": "https://streaming.zonalatinaeirl.com:8010/radio",
+        "favicon": "https://img.logo.dev/sondondo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Enmanuel Huaycán",
         "url": "https://conectperu.com/8220/stream",
         "favicon": "https://img.logo.dev/radioenmanuel.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Estacion Techno",
-        "url": "http://stream.zeno.fm/t3sqkau72rhvv",
-        "favicon": "https://img.logo.dev/radioestaciontechno.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Estrella Trujillo (102.7 Trujillo)",
-        "url": "https://radio.datahost.pe/9660/stream",
-        "favicon": "https://img.logo.dev/radioestrellaperu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Exitosa",
@@ -635,11 +610,6 @@
         "favicon": "https://img.logo.dev/exitosanoticias.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Fantasía Iquitos 88.3",
-        "url": "https://sp.oyotunstream.com:10943/stream?icy=http",
-        "favicon": "https://img.logo.dev/radiofantasiaiquitos.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Felicidad 88.9",
         "url": "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio",
         "favicon": "https://img.logo.dev/felicidad.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -653,6 +623,16 @@
         "name": "Radio Fiesta 98",
         "url": "http://s9.voscast.com:8496/;",
         "favicon": "https://img.logo.dev/radiofiesta.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio fiesta Mix",
+        "url": "https://dattavolt.com:7128/stream",
+        "favicon": "https://img.logo.dev/radiofiestamixdehuanta.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Folk Peru",
+        "url": "http://live.radiofolkperu.com/listen/radiofolkperu/radio.mp3",
+        "favicon": "https://img.logo.dev/radiofolkperu.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio frecuencia 100 - Trujillo",
@@ -695,11 +675,6 @@
         "favicon": "https://img.logo.dev/radiohuancayo.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO INTIRAYMI DEL CUSCO 830 AM",
-        "url": "https://streamhotsperu.purosurfm.com:8150/intiraymi",
-        "favicon": "https://img.logo.dev/radiointiraymi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio JHC 107.7 FM",
         "url": "https://sp.oyotunstream.com:10979/;",
         "favicon": "https://img.logo.dev/radiojhc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -715,6 +690,11 @@
         "favicon": "https://img.logo.dev/shoutcast.tmcreativos.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Kebuena",
+        "url": "https://panel.innovatestream.pe:10970/stream",
+        "favicon": "https://img.logo.dev/radiokebuena.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio La Cheverísima - Utcubamba",
         "url": "https://sp.onliveperu.com/8114/stream/;",
         "favicon": "https://img.logo.dev/radiolacheverisima.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -726,33 +706,8 @@
     },
     {
         "name": "Radio La Inolvidable",
-        "url": "https://www.oigo.com/lainolvidable/radioenvivo/",
-        "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Inolvidable",
-        "url": "https://19293.live.streamtheworld.com/INOLVIDABLE_AAC.aac",
-        "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Inolvidable",
         "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8?listeningSessionID=6941574b117acc42_9248139_F598Qfgy_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000006JdQ0&downloadSessionID=0&aid=68386a6e44ba64f6064b25c9&property=aiir&pid=vCkzQt26xqyiEWEr9pFao3SUO1wP9Bnd&sid=0RirczdGkUi63O3paJYxUpGaICJcKwQT&uid=TXhvN1xWKOWgtYUFU85Lp8tMnho0BSiB&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1775224405820&ot=R750hnwZDEoPTrF6aUN4bA&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=TXhvN1xWKOWgtYUFU85Lp8tMnho0BSiB",
         "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Inolvidable",
-        "url": "https://www.oigo.com/lainolvidable/radioenvivo/",
-        "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Inolvidable",
-        "url": "https://208.80.54.28/CRP_LI_SC",
-        "favicon": "https://img.logo.dev/lainolvidable.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Inolvidable",
-        "url": "https://208.80.54.28/CRP_LI_SC",
-        "favicon": "https://img.logo.dev/lainolvidable.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio La Inolvidable",
@@ -762,11 +717,6 @@
     {
         "name": "Radio La Inolvidable",
         "url": "https://stream.corporacionradial.com/inolvidable.aac",
-        "favicon": "https://img.logo.dev/lainolvidable.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Inolvidable",
-        "url": "https://stream.corporacionradial.com/inolvidable.mp3",
         "favicon": "https://img.logo.dev/lainolvidable.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -787,11 +737,6 @@
     {
         "name": "Radio La Inolvidable 93.7 fm",
         "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4",
-        "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio La Inolvidable 93.7 FM",
-        "url": "http://19263.live.streamtheworld.com/CRP_LIAAC_SCI",
         "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -825,11 +770,6 @@
         "favicon": "https://img.logo.dev/us-b4-p-e-pb13-audio.cdn.mdstrm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio la Poderosa 98.2 FM _ Lima _ Perú",
-        "url": "http://stream.zeno.fm/8dppgdapxneuv",
-        "favicon": "https://img.logo.dev/radiolapoderosa.tk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio La tremenda",
         "url": "https://radio.latremenda.pe/X7K9F2M4P8Q1W3R5T6Y",
         "favicon": "https://img.logo.dev/latremenda.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -855,11 +795,6 @@
         "favicon": "https://img.logo.dev/radiolavaca.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio La Voz del Nor Oriente - Utcubamba",
-        "url": "https://sp.onliveperu.com:7038/;",
-        "favicon": "https://img.logo.dev/radiolavozdelnororiente.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio La Zona (90.5 FM, Lima)",
         "url": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
         "favicon": "https://img.logo.dev/lazona.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -875,19 +810,9 @@
         "favicon": "https://img.logo.dev/radiolatidos.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Loreto",
-        "url": "https://sp.oyotunstream.com/8006/stream",
-        "favicon": "https://img.logo.dev/radioloreto.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "radio los andes 99.5 fm",
         "url": "https://sonic.dattassd.com:8190/stream",
         "favicon": "https://img.logo.dev/radiolosandestv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Los Angeles - Chepen",
-        "url": "http://94.23.159.187:9950/;",
-        "favicon": "https://img.logo.dev/radiolosangeles.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "radio magica 88.3 fm",
@@ -920,6 +845,16 @@
         "favicon": "https://img.logo.dev/radiomatucana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Maxima del peru",
+        "url": "https://maxradio.azuracast.com.es/listen/radio_maxima/AQP.mp3",
+        "favicon": "https://img.logo.dev/radio-maxima-fm.webnode.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO MAXIMA DEL PERU",
+        "url": "https://maxradio.azuracast.com.es/listen/radio_maxima/AQP.mp3",
+        "favicon": "https://img.logo.dev/radio-maxima-fm.webnode.es?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO MEGA MIX 96.7 FM Perú",
         "url": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
         "favicon": "https://img.logo.dev/audioplayer.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -930,19 +865,39 @@
         "favicon": "https://img.logo.dev/estacionesfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio MegaMix",
+        "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951",
+        "favicon": "https://img.logo.dev/radiomegamix.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio MegaMix – Tocamos de Todo",
+        "url": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8",
+        "favicon": "https://img.logo.dev/radiomegamix.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio MegaMix 96.7 FM - Tocamos de Todo",
+        "url": "https://mdstrm.com/audio/5fab8eeb16646e0981b3efaf/01_live.m3u8",
+        "favicon": "https://img.logo.dev/radiomegamix.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio MegaMix fm",
+        "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951?",
+        "favicon": "https://img.logo.dev/audioplayer.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Megamix Lima",
         "url": "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8",
         "favicon": "https://img.logo.dev/audioplayer.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Melodia FM",
-        "url": "https://stream.radiomelodia.com.pe:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radiomelodia.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio metropolitana Arequipa",
         "url": "https://maximacenterdata.com/8120/stream",
         "favicon": "https://img.logo.dev/metropolitana995.webnode.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mía 99.5 FM - Cajamarca, San Miguel",
+        "url": "https://streaming.zonalatinaeirl.com:8020/radio",
+        "favicon": "https://img.logo.dev/sondondo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Milenium - Bagua Grande",
@@ -980,11 +935,6 @@
         "favicon": "https://img.logo.dev/radionova.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Nova peru",
-        "url": "https://panel.innovatestream.pe:10990/undefined",
-        "favicon": "https://img.logo.dev/radionova.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Onda Cero",
         "url": "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
         "favicon": "https://img.logo.dev/ondacero.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1000,14 +950,14 @@
         "favicon": "https://img.logo.dev/ondasdelchinchaycochajunin.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Ondas del Huallaga",
-        "url": "https://cloud9.ldwebstudios.net:7005/;",
-        "favicon": "https://img.logo.dev/radioondasdelhuallaga.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Oxígeno",
         "url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8",
         "favicon": "https://img.logo.dev/oxigeno.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Pampa Yurac 90.1 FM - Pucallpa, Ucayali, Aguaytia",
+        "url": "https://rr5200.globalhost1.com/8242/stream",
+        "favicon": "https://img.logo.dev/sondondo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Panamericana",
@@ -1015,14 +965,14 @@
         "favicon": "https://img.logo.dev/radiopanamericana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Perú Cochabamba",
+        "url": "https://live.radioperu.pe/radioperu",
+        "favicon": "https://img.logo.dev/live.radioperu.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Planeta",
         "url": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6839e274f40e6b9832e37633?aid=68386a6e44ba64f6064b25c9&pid=XCjk5jKHdZ70qhEDSmxLOrt4Wt4uFB3w&sid=vpseitxdPyRFvFeuL2tdzKVAaDfHpwnl&uid=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1786742777112&ot=ZfUrOwFwCXCkowILFIRcSw&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e274f40e6b9832e37633&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM",
         "favicon": "https://img.logo.dev/radiosdelperu.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Positiva Tacna",
-        "url": "http://sp.oyotunstream.com:8034/",
-        "favicon": "https://img.logo.dev/radiopositiva.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Retro",
@@ -1036,7 +986,7 @@
     },
     {
         "name": "Radio Románticas Inolvidables (FMLima)",
-        "url": "https://stream-289.surfernetwork.com/6m1ba7yt3vduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bTFiYTd5dDN2ZHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjJfWnJYd2hFVFlLTUpidEtMRUJJdnciLCJpYXQiOjE3OTI2NTYwMjUsImV4cCI6MTc5MjY1NjA4NX0.hTlBD2oZYD92YE3PcBMbLDcvaCnMvePZJDcGQIBBxbo",
+        "url": "https://stream-289.surfernetwork.com/6m1ba7yt3vduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bTFiYTd5dDN2ZHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImE4QkVHSDlKUV9tLTE2RnFoUUFfd0EiLCJpYXQiOjE3OTMwOTAyOTUsImV4cCI6MTc5MzA5MDM1NX0.f5rz8GH6TeHHKuYJ1EutW9leW37uaaHtMHbp0tG-Vnk",
         "favicon": "https://img.logo.dev/inolvidable.fmlima.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1048,16 +998,6 @@
         "name": "Radio RPP Noticias",
         "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio",
         "favicon": "https://img.logo.dev/rpp.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Rumbo Huancayo",
-        "url": "https://mediastreamm.com/8008/stream",
-        "favicon": "https://img.logo.dev/radiorumbo.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Salkantay",
-        "url": "https://stream.radiosalkantaycusco.com/7662/stream",
-        "favicon": "https://img.logo.dev/radiosalkantaycusco.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio San Martín",
@@ -1075,14 +1015,19 @@
         "favicon": "https://img.logo.dev/radiosanmartin.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Santa Lucía 93.7 FM",
+        "url": "https://sp.dattavolt.com/8014/stream",
+        "favicon": "https://img.logo.dev/sondondo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Santa Rosa",
+        "url": "https://conectperu.com/8256/stream",
+        "favicon": "https://img.logo.dev/radiosantarosa.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Satélite (100.7 FM, Callao)",
         "url": "https://conectperu.com/8166/stream",
         "favicon": "https://img.logo.dev/radiosatelite.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Shack Music",
-        "url": "https://c30.radioboss.fm:18415/stream",
-        "favicon": "https://img.logo.dev/radioshackmusic.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio SinPatrones",
@@ -1130,18 +1075,28 @@
         "favicon": "https://img.logo.dev/radiosynthpop.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Titanka - Abancay",
+        "url": "http://servistream.info:8482/stream",
+        "favicon": "https://img.logo.dev/radiotitanka.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Tropical Tarapoto",
         "url": "https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream",
-        "favicon": "https://img.logo.dev/radiotropical.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/shoutcast.tmcreativos.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Turbo Master - Cajamarca, Santa Cruz",
+        "url": "https://radio.livestreamingmundial.com:7045/stream",
+        "favicon": "https://img.logo.dev/radioturbomaster.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio TV. Sureña - Puno, Juliaca",
-        "url": "https://stream-285.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjhBQ21qZWFwUTRPa2tyQ1JSLUlXN1EiLCJpYXQiOjE3OTI2MjM1NTEsImV4cCI6MTc5MjYyMzYxMX0.wkTzB9olc9zcqCcQDB2LTmkeCxZjvUWz3F_xGuTvWE4",
+        "url": "https://stream-285.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkFYa0FvYks0UlpXWThrb21MOGRtQXciLCJpYXQiOjE3OTM0OTUyMDksImV4cCI6MTc5MzQ5NTI2OX0.Se0qgfII9uYcyshfyPxZzMS6r93S0PzaWNWVE_kaTi4",
         "favicon": "https://img.logo.dev/emisoras.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio TV. Sureña (Puno, Juliaca)",
-        "url": "https://stream-285.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InA1bW5selRJUThDd2hSZU9Pd2RIWmciLCJpYXQiOjE3OTI2NzQ1MjksImV4cCI6MTc5MjY3NDU4OX0.0Qq4311oFg3ez9ymEQVSo9gUMsIsMVtkJ2rKp0wfVb0",
+        "url": "https://stream-285.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InZXNkJwNE90VDNxUVBqVXJucGYwYVEiLCJpYXQiOjE3OTMxMTI3MDIsImV4cCI6MTc5MzExMjc2Mn0.yIXLp-Yk_rB7Mm4bZwDtOIi0JRcECX7vgYCddYKEcZ0",
         "favicon": "https://img.logo.dev/emisoras.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1155,11 +1110,6 @@
         "favicon": "https://img.logo.dev/radiourbana.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio victor music Perú",
-        "url": "https://stream-157.zeno.fm/wymz9unt88quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3eW16OXVudDg4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ21LejNpb3dRQi1YaFB0UEVvaXdTUSIsImlhdCI6MTc2ODQ1NTI0OSwiZXhwIjoxNzY4NDU1MzA5fQ.Or-d35ALnw-1V4GplCUxyoYFrYa0Aflx0S729hWT4j8",
-        "favicon": "https://img.logo.dev/victormusic.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Yaraví",
         "url": "https://tupanel.info/stream/radioyaravi/stream",
         "favicon": "https://img.logo.dev/radioyaravi.org.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1170,9 +1120,34 @@
         "favicon": "https://img.logo.dev/radioyaravi.org.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radiomar",
+        "url": "https://mdstrm.com/audio/6839e261d2efddf5bfbc2d3d/live.m3u8",
+        "favicon": "https://img.logo.dev/radiomar.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiomar",
+        "url": "https://mdstrm.com/audio/6839e261d2efddf5bfbc2d3d/live.m3u8?property=aiir",
+        "favicon": "https://img.logo.dev/radiomar.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiomar",
+        "url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d3d",
+        "favicon": "https://img.logo.dev/radiomar.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiomar",
+        "url": "https://mdstrm.com/audio/6839e261d2efddf5bfbc2d3d/live.m3u8",
+        "favicon": "https://img.logo.dev/radiomar.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Red Radio Integridad (RRI)",
         "url": "https://dattavolt.com/8164/stream",
         "favicon": "https://img.logo.dev/rri.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ritmo Romántica",
+        "url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e2376607bdf6b2fcde27?aid=68386a6e44ba64f6064b25c9&pid=YQeaeSlag6v2H3vMjcaXlG6JY5aPlYRL&sid=vpseitxdPyRFvFeuL2tdzKVAaDfHpwnl&uid=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1786742603697&ot=1qSp-a_aaCMF2DG_fcOxUQ&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&liveId=6839e2376607bdf6b2fcde27&referer=https%3A%2F%2Fwww.radiosdelperu.com.pe%2F&listenerId=G1y8SsWzwRbxxrlV6zfVsIuXp0yaVbCM",
+        "favicon": "https://img.logo.dev/oigo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ritmo Romantica",
@@ -1205,9 +1180,19 @@
         "favicon": "https://img.logo.dev/rpp.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RPT Radio - Radio Para Todos",
+        "url": "https://stream.zeno.fm/m2x1vzybpapvv",
+        "favicon": "https://img.logo.dev/rptradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RRI",
         "url": "https://dattavolt.com/8164/stream",
         "favicon": "https://img.logo.dev/rri.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Santa Lucía 93.7 FM",
+        "url": "https://sp.dattavolt.com/8014/stream",
+        "favicon": "https://img.logo.dev/sondondo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Señal Pirata Radio",
@@ -1248,11 +1233,6 @@
         "name": "Studio Mix - Progreso, Amazonas en Vivo",
         "url": "https://stream.zenolive.com/de2yzp59mg0uv",
         "favicon": "https://img.logo.dev/studiomix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Superstereo 105.5 fm",
-        "url": "http://51.89.173.53:8031/",
-        "favicon": "https://img.logo.dev/superstereo.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Top Latino",
@@ -1303,10 +1283,5 @@
         "name": "Z rock and pop",
         "url": "https://radioz.egostreaming.pe/radio/3e4f6a1b2c3d4e567890abcd/",
         "favicon": "https://img.logo.dev/zrockandpop.com.pe?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zona 5 93.3",
-        "url": "https://panel.innovatestream.pe:10975/stream",
-        "favicon": "https://img.logo.dev/radiozona5fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

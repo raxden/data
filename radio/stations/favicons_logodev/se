@@ -1,10 +1,5 @@
 [
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "106,7 Rockklassiker",
         "url": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3",
         "favicon": "https://img.logo.dev/rockklassiker.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -83,11 +78,6 @@
         "name": "Banjalučki Sevdah Radio Šeherčani",
         "url": "https://stream-172.zeno.fm/wazhcyi9ak5vv?zs=tApDLixiTGuqRhXqTfctZQ&1709234440014",
         "favicon": "https://img.logo.dev/sevdah-radio-sehercani.webnode.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Best of ericade.radio",
-        "url": "https://radio.ericade.net/sc/stream/2/",
-        "favicon": "https://img.logo.dev/radio.ericade.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Blues",
@@ -310,11 +300,6 @@
         "favicon": "https://img.logo.dev/litefm.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Lugna Favoriter Stockholm",
-        "url": "http://fm03-ice.stream.khz.se/fm03_mp3?",
-        "favicon": "https://img.logo.dev/fm03-ice.stream.khz.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Mad Mix Beats",
         "url": "https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3",
         "favicon": "https://img.logo.dev/madmix.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -490,11 +475,6 @@
         "favicon": "https://img.logo.dev/poporock.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Pop Radio Stockholm",
-        "url": "http://master.shoutcast.com:8000/popradio-stockholm",
-        "favicon": "https://img.logo.dev/popradio.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "PopBurst",
         "url": "https://mml1.prostream.se/listen/popburst/radio.mp3",
         "favicon": "https://img.logo.dev/madmix.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -540,14 +520,34 @@
         "favicon": "https://img.logo.dev/radio88.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio 94,3",
+        "url": "https://stream.radio943.se/stream",
+        "favicon": "https://img.logo.dev/radio943.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Båstad",
+        "url": "https://audio-edge-5r6yd.cdg.o.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac",
+        "favicon": "https://img.logo.dev/radiobastad.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio bubb.la",
         "url": "https://live.radio.bubb.la/stream.mp3",
         "favicon": "https://img.logo.dev/radio.bubb.la?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Fablesh",
+        "url": "https://radio.mediarosenqvist.com/listen/radio-fablesh/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.fablesh.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Gbg Sevdah",
         "url": "https://stream.radiogbg.se:8050/relay4",
         "favicon": "https://img.logo.dev/radiogbg.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gold Sweden",
+        "url": "https://streaming.943.se/radiogold",
+        "favicon": "https://img.logo.dev/radiogold.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Haninge",
@@ -595,6 +595,11 @@
         "favicon": "https://img.logo.dev/radio-orinoco.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Payam",
+        "url": "https://stream.radiopayam.se/;",
+        "favicon": "https://img.logo.dev/radiopayam.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Rivendell",
         "url": "https://play.radiorivendell.com/radio/8000/radio.mp3",
         "favicon": "https://img.logo.dev/radiorivendell.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -613,11 +618,6 @@
         "name": "Radio Sandviken",
         "url": "https://shout.rs8990.com/;",
         "favicon": "https://img.logo.dev/radiosandviken.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Skövde",
-        "url": "http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8",
-        "favicon": "https://img.logo.dev/radioskovde.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Sotenäs",
@@ -643,6 +643,11 @@
         "name": "Radio Treby",
         "url": "http://streaming.943.se/treby878",
         "favicon": "https://img.logo.dev/radiotreby.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio45 (Dalsland Sweden)",
+        "url": "https://streaming.943.se/radio45",
+        "favicon": "https://img.logo.dev/radio45.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RadioGodis",
@@ -700,16 +705,6 @@
         "favicon": "https://img.logo.dev/retrofm.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RetroHits",
-        "url": "https://sc.retrohits.se/radio.mp3",
-        "favicon": "https://img.logo.dev/retrohits.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RetroHits",
-        "url": "https://sc.retrohits.se/retrohits64.aac",
-        "favicon": "https://img.logo.dev/retrohits.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rock",
         "url": "https://mml1.prostream.se/listen/rock/radio.mp3",
         "favicon": "https://img.logo.dev/madmix.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -735,6 +730,11 @@
         "favicon": "https://img.logo.dev/madmix.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sauna Radio",
+        "url": "https://stream.saunaradio.com/live",
+        "favicon": "https://img.logo.dev/saunaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "SceneSat",
         "url": "http://oscar.scenesat.com:8000/scenesatmax",
         "favicon": "https://img.logo.dev/scenesat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -748,11 +748,6 @@
         "name": "SceneSat Radio (MP3)",
         "url": "https://streams.scenesat.com/main/hq.mp3",
         "favicon": "https://img.logo.dev/scenesat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SDX synthetic experience - EBM, Synth and Industrial",
-        "url": "http://radio.dawnshadow.se:8000/stream",
-        "favicon": "https://img.logo.dev/radio.dawnshadow.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Skärgårdsradion",
@@ -778,11 +773,6 @@
         "name": "SlayRadio",
         "url": "http://relay1.slayradio.org:8000/",
         "favicon": "https://img.logo.dev/slay.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Spinning Seal FM",
-        "url": "https://stream.zeno.fm/9q3ez3k3fchvv",
-        "favicon": "https://img.logo.dev/spinning-seal-fm-home-website.hxkprogram.repl.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SR Din Gata",
@@ -858,11 +848,6 @@
         "name": "Sveiges Radio - P4 Malmöhus",
         "url": "https://sverigesradio.se/topsy/direkt/207-hi.mp3",
         "favicon": "https://img.logo.dev/sverigesradio.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Svensk Folkmusik - AkkA radio",
-        "url": "http://mediaserv38.live-streams.nl:8107/stream",
-        "favicon": "https://img.logo.dev/svenskfolkmusik.nu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Svensk Pop",
@@ -1227,11 +1212,6 @@
     {
         "name": "The ERICADE Radio Network",
         "url": "https://radio.ericade.net/sc/stream/1/",
-        "favicon": "https://img.logo.dev/radio.ericade.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The ERICADE Radio Network",
-        "url": "https://radio.ericade.net/sc/stream/1/",
         "favicon": "https://img.logo.dev/ericade.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1243,6 +1223,11 @@
         "name": "Urban Flow",
         "url": "https://mml2.prostream.se/listen/urban_flow/radio.mp3",
         "favicon": "https://img.logo.dev/madmix.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "VIBE Radio",
+        "url": "https://streamer.radio.co/s0c62f7351/listen",
+        "favicon": "https://img.logo.dev/viberadio.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Vinyl FM",
@@ -1263,10 +1248,5 @@
         "name": "Workout",
         "url": "https://mml2.prostream.se/listen/workout/radio.mp3",
         "favicon": "https://img.logo.dev/madmix.se?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ZERGAN RADYO  (47an)",
-        "url": "https://sslyayin.netyayin.net/radyozergan/;",
-        "favicon": "https://img.logo.dev/radyozergan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

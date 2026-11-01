@@ -1,13 +1,8 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "National Radio of Kampuchea",
-        "url": "http://119.82.252.6:8080/broadwave.mp3",
-        "favicon": "https://img.logo.dev/rnk.gov.kh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Sangkem Radio",
+        "url": "https://live.sangkemtv.com/radio.mp3",
+        "favicon": "https://img.logo.dev/sangkemtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sweet FM 88 (Siem Reap)",

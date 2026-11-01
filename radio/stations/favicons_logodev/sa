@@ -1,25 +1,5 @@
 [
     {
-        "name": ". القارئ محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ". مختصر السيرة",
-        "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".صور من حياة الصحابة",
-        "url": "https://qurango.net/radio/sahabah",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".ماهر المعيقلي",
-        "url": "https://backup.qurango.net/radio/maher",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "101.7 Your Love FM",
         "url": "https://radio.905heartfm.com:8000/radio.mp3",
         "favicon": "https://img.logo.dev/1017yourlovefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -35,14 +15,24 @@
         "favicon": "https://img.logo.dev/radiospinner.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "105.9 United Heart FM",
+        "url": "https://radio.905heartfm.com:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.905heartfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "105.9 United Heart FM",
+        "url": "https://radio.905heartfm.com:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.905heartfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "105.9 United Heart FM",
+        "url": "https://radio.905heartfm.com:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.905heartfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "90.5 Heart FM",
         "url": "https://radio.905heartfm.com:8000/radio.mp3",
         "favicon": "https://img.logo.dev/905heartfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AFN 360 Global Gravity 105.9 FM",
@@ -115,14 +105,24 @@
         "favicon": "https://img.logo.dev/salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kapatid FM 95.8",
-        "url": "https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8",
-        "favicon": "https://img.logo.dev/kapatidinternational.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Jeddah",
+        "url": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/cee738f00_WithoutLoveWhatsLife_.mp3",
+        "favicon": "https://img.logo.dev/base44.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jeddah",
+        "url": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/cee738f00_WithoutLoveWhatsLife_.mp3",
+        "favicon": "https://img.logo.dev/base44.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Khuzama Radio 95.3 FM",
         "url": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/chunks.m3u8",
         "favicon": "https://img.logo.dev/aloula.sba.sa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC FM",
+        "url": "https://mbcfm-radio.mbc.net/mbcfm-radio_1.m3u8",
+        "favicon": "https://img.logo.dev/mbcfm-radio.mbc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MBC FM",
@@ -133,6 +133,16 @@
         "name": "MBC FM",
         "url": "https://radio-mbcfm.mbc.net/radio-mbcfm_1.m3u8",
         "favicon": "https://img.logo.dev/mbcmood.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC FM",
+        "url": "https://mbcfm-radio.mbc.net/mbcfm-radio.m3u8",
+        "favicon": "https://img.logo.dev/mbcfm-radio.mbc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MBC FM",
+        "url": "https://mbcfm-radio.mbc.net/mbcfm-radio.m3u8",
+        "favicon": "https://img.logo.dev/mbcfm-radio.mbc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MBC Loud",
@@ -158,6 +168,11 @@
         "name": "MBC Mood",
         "url": "https://radio-mbc-mood.mbc.net/radio-mbc-mood.m3u8",
         "favicon": "https://img.logo.dev/mbcmood.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mix FM Saudi Arabia",
+        "url": "https://s1.voscast.com:11377/live.mp3",
+        "favicon": "https://img.logo.dev/mixfm-sa.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Mohamed Tablaoui",
@@ -230,16 +245,6 @@
         "favicon": "https://img.logo.dev/radioasharq.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Disney KSA 1170 AM",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Disney KSA 87.7 FM",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radiodisney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Maria Middle East",
         "url": "http://dreamsiteradiocp2.com/proxy/rmphilippine?mp=/stream?ver=748140",
         "favicon": "https://img.logo.dev/radiomaria.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -268,11 +273,6 @@
         "name": "Saudi Aramco Studio X 80s and 90s",
         "url": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
         "favicon": "https://img.logo.dev/saudiaramco.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Saudi Quran",
-        "url": "http://stream.radiojar.com/0tpy1h0kxtzuv",
-        "favicon": "https://img.logo.dev/aloula.sa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Saudi Quran1",
@@ -360,16 +360,6 @@
         "favicon": "https://img.logo.dev/aloula.sa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "SkyRadio 105.5 FM",
-        "url": "https://cast.skyradio105.com/proxy/skyradio105/stream",
-        "favicon": "https://img.logo.dev/skyradio105.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SkyRadio FM 105.5",
-        "url": "https://cp11.serverse.com/proxy/skyradio/stream",
-        "favicon": "https://img.logo.dev/skyradio105.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Star KSA 99.9 FM",
         "url": "https://eu10.fastcast4u.com:6300/;?type=http&fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA",
         "favicon": "https://img.logo.dev/tuneyou.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -405,6 +395,11 @@
         "favicon": "https://img.logo.dev/ufmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Universal Health Radio (العربية)",
+        "url": "https://radio.universalhealthradio.org/uhr-ar.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "V81 Radio KSA 101.8 FM",
         "url": "https://cast4.servcast.net/proxy/v81radioworldwide/live",
         "favicon": "https://img.logo.dev/v81radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -438,36 +433,6 @@
         "name": "إذاعة السنة",
         "url": "http://andromeda.shoutca.st:8189/live",
         "favicon": "https://img.logo.dev/radiosunna.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة طريق السلف",
-        "url": "https://airtime.salafwayfm.ly/",
-        "favicon": "https://img.logo.dev/airtime.salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة طريق السلف",
-        "url": "https://airtime.salafwayfm.ly/",
-        "favicon": "https://img.logo.dev/salafwayfm.ly?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "إذاعة محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "القارئ علي الحذيفي رواية قالون",
-        "url": "https://qurango.net/radio/ali_alhuthaifi_qalon",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تفسير القرآن الكريم",
-        "url": "https://qurango.net/radio/tafseer",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تفسير بن عثيمين رحمه الله تعالى",
-        "url": "https://qurango.net/radio/tafseer",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "راديو الشرق مع بلومبرغ",

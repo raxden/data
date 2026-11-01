@@ -25,11 +25,6 @@
         "favicon": "https://img.logo.dev/supernova.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "13 ESKA 2",
         "url": "https://radio.stream.smcdn.pl/icradio-p/6230-1.aac/playlist.m3u8",
         "favicon": "https://img.logo.dev/dwa.eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -66,7 +61,7 @@
     },
     {
         "name": "AH.FM: #1 for Electronic Dance Music",
-        "url": "http://us.ah.fm/live",
+        "url": "https://fr.ah.fm/mobile",
         "favicon": "https://img.logo.dev/ah.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -102,6 +97,11 @@
     {
         "name": "Anty Radio",
         "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
+        "favicon": "https://img.logo.dev/antyradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Antyradio",
+        "url": "https://player.antyradio.pl/",
         "favicon": "https://img.logo.dev/antyradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -321,7 +321,7 @@
     },
     {
         "name": "Cmp3",
-        "url": "http://s.radiocmp3.eu/stream256",
+        "url": "http://s.radiocmp3.eu/djset256",
         "favicon": "https://img.logo.dev/cmp3.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -380,6 +380,16 @@
         "favicon": "https://img.logo.dev/dubstep24h.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Dwójka",
+        "url": "http://mp3.polskieradio.pl:8902/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dwójka",
+        "url": "http://mp3.polskieradio.pl:8902/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "El Radio",
         "url": "http://kazpar.pl:8888/elradio_raw",
         "favicon": "https://img.logo.dev/elradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -398,6 +408,11 @@
         "name": "EL-Stacja",
         "url": "http://radio.el-stacja.pl:8000/elstacjaap320.ogg",
         "favicon": "https://img.logo.dev/el-stacja.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "El-Stacja [MQ]",
+        "url": "http://radio.el-stacja.pl:8000/elstacja.ogg",
+        "favicon": "https://img.logo.dev/radio.el-stacja.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "EL-Stacja HQ",
@@ -515,29 +530,9 @@
         "favicon": "https://img.logo.dev/eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "ESKA DO PRACY",
-        "url": "http://ic1.smcdn.pl/6140-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ESKA GO",
-        "url": "http://ic1.smcdn.pl/6200-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ESKA GORĄCA 100",
         "url": "http://ic1.smcdn.pl/6120-1.mp3",
         "favicon": "https://img.logo.dev/eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ESKA GORĄCA 20",
-        "url": "http://ic1.smcdn.pl/6130-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ESKA IMPRESKA",
-        "url": "http://ic1.smcdn.pl/6030-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Eska Katowice",
@@ -606,7 +601,7 @@
     },
     {
         "name": "ESKA ROCK",
-        "url": "http://n07-eu3.rcs.revma.com/1nnezw8qz7zuv",
+        "url": "http://n04-eu2.rcs.revma.com/1nnezw8qz7zuv",
         "favicon": "https://img.logo.dev/eskarock.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -695,6 +690,11 @@
         "favicon": "https://img.logo.dev/exitorrent.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Fitness Music",
+        "url": "https://s3.slotex.pl:7414/stream",
+        "favicon": "https://img.logo.dev/s3.slotex.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Folk Radio",
         "url": "https://streaming.g-news.pl:8030/fr1",
         "favicon": "https://img.logo.dev/folkradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -750,19 +750,34 @@
         "favicon": "https://img.logo.dev/zt01.cdn.eurozet.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "I Love Music",
+        "url": "https://s3.slotex.pl:7150/stream",
+        "favicon": "https://img.logo.dev/s3.slotex.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Idź Pod Prąd FM",
+        "url": "http://idzpodprad.out.airtime.pro:8000/idzpodprad_a",
+        "favicon": "https://img.logo.dev/idzpodprad.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Informatics Productions Radio",
         "url": "http://radio.lttstore.pl:8000/radio",
         "favicon": "https://img.logo.dev/lttstore.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Internetowe Radio Skoczow",
-        "url": "https://azuracast.radio.skoczow.pl/listen/radior1/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.skoczow.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Ivan Honcharov",
+        "url": "https://azuracast.reverbriff.com/listen/reverb_riff_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.reverbriff.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jazzkultura",
         "url": "http://stream.radio.co/s1136b59f3/listen",
         "favicon": "https://img.logo.dev/jazzkultura.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jedynka",
+        "url": "http://mp3.polskieradio.pl:8900/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "JEDYNKA",
@@ -773,6 +788,11 @@
         "name": "JEDYNKA",
         "url": "http://stream3.polskieradio.pl:8900/;",
         "favicon": "https://img.logo.dev/jedynka.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Jedynka",
+        "url": "http://mp3.polskieradio.pl:8900/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "JEDYNKA.PL",
@@ -788,6 +808,11 @@
         "name": "Katolickie Radio Diecezji Plockiej",
         "url": "http://s1.slotex.pl:7760/",
         "favicon": "https://img.logo.dev/krdp.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Katolickie Radio Podlasie",
+        "url": "http://s1.slotex.pl:7038/",
+        "favicon": "https://img.logo.dev/radiopodlasie.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Katolickie Radio Rzeszow - VIA",
@@ -1130,11 +1155,6 @@
         "favicon": "https://img.logo.dev/nostalgicznie.nasze.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Niepokalana.FM",
-        "url": "http://stream2.technologicznie.net/niepokalana_fm.mp3",
-        "favicon": "https://img.logo.dev/player.niepokalana.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Nocne Radio",
         "url": "https://stream.nocneradio.pl/",
         "favicon": "https://img.logo.dev/nocneradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1210,6 +1230,11 @@
         "favicon": "https://img.logo.dev/planetafm.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "PLUS",
+        "url": "https://pl.cdn.eurozet.pl/plu-gdn.mp3",
+        "favicon": "https://img.logo.dev/pl.cdn.eurozet.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Plus Radio  Legnica.FM",
         "url": "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3",
         "favicon": "https://img.logo.dev/legnica.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1225,24 +1250,9 @@
         "favicon": "https://img.logo.dev/polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Polka Jammer Station",
-        "url": "http://199.58.161.66/",
-        "favicon": "https://img.logo.dev/polishpolka.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Polmax 2",
-        "url": "http://stream.zeno.fm/szxcunxzbceuv",
-        "favicon": "https://img.logo.dev/polmaxfm.ga?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Polmax 3",
-        "url": "http://stream.zeno.fm/2p4yw9sd8yzuv",
-        "favicon": "https://img.logo.dev/polmaxfm.ga?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Polmax FM",
-        "url": "http://stream.zeno.fm/1gg3kbnzbceuv",
-        "favicon": "https://img.logo.dev/polmaxfm.ga?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "PolNexus Radio",
+        "url": "https://polnexus.pl/listen.mp3",
+        "favicon": "https://img.logo.dev/polnexus.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Polski FM",
@@ -1325,6 +1335,11 @@
         "favicon": "https://img.logo.dev/polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Polskie Radio Gdańsk",
+        "url": "http://stream.task.gda.pl:8000/rg1",
+        "favicon": "https://img.logo.dev/stream.task.gda.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Polskie Radio Jedynka",
         "url": "http://mp3.polskieradio.pl:8900/;.mp3",
         "favicon": "https://img.logo.dev/polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1348,6 +1363,11 @@
         "name": "Polskie Radio Kierowców",
         "url": "http://stream3.polskieradio.pl:8918/;",
         "favicon": "https://img.logo.dev/radiokierowcow.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Polskie Radio LAS",
+        "url": "http://mp3.polskieradio.pl:8128/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Polskie Radio LAS",
@@ -1420,11 +1440,6 @@
         "favicon": "https://img.logo.dev/polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Polskie Radio: Jedynka (1)",
-        "url": "http://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8",
-        "favicon": "https://img.logo.dev/jedynka.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Polskie Radio: Trójka (3)",
         "url": "http://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8",
         "favicon": "https://img.logo.dev/trojka.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1453,6 +1468,11 @@
         "name": "PR KIEROWCÓW",
         "url": "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8",
         "favicon": "https://img.logo.dev/radiokierowcow.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PR LAS ACC",
+        "url": "http://mp3.polskieradio.pl:8528/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "PR NOSTALGIA",
@@ -1490,19 +1510,9 @@
         "favicon": "https://img.logo.dev/polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Pro-Radio",
-        "url": "http://radiointernetowe.net:7802/",
-        "favicon": "https://img.logo.dev/proradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Program Pierwszy Polskiego Radia",
         "url": "http://mp3.polskieradio.pl:8900/;",
         "favicon": "https://img.logo.dev/jedynka.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Proradio",
-        "url": "http://radiointernetowe.net:7802/",
-        "favicon": "https://img.logo.dev/proradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "PRZEBOJE PRL",
@@ -1520,11 +1530,6 @@
         "favicon": "https://img.logo.dev/radiounderground.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Quantum Wave Radio",
-        "url": "https://ec4.yesstreaming.net:2845/stream",
-        "favicon": "https://img.logo.dev/quantumwaveradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "R357",
         "url": "https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8",
         "favicon": "https://img.logo.dev/radio357.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1533,11 +1538,6 @@
         "name": "Radia Zet",
         "url": "http://zet-net-01.cdn.eurozet.pl:8400/",
         "favicon": "https://img.logo.dev/radiozet.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio",
-        "url": "https://c16.radioboss.fm:18014/stream",
-        "favicon": "https://img.logo.dev/teoriachaosu.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 1.7",
@@ -1645,29 +1645,9 @@
         "favicon": "https://img.logo.dev/radioalex.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO ALEX/RMF ON",
-        "url": "http://195.150.20.7/radio_alex",
-        "favicon": "https://img.logo.dev/rmf.on?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Andrychow",
         "url": "https://s1.slotex.pl:7424/stream/1/?sid=1",
         "favicon": "https://img.logo.dev/radioandrychow.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Anime24",
-        "url": "http://91.232.4.33:7028/;",
-        "favicon": "https://img.logo.dev/radioanime24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Aniołek",
-        "url": "http://stream.zeno.fm/nvz73r6m7yzuv",
-        "favicon": "https://img.logo.dev/polmaxfm.ga?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Arkadia",
-        "url": "https://s1.slotex.pl/shoutcast/7238/stream",
-        "favicon": "https://img.logo.dev/radioarkadia.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Armageddon",
@@ -1678,21 +1658,6 @@
         "name": "Radio Asymetria",
         "url": "https://evcast.mediacp.eu:1290/",
         "favicon": "https://img.logo.dev/radioasymetria.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bahary",
-        "url": "https://s1.slotex.pl/shoutcast/7838/stream",
-        "favicon": "https://img.logo.dev/radiobahary.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Baobab",
-        "url": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3",
-        "favicon": "https://img.logo.dev/radiobaobab.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Baobab",
-        "url": "http://stream.radiobaobab.pl:8000/radiobaobab.ogg",
-        "favicon": "https://img.logo.dev/radiobaobab.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO BEZPIECZNA PODRÓŻ",
@@ -1713,11 +1678,6 @@
         "name": "Radio Borowiaczek",
         "url": "http://s3.slotex.pl:7228/stream",
         "favicon": "https://img.logo.dev/radioborowiaczek.panelradiowy.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Bunt",
-        "url": "https://cast6.asurahosting.com/proxy/radiobun/status-json.xsl",
-        "favicon": "https://img.logo.dev/radiobunt.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio CCM",
@@ -1746,7 +1706,7 @@
     },
     {
         "name": "Radio Chrześcijanin",
-        "url": "http://s1.slotex.pl:7002/mountpoint",
+        "url": "https://stream20.hosterion.pl:8588/mountpoint",
         "favicon": "https://img.logo.dev/radiochrzescijanin.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1785,21 +1745,6 @@
         "favicon": "https://img.logo.dev/radiodanielka.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio DHT (kanał drugi)",
-        "url": "http://maggie.torontocast.com:8100/stream/3/",
-        "favicon": "https://img.logo.dev/radiodht.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio DHT (kanał główny)",
-        "url": "https://radiodht.com/stream_main/",
-        "favicon": "https://img.logo.dev/radiodht.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio DHT (Pepis)",
-        "url": "https://radiodht.com/stream_pepis/",
-        "favicon": "https://img.logo.dev/radiodht.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Dimash",
         "url": "http://29327.live.streamtheworld.com/SAM02AAC364_SC",
         "favicon": "https://img.logo.dev/radiodimash.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1835,11 +1780,6 @@
         "favicon": "https://img.logo.dev/doxa.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Duch",
-        "url": "https://s1.slotex.pl/shoutcast/7174/stream",
-        "favicon": "https://img.logo.dev/radioduch.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Dwójka (AAC)",
         "url": "http://mp3.polskieradio.pl:8952/",
         "favicon": "https://img.logo.dev/polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1850,49 +1790,9 @@
         "favicon": "https://img.logo.dev/polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Dźwięk",
-        "url": "https://streamhls.radiodzwiek.slask.pl/dzwiek",
-        "favicon": "https://img.logo.dev/radiodzwiek.slask.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dźwięk",
-        "url": "https://streamhls.radiodzwiek.slask.pl/dzwiek",
-        "favicon": "https://img.logo.dev/radiodzwiek.slask.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dzwiek",
-        "url": "https://streamhls.radiodzwiek.slask.pl/dzwiek",
-        "favicon": "https://img.logo.dev/radiodzwiek.slask.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dzwiek",
-        "url": "https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3",
-        "favicon": "https://img.logo.dev/radiodzwiek.slask.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Dzwiek",
         "url": "http://s3.slotex.pl:7408/;",
         "favicon": "https://img.logo.dev/radiodzwiek.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dzwiek",
-        "url": "https://streamhls.radiodzwiek.slask.pl/dzwiek128",
-        "favicon": "https://img.logo.dev/radiodzwiek.slask.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dzwiek",
-        "url": "https://streamhls.radiodzwiek.slask.pl/dzwiek64",
-        "favicon": "https://img.logo.dev/radiodzwiek.slask.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dzwiek",
-        "url": "https://streamhls.radiodzwiek.slask.pl/dzwiek/hls.m3u8",
-        "favicon": "https://img.logo.dev/radiodzwiek.slask.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Elbląg",
-        "url": "https://rostr1.radioolsztyn.pl:8543/ELBLAG",
-        "favicon": "https://img.logo.dev/polskieradioelblag.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Elbląg",
@@ -2111,6 +2011,21 @@
     },
     {
         "name": "Radio Eska Warszawa",
+        "url": "https://go-audio.toya.net.pl/63222",
+        "favicon": "https://img.logo.dev/warszawa.eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Eska Warszawa",
+        "url": "http://ic2.smcdn.pl/2980-1.mp3",
+        "favicon": "https://img.logo.dev/warszawa.eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Eska Warszawa",
+        "url": "http://waw.ic.smcdn.pl/2980-1.mp3",
+        "favicon": "https://img.logo.dev/warszawa.eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Eska Warszawa",
         "url": "http://waw.ic.smcdn.pl/2380-1.mp3",
         "favicon": "https://img.logo.dev/eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -2118,6 +2033,11 @@
         "name": "Radio Eska Warszawa",
         "url": "https://waw.ic.smcdn.pl/2380-1.mp3",
         "favicon": "https://img.logo.dev/eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Eska Warszawa (64kbps + metadata)",
+        "url": "https://go-audio.toya.net.pl/63222",
+        "favicon": "https://img.logo.dev/warszawa.eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Eska Wrocław",
@@ -2133,6 +2053,11 @@
         "name": "Radio Eska Zamość",
         "url": "https://radio.stream.smcdn.pl/timeradio-p/2230-1.aac/playlist.m3u8",
         "favicon": "https://img.logo.dev/eska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Express",
+        "url": "https://stream.rcs.revma.com/yx6cub73kwzuv",
+        "favicon": "https://img.logo.dev/radioexpress.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio FAMA",
@@ -2300,11 +2225,6 @@
         "favicon": "https://img.logo.dev/radioguardian.panelradiowy.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Horyzont",
-        "url": "http://s1.slotex.pl:7328/",
-        "favicon": "https://img.logo.dev/radiohoryzont.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio I",
         "url": "https://ice2.radioi.pl:8443/stream",
         "favicon": "https://img.logo.dev/radioi.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2345,16 +2265,6 @@
         "favicon": "https://img.logo.dev/radioitalo4you.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio JARD",
-        "url": "http://online.jard.pl:8744/jard1",
-        "favicon": "https://img.logo.dev/radio.jard.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Jard",
-        "url": "http://online.jard.pl:8744/jard1",
-        "favicon": "https://img.logo.dev/radio.jard.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Jasna Gora",
         "url": "http://online.radiojasnagora.pl:8000/rjg",
         "favicon": "https://img.logo.dev/radiojasnagora.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2368,11 +2278,6 @@
         "name": "Radio Jedynka",
         "url": "http://mp3.polskieradio.pl:8950/",
         "favicon": "https://img.logo.dev/polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Jutrzenka",
-        "url": "http://sluchaj.radiojutrzenka.waw.pl:12854/test",
-        "favicon": "https://img.logo.dev/radiojutrzenka.waw.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Kampus",
@@ -2398,11 +2303,6 @@
         "name": "Radio Kapitał",
         "url": "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a",
         "favicon": "https://img.logo.dev/radiokapital.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Karolinka",
-        "url": "http://91.232.4.33:8358/stream",
-        "favicon": "https://img.logo.dev/radiokarolinka.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Kaszëbë",
@@ -2565,6 +2465,11 @@
         "favicon": "https://img.logo.dev/radiomagicdance.panelradiowy.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio MagMa",
+        "url": "https://s3.slotex.pl:7180/stream",
+        "favicon": "https://img.logo.dev/s3.slotex.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Malbork",
         "url": "http://stream3.nadaje.com:9022/",
         "favicon": "https://img.logo.dev/radiomalbork.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2588,11 +2493,6 @@
         "name": "Radio Maryja",
         "url": "http://51.68.135.155/stream",
         "favicon": "https://img.logo.dev/radiomaryja.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Max Hit Polska",
-        "url": "http://s3.slotex.pl:7370/stream",
-        "favicon": "https://img.logo.dev/radiomaxhitpolska1.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Mbox",
@@ -2625,11 +2525,6 @@
         "favicon": "https://img.logo.dev/streamurl.link?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Melody Express",
-        "url": "https://s1.slotex.pl/shoutcast/7588/stream",
-        "favicon": "https://img.logo.dev/radiomelodyexpress.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Miłosierdzie",
         "url": "https://eu1.fastcast4u.com/proxy/milosierdzie?mp=/1",
         "favicon": "https://img.logo.dev/misericordia.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2660,19 +2555,9 @@
         "favicon": "https://img.logo.dev/radiomirage.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Misiek",
-        "url": "http://stream.zeno.fm/5hfdntgf8yzuv",
-        "favicon": "https://img.logo.dev/polmaxfm.ga?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio MIX",
         "url": "https://radiozender.mpbnetwerken.nl/radiomix.mp3",
         "favicon": "https://img.logo.dev/radiozender.mpbnetwerken.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio MIX",
-        "url": "https://radiozender.mpbnetwerken.nl/radiomix.mp3",
-        "favicon": "https://img.logo.dev/radiomixchannel.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Moni Raj",
@@ -2690,9 +2575,9 @@
         "favicon": "https://img.logo.dev/radiomragowo.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Muzyka Dwoch Serc",
-        "url": "http://s3.slotex.pl:7272/stream",
-        "favicon": "https://img.logo.dev/radiomuzykadwochserc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Muzyczny Zakątek",
+        "url": "http://s3.slotex.pl:7336/stream",
+        "favicon": "https://img.logo.dev/s3.slotex.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Na Stoku",
@@ -2778,6 +2663,16 @@
         "name": "Radio OIOM",
         "url": "http://s3.slotex.pl:7240/stream",
         "favicon": "https://img.logo.dev/fotomagik.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio OIOM",
+        "url": "https://azura2.radio-oiom.eu/listen/radio_oiom/radio.aac",
+        "favicon": "https://img.logo.dev/radio-oiom.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Oko",
+        "url": "https://stream3.nadaje.com:8029/radiooko",
+        "favicon": "https://img.logo.dev/radiooko.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Olsztyn",
@@ -2915,21 +2810,6 @@
         "favicon": "https://img.logo.dev/radiopiekary.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Pielgrzym - pieśni po polsku",
-        "url": "http://shoutcast.com.pl:9444/",
-        "favicon": "https://img.logo.dev/radiopielgrzym.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Pielgrzym English",
-        "url": "http://shoutcast.com.pl:9448/",
-        "favicon": "https://img.logo.dev/radiopielgrzym.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Pielgrzym Kazania",
-        "url": "http://radiointernetowe.net:9450/",
-        "favicon": "https://img.logo.dev/radiopielgrzym.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio PiK",
         "url": "http://stream.radiopik.pl:9004/",
         "favicon": "https://img.logo.dev/radiopik.bydgoszcz.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2938,16 +2818,16 @@
         "name": "Radio PiK",
         "url": "http://stream.radiopik.pl:9004/",
         "favicon": "https://img.logo.dev/radiopik.bydgoszcz.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radio plus",
+        "url": "http://plus-warszawa-01.eurozet.pl:8500/listen.pls",
+        "favicon": "https://img.logo.dev/plus-warszawa-01.eurozet.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Plus",
         "url": "http://waw.ic.smcdn.pl/4990-1.aac",
         "favicon": "https://img.logo.dev/radioplus.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO PLUS",
-        "url": "http://ic1.smcdn.pl/4990-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Plus",
@@ -2993,6 +2873,11 @@
         "name": "Radio Płońsk",
         "url": "http://stream.radioplonsk.pl:9360/",
         "favicon": "https://img.logo.dev/radioplonsk.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Podlasie 2",
+        "url": "https://s3.slotex.pl:7438/stream/1/",
+        "favicon": "https://img.logo.dev/radiopodlasie2019.panelradiowy.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Pogoda",
@@ -3125,11 +3010,6 @@
         "favicon": "https://img.logo.dev/radiorekord.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Relax",
-        "url": "http://s1.slotex.pl:7614/stream",
-        "favicon": "https://img.logo.dev/radio-relax.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Republika",
         "url": "https://ssl-1.radiotvrepublika.pl:12698/stream",
         "favicon": "https://img.logo.dev/radiotvrepublika.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3141,12 +3021,17 @@
     },
     {
         "name": "Radio RMF",
+        "url": "http://195.150.20.7/rmf_fm",
+        "favicon": "https://img.logo.dev/radio-polska.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio RMF",
         "url": "https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY?listenerid=22faa5bd029362874d207dd68f5e4954&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.skey=1649088434&aw_0_req.gdpr=false&aw_0_req.userConsentV2=CPW7rKhPW7rKhFKACAPLCHCgAAAAAEPAAB5YAAARTAJMNS8gC7EscGRaNKoUQIwrCQqgUAFFAMLREYAODgp2VgEuoAWACAVARgRAgxBRgwCAAQCAJCIgJACwQCIAiAAAAgARgIQAETAILACwMAgAFANCxACgAECQgyOCo5TAgIkWiglsrEEoK9hTCAMssAKBRGRUACJAgAWBkJCwcxwBICXCyQJMELxACMAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio RMF Classic",
-        "url": "https://rs101-krk.rmfstream.pl/rmf_classic",
+        "url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_classic",
         "favicon": "https://img.logo.dev/rmfclassic.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3156,7 +3041,7 @@
     },
     {
         "name": "Radio RMF FM",
-        "url": "https://rs201-krk.rmfstream.pl/rmf_fm",
+        "url": "https://rs203-krk-cyfronet.rmfstream.pl/rmf_fm",
         "favicon": "https://img.logo.dev/rmf.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3215,9 +3100,9 @@
         "favicon": "https://img.logo.dev/radio.rozaniec.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO RTO TRANCE",
-        "url": "http://s3.slotex.pl:7056/",
-        "favicon": "https://img.logo.dev/rtotrance.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio RSC",
+        "url": "https://stream.rcs.revma.com/94fud6a6z72vv",
+        "favicon": "https://img.logo.dev/radiorsc.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Rzeszów",
@@ -3228,21 +3113,6 @@
         "name": "Radio Rzeszów",
         "url": "https://streaming.g-news.pl:8040/rzeszow",
         "favicon": "https://img.logo.dev/radio.rzeszow.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Safira",
-        "url": "http://stream12.hosterion.pl/stream/safira",
-        "favicon": "https://img.logo.dev/radiosafira.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Safira",
-        "url": "https://stream12.hosterion.pl/stream/safira",
-        "favicon": "https://img.logo.dev/radiosafira.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Safira Kanoe",
-        "url": "http://stream.zeno.fm/fxvq8uqcvuhvv",
-        "favicon": "https://img.logo.dev/radiosafira.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio SAR - Studencka Agencja Radiowa",
@@ -3325,6 +3195,16 @@
         "favicon": "https://img.logo.dev/spioch.cba.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Stacja Impreza",
+        "url": "https://stacjaimpreza.katowice.pl:8002/stream",
+        "favicon": "https://img.logo.dev/stacjaimpreza.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Stanisławów",
+        "url": "https://stream.radiostanislawow.org/stream",
+        "favicon": "https://img.logo.dev/radiostanislawow.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Stargard 90,3 FM - Twoje pierwsze radio",
         "url": "http://51.77.59.65:8100/stream.mp3",
         "favicon": "https://img.logo.dev/twojeradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3353,6 +3233,16 @@
         "name": "Radio Strefa Muzy",
         "url": "https://radiosm.pl:8000/radio.mp3",
         "favicon": "https://img.logo.dev/radiostrefamuzy.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Strefa Zero",
+        "url": "https://a7.asurahosting.com/listen/radio_strefa_0_/radio.mp3",
+        "favicon": "https://img.logo.dev/a7.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Strefa Zero",
+        "url": "https://a7.asurahosting.com/listen/radio_strefa_0_/radio.mp3",
+        "favicon": "https://img.logo.dev/a7.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Styl FM",
@@ -3385,11 +3275,6 @@
         "favicon": "https://img.logo.dev/radioswinoujscie.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Synteza",
-        "url": "https://stream.radio-synteza.pl/synteza",
-        "favicon": "https://img.logo.dev/radio-synteza.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Szczecin (128K MP3)",
         "url": "http://stream4.nadaje.com:11986/prs",
         "favicon": "https://img.logo.dev/radioszczecin.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3420,6 +3305,11 @@
         "favicon": "https://img.logo.dev/radiotczew.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio ThomCarst",
+        "url": "http://s3.slotex.pl:7248/stream",
+        "favicon": "https://img.logo.dev/s3.slotex.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO TON PL",
         "url": "http://s1.slotex.pl:7310/;",
         "favicon": "https://img.logo.dev/radioton.com.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3440,6 +3330,16 @@
         "favicon": "https://img.logo.dev/radiotpi.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "radio trojka",
+        "url": "http://stream3.polskieradio.pl:8954/;.mp3",
+        "favicon": "https://img.logo.dev/stream3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Trojka 3",
+        "url": "http://stream3.polskieradio.pl:8954/;.mp3",
+        "favicon": "https://img.logo.dev/stream3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio UAP",
         "url": "https://radiouap.radiocult.fm/stream",
         "favicon": "https://img.logo.dev/radio.uap.edu.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3448,11 +3348,6 @@
         "name": "Radio Underground",
         "url": "http://s1.slotex.pl:7604/",
         "favicon": "https://img.logo.dev/radiounderground.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Uniwersytet",
-        "url": "https://www.radiouniwersytet.pl/ru192.mp3",
-        "favicon": "https://img.logo.dev/radiouniwersytet.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio UWM FM",
@@ -3535,19 +3430,29 @@
         "favicon": "https://img.logo.dev/radiowroclawkultura.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Yanosik",
+        "url": "https://stream.rcs.revma.com/7vhveccrnquvv",
+        "favicon": "https://img.logo.dev/radioyanosik.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Yanosik",
+        "url": "https://n02-eu.rcs.revma.com/7vhveccrnquvv/2_1gqj78pin65i002/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radioyanosik.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Zachód (AAC)",
         "url": "http://stream02.zachod.pl:10113/",
         "favicon": "https://img.logo.dev/zachod.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Żak",
+        "url": "https://www.zak.lodz.pl/player",
+        "favicon": "https://img.logo.dev/zak.lodz.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO ZAWIERCIE",
         "url": "https://ssl-1.radiohost.pl:9078/live",
         "favicon": "https://img.logo.dev/radiozawiercie.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio ZET",
-        "url": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
-        "favicon": "https://img.logo.dev/r.dcs.redcdn.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Zet",
@@ -3595,14 +3500,14 @@
         "favicon": "https://img.logo.dev/player.radiozet.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Zlote Przeboje Wroclaw",
-        "url": "https://radiostream.pl/tuba8940-1.mp3",
-        "favicon": "https://img.logo.dev/zloteprzeboje.tuba.p?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Ziemi Wieluńskiej",
+        "url": "http://stream2.nadaje.com:8022/;stream",
+        "favicon": "https://img.logo.dev/radiozw.com.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "radio złote przeboje",
-        "url": "http://radiostream.pl/tuba8928-1.mp3",
-        "favicon": "https://img.logo.dev/radiostream.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Złote Przeboje",
+        "url": "https://radiostream.pl/tuba8904-1.mp3",
+        "favicon": "https://img.logo.dev/radio.zloteprzeboje.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Złote Przeboje - Bieszczady",
@@ -3618,11 +3523,6 @@
         "name": "Radio Złote Przeboje Wrocław",
         "url": "https://radiostream.pl/tuba9-1.mp3",
         "favicon": "https://img.logo.dev/zloteprzeboje.tuba.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Zmysłowe",
-        "url": "https://s3.slotex.pl/shoutcast/7166/stream?sid=1",
-        "favicon": "https://img.logo.dev/zmyslowe.com.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Znin FM",
@@ -3648,6 +3548,11 @@
         "name": "Radio Żuławy",
         "url": "https://stream.radiojar.com/q87xmtvrrg8uv",
         "favicon": "https://img.logo.dev/radiozulawy.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio ZW",
+        "url": "http://stream2.nadaje.com:8022/;stream",
+        "favicon": "https://img.logo.dev/radiozw.com.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio40plus",
@@ -3805,6 +3710,11 @@
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Reverb Riff Radio",
+        "url": "https://azuracast.reverbriff.com/listen/reverb_riff_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.reverbriff.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RM24.fm (test emision)",
         "url": "https://stream12.hosterion.pl/stream/radiomarconi",
         "favicon": "https://img.logo.dev/rm24.fun?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3846,7 +3756,7 @@
     },
     {
         "name": "RMF 4 Dance & RNB",
-        "url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_4",
+        "url": "https://rs201-krk.rmfstream.pl/rmf_4",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3861,7 +3771,7 @@
     },
     {
         "name": "RMF 5 Lagodne Przeboje",
-        "url": "https://rs102-krk.rmfstream.pl/rmf_5",
+        "url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_5",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3901,7 +3811,7 @@
     },
     {
         "name": "RMF 80s disco",
-        "url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_80s_disco",
+        "url": "https://rs202-krk.rmfstream.pl/rmf_80s_disco",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3926,7 +3836,7 @@
     },
     {
         "name": "RMF 90s dance",
-        "url": "http://195.150.20.3/rmf_90s_dance",
+        "url": "https://rs201-krk.rmfstream.pl/rmf_90s_dance",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3956,7 +3866,7 @@
     },
     {
         "name": "Rmf Ballady",
-        "url": "http://31.192.216.3/rmf_nostalgia",
+        "url": "https://rs203-krk.rmfstream.pl/rmf_nostalgia",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4011,12 +3921,22 @@
     },
     {
         "name": "RMF Chillout",
-        "url": "https://rs201-krk.rmfstream.pl/rmf_chillout",
+        "url": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_chillout",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RMF Chillout + FAKTY",
         "url": "http://31.192.216.8/CHILLOUTF",
+        "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RMF Chopin (64 kbps, playlista + FAKTY)",
+        "url": "http://31.192.216.8/CHOPINF",
+        "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RMF Chopin + FAKTY",
+        "url": "http://31.192.216.8/CHOPINF",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4076,7 +3996,7 @@
     },
     {
         "name": "RMF Dance",
-        "url": "https://rs203-krk.rmfstream.pl/rmf_dance",
+        "url": "https://rs203-krk-cyfronet.rmfstream.pl/rmf_dance",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4106,7 +4026,7 @@
     },
     {
         "name": "RMF Disco polo",
-        "url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_disco_polo",
+        "url": "https://rs102-krk.rmfstream.pl/rmf_disco_polo",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4206,7 +4126,7 @@
     },
     {
         "name": "RMF Gold",
-        "url": "http://195.150.20.3/rmf_gold",
+        "url": "https://rs102-krk.rmfstream.pl/rmf_gold",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4286,7 +4206,7 @@
     },
     {
         "name": "RMF Latino",
-        "url": "https://rs202-krk.rmfstream.pl/rmf_latino",
+        "url": "http://195.150.20.4/rmf_latino",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4341,7 +4261,7 @@
     },
     {
         "name": "RMF Maxx Włocławek",
-        "url": "https://rs101-krk.rmfstream.pl/rmf_maxxx_wlc",
+        "url": "http://195.150.20.3/rmf_maxxx_wlc",
         "favicon": "https://img.logo.dev/rmfmaxx.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4376,7 +4296,7 @@
     },
     {
         "name": "RMF MAXXX Mazowsze",
-        "url": "https://rs201-krk-cyfronet.rmfstream.pl/rmf_maxxx_cie",
+        "url": "https://rs202-krk.rmfstream.pl/rmf_maxxx_cie",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4396,17 +4316,17 @@
     },
     {
         "name": "RMF Muzyka Klasyczna",
-        "url": "http://195.150.20.5/rmf_muzyka_klasyczna",
+        "url": "https://rs203-krk.rmfstream.pl/rmf_muzyka_klasyczna",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RMF Muzyka_Filmowa",
-        "url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_muzyka_filmowa",
+        "url": "https://rs102-krk.rmfstream.pl/rmf_muzyka_filmowa",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RMF Najwieksze Polskie Przeboje",
-        "url": "http://195.150.20.5/npp_rmf_on",
+        "url": "https://rs101-krk-cyfronet.rmfstream.pl/npp_rmf_on",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4426,7 +4346,7 @@
     },
     {
         "name": "RMF Party",
-        "url": "https://rs101-krk.rmfstream.pl/rmf_party",
+        "url": "https://rs102-krk.rmfstream.pl/rmf_party",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4436,7 +4356,7 @@
     },
     {
         "name": "RMF Piosenka Filmowa",
-        "url": "http://195.150.20.244/rmf_piosenka_filmowa",
+        "url": "https://rs103-krk.rmfstream.pl/rmf_piosenka_filmowa",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4446,7 +4366,7 @@
     },
     {
         "name": "RMF Piosenka literacka",
-        "url": "https://rs203-krk.rmfstream.pl/rmf_piosenka_literacka",
+        "url": "https://rs102-krk-cyfronet.rmfstream.pl/rmf_piosenka_literacka",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4461,7 +4381,7 @@
     },
     {
         "name": "RMF Pobudka",
-        "url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_pobudka",
+        "url": "http://195.150.20.3/rmf_pobudka",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4471,7 +4391,7 @@
     },
     {
         "name": "RMF Polska prywatka",
-        "url": "https://rs102-krk.rmfstream.pl/rmf_polska_prywatka",
+        "url": "https://rs201-krk.rmfstream.pl/rmf_polska_prywatka",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4541,7 +4461,7 @@
     },
     {
         "name": "RMF Relaks",
-        "url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_relaks",
+        "url": "https://rs103-krk.rmfstream.pl/rmf_relaks",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4591,7 +4511,7 @@
     },
     {
         "name": "RMF Smooth jazz",
-        "url": "https://rs103-krk.rmfstream.pl/rmf_smooth_jazz",
+        "url": "https://rs102-krk.rmfstream.pl/rmf_smooth_jazz",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4611,7 +4531,7 @@
     },
     {
         "name": "RMF Styl",
-        "url": "http://31.192.216.3/rmf_styl",
+        "url": "https://rs101-krk.rmfstream.pl/rmf_styl",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4636,7 +4556,7 @@
     },
     {
         "name": "Rmf Szanty",
-        "url": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_szanty",
+        "url": "http://195.150.20.244/rmf_szanty",
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4721,7 +4641,7 @@
     },
     {
         "name": "RMFmaxx",
-        "url": "https://rs203-krk-cyfronet.rmfstream.pl/rmf_maxxx",
+        "url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_maxxx",
         "favicon": "https://img.logo.dev/rmfmaxx.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4765,19 +4685,9 @@
         "favicon": "https://img.logo.dev/rockradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RockSerwis",
-        "url": "http://stream9.nadaje.com:8002/live",
-        "favicon": "https://img.logo.dev/rockserwis.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rockserwis.fm",
-        "url": "http://stream9.nadaje.com:8002/live",
-        "favicon": "https://img.logo.dev/rockserwis.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "rockserwis.fm (ACC+)",
-        "url": "http://stream9.nadaje.com:8002/live.aac",
-        "favicon": "https://img.logo.dev/rockserwis.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "SHIP FM",
+        "url": "https://stream.shipfm.online/radio.mp3",
+        "favicon": "https://img.logo.dev/shipfm.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sizeer",
@@ -4785,19 +4695,14 @@
         "favicon": "https://img.logo.dev/rmfon.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Slaske Radio",
+        "url": "https://www.slaskieradio.com/",
+        "favicon": "https://img.logo.dev/slaskieradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Śląskie Radio",
         "url": "https://stream10.hosterion.pl:7032/;?v=63125/;type=mp3",
         "favicon": "https://img.logo.dev/slaskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Slonskie Radio Hitmix",
-        "url": "https://s1.slotex.pl:7294/stream/1/",
-        "favicon": "https://img.logo.dev/slonskieradiohitmix.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Slonskie Radio Hitmix",
-        "url": "http://s1.slotex.pl:7294/",
-        "favicon": "https://img.logo.dev/slonskieradiohitmix.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SmoothJazz.com.pl",
@@ -4830,11 +4735,6 @@
         "favicon": "https://img.logo.dev/cinemamovies.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Spoko stacja",
-        "url": "https://trojka.polskieradio.pl/?RadioPoland",
-        "favicon": "https://img.logo.dev/trojka.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Strefa FM",
         "url": "http://play.strefa.fm:8000/strefa.mp3",
         "favicon": "https://img.logo.dev/strefa.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4846,6 +4746,11 @@
     },
     {
         "name": "Studenckie Radio ZAK",
+        "url": "http://lodz.radio.pionier.net.pl:8000/radiozak.ogg",
+        "favicon": "https://img.logo.dev/zak.lodz.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Studenckie Radio Żak Politechniki Łódzkiej",
         "url": "http://lodz.radio.pionier.net.pl:8000/radiozak.ogg",
         "favicon": "https://img.logo.dev/zak.lodz.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -4863,11 +4768,6 @@
         "name": "Super FM 97.5",
         "url": "https://stream.super.fm:8443/superfm.mp3?1697692156303",
         "favicon": "https://img.logo.dev/super.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SUPER NOWA RZESZÓW",
-        "url": "http://ic1.smcdn.pl/1240-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "supernova",
@@ -4918,11 +4818,6 @@
         "name": "supernovawielkopolska",
         "url": "http://ic1.smcdn.pl/1530-1.mp3",
         "favicon": "https://img.logo.dev/supernova.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SuperOrbita",
-        "url": "https://s1.slotex.pl/shoutcast/7086/stream",
-        "favicon": "https://img.logo.dev/superorbita.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tail FM",
@@ -4990,36 +4885,6 @@
         "favicon": "https://img.logo.dev/tokfm.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Toksyna FM",
-        "url": "http://s01.toksyna.fm:8000/",
-        "favicon": "https://img.logo.dev/toksyna.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Toksyna FM Chillout & More",
-        "url": "http://s01.toksyna.fm:8050/",
-        "favicon": "https://img.logo.dev/toksyna.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Toksyna FM DJ Channel",
-        "url": "http://s01.toksyna.fm:8040/",
-        "favicon": "https://img.logo.dev/toksyna.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Toksyna FM Elektronica",
-        "url": "http://s01.toksyna.fm:8010/",
-        "favicon": "https://img.logo.dev/toksyna.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Toksyna FM New Romantic",
-        "url": "http://s01.toksyna.fm:8020/",
-        "favicon": "https://img.logo.dev/toksyna.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Toksyna FM PsyTrance",
-        "url": "http://s01.toksyna.fm:8030/",
-        "favicon": "https://img.logo.dev/toksyna.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "top80.pl",
         "url": "https://top80.pl:8000/listen.mp3",
         "favicon": "https://img.logo.dev/top80.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5070,6 +4935,16 @@
         "favicon": "https://img.logo.dev/tripradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Trójka",
+        "url": "http://mp3.polskieradio.pl:8904/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Trójka",
+        "url": "http://mp3.polskieradio.pl:8904/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Trojka",
         "url": "http://stream3.polskieradio.pl:8904/",
         "favicon": "https://img.logo.dev/moje.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5078,6 +4953,21 @@
         "name": "Trójka 3 i 3",
         "url": "http://stream3.polskieradio.pl:8904/",
         "favicon": "https://img.logo.dev/trojka.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Trójka mp3",
+        "url": "http://mp3.polskieradio.pl:8904/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TUROWSKY RADIO",
+        "url": "https://stream.turowsky.com/studio.mp3",
+        "favicon": "https://img.logo.dev/radio.turowsky.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Twoja Polska Stacja",
+        "url": "https://sluchaj2.radiopark.biz.pl:8443/tpsapp",
+        "favicon": "https://img.logo.dev/twojapolskastacja.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Twoje Radio Szczecin",
@@ -5092,7 +4982,7 @@
     {
         "name": "TyfloRadio",
         "url": "https://radio.tyflopodcast.net/",
-        "favicon": "https://img.logo.dev/tyflopodcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radio.tyflopodcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "U-RADIO TRANCE",
@@ -5126,7 +5016,7 @@
     },
     {
         "name": "VOX FM",
-        "url": "http://ic2.smcdn.pl/3990-1.mp3",
+        "url": "http://ic1.smcdn.pl/3990-1.mp3",
         "favicon": "https://img.logo.dev/voxfm.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -5141,33 +5031,13 @@
     },
     {
         "name": "VOX FM BEST LISTA",
-        "url": "http://ic1.smcdn.pl/6100-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VOX FM BEST LISTA",
         "url": "https://ic1.smcdn.pl/6100-1.mp3",
         "favicon": "https://img.logo.dev/voxfm.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOX FM DISCO 90",
         "url": "http://ic1.smcdn.pl/6170-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VOX FM DISCO 90",
-        "url": "http://ic1.smcdn.pl/6170-1.mp3",
         "favicon": "https://img.logo.dev/player.voxfm.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VOX FM DISCO PARTY",
-        "url": "http://ic1.smcdn.pl/6180-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "VOX FM HIT 22",
-        "url": "http://ic1.smcdn.pl/6020-1.mp3",
-        "favicon": "https://img.logo.dev/supernowa.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOX FM Polska",
@@ -5198,6 +5068,11 @@
         "name": "Wesołe Slonzoki",
         "url": "http://51.255.8.139:8380/stream",
         "favicon": "https://img.logo.dev/wesole-slonzoki.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wieczor-odkrywcow",
+        "url": "http://mp3.polskieradio.pl:8102/",
+        "favicon": "https://img.logo.dev/mp3.polskieradio.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WIELKOPOLSKA",

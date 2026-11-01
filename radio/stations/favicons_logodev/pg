@@ -1,13 +1,13 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "LegendFM 101.1",
         "url": "https://27163.live.streamtheworld.com/PNGLEGENDFM.mp3",
         "favicon": "https://img.logo.dev/legendfm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nau FM",
+        "url": "https://stream.rcs.revma.com/ae7zr39kmbpwv",
+        "favicon": "https://img.logo.dev/yumifm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NauFM",
@@ -23,5 +23,20 @@
         "name": "Radio Bantaba",
         "url": "https://radio.streemlion.com/radiobantaba",
         "favicon": "https://img.logo.dev/radiobantaba.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yumi FM",
+        "url": "https://stream.rcs.revma.com/n5vb288kmbpwv",
+        "favicon": "https://img.logo.dev/yumifm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yumi FM",
+        "url": "https://stream.rcs.revma.com/n5vb288kmbpwv",
+        "favicon": "https://img.logo.dev/yumifm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YumiFM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFM.mp3",
+        "favicon": "https://img.logo.dev/yumifm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

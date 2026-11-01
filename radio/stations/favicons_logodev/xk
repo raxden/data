@@ -20,11 +20,6 @@
         "favicon": "https://img.logo.dev/dukagjini.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio K4 Shqip",
-        "url": "http://fm.radiokfor.com:8080/;",
-        "favicon": "https://img.logo.dev/radiokfor.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Kosova 1",
         "url": "http://82.114.72.2:8088/",
         "favicon": "https://img.logo.dev/rtklive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -50,9 +45,9 @@
         "favicon": "https://img.logo.dev/radioplus.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Zëri i Shtimes",
-        "url": "http://radio.1dhe1.com:8090/stream",
-        "favicon": "https://img.logo.dev/radiozeri.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radyo Hisar",
+        "url": "https://a8.asurahosting.com:6920/radio.mp3",
+        "favicon": "https://img.logo.dev/radyohisar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RTK Radio Kosova 1",

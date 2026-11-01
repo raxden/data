@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/liveonlineradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AL-QURAN BANGLA",
         "url": "http://66.45.232.131:9994/;stream/1/;",
         "favicon": "https://img.logo.dev/liveonlineradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -60,11 +55,6 @@
         "favicon": "https://img.logo.dev/mellowbangla.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Muhammad Siddiq al-Minshawi",
-        "url": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Peoples Radio",
         "url": "https://s3.myradiostream.com:14498/listen.mp3",
         "favicon": "https://img.logo.dev/peoplesradioltd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -73,6 +63,16 @@
         "name": "Radio Bhumi",
         "url": "https://stream-156.zeno.fm/be5bqmk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTVicW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB1c0x1ZURGVEhTR0EwSDE1N2VBVmciLCJpYXQiOjE3MzU0NTM5MjQsImV4cCI6MTczNTQ1Mzk4NH0.vjlgqsHzQRt-_2T0LIHscJkAVHXd8hYV8Z6NDvvEWYk",
         "favicon": "https://img.logo.dev/radiobhumi.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Din Raat 93.6 FM",
+        "url": "https://mtv.sunplex.live/Radio-dinraat/tracks-a1/mono.m3u8",
+        "favicon": "https://img.logo.dev/radiodinraat.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Foorti",
+        "url": "https://radiofoorti.fm/api/stream",
+        "favicon": "https://img.logo.dev/radiofoorti.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio GoonGoon",
@@ -85,14 +85,9 @@
         "favicon": "https://img.logo.dev/radioshadhin.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Ullash",
-        "url": "http://stream.zeno.fm/gpgkgp9mp18uv.mp3",
-        "favicon": "https://img.logo.dev/radioullash.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Vivid Voice",
-        "url": "https://stream.zeno.fm/xuin6ocdc2juv",
-        "favicon": "https://img.logo.dev/radiovv.wapka.club?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Today",
+        "url": "https://stream-285.surfernetwork.com/8wv4d8g4344tv",
+        "favicon": "https://img.logo.dev/radiotodaybd.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rajshahi FM",
@@ -102,7 +97,22 @@
     {
         "name": "S-Radio",
         "url": "https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream",
-        "favicon": "https://img.logo.dev/shibirradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/as1.digitalsynapsebd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Spice FM",
+        "url": "https://stream.spicefmbd.com/stream.m3u8",
+        "favicon": "https://img.logo.dev/spicefmbd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Spice FM",
+        "url": "https://stream.spicefmbd.com/stream.m3u8",
+        "favicon": "https://img.logo.dev/spicefmbd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal Health Radio (বাংলা)",
+        "url": "https://radio.universalhealthradio.org/uhr-bn.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "বাংলাদেশ বেতার ঢাকা ক",

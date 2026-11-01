@@ -10,11 +10,6 @@
         "favicon": "https://img.logo.dev/sunshinefm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AdventNet rádió",
         "url": "https://radio.adventnet.hu:8443/stream",
         "favicon": "https://img.logo.dev/radio.adventnet.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -148,6 +143,11 @@
         "name": "Buddha FM",
         "url": "http://libretime.buddhafm.hu:4000/buddhafm",
         "favicon": "https://img.logo.dev/buddhafm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Callisto Radio",
+        "url": "http://adas.poptarisznya.hu:4500/live.mp3",
+        "favicon": "https://img.logo.dev/adas.poptarisznya.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Campus Rádió FM90",
@@ -456,11 +456,6 @@
     },
     {
         "name": "Dance Wave!",
-        "url": "https://dancewave.online/dance.flac.ogg",
-        "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Dance Wave!",
         "url": "https://dancewave.online/dance.mp3",
         "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -487,11 +482,6 @@
     {
         "name": "Dance Wave!",
         "url": "https://dancewave.online/dance.ogg",
-        "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Dance Wave!",
-        "url": "https://dancewave.online/dance.flac.ogg",
         "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -553,11 +543,6 @@
         "name": "DFM Rádió",
         "url": "https://s03.diazol.hu:7042/stream",
         "favicon": "https://img.logo.dev/dfmradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "disco diamond 2",
-        "url": "http://discodiamond.radioca.st/stream",
-        "favicon": "https://img.logo.dev/discodiamond.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Disco Diamond Radio",
@@ -905,6 +890,11 @@
         "favicon": "https://img.logo.dev/megadanceradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "MegaLive",
+        "url": "https://mega-live.net:2053/live.mp3",
+        "favicon": "https://img.logo.dev/mega-live.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Mera",
         "url": "https://stream.radio.co/s3fd8d173f/listen",
         "favicon": "https://img.logo.dev/mera.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -938,6 +928,21 @@
         "name": "Mixradio Retró",
         "url": "http://45.67.156.157:18004/retro",
         "favicon": "https://img.logo.dev/mixradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MixradioRetro",
+        "url": "https://stream.phost.hu:8004/retro",
+        "favicon": "https://img.logo.dev/stream.phost.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MixradioRetro",
+        "url": "https://stream.phost.hu:8004/retro",
+        "favicon": "https://img.logo.dev/stream.phost.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MixradioRetro",
+        "url": "https://stream.phost.hu:8004/retro",
+        "favicon": "https://img.logo.dev/stream.phost.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MNEWS Rádió",
@@ -978,6 +983,11 @@
         "name": "MR5 - Parlamenti Adások",
         "url": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
         "favicon": "https://img.logo.dev/mediaklikk.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MR5 - Parlamenti Adások",
+        "url": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
+        "favicon": "https://img.logo.dev/mr-stream.connectmedia.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MR7 - Dankó Rádió",
@@ -1437,12 +1447,22 @@
     {
         "name": "radiocafé - 98",
         "url": "https://radio.radiocafe98.hu/radiocafe98_192k",
-        "favicon": "https://img.logo.dev/radio.radiocafe98.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiocafe98.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiocafe 98 zene",
+        "url": "https://music.radiocafe98.hu/music_radiocafe98_192k.mp3",
+        "favicon": "https://img.logo.dev/radiocafe98.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "radiocafé 98.0",
         "url": "https://radio.radiocafe98.hu/radiocafe98_192k.mp3",
-        "favicon": "https://img.logo.dev/radio.radiocafe98.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiocafe98.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RádióX",
+        "url": "https://stream.phost.hu:8002/stream2",
+        "favicon": "https://img.logo.dev/radiox.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RadiOzora",
@@ -1477,22 +1497,22 @@
     {
         "name": "Rise FM Classic",
         "url": "https://oxygenmusic.hu:8443/RISE_CLASSIC_128",
-        "favicon": "https://img.logo.dev/risefm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/oxygenmusic.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rise FM Deep",
         "url": "https://oxygenmusic.hu:8443/RISE_DEEPHOUSE_128",
-        "favicon": "https://img.logo.dev/risefm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/oxygenmusic.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rise FM Hit House",
         "url": "https://oxygenmusic.hu:8443/RISE_HITHOUSE_128",
-        "favicon": "https://img.logo.dev/risefm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/oxygenmusic.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rise FM R'n'B",
         "url": "https://oxygenmusic.hu:8443/RISE_RNB_128",
-        "favicon": "https://img.logo.dev/risefm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/oxygenmusic.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ROCK FM: 103.9",
@@ -1525,11 +1545,6 @@
         "favicon": "https://img.logo.dev/roxyradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sárvár Rádió",
-        "url": "https://stream.42netmedia.com:8443/sarvar",
-        "favicon": "https://img.logo.dev/sarvarradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Shine FM Radio",
         "url": "https://s01.diazol.hu:10042/stream/;",
         "favicon": "https://img.logo.dev/shinefmradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1540,29 +1555,14 @@
         "favicon": "https://img.logo.dev/slagerfm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sola Rádió",
-        "url": "http://188.165.11.30:7000/live.mp3",
-        "favicon": "https://img.logo.dev/solaradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sola Rádió",
-        "url": "http://188.165.11.30:7000/live.mp3",
-        "favicon": "https://img.logo.dev/solaradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sola Rádió",
-        "url": "https://stream1.virtualisan.net/prx/7000/live.mp3",
-        "favicon": "https://img.logo.dev/solaradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sola Rádió",
-        "url": "http://188.165.11.30:7000/",
-        "favicon": "https://img.logo.dev/solaradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Spirit FM",
         "url": "http://s01.diazol.hu:10050/spweb1.mp3",
         "favicon": "https://img.logo.dev/spiritfm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "StreamX Radio",
+        "url": "https://radio.streamxradio.live/listen/streamx_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/streamxradio.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "StreamX Radio",
@@ -1660,6 +1660,11 @@
         "favicon": "https://img.logo.dev/szunetrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Takk-r",
+        "url": "https://radio.takk-r.com/radio/8000/radio.mp3",
+        "favicon": "https://img.logo.dev/takk-r.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Tamási Radio",
         "url": "https://stream.42netmedia.com:8443/sc_tamas",
         "favicon": "https://img.logo.dev/tamasiradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1668,11 +1673,6 @@
         "name": "Táska Rádió",
         "url": "http://live.taskaradio.com:7070/;stream.nsv#.mp3",
         "favicon": "https://img.logo.dev/taskaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Test Radio Station",
-        "url": "https://videos.prd.dlivecdn.com/dlive/live.m3u8",
-        "favicon": "https://img.logo.dev/videos.prd.dlivecdn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tilos Rádió",
@@ -1720,11 +1720,6 @@
         "favicon": "https://img.logo.dev/trendfm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Trió FM",
-        "url": "http://92.119.123.141:9090/stream",
-        "favicon": "https://img.logo.dev/triofm.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Youventus Rádió",
         "url": "http://s2.audiostream.hu/juventus_192k",
         "favicon": "https://img.logo.dev/youventusradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1748,10 +1743,5 @@
         "name": "Zemplén FM",
         "url": "https://oxygenmusic.hu:8443/zemplen",
         "favicon": "https://img.logo.dev/oxygenmusic.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zugrádió",
-        "url": "http://zuglofm.netregator.hu:7812/zuglofm128.mp3",
-        "favicon": "https://img.logo.dev/zugradio.hu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

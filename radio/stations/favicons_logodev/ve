@@ -1,13 +1,8 @@
 [
     {
-        "name": "LOVE FM: Amor en cada canción / Música Romántica",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "99.9 Festiva FM",
+        "url": "http://cp2.lorini.net:28018/stream",
+        "favicon": "https://img.logo.dev/cp2.lorini.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Acción 104.5 FM (La diferencia en el dial)",
@@ -160,11 +155,6 @@
         "favicon": "https://img.logo.dev/evolussionmultimedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Exa FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Éxitos 90.5 FM - Puerto Ordaz",
         "url": "https://acp4.lorini.net:10109/stream",
         "favicon": "https://img.logo.dev/mundour.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -235,6 +225,11 @@
         "favicon": "https://img.logo.dev/lacima967fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "La Mega 100.9 FM",
+        "url": "http://acp4.lorini.net:10008/stream",
+        "favicon": "https://img.logo.dev/mundour.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "La Mega 102.1",
         "url": "https://es.streema.com/radios/La_Mega_102.1_FM",
         "favicon": "https://img.logo.dev/lamega1021.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -255,8 +250,18 @@
         "favicon": "https://img.logo.dev/mundour.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "LA MEGA 88.9 FM - Puerto Ordaz",
+        "url": "http://acp4.lorini.net:10115/stream",
+        "favicon": "https://img.logo.dev/mundour.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "La Mega 95.7 FM ( Valencia - Venezuela)",
         "url": "http://acp4.lorini.net:15004/stream",
+        "favicon": "https://img.logo.dev/mundour.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LA MEGA 99.7 FM",
+        "url": "http://acp4.lorini.net:30002/stream",
         "favicon": "https://img.logo.dev/mundour.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -303,6 +308,11 @@
         "name": "Magic Radio 92.5 Maracay",
         "url": "https://cloudstream2030.conectarhosting.com/8324/;",
         "favicon": "https://img.logo.dev/magicradiofm.com.ve?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Melao 104.1 FM",
+        "url": "https://cast10.plugstreaming.com:2020/stream/race/",
+        "favicon": "https://img.logo.dev/cast10.plugstreaming.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Melodia Stereo 93.5 FM",
@@ -415,9 +425,14 @@
         "favicon": "https://img.logo.dev/radiodinamica.com.ve?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Folclorllanero",
-        "url": "https://stream.zeno.fm/hcvjvmprjveuv/;type=mp3",
-        "favicon": "https://img.logo.dev/radiofolclorllanero.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Fe y Alegría - Cumaná 92.1FM",
+        "url": "http://aler.org:8000/cumana.aac",
+        "favicon": "https://img.logo.dev/aler.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fe y Alegría - Cumaná 92.1FM",
+        "url": "http://aler.org:8000/cumana.aac",
+        "favicon": "https://img.logo.dev/aler.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio María Venezuela",
@@ -430,34 +445,19 @@
         "favicon": "https://img.logo.dev/radiomiraflores.net.ve?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Mix Retro",
-        "url": "https://streamingned.com:7084/stream",
-        "favicon": "https://img.logo.dev/produccionesstereoshow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Nacional de Venezuela - Informativa",
+        "url": "https://guri.tepuyserver.net/8048/stream",
+        "favicon": "https://img.logo.dev/rnv.gob.ve?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Petrolera",
-        "url": "https://rr5100.globalhost1.com/8508/live",
-        "favicon": "https://img.logo.dev/radiopetrolera.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Nacional de Venezuela - Juvenil",
+        "url": "https://guri.tepuyserver.net/8156/stream",
+        "favicon": "https://img.logo.dev/rnv.gob.ve?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Retro",
         "url": "https://stream.zeno.fm/07brb24epkhvv",
         "favicon": "https://img.logo.dev/radio-retro8.webnode.com.ve?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO RUMBOS 670 AM",
-        "url": "https://stream.zeno.fm/c3q3w8zfe18uv?triton-uid-cookie%3A0fae79a4-e789-4b9b-9ca7-d30ae705f0a6",
-        "favicon": "https://img.logo.dev/radiorumbos670.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO RUMBOS 670 AM",
-        "url": "https://stream.zeno.fm/c3q3w8zfe18uv?triton-uid-cookie%3A0fae79a4-e789-4b9b-9ca7-d30ae705f0a6",
-        "favicon": "https://img.logo.dev/radiorumbos670.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO RUMBOS 670 AM",
-        "url": "https://stream.zeno.fm/c3q3w8zfe18uv?triton-uid-cookie%3A0fae79a4-e789-4b9b-9ca7-d30ae705f0a6",
-        "favicon": "https://img.logo.dev/radiorumbos670.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Sol 89.1",
@@ -473,6 +473,11 @@
         "name": "Radio Tropical 990 AM",
         "url": "https://stream.zeno.fm/ykvgcdko19btv",
         "favicon": "https://img.logo.dev/radiotropical990.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiorama Stereo 103.3 FM",
+        "url": "https://acp2.lorini.net:44002/stream",
+        "favicon": "https://img.logo.dev/radioramaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RocaFM Clasicos Caracas",
@@ -505,14 +510,19 @@
         "favicon": "https://img.logo.dev/sierra991fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Sintonia POP",
+        "url": "https://mixgrupero.online:8050/sintoniaPOP",
+        "favicon": "https://img.logo.dev/mixgrupero.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Studio 102.7 FM",
         "url": "https://stream.zeno.fm/um833nab8tzuv",
         "favicon": "https://img.logo.dev/studio102fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tama Stereo",
-        "url": "https://guri.tepuyserver.net/8457/stream",
-        "favicon": "https://img.logo.dev/tamastereo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "TeleSur",
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+        "favicon": "https://img.logo.dev/telesurenglish.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "TODAY 104.1 FM",
@@ -530,11 +540,6 @@
         "favicon": "https://img.logo.dev/unionradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Utopica stereo",
-        "url": "https://server6.globalhostla.com:9104/stream",
-        "favicon": "https://img.logo.dev/utopicastereo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Weekend Mix Radio",
         "url": "https://stream.zeno.fm/xnp3npkkvg0uv",
         "favicon": "https://img.logo.dev/weekendmixradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -543,5 +548,10 @@
         "name": "WOAO 88.1 FM",
         "url": "https://stream.zeno.fm/361as28sbc9uv",
         "favicon": "https://img.logo.dev/woao.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YVKE Mundial",
+        "url": "https://radiomundial.com.ve/streaming/",
+        "favicon": "https://img.logo.dev/radiomundial.com.ve?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

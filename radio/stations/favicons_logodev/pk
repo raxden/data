@@ -1,8 +1,18 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "101peshawar",
+        "url": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AK radio Trarkhal",
+        "url": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AK radio Trarkhal",
+        "url": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Aladin Radio Network",
@@ -140,6 +150,16 @@
         "favicon": "https://img.logo.dev/radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Fm.94.4",
+        "url": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hit FM 102 Pothwar",
+        "url": "https://radio.net.pk/hit-fm-102-pothwar/",
+        "favicon": "https://img.logo.dev/radio.net.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hot FM 105",
         "url": "http://172.93.237.106:8000/listen.mp3",
         "favicon": "https://img.logo.dev/hotfm.com.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -175,6 +195,21 @@
         "favicon": "https://img.logo.dev/merafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Multan MW",
+        "url": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Power Radio FM 99 Islamabad",
+        "url": "https://isb.power99.live/stream",
+        "favicon": "https://img.logo.dev/power99.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mirpur",
+        "url": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio One FM 91",
         "url": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
         "favicon": "https://img.logo.dev/fm91.com.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -205,9 +240,24 @@
         "favicon": "https://img.logo.dev/radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Pakistan Lahore",
+        "url": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Pakistan Lahore News and Current Affair AM 1332 KHZ",
         "url": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12",
         "favicon": "https://img.logo.dev/radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Pakistan Multan",
+        "url": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Pakistan Multan",
+        "url": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Pakistan Multan MW",
@@ -235,13 +285,38 @@
         "favicon": "https://img.logo.dev/radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Samaa FM 107.4",
-        "url": "https://samaakhi107-itelservices.radioca.st/stream",
-        "favicon": "https://img.logo.dev/samaafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Pakistan WS",
+        "url": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Shopen Anime Radio",
         "url": "https://s97.radiolize.com:8040/radio.mp3",
         "favicon": "https://img.logo.dev/shopen.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SOUTUL QURAN PBC FM 93.4 ISLAMABAD",
+        "url": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SOUTUL QURAN PBC FM 93.4 ISLAMABAD",
+        "url": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SOUTUL QURAN PBC FM 93.4 ISLAMABAD",
+        "url": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal Health Radio (اردو)",
+        "url": "https://radio.universalhealthradio.org/uhr-ur.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "পাকিস্তান",
+        "url": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
+        "favicon": "https://img.logo.dev/whmsonic.radio.gov.pk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

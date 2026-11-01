@@ -1,13 +1,13 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Alpha 93.1 FM Riscado",
         "url": "http://kadushi.westream.cloud:8100/xstream",
         "favicon": "https://img.logo.dev/vozdibonaire.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bon FM 102.7  Riscado",
+        "url": "http://bonfm5.primcast.com:6482/;",
+        "favicon": "https://img.logo.dev/bonfm5.primcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Club De Daltons",

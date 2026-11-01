@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Lao National Radio 103.7",
         "url": "https://radio.lnr.org.la/fm103",
         "favicon": "https://img.logo.dev/lnr.org.la?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,5 +13,10 @@
         "name": "Toki Pona Radio",
         "url": "https://kute.pona.la/stream/tpr",
         "favicon": "https://img.logo.dev/kute.pona.la?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "东盟电视台",
+        "url": "https://stream.tvasean.com/live/test/hls.m3u8",
+        "favicon": "https://img.logo.dev/tvasean.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

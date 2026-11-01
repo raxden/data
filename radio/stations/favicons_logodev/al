@@ -1,25 +1,5 @@
 [
     {
-        "name": "EXA FM: Muzikë pop në anglisht dhe spanjisht",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LOVE FM: Klasikët e muzikës pop nga vitet '80 deri në ditët e sotme",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".القرآن",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Albania News 24 TV",
         "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
         "favicon": "https://img.logo.dev/balkanweb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -70,6 +50,11 @@
         "favicon": "https://img.logo.dev/clubfm.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ENERGY Radio",
+        "url": "https://stream.louderhost.com/nrgal",
+        "favicon": "https://img.logo.dev/radionrg.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Euronews Albania Radio",
         "url": "http://80.90.86.194:1935/live/inradio/playlist.m3u8",
         "favicon": "https://img.logo.dev/euronews.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -80,14 +65,29 @@
         "favicon": "https://img.logo.dev/arumun.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ipda cañete",
+        "url": "https://radio.gisslive.com:8254/stream",
+        "favicon": "https://img.logo.dev/radio.gisslive.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Juvenilja Radio",
         "url": "http://37.27.204.229/juvr",
         "favicon": "https://img.logo.dev/juvenilja.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Klan Radio 92.9 FM",
+        "url": "https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radio.tvklan.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Latitude Tirana Radio",
         "url": "https://listen.openstream.co/6588/audio",
         "favicon": "https://img.logo.dev/latitudeair.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "LeFutur Radio",
+        "url": "https://listen.radioking.com/radio/320837/stream/503612",
+        "favicon": "https://img.logo.dev/radiolefutur.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MCN Radio",
@@ -128,6 +128,26 @@
         "name": "Play Mix",
         "url": "http://stream.radiojar.com/ev2tqttc49bwv",
         "favicon": "https://img.logo.dev/playradio.one?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pri Radio",
+        "url": "https://a1.asurahosting.com:8780/radio.mp3",
+        "favicon": "https://img.logo.dev/priradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 1",
+        "url": "https://livestream.radio1.al/hls/radio.m3u8",
+        "favicon": "https://img.logo.dev/livestream.radio1.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 4+",
+        "url": "https://play.4plusmedia.tv/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.4plusmedia.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio 7",
+        "url": "https://rpn.bozztv.com/radio/Med7-RadioTirana/icecast.audio",
+        "favicon": "https://img.logo.dev/radio-7.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Aksa",
@@ -175,6 +195,26 @@
         "favicon": "https://img.logo.dev/emanuelradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Emigranti",
+        "url": "http://www.radioemigranti.com:8000/radioauto128",
+        "favicon": "https://img.logo.dev/radioemigranti.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Iliria",
+        "url": "https://onlineradio.cfd/listen/radio_iliria/radio.mp3",
+        "favicon": "https://img.logo.dev/radioiliria.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Klea",
+        "url": "http://uk21freenew.listen2myradio.com:23300/;",
+        "favicon": "https://img.logo.dev/radioklea.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Koha",
+        "url": "https://radiokoha.radioca.st/stream",
+        "favicon": "https://img.logo.dev/radiokoha.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Logos",
         "url": "https://s2.stationplaylist.com:9280/listen.aac",
         "favicon": "https://img.logo.dev/radiologos.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -185,6 +225,11 @@
         "favicon": "https://img.logo.dev/radiologos.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Lushnja",
+        "url": "https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3",
+        "favicon": "https://img.logo.dev/radiolushnja.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO MARIA ALBANIA",
         "url": "http://dreamsiteradiocp2.com:8028/stream",
         "favicon": "https://img.logo.dev/radiomaria.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -193,6 +238,21 @@
         "name": "Radio Maria Albania – Programi për Amerikën",
         "url": "https://dreamsiteradiocp2.com/proxy/rmalbania7?mp=/stream",
         "favicon": "https://img.logo.dev/radiomaria.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Marimanga",
+        "url": "https://a9.asurahosting.com/listen/radio_marimanga/radio.mp3",
+        "favicon": "https://img.logo.dev/radiomarimanga.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Mergimi",
+        "url": "https://radio.radiomergimi.com:8114/stream",
+        "favicon": "https://img.logo.dev/radiomergimi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Nacional",
+        "url": "https://stream.zeno.fm/vkqjn43uuptuv",
+        "favicon": "https://img.logo.dev/radionacional.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Ngjallja",
@@ -215,24 +275,74 @@
         "favicon": "https://img.logo.dev/radioplus.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Saranda",
-        "url": "https://s64.radiolize.com/radio/8050/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.saranda.love?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Positive Gold FM",
+        "url": "https://positivealtradio.streamguys1.com/positivegold",
+        "favicon": "https://img.logo.dev/positivegoldmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Saranda",
-        "url": "https://s64.radiolize.com/radio/8050/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.saranda.love?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Rainca",
+        "url": "https://radiocast.ch:8000/stream",
+        "favicon": "https://img.logo.dev/radiorainca.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Shqip - Tirana 92.0 MHz",
-        "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream",
-        "favicon": "https://img.logo.dev/shqipfm.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Shqip Folklor",
+        "url": "https://live.radio-zemra.eu/folklor",
+        "favicon": "https://img.logo.dev/radio-shqip.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio SOL",
+        "url": "https://cp1.sednastream.com/proxy/radiosol/stream",
+        "favicon": "https://img.logo.dev/radiosol.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Tirana 1",
         "url": "http://79.106.48.2:8000/radiotirana1",
         "favicon": "https://img.logo.dev/radio.rtsh.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tirana 2",
+        "url": "http://79.106.48.2:8000/radiotirana2",
+        "favicon": "https://img.logo.dev/rtsh.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tirana 3",
+        "url": "http://79.106.48.2:8000/radiotirana3",
+        "favicon": "https://img.logo.dev/rtsh.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tirana Fëmijë",
+        "url": "http://79.106.48.2:8000/radiotiranafemije",
+        "favicon": "https://img.logo.dev/rtsh.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tirana Jazz",
+        "url": "http://79.106.48.2:8000/radiotiranajazz",
+        "favicon": "https://img.logo.dev/rtsh.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tirana Klasik",
+        "url": "http://79.106.48.2:8000/radiotiranaklasik1",
+        "favicon": "https://img.logo.dev/rtsh.al?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Viciana",
+        "url": "http://radioviciana.org:8000/;?.mp3",
+        "favicon": "https://img.logo.dev/radioviciana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Viciana Folklor",
+        "url": "http://radioviciana.org:8020/;?.mp3",
+        "favicon": "https://img.logo.dev/radioviciana.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Zemra",
+        "url": "https://live.radio-zemra.eu/stream",
+        "favicon": "https://img.logo.dev/zemra.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioNatyra",
+        "url": "https://mars.streamerr.co/8266/stream",
+        "favicon": "https://img.logo.dev/radionatyra.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RadioOne",

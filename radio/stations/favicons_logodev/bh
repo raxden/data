@@ -1,47 +1,7 @@
 [
     {
-        "name": ".. مختصر التفسير",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "..مختصر التفسير",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".beautiful recitation",
-        "url": "https://qurango.net/radio/salma",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".Quran",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".إذاعة ماهر المعيقلي",
-        "url": "https://backup.qurango.net/radio/maher",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".القارئ محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".القرآن",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "AFN 360 Bahrain",
-        "url": "http://25553.live.streamtheworld.com/AFNE_BHN_SC",
+        "url": "http://25603.live.streamtheworld.com/AFNE_BHN_SC",
         "favicon": "https://img.logo.dev/afneurope.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -98,10 +58,5 @@
         "name": "Voice of Ummah",
         "url": "http://mediati.me/radio/8010/radio.mp3",
         "favicon": "https://img.logo.dev/voiceofummah.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تفسير بن عثيمين رحمه الله",
-        "url": "https://qurango.net/radio/tafseer",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

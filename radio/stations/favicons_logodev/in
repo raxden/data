@@ -35,6 +35,16 @@
         "favicon": "https://img.logo.dev/2bradioindia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "4 lobos bollywood radio",
+        "url": "https://puma.streemlion.com:4130/stream",
+        "favicon": "https://img.logo.dev/puma.streemlion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "4lobos bollywood radio",
+        "url": "http://puma.streemlion.com:4130/stream",
+        "favicon": "https://img.logo.dev/puma.streemlion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "89-4-tamil-fm",
         "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
         "favicon": "https://img.logo.dev/centova.aarenworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -45,29 +55,9 @@
         "favicon": "https://img.logo.dev/centova.aarenworld.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "A9 Radio",
-        "url": "https://a9radio1-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/a9radio1-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "a9-radio",
-        "url": "https://a9radio1-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/a9radio1-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "a9radio",
-        "url": "https://a9radio1-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/a9radio1-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "a9radionewhits",
-        "url": "https://a9newhits-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/a9newhits-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "a9radiooldhits",
-        "url": "https://a9oldhits-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/a9oldhits-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "93.5 jamshedpur",
+        "url": "https://stream-281.surfernetwork.com/9phrkb1e3v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5cGhya2IxZTN2OHV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJIc2hqLVN5dVJoMm5ZZ0Fvbi1Fbm13IiwiaWF0IjoxNzkzMTE2MDcxLCJleHAiOjE3OTMxMTYxMzF9.NyLqCeI1zRJzbG5WcSSBHDNUC07p0mSR-O9hsmopGUk",
+        "favicon": "https://img.logo.dev/redfmindia.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Aaj Tak News Radio Live",
@@ -93,21 +83,6 @@
         "name": "aasmanradio",
         "url": "https://aasman_radio.ice.infomaniak.ch/aasmanradio.mp3",
         "favicon": "https://img.logo.dev/aasman_radio.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abee Radio",
-        "url": "https://abee.radioca.st/stream",
-        "favicon": "https://img.logo.dev/abee.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "abeeradio",
-        "url": "https://abee.radioca.st/stream",
-        "favicon": "https://img.logo.dev/abee.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "abinayamfm",
@@ -145,6 +120,16 @@
         "favicon": "https://img.logo.dev/akashvani.gov.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "AIR Coimbatore AM 999 Khz",
+        "url": "https://radio.wavespb.com/live/a6eec8ec7d6ee49d/a6eec8ec7d6ee49d.m3u8",
+        "favicon": "https://img.logo.dev/radio.wavespb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AIR Coimbatore FM",
+        "url": "https://radio.wavespb.com/live/3622d8d5aa1809b2/3622d8d5aa1809b2.m3u8",
+        "favicon": "https://img.logo.dev/radio.wavespb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "AIR Delhi FM Gold",
         "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8",
         "favicon": "https://img.logo.dev/prasarbharati.gov.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -168,6 +153,11 @@
         "name": "AIR Dharawad",
         "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8",
         "favicon": "https://img.logo.dev/prasarbharati.gov.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Air Dharmapuri",
+        "url": "https://radio.wavespb.com/live/36378083c1be092b/36378083c1be092b.m3u8",
+        "favicon": "https://img.logo.dev/radio.wavespb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "AIR FM Gold Chennai",
@@ -445,16 +435,6 @@
         "favicon": "https://img.logo.dev/liveradios.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "akaram-radio",
-        "url": "https://globalwebmusic.com/akaram.mp3",
-        "favicon": "https://img.logo.dev/globalwebmusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "akaramradio",
-        "url": "https://globalwebmusic.com/akaram.mp3",
-        "favicon": "https://img.logo.dev/globalwebmusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Akashvani Anantapur",
         "url": "https://radio.wavespb.com/live/3bcd83926d6c3cca/3bcd83926d6c3cca.m3u8",
         "favicon": "https://img.logo.dev/newsonair.gov.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -646,6 +626,11 @@
     },
     {
         "name": "AURAL RADIO",
+        "url": "https://live.auralradiokerala.in/auralradio/mp3",
+        "favicon": "https://img.logo.dev/live.auralradiokerala.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "AURAL RADIO",
         "url": "https://radio.auralradiokerala.com:1305/stream?x=1777209237030",
         "favicon": "https://img.logo.dev/auralradiokerala.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -660,24 +645,9 @@
         "favicon": "https://img.logo.dev/azevision.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "bakthi-malai-radio",
-        "url": "https://bakthiisai-unicast2u.radioca.st/stream",
-        "favicon": "https://img.logo.dev/bakthiisai-unicast2u.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "bbcasiannetwork",
         "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8",
         "favicon": "https://img.logo.dev/a.files.bbci.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Best fm.",
-        "url": "https://radio.mbconline.xyz/hls/bestfm.m3u8",
-        "favicon": "https://img.logo.dev/radio.mbconline.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "bestfm",
-        "url": "https://radio.mbconline.xyz/hls/bestfm.m3u8",
-        "favicon": "https://img.logo.dev/radio.mbconline.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bhakti World - Hanuman",
@@ -690,6 +660,26 @@
         "favicon": "https://img.logo.dev/millenniumhits.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Bhakti World Media - Shiva",
+        "url": "http://hot.out.airtime.pro:8000/hot_a",
+        "favicon": "https://img.logo.dev/hot.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhakti World Media Shri Ram",
+        "url": "https://dard.out.airtime.pro/dard_a",
+        "favicon": "https://img.logo.dev/dard.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Devi Maa",
+        "url": "http://ibadat.out.airtime.pro:8000/ibadat_a?_ga=2.112683904.548091236.15820292%2013-1175002648.1580299245",
+        "favicon": "https://img.logo.dev/ibadat.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Gurbani",
+        "url": "http://gurbani.out.airtime.pro:8000/gurbani_b?_ga=2.77423505.548091236.1582029%20213-1175002648.1580299245",
+        "favicon": "https://img.logo.dev/gurbani.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Bhaktiworld Media Hanuman Ji",
         "url": "https://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
         "favicon": "https://img.logo.dev/2bhanuman.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -698,6 +688,41 @@
         "name": "Bhaktiworld Media Krishna",
         "url": "http://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
         "favicon": "https://img.logo.dev/millenniumhits.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Mantra Shakti",
+        "url": "http://djbeat.out.airtime.pro:8000/djbeat_a",
+        "favicon": "https://img.logo.dev/djbeat.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Mantra Shakti",
+        "url": "http://djbeat.out.airtime.pro:8000/djbeat_a",
+        "favicon": "https://img.logo.dev/djbeat.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Sai Baba",
+        "url": "https://iskon2b.out.airtime.pro:8000/iskon2b_a",
+        "favicon": "https://img.logo.dev/iskon2b.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Shiva",
+        "url": "http://hot.out.airtime.pro:8000/hot_a?_ga=2.158331450.1016847427.1656651399-%20396439986.1656651399",
+        "favicon": "https://img.logo.dev/hot.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Shiva",
+        "url": "http://hot.out.airtime.pro:8000/hot_a?_ga=2.158331450.1016847427.1656651399-%20396439986.1656651399",
+        "favicon": "https://img.logo.dev/hot.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Shiva",
+        "url": "http://hot.out.airtime.pro:8000/hot_a?_ga=2.158331450.1016847427.1656651399-%20396439986.1656651399",
+        "favicon": "https://img.logo.dev/hot.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bhaktiworld Media Shri Ram",
+        "url": "https://dard.out.airtime.pro/dard_a?_ga=2.178816160.548091236.1582029213-%201175002648.1580299245",
+        "favicon": "https://img.logo.dev/dard.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bhojpuri Songs",
@@ -713,11 +738,6 @@
         "name": "BIG 92.7 FM",
         "url": "https://stream.zeno.fm/dbstwo3dvhhtv",
         "favicon": "https://img.logo.dev/bigfmindia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Bol Punjabi Radio",
-        "url": "https://bolpunjabi-ekamsoftware.radioca.st/stream",
-        "favicon": "https://img.logo.dev/bolpunjabi-ekamsoftware.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bollywood 2000's",
@@ -750,19 +770,9 @@
         "favicon": "https://img.logo.dev/streaming.exclusive.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "bolpunjabi",
-        "url": "https://bolpunjabi-ekamsoftware.radioca.st/stream",
-        "favicon": "https://img.logo.dev/bolpunjabi-ekamsoftware.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Bombay Beats Radio",
         "url": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
         "favicon": "https://img.logo.dev/strmreg.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "BombayBeats",
-        "url": "http://strm112.1.fm/bombaybeats_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "bombaybeats",
@@ -795,11 +805,6 @@
         "favicon": "https://img.logo.dev/liveradios.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Chann Pardesi Radio",
-        "url": "http://mehramedia.com:8021/",
-        "favicon": "https://img.logo.dev/tiwanaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "chellam-fm",
         "url": "https://sugu.radioca.st/stream/;stream/1",
         "favicon": "https://img.logo.dev/sugu.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -828,16 +833,6 @@
         "name": "club fm",
         "url": "https://strw3.openstream.co/1459?aw_0_1st.collectionid%3D4635%26stationId%3D4635%26publisherId%3D1483%26k%3D1769584850",
         "favicon": "https://img.logo.dev/clubfm.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "clubmirchi",
-        "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8",
-        "favicon": "https://img.logo.dev/mirchiplaylive.akamaized.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "clubmirchi",
-        "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8",
-        "favicon": "https://img.logo.dev/mirchiplaylive.akamaized.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CMR FM Tamil HD",
@@ -875,9 +870,29 @@
         "favicon": "https://img.logo.dev/live.cmr24.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CNBC-TV18",
+        "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+        "favicon": "https://img.logo.dev/cnbctv18.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CNBC-TV18",
+        "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+        "favicon": "https://img.logo.dev/cnbctv18.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Community Radio Benziger",
         "url": "https://icecast.octosignals.com/benziger",
         "favicon": "https://img.logo.dev/radiobenziger.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dance Asia Radio",
+        "url": "https://s1.citrus3.com:8124/stream",
+        "favicon": "https://img.logo.dev/s1.citrus3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dance Asia Radio",
+        "url": "https://s1.citrus3.com:8124/stream",
+        "favicon": "https://img.logo.dev/s1.citrus3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Desi Evergreen Radio 1",
@@ -895,14 +910,14 @@
         "favicon": "https://img.logo.dev/desizoneradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "devaprasannam-radio",
-        "url": "https://devaprasannam-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/devaprasannam-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Dil FM UK",
         "url": "https://my4.radiolize.com/radio/8110/radio.mp3",
         "favicon": "https://img.logo.dev/my4.radiolize.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Divyavani",
+        "url": "http://epsilon.shoutca.st:8070/autodj",
+        "favicon": "https://img.logo.dev/epsilon.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DVN Radio",
@@ -915,14 +930,24 @@
         "favicon": "https://img.logo.dev/ice31.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "eastcoastradio",
-        "url": "https://ecrfm-prabak78.radioca.st/stream",
-        "favicon": "https://img.logo.dev/ecrfm-prabak78.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ente Radio",
         "url": "https://cast1.my-control-panel.com/proxy/enteradio/stream",
         "favicon": "https://img.logo.dev/enteradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ET Now",
+        "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
+        "favicon": "https://img.logo.dev/etnownews.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "etr-fm",
+        "url": "https://bud.streampanel.net:6257/stream",
+        "favicon": "https://img.logo.dev/bud.streampanel.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "etrradio",
+        "url": "https://bud.streampanel.net:6257/stream",
+        "favicon": "https://img.logo.dev/bud.streampanel.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Exclusively bollywood",
@@ -1030,19 +1055,9 @@
         "favicon": "https://img.logo.dev/funasia.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "g-tamil-fm",
-        "url": "https://gtr-unicast2u.radioca.st/stream",
-        "favicon": "https://img.logo.dev/gtr-unicast2u.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Gazal Radio London",
         "url": "https://streaming.webhostnepal.com/8018/stream",
         "favicon": "https://img.logo.dev/streaming.webhostnepal.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "germantamilfm",
-        "url": "https://gtr-unicast2u.radioca.st/stream",
-        "favicon": "https://img.logo.dev/gtr-unicast2u.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "gpsp",
@@ -1073,11 +1088,6 @@
         "name": "Gupshup Radio",
         "url": "https://internetradio.gupshupradio.com:8080/?type=mp3",
         "favicon": "https://img.logo.dev/gupshupradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Gurbani Kirtan",
-        "url": "https://gurbanikirtan.radioca.st/start.mp3",
-        "favicon": "https://img.logo.dev/gurbanikirtan.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Gurdwara Dukh Niwaran Sahib Ludhiana",
@@ -1120,6 +1130,11 @@
         "favicon": "https://img.logo.dev/agraradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Hazur Sahib Live",
+        "url": "http://radio2.sikhnet.com:8038/live",
+        "favicon": "https://img.logo.dev/radio2.sikhnet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Heartbeat FM",
         "url": "http://cast5.magicstreams.gr:8010/stream",
         "favicon": "https://img.logo.dev/mintone.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1145,9 +1160,9 @@
         "favicon": "https://img.logo.dev/streaming.webhostnepal.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "hindiretro",
-        "url": "https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/MRETRO_Auto.m3u8",
-        "favicon": "https://img.logo.dev/mirchiplaylive.akamaized.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Hindi Gold Radio",
+        "url": "https://azuracast.vibesounds.in:8010/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.vibesounds.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hot Now Bangla",
@@ -1205,6 +1220,11 @@
         "favicon": "https://img.logo.dev/indifun.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "instrumental-music-radio",
+        "url": "https://azuracast.vibesounds.in:8030/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.vibesounds.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "isaiolifm",
         "url": "https://centova71.instainternet.com/proxy/isaiolifmadmin?mp=/stream&1691245966241",
         "favicon": "https://img.logo.dev/centova71.instainternet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1228,11 +1248,6 @@
         "name": "Jaipur radio",
         "url": "https://streamasiacdn.atc-labs.com/jaipurradio.aac",
         "favicon": "https://img.logo.dev/streamasiacdn.atc-labs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Janadhwani Kannada",
-        "url": "https://d3n2o48cmfppr2.cloudfront.net/svymradio.m3u8",
-        "favicon": "https://img.logo.dev/d3n2o48cmfppr2.cloudfront.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "JANVANI 90.8 FM",
@@ -1290,19 +1305,14 @@
         "favicon": "https://img.logo.dev/akashvani.gov.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Kathiravan Fm",
-        "url": "https://kathiravanfm-prabak78.radioca.st/stream",
-        "favicon": "https://img.logo.dev/kathiravanfm-prabak78.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "kathiravanfm",
-        "url": "https://kathiravanfm-prabak78.radioca.st/stream",
-        "favicon": "https://img.logo.dev/kathiravanfm-prabak78.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Kishore Kumar Radio",
         "url": "https://stream-48.zeno.fm/0ghtfp8ztm0uv?zs=Kr_rJK1kSsKPKeUo9zgTxw&rj-ttl=5&rj-tok=AAABefQSIpIAGxcgV3Wv5gK8Kg",
         "favicon": "https://img.logo.dev/onlineradiofm.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Kochi FM 102.3",
+        "url": "https://radio.wavespb.com/live/70400e7510e87cdf/70400e7510e87cdf.m3u8",
+        "favicon": "https://img.logo.dev/radio.wavespb.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "kolkata",
@@ -1363,11 +1373,6 @@
         "name": "Live Kirtan Sri Harmandir Sahib",
         "url": "https://live.sgpc.net:8443/;nocache=889869",
         "favicon": "https://img.logo.dev/live.sgpc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "lmrradio",
-        "url": "https://ais-edge51-live365-dal02.cdnstream.com/a50671",
-        "favicon": "https://img.logo.dev/ais-edge51-live365-dal02.cdnstream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "London Malayalam Radio",
@@ -1530,19 +1535,14 @@
         "favicon": "https://img.logo.dev/radiosindia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Nanban FM",
-        "url": "https://nanbanfm-unicast2u.radioca.st/stream",
-        "favicon": "https://img.logo.dev/nanbanfm-unicast2u.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "nanban-fm",
-        "url": "https://nanbanfm-unicast2u.radioca.st/stream",
-        "favicon": "https://img.logo.dev/nanbanfm-unicast2u.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ndtv",
         "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
         "favicon": "https://img.logo.dev/ndtv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NDTV Profit",
+        "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
+        "favicon": "https://img.logo.dev/ndtvprofit.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ndtvProfit",
@@ -1595,11 +1595,6 @@
         "favicon": "https://img.logo.dev/ohoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "old-hits",
-        "url": "https://a9oldhits-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/a9oldhits-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Osho Radio",
         "url": "http://radioe.dns.osho.com:8348/live",
         "favicon": "https://img.logo.dev/online-radio.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1635,19 +1630,9 @@
         "favicon": "https://img.logo.dev/peaceradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Pollachi Fm",
-        "url": "http://104.200.16.182:8000/stream/1/",
-        "favicon": "https://img.logo.dev/pollachifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "pudugai-isai-fm",
-        "url": "https://pudhugaisaifm-prabak78.radioca.st/stream",
-        "favicon": "https://img.logo.dev/pudhugaisaifm-prabak78.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Punjab Rocks Radio",
-        "url": "http://radio.punjabrocks.com:9988/;",
-        "favicon": "https://img.logo.dev/punjabrocksradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Private radio server",
+        "url": "http://zeus.hidencloud.com:24724/stream_bot1",
+        "favicon": "https://img.logo.dev/zeus.hidencloud.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raagam AIR 24*7",
@@ -1666,11 +1651,6 @@
     },
     {
         "name": "Radio Aashiqanaa",
-        "url": "https://sonic.onlineaudience.co.uk/8114/stream",
-        "favicon": "https://img.logo.dev/radioaashiqanaa.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Aashiqanaa",
         "url": "https://sonic.onlineaudience.co.uk/8114/stream?listening-from-radio-garden=1657427657",
         "favicon": "https://img.logo.dev/radio.garden?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -1683,6 +1663,11 @@
         "name": "Radio Azad",
         "url": "https://usa2.fastcast4u.com/proxy/jgivvimk?mp=/1",
         "favicon": "https://img.logo.dev/usa2.fastcast4u.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Beat Malayalam",
+        "url": "https://listen.openstream.co/3372/audio",
+        "favicon": "https://img.logo.dev/radiobeat.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Beat Malayalam",
@@ -1708,16 +1693,6 @@
         "name": "Radio Caravan",
         "url": "https://stream.voxx.pro/radio/8260/radio.mp3",
         "favicon": "https://img.logo.dev/stream.voxx.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Chinar 90.4FM",
-        "url": "https://d3413g2ooyoexr.cloudfront.net/radiochinar.m3u8",
-        "favicon": "https://img.logo.dev/radiochinar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Chinar 90.4FM",
-        "url": "https://radiochinar.com/imp-links/",
-        "favicon": "https://img.logo.dev/radiochinar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio City chennai",
@@ -1770,6 +1745,11 @@
         "favicon": "https://img.logo.dev/streamasiacdn.atc-labs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Fiji Two",
+        "url": "https://peridot.streamguys1.com:7150/RFTwo",
+        "favicon": "https://img.logo.dev/peridot.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RADIO FUERZA 3",
         "url": "https://vivo.miradio.in:7039/live",
         "favicon": "https://img.logo.dev/radiofuerza3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1788,6 +1768,11 @@
         "name": "Radio Gyansthali 89.6 FM",
         "url": "https://streamasiacdn.atc-labs.com/gyansthali.aac",
         "favicon": "https://img.logo.dev/streamasiacdn.atc-labs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Hotstar",
+        "url": "https://leo.streamerr.co/8004/stream",
+        "favicon": "https://img.logo.dev/leo.streamerr.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Indigo 91.9 FM in Panaji/Bangalore",
@@ -1835,11 +1820,6 @@
         "favicon": "https://img.logo.dev/edge-audio-03-gos2.sharp-stream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Kochi",
-        "url": "https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8",
-        "favicon": "https://img.logo.dev/radiokochi.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Krishna",
         "url": "https://millenniumhits.out.airtime.pro:8000/millenniumhits_a?fbclid=IwAR0qP_F8RgDCq3gX8g7U8Dmm_uZedtPrqxCf8iIDAW5Jcd5ktA0XMs6BJu4",
         "favicon": "https://img.logo.dev/radio.garden?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1858,11 +1838,6 @@
         "name": "Radio Maharani",
         "url": "https://streamasiacdn.atc-labs.com/radiomaharani.aac",
         "favicon": "https://img.logo.dev/streamasiacdn.atc-labs.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Malabar",
-        "url": "https://d98pmgd7by0qx.cloudfront.net/radiomalabar.m3u8",
-        "favicon": "https://img.logo.dev/radiomalabar.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Mallu",
@@ -1890,19 +1865,19 @@
         "favicon": "https://img.logo.dev/onlineradiofm.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Mirchi Lucknow",
+        "url": "https://stream-284.surfernetwork.com/wgaznsmt92quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3Z2F6bnNtdDkycXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMTkRwYXZ3OVR1eXhLc2NGbllucG9RIiwiaWF0IjoxNzg0MTkxMjUyLCJleHAiOjE3ODQxOTEzMTJ9.DRVDJc3m4PiAGfCN-9SiCsWcbLpZjtfIxcfUyv68_G4",
+        "favicon": "https://img.logo.dev/stream-284.surfernetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Namkin",
         "url": "http://namkeen.riggrodigital.com:8888/stream",
-        "favicon": "https://img.logo.dev/radionamkin.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/namkeen.riggrodigital.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Naya Andaz",
         "url": "https://radionayaandaz.out.airtime.pro/radionayaandaz_a",
         "favicon": "https://img.logo.dev/radionayaandaz.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Panchajanya",
-        "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-8-27/24e94d7f-07dc-9d45-95d0-ddfbbda2b7ae.mp3",
-        "favicon": "https://img.logo.dev/d3ctxlq1ktw2nl.cloudfront.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Paramankurichi",
@@ -1911,13 +1886,8 @@
     },
     {
         "name": "Radio Paramankurichi Tamil",
-        "url": "http://proxima.shoutca.st:8009/stream",
-        "favicon": "https://img.logo.dev/radioparamankurichi.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Paramankurichi Tamil",
         "url": "https://vpmurugun.radioca.st/stream",
-        "favicon": "https://img.logo.dev/radioparamankurichi.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/vpmurugun.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Parbhani 90.8 fm",
@@ -1933,21 +1903,6 @@
         "name": "Radio Raibar Live",
         "url": "https://cdn1.mediaisyou.com/radioraibar.mp3",
         "favicon": "https://img.logo.dev/raibarcommunications.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Rang",
-        "url": "http://stream.zeno.fm/44r9x09cqchvv",
-        "favicon": "https://img.logo.dev/radiorang.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Rang",
-        "url": "http://stream.zeno.fm/44r9x09cqchvv",
-        "favicon": "https://img.logo.dev/radiorang.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Retro Bollywood 90s",
-        "url": "https://stream-143.zeno.fm/fdgs82xkzhhvv",
-        "favicon": "https://img.logo.dev/radioretrobollywood.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Rimjhim",
@@ -1975,36 +1930,6 @@
         "favicon": "https://img.logo.dev/khandbahale.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Schizoid - Chillout / Ambient",
-        "url": "http://94.130.113.214:8000/chill",
-        "favicon": "https://img.logo.dev/schizoid.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Schizoid - Chillout/Ambient",
-        "url": "http://94.130.113.214:8000/chill",
-        "favicon": "https://img.logo.dev/schizoid.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Schizoid - Dub Techno",
-        "url": "http://94.130.113.214:8000/dubtechno",
-        "favicon": "https://img.logo.dev/schizoid.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Schizoid - Progressive Psychedelic Trance",
-        "url": "http://94.130.113.214:8000/prog",
-        "favicon": "https://img.logo.dev/schizoid.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Schizoid - Psychedelic Trance",
-        "url": "http://94.130.113.214:8000/schizoid",
-        "favicon": "https://img.logo.dev/schizoid.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio SD 90.8 FM",
-        "url": "https://uk2.internet-radio.com/proxy/radiosdapp?mp=/stream",
-        "favicon": "https://img.logo.dev/radiosdfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio SD 90.8 FM",
         "url": "http://uk2.internet-radio.com:8066/stream?listening-from-radio-garden=1657423901",
         "favicon": "https://img.logo.dev/radiosd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2023,6 +1948,16 @@
         "name": "Radio Suno 91.7 FM",
         "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
         "favicon": "https://img.logo.dev/suno.qa?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Suravi 89.6 FM",
+        "url": "https://dhkxi1xp7j48l.cloudfront.net/suravifmodisha.aac",
+        "favicon": "https://img.logo.dev/suravifm.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Suravi 89.6 FM",
+        "url": "https://dhkxi1xp7j48l.cloudfront.net/suravifmodisha.aac",
+        "favicon": "https://img.logo.dev/suravifm.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Terna 90.4 FM",
@@ -2090,6 +2025,11 @@
         "favicon": "https://img.logo.dev/radiocast.cr8tive-digital.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "radiofiji2",
+        "url": "https://peridot.streamguys1.com:7150/RFTwo",
+        "favicon": "https://img.logo.dev/peridot.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "radiokeralam",
         "url": "https://ice31.securenetsystems.net/RADIOKERAL",
         "favicon": "https://img.logo.dev/ice31.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2108,6 +2048,11 @@
         "name": "radiopetti",
         "url": "https://radiopetti.out.airtime.pro/radiopetti_a",
         "favicon": "https://img.logo.dev/radiopetti.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "radiotarana",
+        "url": "https://peridot.streamguys1.com:7150/Tarana.aac",
+        "favicon": "https://img.logo.dev/peridot.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "radiotirur",
@@ -2140,6 +2085,11 @@
         "favicon": "https://img.logo.dev/rangeelaradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rangilo Gujarati",
+        "url": "http://s9.voscast.com:7402/",
+        "favicon": "https://img.logo.dev/rangilogujarat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Rdehotties",
         "url": "http://s6.myradiostream.com:15054/",
         "favicon": "https://img.logo.dev/s6.myradiostream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2155,6 +2105,11 @@
         "favicon": "https://img.logo.dev/redfmindia.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RedFlow",
+        "url": "https://stream.fixupcare.com/live.mp3",
+        "favicon": "https://img.logo.dev/radio.fixupcare.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "REPLAY NEWS - हिन्दी 【हर 5 मिनट पर खबरों वाला रेडियो】",
         "url": "https://replaynewshi.ice.infomaniak.ch/replaynewshi-128.mp3",
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2165,24 +2120,19 @@
         "favicon": "https://img.logo.dev/gains.reviveradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "rewind-amudham-fm",
-        "url": "https://a9oldhits-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/a9oldhits-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Roq Raw Radio",
-        "url": "https://mystation.micast.media/radio/8090/radio.mp3",
-        "favicon": "https://img.logo.dev/mystation.micast.media?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "S Janaki",
         "url": "https://psrlive2.listenon.in/janaki?station=janakiradio",
         "favicon": "https://img.logo.dev/tamilradios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sandesh Radio",
-        "url": "https://sandeshradio2017.radioca.st/stream",
-        "favicon": "https://img.logo.dev/sanjaydeshpande.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Sahara FM Tamil",
+        "url": "https://azuracast.vibesounds.in:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.vibesounds.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "sahara-fm",
+        "url": "https://azuracast.vibesounds.in:8000/radio.mp3",
+        "favicon": "https://img.logo.dev/azuracast.vibesounds.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sangeet 106.1 FM",
@@ -2223,6 +2173,11 @@
         "name": "sgpc1",
         "url": "http://old.sgpc.net/hukumnama/jpeg%20hukamnama/katha.mp3",
         "favicon": "https://img.logo.dev/old.sgpc.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Shahimsha Online radio",
+        "url": "https://radio.shahimsha.com/listen/shahimsha/radio.mp3",
+        "favicon": "https://img.logo.dev/shahimsha.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Shaiva Lahari",
@@ -2305,11 +2260,6 @@
         "favicon": "https://img.logo.dev/radio.sikhnet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sripad Radio",
-        "url": "https://shripadradio.radioca.st/",
-        "favicon": "https://img.logo.dev/shripadradio.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Suno Sharda - 90.8FM",
         "url": "https://streamasiacdn.atc-labs.com/shardaradio.aac",
         "favicon": "https://img.logo.dev/sharda.ac.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2350,24 +2300,9 @@
         "favicon": "https://img.logo.dev/centova71.instainternet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Taal FM",
-        "url": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
-        "favicon": "https://img.logo.dev/radio.mbconline.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "taalfm",
-        "url": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
-        "favicon": "https://img.logo.dev/radio.mbconline.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Tamil 80's Radio",
         "url": "https://psrlive2.listenon.in/80?station=tamil80shitsradio",
         "favicon": "https://img.logo.dev/tamilradios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tamil Old Hits FM",
-        "url": "https://a9oldhits-a9media.radioca.st/stream",
-        "favicon": "https://img.logo.dev/a9oldhits-a9media.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tamil Panpalai Gold",
@@ -2440,16 +2375,6 @@
         "favicon": "https://img.logo.dev/thaalam.out.airtime.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Thandora FM",
-        "url": "https://stream-152.zeno.fm/7us8bucomafvv?zs=yRwr3HQaTluoJBVRZ_grUA",
-        "favicon": "https://img.logo.dev/thandorafm.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Thandora FM",
-        "url": "https://stream-152.zeno.fm/7us8bucomafvv?zs=yRwr3HQaTluoJBVRZ_grUA",
-        "favicon": "https://img.logo.dev/thandorafm.in?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Better FM",
         "url": "https://iceant.eclipse-streaming.co.za:8443/TWR-music.mp3",
         "favicon": "https://img.logo.dev/thebetter.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2490,11 +2415,6 @@
         "favicon": "https://img.logo.dev/streaming.exclusive.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tinder Radio",
-        "url": "https://streaming.exclusive.radio/er/bollywood/icecast.audio",
-        "favicon": "https://img.logo.dev/tinder.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "TMS Radio",
         "url": "https://psrlive2.listenon.in/tms?station=tmsradio",
         "favicon": "https://img.logo.dev/tamilradios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2523,6 +2443,21 @@
         "name": "ujalaradio",
         "url": "https://server4.ujala.nl/stream/2/listen.mp3",
         "favicon": "https://img.logo.dev/server4.ujala.nl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal Health Radio (हिन्दी)",
+        "url": "https://radio.universalhealthradio.org/uhr-hi.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal Health Radio (தமிழ்)",
+        "url": "https://radio.universalhealthradio.org/uhr-ta.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Universal Health Radio (తెలుగు)",
+        "url": "https://radio.universalhealthradio.org/uhr-te.mp3",
+        "favicon": "https://img.logo.dev/universalhealthradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "vagai-tamil-fm",

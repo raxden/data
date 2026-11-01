@@ -1,10 +1,5 @@
 [
     {
-        "name": "EXA FM: Popmusik på engelska och spanska",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ålands Radio",
         "url": "https://stream.alandsradio.ax/stream.ogg",
         "favicon": "https://img.logo.dev/alandsradio.ax?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

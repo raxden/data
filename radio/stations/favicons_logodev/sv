@@ -1,18 +1,8 @@
 [
     {
-        "name": "LOVE FM: All you need is Love ♥ Amor en mi radio",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "100.7 Stereo",
-        "url": "https://stream20.usastreams.com/8138/stream",
-        "favicon": "https://img.logo.dev/rocknpopsv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "100.7 Stereo",
-        "url": "https://stream20.usastreams.com/8138/stream",
-        "favicon": "https://img.logo.dev/rocknpopsv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "102.1 VIVE FM",
+        "url": "https://jfm1.hostingradio.ru:14536/rock80.mp3",
+        "favicon": "https://img.logo.dev/radioselsalvador.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "107.7 Fuego FM",
@@ -30,19 +20,9 @@
         "favicon": "https://img.logo.dev/radiocorporacionelsalvador.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "C3 Radio",
         "url": "https://azuracast.myautodj.com/radio/8170/radio.mp3",
         "favicon": "https://img.logo.dev/iglesiac3.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "COOL FM 89.3",
-        "url": "http://media.dominiocreativo.com:8006/coolfm",
-        "favicon": "https://img.logo.dev/radiocoolfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cuscatlán 98.5 FM",
@@ -95,11 +75,6 @@
         "favicon": "https://img.logo.dev/radio.elim.org.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Plus 101.3",
-        "url": "https://media.dominiocreativo.com:9006/;?type=http&nocache=1693284624",
-        "favicon": "https://img.logo.dev/plus1013.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio  Cadena YSKL La Poderosa",
         "url": "http://media.dominiocreativo.com:8000/radioyskl",
         "favicon": "https://img.logo.dev/radioyskl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -138,6 +113,11 @@
         "name": "Radio ESV El Salvador Vintage",
         "url": "https://a6.asurahosting.com:8580/radio.mp3",
         "favicon": "https://img.logo.dev/a6.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fe y Vida",
+        "url": "https://radios.com.sv/vida-santa-ana/",
+        "favicon": "https://img.logo.dev/radios.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Femenina | 102.5 FM",
@@ -180,29 +160,9 @@
         "favicon": "https://img.logo.dev/asamblea.gob.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio María El Salvador 107.3 FM",
-        "url": "http://dreamsiteradiocp.com:8098/stream",
-        "favicon": "https://img.logo.dev/radiomaria.org.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mercado Metapan",
-        "url": "https://centova.playerfullhd.com/proxy/brfrtxcf/stream",
-        "favicon": "https://img.logo.dev/radiomercadometapan.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Mil 80 101.7 FM",
         "url": "https://radio.videct.com/8002/stream",
         "favicon": "https://img.logo.dev/mil80.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Que Buena 88.9",
-        "url": "https://cast3.my-control-panel.com/proxy/gabriel4/stream",
-        "favicon": "https://img.logo.dev/quebuena.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Ranchera",
-        "url": "https://sp4.colombiatelecom.com.co/8024/stream",
-        "favicon": "https://img.logo.dev/ranchera.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Restauracion",
@@ -212,32 +172,22 @@
     {
         "name": "Radio Rumba Latina",
         "url": "https://c11.radioboss.fm:8303/stream",
-        "favicon": "https://img.logo.dev/radiorumbalatina.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c11.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Rumba Latina",
         "url": "https://c11.radioboss.fm:18303/stream",
-        "favicon": "https://img.logo.dev/radiorumbalatina.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c11.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Salem 92.5",
-        "url": "http://streamingcontrol.com:8500/;",
-        "favicon": "https://img.logo.dev/radiosalem.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio San Pedro",
+        "url": "https://radios.com.sv/catolica-san-pedro-metapan/",
+        "favicon": "https://img.logo.dev/radios.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Soda Stereo 105.3 FM",
         "url": "http://streaming.rcs.com.sv/proxy/soda/stream",
         "favicon": "https://img.logo.dev/radiocorporacionelsalvador.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sonora 104.5 FM",
-        "url": "http://190.5.147.67:8000/radiosonora",
-        "favicon": "https://img.logo.dev/radiosonora.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sonora 104.5 FM",
-        "url": "http://190.5.147.67:8000/radiosonora",
-        "favicon": "https://img.logo.dev/radiosonora.com.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Supra 90.5 FM",
@@ -258,21 +208,6 @@
         "name": "Radio YSKL 104.1 FM",
         "url": "https://media.dominiocreativo.com:8000/stream/1/",
         "favicon": "https://img.logo.dev/radioyskl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio YSUCA, 91.7 FM",
-        "url": "https://fast.citrus3.com:8314/stream",
-        "favicon": "https://img.logo.dev/ysuca.org.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio YSUCA, 91.7 FM",
-        "url": "https://fast.citrus3.com:8314/stream",
-        "favicon": "https://img.logo.dev/ysuca.org.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio YSUCA, 91.7 FM",
-        "url": "https://fast.citrus3.com:8314/stream",
-        "favicon": "https://img.logo.dev/ysuca.org.sv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Restauracion / 100.5 FM - Mision Cristiana Elim",
@@ -297,7 +232,7 @@
     {
         "name": "Xtremevibes",
         "url": "https://c17.radioboss.fm:8162/stream",
-        "favicon": "https://img.logo.dev/xtremevibes.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c17.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "YXY 105.7",

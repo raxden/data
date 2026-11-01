@@ -1,10 +1,5 @@
 [
     {
-        "name": "LOVE FM: All you need is Love ♥ Música romántica",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "103 (FM 103.1)",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac",
         "favicon": "https://img.logo.dev/crc.cr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,11 +18,6 @@
         "name": "959 Conexion",
         "url": "https://29308.live.streamtheworld.com/CRC_959AAC.aac?_=",
         "favicon": "https://img.logo.dev/crc.cr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Amor FM 93.9",
@@ -90,6 +80,11 @@
         "favicon": "https://img.logo.dev/eliteradiocr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Estereo Visión 98.3 FM",
+        "url": "https://live.turadio.stream:7009/",
+        "favicon": "https://img.logo.dev/estereovision.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Faro del Caribe 97.1 FM y 1080 AM",
         "url": "https://sp.unoredcdn.net/8032/stream",
         "favicon": "https://img.logo.dev/farodelcaribe.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -135,16 +130,6 @@
         "favicon": "https://img.logo.dev/planet1075.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Puerto Limón Radio",
-        "url": "http://puertolimonradio-rowrigos.radioca.st:8421/stream",
-        "favicon": "https://img.logo.dev/puertolimonradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO 1075",
-        "url": "http://65.60.45.74:8400/;stream/1;",
-        "favicon": "https://img.logo.dev/radio1075.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Casino",
         "url": "https://host.rowrigo.com/listen/radiocasino/radiocasino",
         "favicon": "https://img.logo.dev/radiocasino.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -158,6 +143,11 @@
         "name": "Radio Costa",
         "url": "https://sonicpanel.globalstream.pro:10979/;",
         "favicon": "https://img.logo.dev/radiocosta.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Diriá",
+        "url": "https://stream.zeno.fm/xk0xpwtc4ttvv.mp3",
+        "favicon": "https://img.logo.dev/radiodiria.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Dos (2) Costa Rica",
@@ -187,27 +177,12 @@
     {
         "name": "Radio Mil Recuerdos Stereo",
         "url": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
-        "favicon": "https://img.logo.dev/sechin.grupocentroserver.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Mil Recuerdos Stereo",
-        "url": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
         "favicon": "https://img.logo.dev/radiomilrecuerdos.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Musical 97.5",
         "url": "https://live.turadio.stream:7005/stream?type=http&nocache=596",
         "favicon": "https://img.logo.dev/radiomusical.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Nosara",
-        "url": "https://sonicpanel.zonaradio.net/8038/stream",
-        "favicon": "https://img.logo.dev/radiotvnosara.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Nosara",
-        "url": "https://sonicpanel.zonaradio.net/8038/stream",
-        "favicon": "https://img.logo.dev/radioytvnosara.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Omega 105.1 FM",
@@ -220,6 +195,16 @@
         "favicon": "https://img.logo.dev/radioomega.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Sinfonola",
+        "url": "https://live.turadio.stream:7006/",
+        "favicon": "https://img.logo.dev/radiosinfonola.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Universidad 96.7 FM",
+        "url": "https://r90.letio.com/io/?gs=8120&gsm=8120&type=live.m3u8",
+        "favicon": "https://img.logo.dev/radios.ucr.ac.cr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Señal Radio Elite",
         "url": "https://stream20.usastreams.com/8008/;",
         "favicon": "https://img.logo.dev/eliteradiocr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -230,11 +215,6 @@
         "favicon": "https://img.logo.dev/emisorascostarica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tamarindo Radio",
-        "url": "http://s1.voscast.com:11392/stream",
-        "favicon": "https://img.logo.dev/tamarindoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Teletica Radio",
         "url": "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8",
         "favicon": "https://img.logo.dev/teletica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -243,6 +223,16 @@
         "name": "Tiquicia Rock",
         "url": "https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873",
         "favicon": "https://img.logo.dev/tiquiciarock.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TV Radio Gracia y Verdad",
+        "url": "https://radio.grscr.com/listen/radio_gracia_y_verdad/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.grscr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "TV Radio Gracia y Verdad",
+        "url": "https://radio.grscr.com/listen/radio_gracia_y_verdad/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.grscr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Urbano 106 - 105.9 FM - San José, Costa Rica",

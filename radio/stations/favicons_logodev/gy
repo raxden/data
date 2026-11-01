@@ -8,15 +8,5 @@
         "name": "88.5 Rock FM",
         "url": "https://s2.radio.co/s77716fe53/listen",
         "favicon": "https://img.logo.dev/885rockfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM",
-        "url": "https://stream.radio.co/s9668e2ab5/listen",
-        "favicon": "https://img.logo.dev/rgi89fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

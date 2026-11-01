@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Amaryllis E-Radio",
         "url": "https://s4.radio.co/s40c05d6b1/low",
         "favicon": "https://img.logo.dev/amaryllis-eradio.vercel.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -65,9 +60,19 @@
         "favicon": "https://img.logo.dev/nthambiradio.exclusivemw.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Power Global Media",
-        "url": "https://a10.asurahosting.com:7270/radio.mp3",
-        "favicon": "https://img.logo.dev/powerglobalmedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Police FM",
+        "url": "https://c20.radioboss.fm:8493/stream",
+        "favicon": "https://img.logo.dev/police.gov.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Power Global Gospel Radio",
+        "url": "https://a10.asurahosting.com:9020/radio.mp3",
+        "favicon": "https://img.logo.dev/powerglobalmedia.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Islam Malawi",
+        "url": "https://s5.radio.co/s7b138c0fa/listen",
+        "favicon": "https://img.logo.dev/radioislam.org.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO MARIA MALAWI",
@@ -75,9 +80,44 @@
         "favicon": "https://img.logo.dev/radiomaria.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rumphi Community Radio (Rumphi FM)",
+        "url": "https://stream.zeno.fm/xu1r09mf5nhvv",
+        "favicon": "https://img.logo.dev/rumphifm.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Story Club FM",
+        "url": "https://stream.zeno.fm/pmsyym60maauv",
+        "favicon": "https://img.logo.dev/storyclubfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Times Radio",
         "url": "https://ice31.securenetsystems.net/TIMESFM",
-        "favicon": "https://img.logo.dev/ice31.securenetsystems.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/times.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Timveni Online",
+        "url": "https://strw3.openstream.co/495",
+        "favicon": "https://img.logo.dev/timveni.org.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tuntufye FM Radio",
+        "url": "https://stream.zeno.fm/ekhjwjjj0a0vv",
+        "favicon": "https://img.logo.dev/tuntufyefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Umunthu FM",
+        "url": "https://play.streamafrica.net/umunthu",
+        "favicon": "https://img.logo.dev/umunthufm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Yetu Community Radio",
+        "url": "https://play.streamafrica.net/yetu",
+        "favicon": "https://img.logo.dev/yetufm.mw?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "YONECO FM",
+        "url": "https://s7.myradiostream.com:60218/;;",
+        "favicon": "https://img.logo.dev/yonecofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ZBS Zodiak FM",

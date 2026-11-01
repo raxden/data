@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ABradio Chillout",
         "url": "http://mp3stream4.abradio.cz/chillout128.mp3",
         "favicon": "https://img.logo.dev/abradio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -30,6 +25,11 @@
         "favicon": "https://img.logo.dev/blueradio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "BojlerRoom",
+        "url": "https://ice4.abradio.cz/bojler_room_128.aac",
+        "favicon": "https://img.logo.dev/ice4.abradio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Čas Rock Natvrdo",
         "url": "https://stream.sepia.sk:8000/rnt128.mp3",
         "favicon": "https://img.logo.dev/natvrdo.casrock.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -48,11 +48,6 @@
         "name": "Český Impuls",
         "url": "https://icecast6.play.cz/cesky-impuls.mp3",
         "favicon": "https://img.logo.dev/ceskyimpuls.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Český rozhlas Brno",
-        "url": "https://rozhlas.stream/brno.mp3",
-        "favicon": "https://img.logo.dev/rozhlas.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Český rozhlas České Budějovice",
@@ -103,11 +98,6 @@
         "name": "Color Music Radio",
         "url": "http://sc.ipip.cz:8206/;stream",
         "favicon": "https://img.logo.dev/radiocolor.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Comedy Club R@dio DIANA",
-        "url": "https://westradio.cz/radio/8010/radio.mp3",
-        "favicon": "https://img.logo.dev/radiodiana.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "COOP TIP Radio",
@@ -375,6 +365,11 @@
         "favicon": "https://img.logo.dev/expresfm.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Expresradio",
+        "url": "http://icecast5.play.cz:8000/expres128mp3",
+        "favicon": "https://img.logo.dev/icecast5.play.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Express FM",
         "url": "http://icecast8.play.cz/expres128mp3",
         "favicon": "https://img.logo.dev/expresfm.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -490,6 +485,11 @@
         "favicon": "https://img.logo.dev/abradio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "HEY rádio",
+        "url": "http://icecast3.play.cz/hey-radio128.mp3",
+        "favicon": "https://img.logo.dev/icecast3.play.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Hit FM Plus",
         "url": "http://ice.abradio.cz:8000/fmplus64.aac",
         "favicon": "https://img.logo.dev/hitradiofmplus.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -503,11 +503,6 @@
         "name": "HIT Rádio Orion",
         "url": "http://ice.abradio.cz/orion128.mp3",
         "favicon": "https://img.logo.dev/hitradioorion.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Hitrádio",
-        "url": "https://radia.cz/radia/hitradio-north-music",
-        "favicon": "https://img.logo.dev/hitradionorthmusic.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hitrádio Černá Hora",
@@ -526,7 +521,7 @@
     },
     {
         "name": "Hitrádio City 93.7 FM",
-        "url": "http://22183.live.streamtheworld.com/HITRADIO_CITY_PRAHA_SC",
+        "url": "http://25553.live.streamtheworld.com/HITRADIO_CITY_PRAHA_SC",
         "favicon": "https://img.logo.dev/hitradiocity.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -675,6 +670,11 @@
         "favicon": "https://img.logo.dev/imnau.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "MUSIC BOX CLASSIC",
+        "url": "https://dash2.antik.sk/live/mb_classic/index.m3u8",
+        "favicon": "https://img.logo.dev/dash2.antik.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Netro Life radio 100,8 FM",
         "url": "https://icecast9.play.cz/netro-life-radio.mp3",
         "favicon": "https://img.logo.dev/netroliferadio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -755,16 +755,6 @@
         "favicon": "https://img.logo.dev/ice3.abradio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PowerPonies Radio",
-        "url": "http://powerponies.cz:8000/;stream.mp3",
-        "favicon": "https://img.logo.dev/powerponies.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "PowerPonies Radio",
-        "url": "http://powerponies.cz:8000/;stream.mp3",
-        "favicon": "https://img.logo.dev/radio.powerponies.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Queenradio.net",
         "url": "http://stream.radiojar.com/4gw72qm8u68uv",
         "favicon": "https://img.logo.dev/queenradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -837,7 +827,7 @@
     {
         "name": "Rádio Applaus",
         "url": "http://mp3stream3.abradio.cz/applaus128.mp3",
-        "favicon": "https://img.logo.dev/mp3stream3.abradio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radioapplaus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Beat",
@@ -940,11 +930,6 @@
         "favicon": "https://img.logo.dev/casrock.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio City FM",
-        "url": "http://ice.abradio.cz/cityfm128.mp3",
-        "favicon": "https://img.logo.dev/radiocity.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rádio Click & Country",
         "url": "http://radio.clickandcountry.cz:8000/clickandcountry.mp3",
         "favicon": "https://img.logo.dev/clickandcountry.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -968,11 +953,6 @@
         "name": "Radio Depeche Mode",
         "url": "http://mp3stream4.abradio.cz/depeche128.mp3",
         "favicon": "https://img.logo.dev/abradio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rádio Diana – Retro Club",
-        "url": "https://westradio.cz/radio/8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radiodiana.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio DNB TV",
@@ -1003,6 +983,11 @@
         "name": "Radio Fonlord",
         "url": "https://a5.asurahosting.com:6530/radio.mp3",
         "favicon": "https://img.logo.dev/a5.asurahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio G6",
+        "url": "http://mpc1.mediacp.eu:8098/stream",
+        "favicon": "https://img.logo.dev/radiog6.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Hády",
@@ -1070,6 +1055,16 @@
         "favicon": "https://img.logo.dev/krokodyl.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Life Trance",
+        "url": "http://65.108.105.26:7709/stream",
+        "favicon": "https://img.logo.dev/radiolife.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Love-it",
+        "url": "https://radio.ihypnosis.org.uk/stream",
+        "favicon": "https://img.logo.dev/radio.ihypnosis.org.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio MB",
         "url": "https://ice3.abradio.cz/radiomb128.mp3",
         "favicon": "https://img.logo.dev/radiomb.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1098,6 +1093,11 @@
         "name": "Radio O106",
         "url": "https://listen.radioking.com/radio/442799/stream/497147",
         "favicon": "https://img.logo.dev/radioo106.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Orlicko",
+        "url": "https://mediaservice.radioorlicko.cz/stream192.mp3",
+        "favicon": "https://img.logo.dev/radioorlicko.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Ostravan",
@@ -1138,6 +1138,11 @@
         "name": "Radio Praha",
         "url": "http://icecast2.play.cz/cro7-128.mp3",
         "favicon": "https://img.logo.dev/radio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rádio Praha",
+        "url": "https://rozhlas.stream/radio_dab_praha_high.aac",
+        "favicon": "https://img.logo.dev/praha.rozhlas.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Proglas",
@@ -1183,11 +1188,6 @@
         "name": "Rádio Samson",
         "url": "https://icecast2.play.cz/samsonfm128aac",
         "favicon": "https://img.logo.dev/radiosamson.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sázava",
-        "url": "http://sc.ipip.cz:8224/;stream",
-        "favicon": "https://img.logo.dev/sazava.heyradio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Sázava",
@@ -1248,6 +1248,11 @@
         "name": "RadioExkluzive",
         "url": "http://mpc1.mediacp.eu:8034/",
         "favicon": "https://img.logo.dev/radio-exkluzive.hys.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RadioParty.pl",
+        "url": "https://s2.radioparty.pl:8015/stream",
+        "favicon": "https://img.logo.dev/s2.radioparty.pl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RELAX Radio Kladno - 92,3 FM",
@@ -1340,6 +1345,16 @@
         "favicon": "https://img.logo.dev/skyrock.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Slow Down Rádijo",
+        "url": "http://icecast9.play.cz/slowdown.mp3",
+        "favicon": "https://img.logo.dev/slowdownradijo.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Slymacks Radio",
+        "url": "https://stream.slymacks.com/",
+        "favicon": "https://img.logo.dev/slymacks.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Stanice Hvězda",
         "url": "http://fire.doscast.com:8038/stream",
         "favicon": "https://img.logo.dev/hvezda.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1348,16 +1363,6 @@
         "name": "svobodne-radio",
         "url": "http://svobodneradio.radioca.st:8859/stream",
         "favicon": "https://img.logo.dev/svobodne-radio.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Svobodný vysílač",
-        "url": "http://stream.svobodny-vysilac.cz:8000/live.mp3",
-        "favicon": "https://img.logo.dev/svobodny-vysilac.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Svobodný vysílač",
-        "url": "http://stream.svobodny-vysilac.cz:8000/live.ogg",
-        "favicon": "https://img.logo.dev/svobodny-vysilac.cz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "We House Radio (AAC+ High)",

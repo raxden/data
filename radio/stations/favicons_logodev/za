@@ -16,7 +16,7 @@
     },
     {
         "name": "702 Johannesburg",
-        "url": "http://25533.live.streamtheworld.com:3690/FM702_SC",
+        "url": "http://21633.live.streamtheworld.com/FM702_SC",
         "favicon": "https://img.logo.dev/702.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "name": "94.7",
-        "url": "http://27953.live.streamtheworld.com/FM947AAC_SC",
+        "url": "http://28973.live.streamtheworld.com:3690/FM947AAC_SC",
         "favicon": "https://img.logo.dev/947.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -46,13 +46,8 @@
     },
     {
         "name": "947",
-        "url": "http://29334.live.streamtheworld.com/FM947_SC",
+        "url": "http://27753.live.streamtheworld.com/FM947_SC",
         "favicon": "https://img.logo.dev/947.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Afrobeat N1 FM",
@@ -78,11 +73,6 @@
         "name": "AL-Ansaar Radio",
         "url": "https://al-ansaar.simplestreaming.co.za/radio/8000/radio.mp3?refresh=1653300780766",
         "favicon": "https://img.logo.dev/alansaar.org.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Al-Ansaar Radio",
-        "url": "https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3",
-        "favicon": "https://img.logo.dev/radioalansaar.org.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Amapiano FM",
@@ -118,6 +108,11 @@
         "name": "Befonk in stereo",
         "url": "https://c42.radioboss.fm:8073/stream",
         "favicon": "https://img.logo.dev/c42.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BLU RADIIO",
+        "url": "https://app.radiio.link/stream.mp3",
+        "favicon": "https://img.logo.dev/radiio.link?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bok Radio",
@@ -161,7 +156,7 @@
     },
     {
         "name": "Cape Talk",
-        "url": "http://25643.live.streamtheworld.com:3690/CAPE_TALK_SC",
+        "url": "http://25453.live.streamtheworld.com/CAPE_TALK_SC",
         "favicon": "https://img.logo.dev/capetalk.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -475,6 +470,16 @@
         "favicon": "https://img.logo.dev/kingdomsoundsradio.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Kingdom Sounds Radio",
+        "url": "https://radiohost.ifastekpanel.com/listen/kingdom/live",
+        "favicon": "https://img.logo.dev/radiohost.ifastekpanel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Knysna FM",
+        "url": "https://onlineradiobox.com/za/knysnafm970/?lang=de",
+        "favicon": "https://img.logo.dev/wavebroadcasting.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Knysna FM",
         "url": "https://knysnafm.co.zahttps//www.radio-south-africa.co.za/knysna-fm",
         "favicon": "https://img.logo.dev/knysnafm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -528,6 +533,11 @@
         "name": "Loca FM",
         "url": "https://s3.we4stream.com:2020/stream/locafm",
         "favicon": "https://img.logo.dev/locafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lotus FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOTUSFMAAC.aac",
+        "favicon": "https://img.logo.dev/lotusfm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Magic 828",
@@ -645,6 +655,11 @@
         "favicon": "https://img.logo.dev/ofm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "osmarks internet radio",
+        "url": "https://radio-ic.osmarks.net/128k.ogg",
+        "favicon": "https://img.logo.dev/radio.osmarks.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Pan African Space Station",
         "url": "https://pass.out.airtime.pro/pass_a",
         "favicon": "https://img.logo.dev/panafricanspacestation.org.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -671,7 +686,7 @@
     },
     {
         "name": "Plaas Radio - Rad's Vibes",
-        "url": "https://radio.eclipse-streaming.co.za/hls/plaas_radio/live.m3u8",
+        "url": "https://radio.eclipse-streaming.co.za/listen/plaas_radio/radio.mp3",
         "favicon": "https://img.logo.dev/eclipse-radio.eclipse-streaming.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -683,6 +698,16 @@
         "name": "Pretoria FM",
         "url": "https://edge.iono.fm/xice/362_medium.aac?ref=https%3A%2F%2Fwww.pretoriafm.co.za%2F",
         "favicon": "https://img.logo.dev/pretoriafm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiio",
+        "url": "https://app.radiio.link/stream.mp3",
+        "favicon": "https://img.logo.dev/radiio.link?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radiio",
+        "url": "https://app.radiio.link/stream.mp3",
+        "favicon": "https://img.logo.dev/radiio.link?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio  Daspoort",
@@ -713,6 +738,11 @@
         "name": "Radio Bigode Grosso",
         "url": "https://cp-1.owh.radio.br/listen/owh_s35236/radio-mp3",
         "favicon": "https://img.logo.dev/owh.radio.br?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bloem",
+        "url": "https://stream.zeno.fm/9fg1eqywrf9uv",
+        "favicon": "https://img.logo.dev/radiobloem.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Daspoort",
@@ -770,6 +800,11 @@
         "favicon": "https://img.logo.dev/app.megazone.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Orania",
+        "url": "https://stream.radio.co/s7adaa782c/listen",
+        "favicon": "https://img.logo.dev/radioorania.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Pulpit",
         "url": "https://edge.iono.fm/xice/189_medium.aac?ref=https%3A%2F%2Fwww.radiopulpit.co.za%2F&adToken=",
         "favicon": "https://img.logo.dev/radiopulpit.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -793,11 +828,6 @@
         "name": "Radio Sonder Grense",
         "url": "http://25583.live.streamtheworld.com/RSGAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=9395327b-94a6-4c64-fe05-7f9179443574",
         "favicon": "https://img.logo.dev/rsg.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Teemaneng",
-        "url": "http://zas2.ndx.co.za:8006/stream?1743646346531",
-        "favicon": "https://img.logo.dev/rtsfm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Today",
@@ -835,14 +865,19 @@
         "favicon": "https://img.logo.dev/app.megazone.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RadioCross",
-        "url": "https://gospelblues365.com/listen/radiocross/radiocross.mp3",
-        "favicon": "https://img.logo.dev/radiocross.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio2000",
+        "url": "https://www.radio2000.co.za/radio2000/live/vertical.html",
+        "favicon": "https://img.logo.dev/radio2000.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rainbow Gospel Radio",
-        "url": "http://102.130.114.184:8000/Stream/1",
-        "favicon": "https://img.logo.dev/rainbowgr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Rainbow FM",
+        "url": "https://edge.iono.fm/xice/237_low.aac",
+        "favicon": "https://img.logo.dev/rainbowfm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ramkat Radio Kaapstad",
+        "url": "https://uslradio.net:8008/stream",
+        "favicon": "https://img.logo.dev/ramkatradio.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RISE FM",
@@ -855,6 +890,11 @@
         "favicon": "https://img.logo.dev/rockafm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rockbox! Radio",
+        "url": "https://radio.9300.co.za/listen/rockbox-radio/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.9300.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Salaam Media",
         "url": "http://capeant.antfarm.co.za:1935/salaam/salaam.stream/chunklist_w1196116988.m3u8",
         "favicon": "https://img.logo.dev/salaamedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -863,11 +903,6 @@
         "name": "salaammedia",
         "url": "https://iceant.antfarm.co.za/Salaam",
         "favicon": "https://img.logo.dev/salaamedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SekhukhuneFM",
-        "url": "https://edge.iono.fm/xice/301_low.aac",
-        "favicon": "https://img.logo.dev/skfm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SFM Streek Radio",
@@ -915,9 +950,9 @@
         "favicon": "https://img.logo.dev/primediaplus.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TAMBO FM",
-        "url": "https://listen.radioking.com/radio/326599/stream/374668?fbclid=IwAR3lWR7ZdVVmZBSBedW_Cv1xF_Q7KzGmUQ0stgVCc_A7kx8Cf3Ncek1ntxk",
-        "favicon": "https://img.logo.dev/tambofm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "The Grind Radio",
+        "url": "https://radio.eclipse-streaming.co.za/listen/thegrindradio/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.eclipse-streaming.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "The Grind Radio",
@@ -970,11 +1005,6 @@
         "favicon": "https://img.logo.dev/ubuntufmafrica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "UbuntuFM Radio International",
-        "url": "https://streaming.coollective.nl:8443/RadioXYZ",
-        "favicon": "https://img.logo.dev/ubuntufm.international?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ukhozi FM S.A",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets",
         "favicon": "https://img.logo.dev/ukhozifm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -993,6 +1023,11 @@
         "name": "uMgungundlovu FM 107.6",
         "url": "https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8",
         "favicon": "https://img.logo.dev/thesoundofchoice.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Umhlobo Wenene FM",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UMHLOBOWENENEAAC.aac",
+        "favicon": "https://img.logo.dev/umhlobowenenefm.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Urban Fusion Radio",
@@ -1056,12 +1091,17 @@
     },
     {
         "name": "zoibi FM",
-        "url": "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoibifm.mp3",
+        "url": "https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoom",
         "favicon": "https://img.logo.dev/eclipse-radio.eclipse-streaming.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "zoibicube",
-        "url": "https://radio3.eclipse-streaming.co.za/listen/zoibi/eggstra",
+        "url": "https://radio3.eclipse-streaming.co.za/listen/zoibi/zoibi.mp3",
         "favicon": "https://img.logo.dev/radio3.eclipse-streaming.co.za?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zone Radio",
+        "url": "https://edge.iono.fm/xhls/279_medium.m3u8?ref=https%3A%2F%2Fradio-browser.info&adToken=&pofToken=",
+        "favicon": "https://img.logo.dev/zoneradio.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

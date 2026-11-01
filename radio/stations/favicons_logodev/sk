@@ -10,11 +10,6 @@
         "favicon": "https://img.logo.dev/897radio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "BB FM rádio",
         "url": "http://stream.bbfm.sk/bbfm128.mp3",
         "favicon": "https://img.logo.dev/bbfm.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -225,11 +220,6 @@
         "favicon": "https://img.logo.dev/aetter.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Bela",
-        "url": "http://65.109.81.84:8855/live",
-        "favicon": "https://img.logo.dev/radiobela.zanet.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RÁDIO BEST FM",
         "url": "https://stream3.bestfm.sk:8000/128.mp3",
         "favicon": "https://img.logo.dev/bestfm.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -260,11 +250,6 @@
         "favicon": "https://img.logo.dev/beta.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO BIBLIA SK",
-        "url": "http://radiobiblia.online:8000/stream.ogg",
-        "favicon": "https://img.logo.dev/radiobiblia.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rádio Devín",
         "url": "https://icecast.stv.livebox.sk/devin_128.mp3",
         "favicon": "https://img.logo.dev/devin.rtvs.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -277,7 +262,7 @@
     {
         "name": "Radio Dychovka",
         "url": "https://epanel.mediacp.eu:7661/stream",
-        "favicon": "https://img.logo.dev/radiodychovka.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/epanel.mediacp.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Ekspres",
@@ -410,16 +395,6 @@
         "favicon": "https://img.logo.dev/lumen.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Rádio MÁRIA SLOVENSKO",
-        "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3",
-        "favicon": "https://img.logo.dev/radiomaria.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rádio Maria Slovensko",
-        "url": "http://dreamsiteradiocp5.com:8012/streaming.mp3",
-        "favicon": "https://img.logo.dev/radiomaria.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rádio Melody",
         "url": "https://stream.bauermedia.sk/melody-hi.mp3",
         "favicon": "https://img.logo.dev/radiomelody.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -443,16 +418,6 @@
         "name": "rádio Piešťany",
         "url": "https://solid33.streamupsolutions.com/proxy/gktiemqb/stream",
         "favicon": "https://img.logo.dev/radiopiestany.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rádio Pohoda 2",
-        "url": "http://mpc1.mediacp.eu:18111/stream",
-        "favicon": "https://img.logo.dev/radiopohoda.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "rádio pokoj",
-        "url": "http://radioserver.online:8822/;",
-        "favicon": "https://img.logo.dev/radiopokoj.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio Pyramída",
@@ -528,21 +493,6 @@
         "name": "Rádio Slovensko",
         "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
         "favicon": "https://img.logo.dev/slovensko.rtvs.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rádio Topoľčany",
-        "url": "http://80.242.44.249:8000/;",
-        "favicon": "https://img.logo.dev/radiotopolcany.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rádio Topolčany",
-        "url": "http://80.242.44.249:8000/",
-        "favicon": "https://img.logo.dev/radiotopolcany.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rádio TOPOĽČANY",
-        "url": "http://80.242.44.249:8000/;",
-        "favicon": "https://img.logo.dev/radiotopolcany.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rádio v Nitre",
@@ -665,14 +615,14 @@
         "favicon": "https://img.logo.dev/fm.rtvs.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Rádio_fm",
+        "url": "https://fm.stvr.sk/",
+        "favicon": "https://img.logo.dev/fm.stvr.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RÁDIO_FM",
         "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
         "favicon": "https://img.logo.dev/fm.rtvs.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radiopokoj",
-        "url": "http://radioserver.online:8822/;",
-        "favicon": "https://img.logo.dev/radiopokoj.sk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Regina Východ",

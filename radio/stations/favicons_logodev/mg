@@ -1,13 +1,13 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "ESDES Radio",
         "url": "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3",
         "favicon": "https://img.logo.dev/esdesmada.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Hopefy Radio MG",
+        "url": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.fanantenanahoanao.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NetPro.TV Radio",
@@ -65,6 +65,11 @@
         "favicon": "https://img.logo.dev/fanantenanahoanao.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RADIO RFA ANDAPA",
+        "url": "https://s12.myradiostream.com/20048/listen.mp3",
+        "favicon": "https://img.logo.dev/radiorfa.on-air.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Rock Madagascar",
         "url": "https://tanjona.radioca.st/stream",
         "favicon": "https://img.logo.dev/once.mg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -78,11 +83,6 @@
         "name": "RDJ",
         "url": "http://rdj966.net:8000/rdj966.mp3",
         "favicon": "https://img.logo.dev/rdj.mg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RNA Madagascar",
-        "url": "http://drs-live-rna.gasy-internet.info:9001/;",
-        "favicon": "https://img.logo.dev/rna-madagascar.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RNM",

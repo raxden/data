@@ -1,8 +1,8 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Khukh Tenger Radio (MNB Radio 2)",
+        "url": "https://live.mnb.mn/hls/radio2.stream.m3u8",
+        "favicon": "https://img.logo.dev/mnb.mn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MGL Radio",
@@ -13,6 +13,11 @@
         "name": "Mongolian Music Radio",
         "url": "http://65.108.143.81:7700/1",
         "favicon": "https://img.logo.dev/radiosons.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mongolyn radio (MNB Radio 1)",
+        "url": "https://live.mnb.mn/hls/radio1.stream.m3u8",
+        "favicon": "https://img.logo.dev/mnb.mn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Гэр бүлийн радио 104.5",

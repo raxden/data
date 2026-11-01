@@ -1,10 +1,5 @@
 [
     {
-        "name": "EXA FM: Pop music in Spanish and English",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "107.9 FM Da Vybe",
         "url": "https://ice3.securenetsystems.net/WLDV",
         "favicon": "https://img.logo.dev/davybe.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -30,6 +25,11 @@
         "favicon": "https://img.logo.dev/listen.181fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Elim LLDM",
+        "url": "https://radio.elimlldm.net/listen/elim_lldm/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.elimlldm.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "WSTX-AM 970 Christiansted",
         "url": "http://wstxradio2.serverroom.net:8340/;",
         "favicon": "https://img.logo.dev/wstxradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -38,5 +38,10 @@
         "name": "WSTX-FM 100.3 Christiansted",
         "url": "http://wstxradio.serverroom.net:7490/;",
         "favicon": "https://img.logo.dev/wstxradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "WTJX",
+        "url": "https://quarrel.streamguys1.com:7405/wtjxfm",
+        "favicon": "https://img.logo.dev/quarrel.streamguys1.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

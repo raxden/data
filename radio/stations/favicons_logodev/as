@@ -1,15 +1,5 @@
 [
     {
-        "name": "LOVE FM: Musika lauiloa i le gagana Sipaniolo",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Christmas 356 Santa's Radio",
         "url": "https://us3.streamingpulse.com/ssl/7038",
         "favicon": "https://img.logo.dev/xmas365.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,11 +13,6 @@
         "name": "Christmas Classics",
         "url": "http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836",
         "favicon": "https://img.logo.dev/player.181fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "EXA FM: Pop musika i le Igilisi ma le Sipaniolo",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fm Christmas classics",
@@ -53,6 +38,11 @@
         "name": "Radio Rashi online",
         "url": "https://s2.free-shoutcast.com/stream/18214",
         "favicon": "https://img.logo.dev/radiorashi.alle.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "S1lhoutte - Rock FM",
+        "url": "http://rockfm.rockfm.com.tr:9450/",
+        "favicon": "https://img.logo.dev/rockfm.rockfm.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WMIL 106.1 FM",

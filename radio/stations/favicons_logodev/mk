@@ -20,11 +20,6 @@
         "favicon": "https://img.logo.dev/radiostream.neotel.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Antenna 5",
         "url": "https://fms.off.net.mk:8000/antenna5.stream",
         "favicon": "https://img.logo.dev/antenna5.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -35,29 +30,14 @@
         "favicon": "https://img.logo.dev/antenna5.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Bum Kumanovo",
-        "url": "http://iandonov.radioca.st/;stream/1",
-        "favicon": "https://img.logo.dev/iandonov.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Club Radio - Skopje, Mcedonia",
         "url": "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3",
         "favicon": "https://img.logo.dev/clubradio.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Club Radio Macedonia",
-        "url": "http://161.97.114.58:8040/radio.mp3",
-        "favicon": "https://img.logo.dev/radiomreza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Club Radio Macedonia",
         "url": "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3",
         "favicon": "https://img.logo.dev/clubradio.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Energy Radio - Skopje, Macedonia",
-        "url": "http://161.97.114.58:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radiomreza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Hits Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
@@ -105,6 +85,11 @@
         "favicon": "https://img.logo.dev/mrt.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio 105 Bombarder",
+        "url": "https://radio105bombarder.com:21010/",
+        "favicon": "https://img.logo.dev/radio105bombarder.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Bravo Smooth Jazz Mix Radio",
         "url": "http://server.webnetradio.net:5490/stream?",
         "favicon": "https://img.logo.dev/radiobravo.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -115,29 +100,14 @@
         "favicon": "https://img.logo.dev/play.radiobubamara.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Fortuna 96.8 FM",
-        "url": "https://radiofortuna.ipradio.mk/;*.mp3",
-        "favicon": "https://img.logo.dev/radiofortuna.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Fortuna 96.8 FM",
-        "url": "https://radiofortuna.ipradio.mk/;*.mp3",
-        "favicon": "https://img.logo.dev/radiofortuna.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Fortuna 96.8 Skopje, Macedonia",
-        "url": "https://radiofortuna.ipradio.mk/;*.mp3%22",
-        "favicon": "https://img.logo.dev/radiofortuna.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Kanal 77 Skopje, Macedonia",
         "url": "https://radiocnd.mms.mk/proxy/offnet/stream",
         "favicon": "https://img.logo.dev/kanal77.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Maria Macedonia",
-        "url": "http://dreamsiteradiocp.com:8118/stream",
-        "favicon": "https://img.logo.dev/radiomaria.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Valandovo 91.6 FM",
+        "url": "https://cloud.mkdstream.com/p/7391/stream",
+        "favicon": "https://img.logo.dev/cloud.mkdstream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIOBAR",
@@ -176,7 +146,7 @@
     },
     {
         "name": "Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
-        "url": "http://s1.skyradio.com.mk:8002/",
+        "url": "http://s1.skyradio.com.mk:8000/",
         "favicon": "https://img.logo.dev/skyradio.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -188,11 +158,6 @@
         "name": "Sky Radio Hits Skopje, Macedonia",
         "url": "https://s1.skyradio.com.mk/hits.mp3",
         "favicon": "https://img.logo.dev/skyradio.com.mk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Star Folk Radio - Skopje, Macedonia",
-        "url": "http://161.97.114.58:8010/radio.mp3",
-        "favicon": "https://img.logo.dev/radiomreza.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Star Radio (Boemi) Skopje, Macedonia",

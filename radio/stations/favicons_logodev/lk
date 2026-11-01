@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Anow Radio Hd+ Tamil",
         "url": "https://onair.punnagairadio.com/anowradiohd/stream",
         "favicon": "https://img.logo.dev/anowhosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,11 +13,6 @@
         "name": "CIR",
         "url": "http://220.247.234.207:8000/cirstream",
         "favicon": "https://img.logo.dev/slbc.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Classic Radio",
-        "url": "https://cp11.serverse.com/proxy/classic/stream",
-        "favicon": "https://img.logo.dev/trn.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DreamzLanka FM",
@@ -162,27 +152,17 @@
     {
         "name": "Radio Plus Hitz",
         "url": "https://altair.streamerr.co/stream/8054",
-        "favicon": "https://img.logo.dev/radioplus.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/altair.streamerr.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Plus Sri Lanka",
         "url": "https://altair.streamerr.co/stream/8036",
-        "favicon": "https://img.logo.dev/radioplus.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/altair.streamerr.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Plus Sri Lanka",
         "url": "https://altair.streamerr.co/stream/8036",
-        "favicon": "https://img.logo.dev/radioplus.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ran FM",
-        "url": "http://207.148.74.192:7860/ran.mp3",
-        "favicon": "https://img.logo.dev/ranfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ran FM",
-        "url": "https://a3.asurahosting.com/listen/ranfm/radio.mp3",
-        "favicon": "https://img.logo.dev/ranfm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/altair.streamerr.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rangiri Sri Lanka",
@@ -193,6 +173,11 @@
         "name": "Real Radio Sri Lanka 97.1",
         "url": "https://srv02.onlineradio.voaplus.com/realfm",
         "favicon": "https://img.logo.dev/realradio.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Shaa FM",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden",
+        "favicon": "https://img.logo.dev/shaafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Shakthi Fm",
@@ -207,7 +192,7 @@
     {
         "name": "Sirasa FM",
         "url": "http://live.trusl.com:1170/;",
-        "favicon": "https://img.logo.dev/sirasa.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/live.trusl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sitha FM",
@@ -235,6 +220,11 @@
         "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Siyatha FM",
+        "url": "http://live.trusl.com:1170/;?type=http&nocache=0",
+        "favicon": "https://img.logo.dev/live.trusl.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Siyatha Fm",
         "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
         "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -243,11 +233,6 @@
         "name": "siyathafm mine",
         "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
         "favicon": "https://img.logo.dev/siyathafm.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sky Radio",
-        "url": "https://cp11.serverse.com/proxy/skyradio/stream",
-        "favicon": "https://img.logo.dev/trn.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SLBC -City FM",
@@ -315,14 +300,19 @@
         "favicon": "https://img.logo.dev/theoneradio.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "The One Radio HD",
+        "url": "http://82.145.63.6:4549/stream",
+        "favicon": "https://img.logo.dev/theoneradio.listen2myshow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The One Radio HD",
+        "url": "https://sapircast.caster.fm:17981/FmcXA?token=3997823e760d39ede340b81d9a5a636d",
+        "favicon": "https://img.logo.dev/theoneradio.ismyradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "The One Radio Hi-Res",
         "url": "http://uk15freenew.listen2myradio.com:6122/stream",
         "favicon": "https://img.logo.dev/theoneradio.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோ",
-        "url": "http://s2.voscast.com:12084/;stream1619441439791/1",
-        "favicon": "https://img.logo.dev/tubetamil.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "V FM",
@@ -338,11 +328,6 @@
         "name": "Wellon Radio Cafe",
         "url": "https://wellonradio.out.airtime.pro/wellonradio_a",
         "favicon": "https://img.logo.dev/wellonradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WoW රේඩියෝ",
-        "url": "https://cp11.serverse.com/proxy/wowradio/stream",
-        "favicon": "https://img.logo.dev/trn.lk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Y FM",

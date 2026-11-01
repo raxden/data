@@ -1,10 +1,5 @@
 [
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "149FM",
         "url": "https://azura149fm.duckdns.org/listen/149fm/radio.mp3",
         "favicon": "https://img.logo.dev/149fm.duckdns.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -45,11 +40,6 @@
         "favicon": "https://img.logo.dev/adjudfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Agape Radio",
-        "url": "https://stream.zeno.fm/s38pdt9h268uv",
-        "favicon": "https://img.logo.dev/radioagape.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Agnus Rádió",
         "url": "http://radio2.tirek.hu:8000/agnusradio",
         "favicon": "https://img.logo.dev/agnusradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -60,11 +50,6 @@
         "favicon": "https://img.logo.dev/agnusradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Altfel FM",
-        "url": "https://azuralive.streams.ovh/listen/radioaltfel/64.aac",
-        "favicon": "https://img.logo.dev/azuralive.streams.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ambiento",
         "url": "https://ambiento-adradio.radioca.st/128",
         "favicon": "https://img.logo.dev/ambientoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -73,11 +58,6 @@
         "name": "Ambiento",
         "url": "https://ambiento-adradio.radioca.st/128",
         "favicon": "https://img.logo.dev/ambientoradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Anișoara Radio",
-        "url": "https://live.radioanisoara.ro:8080/stream",
-        "favicon": "https://img.logo.dev/radioanisoara.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Antena satelor",
@@ -168,6 +148,11 @@
         "name": "Baraka radio",
         "url": "https://ice.streams.ovh:1165/stream",
         "favicon": "https://img.logo.dev/radiobaraka.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Barikada",
+        "url": "https://live.radiobarikada.ro:8000/stream",
+        "favicon": "https://img.logo.dev/live.radiobarikada.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Biblia Audio - Radio Calea Spre Cer",
@@ -283,6 +268,11 @@
         "name": "City Radio Romania",
         "url": "http://live.city-radio.ro:8800/;",
         "favicon": "https://img.logo.dev/city-radio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CityWave Radio",
+        "url": "https://live.citywaveradio.com:9000/stream",
+        "favicon": "https://img.logo.dev/citywaveradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Clasic Radio_100% Romanesc -București",
@@ -465,6 +455,11 @@
         "favicon": "https://img.logo.dev/clasicradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Cloud Radio Romania",
+        "url": "https://live.cloudradio.ro:9400/stream",
+        "favicon": "https://img.logo.dev/live.cloudradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Club Radio",
         "url": "https://live.clubradio.ro/listen/clubradio/live",
         "favicon": "https://img.logo.dev/clubradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -533,6 +528,16 @@
         "name": "DeeaRadio",
         "url": "http://radiocdn.nxthost.com/radio-deea",
         "favicon": "https://img.logo.dev/radiodeea.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "DEEP HOUSE ENERGY",
+        "url": "https://fra-pioneer01.dedicateware.com:2930//stream",
+        "favicon": "https://img.logo.dev/radioenergyfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Deep House Energy",
+        "url": "https://fra-pioneer01.dedicateware.com:3410/stream",
+        "favicon": "https://img.logo.dev/radioenergyfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Deep House Radio - Bucharest Romania",
@@ -915,6 +920,11 @@
         "favicon": "https://img.logo.dev/fmradiomanele.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "FM Radio Manele - Manele",
+        "url": "https://ssl.servereradio.ro/8054/stream",
+        "favicon": "https://img.logo.dev/fmradiomanele.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "FMRadioManele",
         "url": "http://a.fmradiomanele.ro:8054/;",
         "favicon": "https://img.logo.dev/fmradiomanele.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1265,111 +1275,6 @@
         "favicon": "https://img.logo.dev/radio.free-shoutcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "LibertyMP Blues -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpblues/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Chill -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpchill/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Classic -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpclassic/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Country -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpcountry/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Drum and Bass -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpdrumandbass/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Dubstep -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpdubstep/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Jazz -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpjazz/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP KPop -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpkpop/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Latino -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmplatino/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Manele -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpmanele/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Metal -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpmetal/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Nostalgia -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpnostalgia/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Phonk -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpphonk/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Populara -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmppopulara/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Reggae -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpreggae/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Rock -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmprock/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Techno -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmptechno/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Trap -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmptrap/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Trapanele -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmptrapanele/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Trucker -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmptrucker/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "LibertyMP Urban -Cluj Napoca",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpurban/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Los Bandoleros Radio",
         "url": "https://radio.losbandoleros.ro/listen/losbandoleros/radio.mp3",
         "favicon": "https://img.logo.dev/losbandoleros.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1565,6 +1470,11 @@
         "favicon": "https://img.logo.dev/musceltv.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Music for Life",
+        "url": "https://listen.blacklotusmusic.life/stream/main",
+        "favicon": "https://img.logo.dev/listen.blacklotusmusic.life?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Napoca FM",
         "url": "https://streaming.napocalive.ro/napoca-fm",
         "favicon": "https://img.logo.dev/napocafm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1627,22 +1537,7 @@
     {
         "name": "Nostalgia Radio",
         "url": "https://live.radionostalgia.ro:8443/nostalgia.aac",
-        "favicon": "https://img.logo.dev/radionostalgia.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nostalgia Radio",
-        "url": "https://live.radionostalgia.ro:8443/nostalgia.aac",
         "favicon": "https://img.logo.dev/nostalgiaradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NOSTALGIC FM",
-        "url": "https://nostalgicfm.ro/",
-        "favicon": "https://img.logo.dev/nostalgicfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "NOSTALGIC FM",
-        "url": "https://www.radio-browser.info/add",
-        "favicon": "https://img.logo.dev/nostalgicfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NOSTALGIC FM",
@@ -1780,6 +1675,16 @@
         "favicon": "https://img.logo.dev/pluszfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "PMAINFO Music Station",
+        "url": "http://uk25freenew.listen2myradio.com:20914/",
+        "favicon": "https://img.logo.dev/pmainfo.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "PMAINFO Music Station",
+        "url": "http://uk25freenew.listen2myradio.com:20914/",
+        "favicon": "https://img.logo.dev/pmainfo.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Pro FM",
         "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
         "favicon": "https://img.logo.dev/profm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1855,19 +1760,14 @@
         "favicon": "https://img.logo.dev/atentat.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Alpin",
-        "url": "http://live.radiodeejay.hr:7002/;",
-        "favicon": "https://img.logo.dev/radioalpin.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Antena Braşovului",
-        "url": "http://streaming.radiomures.ro:8302/",
-        "favicon": "https://img.logo.dev/radioantenabv.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Antena Satelor",
         "url": "http://89.238.227.6:8042/",
         "favicon": "https://img.logo.dev/antenasatelor.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Any Beauty Style",
+        "url": "https://radio.anybeautystyle.ro/listen/anybeautystyle/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.anybeautystyle.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio APM Romania",
@@ -1880,34 +1780,14 @@
         "favicon": "https://img.logo.dev/radio-aquila.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Arad",
-        "url": "http://85.120.220.205:8000/radio-arad",
-        "favicon": "https://img.logo.dev/radio-arad.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Arad -99,1 FM",
-        "url": "http://radioarad.arad1.ro:8000/radio-arad",
-        "favicon": "https://img.logo.dev/radioarad.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Arges",
-        "url": "http://89.39.189.53:8000/stream",
-        "favicon": "https://img.logo.dev/radioarges.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Argeș Expres FM - Curtea de Argeș 94,6 FM",
-        "url": "https://stream.expres.sk/128.mp3",
-        "favicon": "https://img.logo.dev/radioargesexpres.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Armonia Romania",
         "url": "http://a1.bisericilive.com/mainradioarmoniaro.mp3",
         "favicon": "https://img.logo.dev/radioarmonia.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio ASP (Asociatia Paraschiva Arges) - Retevoiești",
-        "url": "https://ssl.omegahost.ro/8096/stream",
-        "favicon": "https://img.logo.dev/ssl.omegahost.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Aspirații -Brăila",
+        "url": "https://c32.radioboss.fm/stream/440",
+        "favicon": "https://img.logo.dev/radio-lg-aspiratii.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Babilon - Romania",
@@ -1915,34 +1795,14 @@
         "favicon": "https://img.logo.dev/radiobabilon.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Badita Popular",
-        "url": "http://89.39.189.29:8000/stream",
-        "favicon": "https://img.logo.dev/radiobaditapopular.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Balkan Romania",
         "url": "https://live.radiobalkan.ro:8102/stream",
         "favicon": "https://img.logo.dev/radiobalkan.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Bandit",
-        "url": "http://live.radiobandit.ro:8000/320.mp3",
-        "favicon": "https://img.logo.dev/radiobandit.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Beat Romania -Cluj Napoca",
-        "url": "http://radiobeat.ro:8100/;",
-        "favicon": "https://img.logo.dev/radiobeat.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Bella Eomania",
         "url": "https://ssl.asculta.live/radiobella/stream",
         "favicon": "https://img.logo.dev/radiobella.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Best Musik Romania",
-        "url": "https://fra-pioneer01.dedicateware.com:2300/;",
-        "favicon": "https://img.logo.dev/radiobestmusik.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Blaj (📌 Blaj 📡 96,2 FM)",
@@ -2020,26 +1880,6 @@
         "favicon": "https://img.logo.dev/bucurestifm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Cafe RO",
-        "url": "http://live.radiocafe.ro:8048/live.aac",
-        "favicon": "https://img.logo.dev/radiocafe.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Cafe Romania",
-        "url": "http://live.radiocafe.ro:8048/live.aac",
-        "favicon": "https://img.logo.dev/radiocafe.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Cafe Romania",
-        "url": "https://live.radiocafe.ro/live.aac",
-        "favicon": "https://img.logo.dev/radiocafe.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Cafe Romania",
-        "url": "http://live.radiocafe.ro:8048/live.aac",
-        "favicon": "https://img.logo.dev/radiocafe.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Călărași Prees",
         "url": "https://broadcast.brandingradio.com/listen/radiocalarasipress/live?refresh=1776086956744",
         "favicon": "https://img.logo.dev/calarasipress.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2058,11 +1898,6 @@
         "name": "Radio Cartier Romania",
         "url": "https://live.radiocartier.eu:8048/stream",
         "favicon": "https://img.logo.dev/radiocartier.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Cireșarii -Beiuș",
-        "url": "https://s3.radio.co/s6c0a773ad/listen",
-        "favicon": "https://img.logo.dev/radiociresarii.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Click Romania",
@@ -2138,11 +1973,6 @@
         "name": "Radio Cuibul Lupilor Albi",
         "url": "https://stream.zeno.fm/7s5mmrtzmuhvv",
         "favicon": "https://img.logo.dev/radio.org.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Cuvântul Vieții",
-        "url": "https://ssl.asculta.live:8288/stream",
-        "favicon": "https://img.logo.dev/rcvcluj.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio DA",
@@ -2265,6 +2095,11 @@
         "favicon": "https://img.logo.dev/doxologia.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Doxologia",
+        "url": "http://rlive.doxologia.ro/stream.mp3",
+        "favicon": "https://img.logo.dev/doxologia.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Doza Manele",
         "url": "http://manele.radiodoza.eu:8100/stream",
         "favicon": "https://img.logo.dev/radiodoza.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2273,21 +2108,6 @@
         "name": "Radio Doza Urban",
         "url": "https://stream.zeno.fm/cezx5b1nw98uv",
         "favicon": "https://img.logo.dev/radiodoza.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dreams Clasic",
-        "url": "http://radiodreams.g1.ro:3399/radiodreams.g1.ro",
-        "favicon": "https://img.logo.dev/radiodreams.g1.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dreams Dance Hits Adrenaline",
-        "url": "http://radiodreams.g1.ro:3390/radiodreams.g1.ro",
-        "favicon": "https://img.logo.dev/radiodreams.g1.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Dreams Dance Hits Adrenaline",
-        "url": "http://5.2.184.92:3390/radiodreams.g1.ro?icy=https",
-        "favicon": "https://img.logo.dev/radiodreams.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio EASY -Bacău",
@@ -2325,11 +2145,6 @@
         "favicon": "https://img.logo.dev/radioelim.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Emanuel Crestin",
-        "url": "https://cast6.my-control-panel.com/proxy/radio_emanuel_crestin/stream",
-        "favicon": "https://img.logo.dev/radioemanuelcrestin.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Energy Cugir",
         "url": "https://sonicssl.namehost.ro/8790/stream/;",
         "favicon": "https://img.logo.dev/radioenergycugir.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2348,11 +2163,6 @@
         "name": "Radio Etno Mania Romania",
         "url": "https://live.radioetnomania.com:9300/stream",
         "favicon": "https://img.logo.dev/radioetnomania.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Etno Vest Timisoara",
-        "url": "http://ssl.radios.show:8020/;",
-        "favicon": "https://img.logo.dev/radioetnovest.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Extrem -Brăila",
@@ -2377,7 +2187,7 @@
     {
         "name": "Radio FIR -Dej 96,2 FM",
         "url": "https://sonic1-rbx.cloud-center.ro:8060/stream",
-        "favicon": "https://img.logo.dev/radiofir.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sonic1-rbx.cloud-center.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Fix -Botoșani 99,8 FM",
@@ -2685,11 +2495,6 @@
         "favicon": "https://img.logo.dev/radiokokoms.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Koko",
-        "url": "http://serverconnect.dyndns.org:10/stream",
-        "favicon": "https://img.logo.dev/serverconnect.dyndns.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rádio Koko",
         "url": "https://az10.yesstreaming.net:8210/radiokoko",
         "favicon": "https://img.logo.dev/radiokokoms.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2735,11 +2540,6 @@
         "favicon": "https://img.logo.dev/radioliberty.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Liberty Multiplayer Phonk remix",
-        "url": "https://hs1.radiolibertymp.ro/listen/lmpphonk/stream.mp3",
-        "favicon": "https://img.logo.dev/radiolibertymp.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Liberty Muzică Românească -București",
         "url": "https://sonicssl.namehost.ro/7060/stream",
         "favicon": "https://img.logo.dev/radioliberty.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2755,6 +2555,11 @@
         "favicon": "https://img.logo.dev/radioliberty.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio liberty slagare",
+        "url": "http://slagare.radioliberty.ro:1989/",
+        "favicon": "https://img.logo.dev/slagare.radioliberty.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Liberty Slagare -București",
         "url": "https://sonicssl.namehost.ro/7050/stream",
         "favicon": "https://img.logo.dev/radioliberty.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2765,9 +2570,14 @@
         "favicon": "https://img.logo.dev/radiolipova.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio MANELE",
-        "url": "https://play.wrhradios.com/8044/stream",
-        "favicon": "https://img.logo.dev/play.wrhradios.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio LTU",
+        "url": "https://panel.radiocast.net/listen/radio_ltu/radio.mp3",
+        "favicon": "https://img.logo.dev/panel.radiocast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio M Plus - Targu Neamt",
+        "url": "https://s4.ssl-stream.com:7880/live",
+        "favicon": "https://img.logo.dev/radiomplusfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Manele FM",
@@ -2778,11 +2588,6 @@
         "name": "RADIO MANELE PETRECERE",
         "url": "https://ssl.servereradio.ro/8123/stream",
         "favicon": "https://img.logo.dev/fmradiomanele.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Manele Premium",
-        "url": "http://88.198.70.25:8894/;",
-        "favicon": "https://img.logo.dev/radiomanelepremium.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Manele Romania",
@@ -2820,9 +2625,9 @@
         "favicon": "https://img.logo.dev/radiomedias.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO MIRAJUL MUZICII",
-        "url": "http://live.radiomiraj.ro:9952/stream",
-        "favicon": "https://img.logo.dev/radiomiraj.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Momente Magice",
+        "url": "http://radio.sonicpanel.ro:8070/",
+        "favicon": "https://img.logo.dev/radio.sonicpanel.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Mynele",
@@ -3095,16 +2900,6 @@
         "favicon": "https://img.logo.dev/orionfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Party București",
-        "url": "http://asculta.radiopartybucuresti.ro:8050/;",
-        "favicon": "https://img.logo.dev/radiopartybucuresti.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Petrecăretzu",
-        "url": "http://live.radiopetrecaretzu.ro:8383/;",
-        "favicon": "https://img.logo.dev/radiopetrecaretzu.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RADIO Petrecere",
         "url": "https://ssl.servereradio.ro/8123/stream",
         "favicon": "https://img.logo.dev/fmradiomanele.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3350,14 +3145,9 @@
         "favicon": "https://img.logo.dev/radio-romantic.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio ROT Romania",
-        "url": "http://radiorot.ovh:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/radiorot.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sighet FM",
-        "url": "http://89.238.227.6:8390/%7CRadio",
-        "favicon": "https://img.logo.dev/sighetfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Radio Sălaj",
+        "url": "https://stream.radiosalaj.ro/listen/radio-salaj/radio.mp3",
+        "favicon": "https://img.logo.dev/radiosalaj.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Sky FM",
@@ -3423,6 +3213,16 @@
         "name": "Radio Târgu Jiu",
         "url": "https://stream.radiotargujiu.ro/stream",
         "favicon": "https://img.logo.dev/radiotargujiu.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Teatru Radiofonic România",
+        "url": "https://asculta.teatruradiofonic.com/teatru",
+        "favicon": "https://img.logo.dev/teatruradiofonic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Tequila Dance Romania",
+        "url": "http://dance.radiotequila.ro:7000/;stream.nsv",
+        "favicon": "https://img.logo.dev/dance.radiotequila.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Tequila Hip-Hop",
@@ -3525,9 +3325,24 @@
         "favicon": "https://img.logo.dev/radiotrinitas.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Trinitas",
+        "url": "http://81.196.25.70:8000/",
+        "favicon": "https://img.logo.dev/radiotrinitas.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Trinitas",
+        "url": "http://81.196.25.70:8000/",
+        "favicon": "https://img.logo.dev/radiotrinitas.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Trinitas 88.5",
         "url": "https://live.radiotrinitas.ro:8003/;stream.nsv",
         "favicon": "https://img.logo.dev/radiotrinitas.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio TukTuk",
+        "url": "https://servidor38-3.brlogic.com:7206/live",
+        "favicon": "https://img.logo.dev/radio.tuktuk.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Turda",
@@ -3538,16 +3353,6 @@
         "name": "Radio Turda 107.7 FM",
         "url": "https://live.aftech.ro/radio/8010/radio.mp3",
         "favicon": "https://img.logo.dev/radioturda.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio TV Oltenita",
-        "url": "https://vocescampi.ro:8443/live.mp3",
-        "favicon": "https://img.logo.dev/radiotvoltenita.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Underland",
-        "url": "https://radio.underland.team/radio/8000/radio.mp3",
-        "favicon": "https://img.logo.dev/underland.team?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Unique",
@@ -3578,11 +3383,6 @@
         "name": "Radio Valori Românești -Cluj Napoca",
         "url": "https://securestreams6.autopo.st:2250/stream",
         "favicon": "https://img.logo.dev/valoriromanesti.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Veselia Folclor",
-        "url": "http://asculta.radioveseliafolclor.com:8232/;",
-        "favicon": "https://img.logo.dev/radioveseliafolclor.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Vestea Buna",
@@ -3618,11 +3418,6 @@
         "name": "Radio Vocea Speranței RVS",
         "url": "https://live.rvs.ro/play",
         "favicon": "https://img.logo.dev/rvs.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Voces Campi",
-        "url": "http://vocescampi.ro:8001/;",
-        "favicon": "https://img.logo.dev/vocescampi.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Voces Campi -Călărași 101,1 FM",
@@ -3695,36 +3490,6 @@
         "favicon": "https://img.logo.dev/xat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RadioPapuc",
-        "url": "https://stream.zeno.fm/phcn6lncrj4tv",
-        "favicon": "https://img.logo.dev/wigg.fun?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioPlay Colinde Romania -Cluj Napoca",
-        "url": "http://colinde2.radioplay.ro:9292/;",
-        "favicon": "https://img.logo.dev/radioplay.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioPlay Dance Romania -Cluj Napoca",
-        "url": "https://mscp1.gazduireradio.ro:1130/stream",
-        "favicon": "https://img.logo.dev/radioplay.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioPlay Manele Romania -Cluj Napoca",
-        "url": "http://manele2.radioplay.ro:7171/;",
-        "favicon": "https://img.logo.dev/radioplay.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioPlay Retro Romania -Cluj Napoca",
-        "url": "https://mscp1.gazduireradio.ro:1360/stream",
-        "favicon": "https://img.logo.dev/radioplay.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioPlay Trance Romania -Cluj Napoca",
-        "url": "https://mscp1.gazduireradio.ro:1220/stream",
-        "favicon": "https://img.logo.dev/radioplay.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RadioReintregirea Alba Iulia",
         "url": "https://live.reintregirea.ro/",
         "favicon": "https://img.logo.dev/reintregirea.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3780,11 +3545,6 @@
         "favicon": "https://img.logo.dev/replicaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Retró Rádió Csíkszereda",
-        "url": "http://online.radioretro.ro:8002/RetroRadio.mp3",
-        "favicon": "https://img.logo.dev/radioretro.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RFI Romania",
         "url": "http://asculta.rfi.ro:9128/live.aac",
         "favicon": "https://img.logo.dev/rfi.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3823,16 +3583,6 @@
         "name": "Rock FM Romania",
         "url": "https://live.rockfm.ro/rockfm.aacp",
         "favicon": "https://img.logo.dev/rockfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rock Now Radio",
-        "url": "https://listen.rocknowradio.ro/",
-        "favicon": "https://img.logo.dev/rocknowradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rock Now Radio",
-        "url": "https://listen.rocknowradio.ro/",
-        "favicon": "https://img.logo.dev/rocknowradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rocker Inside",
@@ -3965,9 +3715,9 @@
         "favicon": "https://img.logo.dev/sepsiradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "shred.ing",
-        "url": "https://shred.ing/",
-        "favicon": "https://img.logo.dev/shred.ing?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "SHAMANU",
+        "url": "https://shamanu.live/stream",
+        "favicon": "https://img.logo.dev/shamanu.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Shuffle FM",
@@ -3980,29 +3730,14 @@
         "favicon": "https://img.logo.dev/radiosibiu.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Siculus Rádió",
-        "url": "http://46.214.17.202:8000/radioac3",
-        "favicon": "https://img.logo.dev/siculusradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Siculus Rádió -Kézdivásárhely/Târgu Secuiesc 95.0 FM",
-        "url": "http://46.214.17.202:8000/radioac3",
-        "favicon": "https://img.logo.dev/siculusradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sighet FM -Sighetu Marmației 89.3 FM",
-        "url": "https://radio.zifer.ro/SighetFM",
-        "favicon": "https://img.logo.dev/sighetfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sighet FM 89.3",
-        "url": "https://radio.zifer.ro/SighetFM",
-        "favicon": "https://img.logo.dev/sighetfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Simigerie Radio",
         "url": "https://listen.radioking.com/radio/624691/stream/686929",
         "favicon": "https://img.logo.dev/welove.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Simplu Radio",
+        "url": "http://asculta.radiosimplu.ro:7500/stream",
+        "favicon": "https://img.logo.dev/asculta.radiosimplu.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sinaia Radio Forever",
@@ -4018,11 +3753,6 @@
         "name": "Sky Radio Bucuresti",
         "url": "https://20593.live.streamtheworld.com/KNEIFM_SC",
         "favicon": "https://img.logo.dev/skyradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sky Sound Radio",
-        "url": "https://puma.streemlion.com:1705/stream",
-        "favicon": "https://img.logo.dev/skysoundradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Smart FM",
@@ -4180,6 +3910,11 @@
         "favicon": "https://img.logo.dev/xat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "SoundVibe Radio",
+        "url": "https://s4.radio.co/s599dc3645/listen",
+        "favicon": "https://img.logo.dev/soundviberadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Space FM",
         "url": "http://stream.radioparadise.com/world-etc-192",
         "favicon": "https://img.logo.dev/spacefm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4208,11 +3943,6 @@
         "name": "Sport Total FM (SPT FM) -București 105.8 FM",
         "url": "https://livesptfm.com/SPTFM/Live/chunklist.m3u8",
         "favicon": "https://img.logo.dev/sptfm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SPRING Radio",
-        "url": "https://eu3.fastcast4u.com/proxy/ioflorin",
-        "favicon": "https://img.logo.dev/radiospring.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Squad Radio",
@@ -4275,14 +4005,24 @@
         "favicon": "https://img.logo.dev/radiogosen.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Stil FM Radio - Călărași 105.5 FM",
-        "url": "http://5.2.233.147:8000/live",
-        "favicon": "https://img.logo.dev/stilfmradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Station Offline",
+        "url": "https://live.station-offline.com/listen/station-offline/live.aac",
+        "favicon": "https://img.logo.dev/station-offline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stil FM Radio - Oltenița 88.2 FM",
         "url": "https://sonic1-rbx.cloud-center.ro:7020/live",
-        "favicon": "https://img.logo.dev/stilfmradio.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/sonic1-rbx.cloud-center.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Stil România -Radio Stil Dance",
+        "url": "https://dance.radiostill.ro/8166/stream",
+        "favicon": "https://img.logo.dev/dance.radiostill.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Stil România -Radio Stil Manele",
+        "url": "https://mp3.radiostill.ro:8888/stream",
+        "favicon": "https://img.logo.dev/mp3.radiostill.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stil România -Radio Stil Popular",
@@ -4303,11 +4043,6 @@
         "name": "Sud Radio -Craiova 97.4 FM",
         "url": "http://radiosud.ro/stream/",
         "favicon": "https://img.logo.dev/radiosud.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sunrise 85 FM",
-        "url": "https://radio.sunrise85fm.ro/listen/sunrise_85_fm_radio/radio.mp3",
-        "favicon": "https://img.logo.dev/sunrise85fm.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Super FM",
@@ -4550,11 +4285,6 @@
         "favicon": "https://img.logo.dev/radiotop.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Total Radio -București 94.2 FM",
-        "url": "http://radiototal.radioca.st/stream",
-        "favicon": "https://img.logo.dev/radiototal.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7",
         "url": "https://panel.radiocaleasprecer.com/radio/8040/radio.mp3",
         "favicon": "https://img.logo.dev/radiocaleasprecer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4565,9 +4295,14 @@
         "favicon": "https://img.logo.dev/radiocaleasprecer.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Tradițional Radio - Manele",
-        "url": "https://radio.ascultatare.ro/7000/stream",
-        "favicon": "https://img.logo.dev/radiotraditional.ro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "TRANCE ENERGY",
+        "url": "https://fra-pioneer01.dedicateware.com:2990/;/stream",
+        "favicon": "https://img.logo.dev/radioenergyfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Trance Energy",
+        "url": "https://fra-pioneer01.dedicateware.com:3400/stream",
+        "favicon": "https://img.logo.dev/radioenergyfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tranquila Manele România",

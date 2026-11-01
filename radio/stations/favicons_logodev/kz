@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/beufm.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Auto Radio Kazakhstan",
         "url": "http://178.88.167.62:8080/AVTORADIO_192",
         "favicon": "https://img.logo.dev/avtoradio.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -30,6 +25,11 @@
         "favicon": "https://img.logo.dev/darhanradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Energy FM 102.2 Almaty",
+        "url": "http://89.219.34.117:8008/NEWENERGY",
+        "favicon": "https://img.logo.dev/energyfm.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "KTK TV",
         "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
         "favicon": "https://img.logo.dev/ktk.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -38,6 +38,16 @@
         "name": "Love Radio Kazakhstan",
         "url": "https://stream.gakku.tv:8443/love128.mp3",
         "favicon": "https://img.logo.dev/loveradio.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Lux FM Kazakhstan",
+        "url": "https://service.luxfm.kz/bc/live",
+        "favicon": "https://img.logo.dev/luxfm.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MUZZONE RADIO",
+        "url": "https://stream4.rcast.net/74046",
+        "favicon": "https://img.logo.dev/radio.muzzone.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "NS-Rock",
@@ -63,6 +73,11 @@
         "name": "Qazaq radiosy",
         "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
         "favicon": "https://img.logo.dev/qazradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RADIO 7 SEMEY",
+        "url": "https://listen2.myradio24.com/8334",
+        "favicon": "https://img.logo.dev/radio7.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Azamat",
@@ -95,6 +110,11 @@
         "favicon": "https://img.logo.dev/radiotmk.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Russian Dance Radio",
+        "url": "https://lux-radio.com:8015/stream",
+        "favicon": "https://img.logo.dev/lux-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Shalqar",
         "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
         "favicon": "https://img.logo.dev/qazradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -102,7 +122,12 @@
     {
         "name": "Space Beat (128k)",
         "url": "https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3",
-        "favicon": "https://img.logo.dev/spacebeat.strangled.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/90116.web.hosting-russia.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Space Beat (64k AAC)",
+        "url": "https://90116.web.hosting-russia.ru/listen/space_beat/mobile.aac",
+        "favicon": "https://img.logo.dev/90116.web.hosting-russia.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SVETILO.ONLINE - духовно - осознанное",
@@ -113,11 +138,6 @@
         "name": "Tengri FM",
         "url": "http://91.201.214.229:8000/tengrifm",
         "favicon": "https://img.logo.dev/tengrifm.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
-        "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Zhulduz Radio",
@@ -153,6 +173,11 @@
         "name": "Народное Радио",
         "url": "http://178.88.167.62:8080/DALA_192",
         "favicon": "https://img.logo.dev/narodnoeradio.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио 7 Семей",
+        "url": "https://listen2.myradio24.com/8334",
+        "favicon": "https://img.logo.dev/radio7.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Classic",
@@ -193,5 +218,10 @@
         "name": "Радио ТМК",
         "url": "https://a4.radioheart.ru:9036/RH13170",
         "favicon": "https://img.logo.dev/radiotmk.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ретро FM Qazaqstan",
+        "url": "https://radiohub.kz/s/retrofm/112/playlist.m3u8",
+        "favicon": "https://img.logo.dev/radiohub.kz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

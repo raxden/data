@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Dakar Musique",
         "url": "http://listen.senemultimedia.net:8090/stream",
         "favicon": "https://img.logo.dev/dakarmusique.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -50,11 +45,6 @@
         "favicon": "https://img.logo.dev/radioai.mobirisesite.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Al Fayda 90.1 Kaolack",
-        "url": "https://usa5.fastcast4u.com/proxy/lyartech?mp=/stream/1/",
-        "favicon": "https://img.logo.dev/radioalfayda.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Keur Massar",
         "url": "https://stream.keurmassar.info/",
         "favicon": "https://img.logo.dev/keurmassar.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -98,5 +88,10 @@
         "name": "Sweet Radio",
         "url": "https://stream.zeno.fm/jemecjfbczhuv",
         "favicon": "https://img.logo.dev/sweetradiosenegal.mystrikingly.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Xassida Online",
+        "url": "https://radio.sn/xassida-online/#",
+        "favicon": "https://img.logo.dev/radio.sn?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/tabassum.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "alghad FM",
         "url": "http://s10.voscast.com:9410/",
         "favicon": "https://img.logo.dev/alghad.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -50,9 +45,9 @@
         "favicon": "https://img.logo.dev/tabassum.uz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Holy Quran  by Sheikh Mahmoud Al-Husari",
-        "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "rytmabad",
+        "url": "https://radio.filmtastic.uz/listen/rytmabad/radio.mp3",
+        "favicon": "https://img.logo.dev/rytmabad.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Truck FM",

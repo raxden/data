@@ -5,16 +5,6 @@
         "favicon": "https://img.logo.dev/2020visionradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sugar City 90.3 FM",
-        "url": "http://104.131.13.48:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/sugarcityfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "VON Radio",
         "url": "http://vonradio.streamon.fm:8000/vonradio-24k.aac?type=.mp3/;stream.mp3",
         "favicon": "https://img.logo.dev/vonradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"

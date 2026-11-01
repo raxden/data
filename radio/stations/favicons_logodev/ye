@@ -1,28 +1,13 @@
 [
     {
-        "name": ". quran",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sam FM",
-        "url": "http://edge.mixlr.com/channel/kijwr",
-        "favicon": "https://img.logo.dev/samyemen.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Sana’a Radio راديو صنعاء",
-        "url": "https://dc5.serverse.com/proxy/pbmhbvxs/stream",
-        "favicon": "https://img.logo.dev/sanaaradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Sayun Radio",
         "url": "https://s2.radio.co/s26c62011e/listen",
         "favicon": "https://img.logo.dev/seiyunradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "إذاعة ابن القيم السلفية",
+        "url": "https://c38.radioboss.fm:8323/stream",
+        "favicon": "https://img.logo.dev/c38.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "إذاعة دار الحديث السلفية بالضالع",

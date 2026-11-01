@@ -1,13 +1,13 @@
 [
     {
+        "name": "2Day FM",
+        "url": "https://icecast1.sere.plus/2Day",
+        "favicon": "https://img.logo.dev/sere.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "2dayFM 104.0 Suva",
         "url": "http://peridot.streamguys.com:7150/2Day",
         "favicon": "https://img.logo.dev/2dayfm.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bula FM",
@@ -15,9 +15,54 @@
         "favicon": "https://img.logo.dev/bulafm.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Bula FM",
+        "url": "https://icecast1.sere.plus/Bula",
+        "favicon": "https://img.logo.dev/sere.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Fiji Gold FM 100.4 Suva",
         "url": "http://peridot.streamguys.com:7150/Gold",
         "favicon": "https://img.logo.dev/goldfm.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "FM 96",
+        "url": "https://n03-us2.rcs.revma.com/q8txpfyyay3vv?rj-ttl=5&rj-tok=AAABoYdWCpMAnffnvaD4Mp_VUw",
+        "favicon": "https://img.logo.dev/fm96.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Gold FM",
+        "url": "https://icecast1.sere.plus/Gold",
+        "favicon": "https://img.logo.dev/sere.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Legend FM",
+        "url": "https://stream.rcs.revma.com/7wnnz47a303vv?ver=864684",
+        "favicon": "https://img.logo.dev/legendfm.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Life FM",
+        "url": "https://streams3.vision.org.au/fiji.aac",
+        "favicon": "https://img.logo.dev/lifefmfiji.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Life FM",
+        "url": "https://streams3.vision.org.au/fiji.aac",
+        "favicon": "https://img.logo.dev/lifefmfiji.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Life Worship",
+        "url": "https://streams3.vision.org.au/worshipap.aac",
+        "favicon": "https://img.logo.dev/lifefmfiji.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Mirchi FM",
+        "url": "https://icecast1.sere.plus/MirchiFiji",
+        "favicon": "https://img.logo.dev/sere.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fiji One",
+        "url": "https://icecast1.sere.plus/RFOne",
+        "favicon": "https://img.logo.dev/sere.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Fiji One",
@@ -26,7 +71,27 @@
     },
     {
         "name": "Radio Fiji Two",
+        "url": "https://icecast1.sere.plus/RFTwo",
+        "favicon": "https://img.logo.dev/sere.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fiji Two",
         "url": "http://peridot.streamguys.com:7150/RFTwo",
         "favicon": "https://img.logo.dev/rf2.fbc.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fuji Two",
+        "url": "https://icecast1.sere.plus/RFTwo",
+        "favicon": "https://img.logo.dev/sere.plus?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Navtarang",
+        "url": "https://stream.rcs.revma.com/5f56gd8a303vv",
+        "favicon": "https://img.logo.dev/navtarang.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Viti FM",
+        "url": "https://stream.rcs.revma.com/3c11kc9a303vv",
+        "favicon": "https://img.logo.dev/vitifm.com.fj?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

@@ -40,11 +40,6 @@
         "favicon": "https://img.logo.dev/invoicemedia.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "L-radio",
-        "url": "https://air.unmixed.ru/lradio256",
-        "favicon": "https://img.logo.dev/air.unmixed.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Nightwave Plaza",
         "url": "https://radio.plaza.one/ogg",
         "favicon": "https://img.logo.dev/plaza.one?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -90,19 +85,9 @@
         "favicon": "https://img.logo.dev/listen9.myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Чапаевский Гостиный двор",
-        "url": "http://62.213.14.14:8000/stream192.aac",
-        "favicon": "https://img.logo.dev/r-gd.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "-=- Relax-FM -=-",
         "url": "http://ic4.101.ru:8000/stream/air/aac/64/200",
         "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "..:: HYPE FM - ХАЙП FM - РЕЗЕРВ ::..",
@@ -110,24 +95,9 @@
         "favicon": "https://img.logo.dev/hypefm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ".restradio",
-        "url": "https://stream.restradio.online/live",
-        "favicon": "https://img.logo.dev/restradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "(( RES ))",
-        "url": "https://res.lirz.ru/listen/res/radio.mp3",
-        "favicon": "https://img.logo.dev/res.ad?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "(( RES ))",
-        "url": "https://res.lirz.ru/listen/res/radio.mp3",
-        "favicon": "https://img.logo.dev/res.ad?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "(( RES ))",
-        "url": "https://res.lirz.ru/listen/res/radio.mp3",
-        "favicon": "https://img.logo.dev/res.ad?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "..:: KIDS HIT - ДЕТСКИЙ ХИТ - РЕЗЕРВ ::..",
+        "url": "https://deti.amgradio.ru/Deti",
+        "favicon": "https://img.logo.dev/deti.amgradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "[RCM]DEEP",
@@ -148,11 +118,6 @@
         "name": "∏ANO",
         "url": "https://stream.p-node.org/piano",
         "favicon": "https://img.logo.dev/p-node.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1",
-        "url": "https://stream.0nlineradio.com/schlager?ref=crystalmissions",
-        "favicon": "https://img.logo.dev/stream.0nlineradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "100.3 FM",
@@ -208,6 +173,11 @@
         "name": "101.ru - Electronic",
         "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/132",
         "favicon": "https://img.logo.dev/electronic.101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101.ru - French Chanson",
+        "url": "http://ic6.101.ru:8000/stream/pro/aac/64/146",
+        "favicon": "https://img.logo.dev/ic6.101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "101.ru - House",
@@ -270,6 +240,11 @@
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "101.ru Italo Disco",
+        "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/161",
+        "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "101.ru Linkin Park",
         "url": "http://pub0202.101.ru:8000/stream/pro/aac/64/149",
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -315,6 +290,11 @@
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "101.ru Sandra",
+        "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/179",
+        "favicon": "https://img.logo.dev/sandra.101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "101.ru Scorpions",
         "url": "https://srv01.gpmradio.ru/stream/pro/aac/64/113",
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -350,6 +330,21 @@
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "101.ru Алексей Брянцев",
+        "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/661332",
+        "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101.ru Алексей Брянцев",
+        "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/927583",
+        "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101.ru Алексей Брянцев",
+        "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/927583",
+        "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "101.ru ДДТ",
         "url": "https://pub0101.101.ru/stream/pro/aac/64/112",
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -377,6 +372,21 @@
     {
         "name": "101.ru Михаил Боярский (Mikhail Boyarsky)",
         "url": "https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/1786150",
+        "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101.ru МИХАИЛ и ИРИНА КРУГ",
+        "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/931360",
+        "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101.ru Музыка и песни из советских фильмов",
+        "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/661332?",
+        "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "101.ru Музыка и песни из советских фильмов",
+        "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/661332",
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -483,6 +493,11 @@
         "name": "2x2",
         "url": "https://radio-24.ru/audio2.php?url=http://95.104.192.220:8001/radio2x2.ogg",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "32 Radio",
+        "url": "https://online.guberniya.tv:8443/32radio",
+        "favicon": "https://img.logo.dev/online.guberniya.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "32 Радио Брянск 87.9 FM",
@@ -605,11 +620,6 @@
         "favicon": "https://img.logo.dev/anklab.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Alex",
-        "url": "https://myradio24.org/walcon",
-        "favicon": "https://img.logo.dev/walconfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Alex - Best Lounge Music",
         "url": "https://listen7.myradio24.com/avmarushak",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -641,7 +651,7 @@
     },
     {
         "name": "AMG Radio",
-        "url": "http://retro.amgradio.ru/Retro",
+        "url": "http://makkirus.amgradio.ru/makkirus",
         "favicon": "https://img.logo.dev/ret.amgradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -748,6 +758,11 @@
         "name": "Anison.FM",
         "url": "http://anison.fm/anison.m3u",
         "favicon": "https://img.logo.dev/anison.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Anon.FM",
+        "url": "https://icecast.anon.fm/radio",
+        "favicon": "https://img.logo.dev/icecast.anon.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Any-anime",
@@ -865,11 +880,6 @@
         "favicon": "https://img.logo.dev/avtoradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Avtoradio 105.5 FM Serpukhov",
-        "url": "http://77.73.90.46:1055/avtoradio",
-        "favicon": "https://img.logo.dev/radioserpukhov.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Avtoradio Vladivostok 88.3",
         "url": "http://vladfm.ru:8000/ara",
         "favicon": "https://img.logo.dev/vladfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -883,6 +893,11 @@
         "name": "Avtoritetnoe Radio",
         "url": "https://streamer01.1028.fm:8443/arstream",
         "favicon": "https://img.logo.dev/1028.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "B гостях у Бpюнеточки",
+        "url": "https://s05.volnorez.com/live-app/902458",
+        "favicon": "https://img.logo.dev/s05.volnorez.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bad Boys Blue",
@@ -1128,6 +1143,11 @@
         "name": "CASPIAN RADIO BOSS",
         "url": "https://myradio24.org/bosscomaz",
         "favicon": "https://img.logo.dev/boss.com.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cassiopea Station (Наука)",
+        "url": "http://stream.cassiopeia-station.ru:1240/stream",
+        "favicon": "https://img.logo.dev/stream.cassiopeia-station.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cassiopeia Station (Наука)",
@@ -1695,6 +1715,11 @@
         "favicon": "https://img.logo.dev/dfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DFM PIONEER",
+        "url": "https://hls-01-dfm.hostingradio.ru/pioneer/playlist.m3u8",
+        "favicon": "https://img.logo.dev/hls-01-dfm.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DFM POP GOLD 1990s",
         "url": "https://dfm-popgold90.hostingradio.ru/popgold9096.aacp",
         "favicon": "https://img.logo.dev/dfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1876,7 +1901,7 @@
     },
     {
         "name": "DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)",
-        "url": "http://finland.discovertrance.com:8113//",
+        "url": "http://chicago.discovertrance.com:9214//",
         "favicon": "https://img.logo.dev/discovertrance.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1971,11 +1996,6 @@
     },
     {
         "name": "Dzhon Radio",
-        "url": "http://i-radio.info:8090/stream",
-        "favicon": "https://img.logo.dev/radio.dzhon.top?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Dzhon Radio",
         "url": "https://stream.drugradio.ru:8000/stream128",
         "favicon": "https://img.logo.dev/dzradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -1983,6 +2003,11 @@
         "name": "East of Russia (Восток России)",
         "url": "http://109.70.24.182:8000/stream/1/",
         "favicon": "https://img.logo.dev/vostoknews.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Echo ЭХО Online",
+        "url": "https://i1.echofm.online:8443/stream",
+        "favicon": "https://img.logo.dev/i1.echofm.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "echofm.online",
@@ -2005,6 +2030,11 @@
         "favicon": "https://img.logo.dev/listen7.myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Emigmatic Robot",
+        "url": "https://listen2.myradio24.com/8226",
+        "favicon": "https://img.logo.dev/rcast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "ENERGY Slap House",
         "url": "https://pub0102.101.ru:8443/stream/pro/aac/64/416?",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2013,6 +2043,21 @@
         "name": "Enigma",
         "url": "http://stream.dar.fm/125334",
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Enigmatic 3 - Magnetic Chillout",
+        "url": "http://radio.enigmatic.su:8050/radio",
+        "favicon": "https://img.logo.dev/radio.enigmatic.su?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Enigmatic 3 Magnetic Chill out (256 kbps)",
+        "url": "https://radio.enigmatic.su:8005/radio?x=1738166302438",
+        "favicon": "https://img.logo.dev/radio.enigmatic.su?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Enigmatic Immersion",
+        "url": "http://radio.enigmatic.su:8040/radio",
+        "favicon": "https://img.logo.dev/radio.enigmatic.su?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Enjoy",
@@ -2105,6 +2150,11 @@
         "favicon": "https://img.logo.dev/europaplus.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Europa plus НН",
+        "url": "https://ep128.hostingradio.ru:8030/ep128",
+        "favicon": "https://img.logo.dev/ep128.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "EuropaPplus Fresh",
         "url": "http://hls-01-fresh.emgsound.ru//9//playlist.m3u8",
         "favicon": "https://img.logo.dev/europaplus.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2146,7 +2196,7 @@
     },
     {
         "name": "Everhoof Radio",
-        "url": "http://everhoof.ru:8000/64",
+        "url": "http://everhoof.ru:8000/320",
         "favicon": "https://img.logo.dev/everhoof.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2187,7 +2237,7 @@
     {
         "name": "Forgotten tape",
         "url": "http://casseta-disco.ru:1090/stream",
-        "favicon": "https://img.logo.dev/radio-casseta.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/casseta-disco.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "FORMULA",
@@ -2471,7 +2521,7 @@
     },
     {
         "name": "Joy Hits",
-        "url": "https://joyhits.online/joyhits2.aac",
+        "url": "http://joyhits.online/joyhits2.aac",
         "favicon": "https://img.logo.dev/joyhits.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2526,7 +2576,7 @@
     },
     {
         "name": "KIDS HITS",
-        "url": "https://myradio24.org/kidshits",
+        "url": "https://listen7.myradio24.com/kidshits",
         "favicon": "https://img.logo.dev/kids-hits.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2538,11 +2588,6 @@
         "name": "Kinozal.TV",
         "url": "https://listen4.myradio24.com/kinozaltv",
         "favicon": "https://img.logo.dev/kinozal.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "KISS FM",
-        "url": "https://a7.radioheart.ru:9015/RH73674",
-        "favicon": "https://img.logo.dev/radiokissfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kitap Radiosy",
@@ -2855,16 +2900,6 @@
         "favicon": "https://img.logo.dev/maximum-cover.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Maximum Heavy Monday",
-        "url": "https://s.fmplay.ru/3ce8899d",
-        "favicon": "https://img.logo.dev/streams.fmplay.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Maximum Heavy Monday",
-        "url": "https://s.fmplay.ru/3ce8899d",
-        "favicon": "https://img.logo.dev/streams.fmplay.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "MAXIMUM Ozzy Osbourne",
         "url": "https://maximum-ozzy.hostingradio.ru/ozzy96.aacp",
         "favicon": "https://img.logo.dev/maximum.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3110,6 +3145,11 @@
         "favicon": "https://img.logo.dev/moygid.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Murka FM",
+        "url": "https://murka.amgradio.ru/MurkaFM",
+        "favicon": "https://img.logo.dev/murka.amgradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Muse - Радио MAXIMUM",
         "url": "https://maximum.hostingradio.ru/maxmuse96.aacp",
         "favicon": "https://img.logo.dev/radiostream.novawap.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3130,6 +3170,11 @@
         "favicon": "https://img.logo.dev/kitap.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "NAC Radio",
+        "url": "http://icecast.ntrk21.ru:8000/nacradio",
+        "favicon": "https://img.logo.dev/icecast.ntrk21.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "NAGO Radio V.2.0",
         "url": "https://c28.radioboss.fm:18384/stream",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3143,11 +3188,6 @@
         "name": "Nashe Radio",
         "url": "http://nashe1.hostingradio.ru/nashe-128.mp3",
         "favicon": "https://img.logo.dev/nashe.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nashe Radio 106.0 FM Serpukhov",
-        "url": "http://77.73.90.46:1055/nasheradio",
-        "favicon": "https://img.logo.dev/radioserpukhov.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Native Roads Radio",
@@ -3178,6 +3218,11 @@
         "name": "NEW HIP HOP",
         "url": "https://stream02.pcradio.biz/rad_newhphprd-med",
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NEW HIP-HOP - качаем по-новому!",
+        "url": "http://live.lofiradio.ru:8000/hiphop_mp3_320",
+        "favicon": "https://img.logo.dev/radiohiphop.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "New Life Radio",
@@ -3238,16 +3283,6 @@
         "name": "Noise FM - EDM Radio",
         "url": "http://play.sas-media.ru/play_256",
         "favicon": "https://img.logo.dev/noisefm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nostalgia OST",
-        "url": "https://pub0302.101.ru:8443/stream/trust/mp3/128/17",
-        "favicon": "https://img.logo.dev/radio.zelixo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Nostalgia OST",
-        "url": "https://radio.zelixo.net/listen/nostalgia_ost/stream",
-        "favicon": "https://img.logo.dev/radio.zelixo.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nostalgie FM Makhachkala",
@@ -3325,6 +3360,16 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Nui Radio",
+        "url": "https://a2.radioheart.ru:9003/nuiradio",
+        "favicon": "https://img.logo.dev/a2.radioheart.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "NUiRADIO",
+        "url": "https://a2.radioheart.ru:9003/nuiradio",
+        "favicon": "https://img.logo.dev/a2.radioheart.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "o0o0.online",
         "url": "https://o0o0.online/stream/_",
         "favicon": "https://img.logo.dev/o0o0.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3353,11 +3398,6 @@
         "name": "Online Radio Rashi",
         "url": "https://s2.free-shoutcast.com/stream/18214",
         "favicon": "https://img.logo.dev/radiorashi.alle.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Orchestral Rhythm & Soul Music (Listen DE) (MP3 256 kbps)",
-        "url": "https://globalic.stream:1535/stream",
-        "favicon": "https://img.logo.dev/stream-vie.radio-zone.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "orchestre national de Russie",
@@ -3475,29 +3515,9 @@
         "favicon": "https://img.logo.dev/rpfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Primorskaya Volna",
-        "url": "http://45.143.94.106:8000/primvolna-ussuriysk",
-        "favicon": "https://img.logo.dev/primorskayavolna.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Primorskaya Volna (Ussuriysk 90.0 FM)",
         "url": "http://45.143.94.106:8000/primvolna-ussuriysk",
         "favicon": "https://img.logo.dev/primvolna.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "PriMuzFM",
-        "url": "https://myradio24.org/8118?1719239365701",
-        "favicon": "https://img.logo.dev/primuzfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "princessluna.fun - Night DJ",
-        "url": "http://princessluna.fun:8000/64.mp3",
-        "favicon": "https://img.logo.dev/princessluna.fun?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Programiqa",
-        "url": "https://a8.radioheart.io:9023/RH78131",
-        "favicon": "https://img.logo.dev/programiqa.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Promodj - 300",
@@ -4135,24 +4155,9 @@
         "favicon": "https://img.logo.dev/radio2.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 2000x",
-        "url": "http://air.radio2000x.com:8000/stream",
-        "favicon": "https://img.logo.dev/radio2000x.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 2x2",
-        "url": "http://95.104.192.220:8001/radio2x2.ogg",
-        "favicon": "https://img.logo.dev/radio2x2.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio 42 FM — Радио «Воруй-Убивай»",
         "url": "http://listen.42fm.ru:8000/stealkill-8.0.ogg",
         "favicon": "https://img.logo.dev/42fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio 53 Novgorod",
-        "url": "http://84.242.241.66:8000/;",
-        "favicon": "https://img.logo.dev/radio53.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio 7",
@@ -4175,18 +4180,13 @@
         "favicon": "https://img.logo.dev/radio7fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio 88 Ga Ga",
-        "url": "https://myradio24.org/98107",
-        "favicon": "https://img.logo.dev/radio88gaga.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Alisa",
         "url": "https://listen8.myradio24.com/alisa",
         "favicon": "https://img.logo.dev/listen8.myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio AnimKLATU",
-        "url": "https://animklatu.stream.laut.fm/animklatu?t302=2026-10-22_07-11-16&uuid=1b9740bc-4dc4-d1cc-b5e3-343954e3b40f",
+        "url": "https://animklatu.stream.laut.fm/animklatu?t302=2026-10-27_06-59-01&uuid=3522d895-e97b-14d8-a100-c196346bb007",
         "favicon": "https://img.logo.dev/radio90s.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4203,11 +4203,6 @@
         "name": "Radio Borneo",
         "url": "http://live.borneo.ru:8888/128",
         "favicon": "https://img.logo.dev/borneo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Cadenazo",
-        "url": "https://radiobot.radioslibres.info/listen/radio_cadenazo_libre/cadenazo.mp3",
-        "favicon": "https://img.logo.dev/radioslibres.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Caprice",
@@ -6200,16 +6195,6 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RADIO DJ BOGA",
-        "url": "http://radio.radiodjboga.online/stream.mp3",
-        "favicon": "https://img.logo.dev/radiodjboga.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO DJ BOGA",
-        "url": "http://radio.radiodjboga.online/stream.mp3",
-        "favicon": "https://img.logo.dev/radiodjboga.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Fantastika",
         "url": "http://fantasyradioru.no-ip.biz:8002/live",
         "favicon": "https://img.logo.dev/fantasyradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6223,6 +6208,16 @@
         "name": "Radio Fantastiki",
         "url": "http://fantasyradioru.no-ip.biz:8008/",
         "favicon": "https://img.logo.dev/fantasyradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Feijoa",
+        "url": "http://myradio24.org/udmtuno",
+        "favicon": "https://img.logo.dev/radiofeijoa.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Feijoa - Радио Фейхоа",
+        "url": "http://myradio24.org/udmtuno",
+        "favicon": "https://img.logo.dev/radiofeijoa.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Fiction",
@@ -6240,11 +6235,6 @@
         "favicon": "https://img.logo.dev/rddfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Free Music",
-        "url": "https://radio-holding.ru:9433/rfm",
-        "favicon": "https://img.logo.dev/rfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Game play",
         "url": "http://c22.radioboss.fm:8144/GamePlay",
         "favicon": "https://img.logo.dev/radiogameplay.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6255,6 +6245,16 @@
         "favicon": "https://img.logo.dev/glagol-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Golos Angary",
+        "url": "http://91.189.162.134:8006/;stream.nsv",
+        "favicon": "https://img.logo.dev/rga.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Gora - Oldies",
+        "url": "http://listen.radiogora.ru:8000/oldies128/;",
+        "favicon": "https://img.logo.dev/listen.radiogora.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Gora Etcetera",
         "url": "http://listen.radiogora.ru:8000/etc128",
         "favicon": "https://img.logo.dev/radiogora.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6263,6 +6263,16 @@
         "name": "Radio Grand FM",
         "url": "http://grandfm.ru:8000/radio",
         "favicon": "https://img.logo.dev/grandfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Grozny",
+        "url": "https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8",
+        "favicon": "https://img.logo.dev/balancer.facecast.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Groznyy",
+        "url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0%20G/hls_live/index.m3u8",
+        "favicon": "https://img.logo.dev/cdn-evacoder-tv.facecast.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Hit Orsk 103.7 FM",
@@ -6348,16 +6358,6 @@
         "name": "Radio Mantra",
         "url": "https://c22.radioboss.fm:8291/stream",
         "favicon": "https://img.logo.dev/radiomantra.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO MARIA RUSSIA",
-        "url": "http://dreamsiteradiocp4.com:8002/stream",
-        "favicon": "https://img.logo.dev/radiomaria.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Maska",
-        "url": "http://radio.lovecity3d.com:4010/stream",
-        "favicon": "https://img.logo.dev/radiomaska.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Maximum",
@@ -6490,6 +6490,16 @@
         "favicon": "https://img.logo.dev/vestinn.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Medved",
+        "url": "https://air.radiomedved.ru/rm320_main",
+        "favicon": "https://img.logo.dev/air.radiomedved.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Medved",
+        "url": "https://air.radiomedved.ru/rm320_main",
+        "favicon": "https://img.logo.dev/air.radiomedved.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Melodiya",
         "url": "http://icecast.mediaalliance.cdnvideo.ru:8000/mediaalliance",
         "favicon": "https://img.logo.dev/radiomelody.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6560,16 +6570,6 @@
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Novaya Rossiya",
-        "url": "http://91.194.120.107:8000/256",
-        "favicon": "https://img.logo.dev/radionovaya.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Oldhealth",
-        "url": "http://radio.oldxit.ru:8030/radio",
-        "favicon": "https://img.logo.dev/radio.oldxit.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Olimp 104.5 FM",
         "url": "https://online.olimpfm.ru/olimp?1723041635",
         "favicon": "https://img.logo.dev/olimpfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6590,6 +6590,11 @@
         "favicon": "https://img.logo.dev/radiopassazh.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "radio patriot",
+        "url": "http://radio.mixto.ru:8001/patriot",
+        "favicon": "https://img.logo.dev/radio.mixto.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Petersburg",
         "url": "https://radio.5-tv.ru/radio.mp3",
         "favicon": "https://img.logo.dev/m.5-tv.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6597,17 +6602,12 @@
     {
         "name": "Radio Piramida",
         "url": "http://www.nazarovo-online.ru:8080/piramida/nazarovo",
-        "favicon": "https://img.logo.dev/radiopiramida.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/nazarovo-online.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Portal Novovoronezh",
         "url": "http://icecast-ext.dimfm.ru:8000/portal",
         "favicon": "https://img.logo.dev/portalradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Priboy",
-        "url": "http://radio05.ru:8000/priboyfm",
-        "favicon": "https://img.logo.dev/priboyfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Pro Italo Disco",
@@ -6618,6 +6618,11 @@
         "name": "Radio Pro-Dvizheniye",
         "url": "https://c4.radioboss.fm:18218/stream",
         "favicon": "https://img.logo.dev/pro-dvizheniye.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio RBC — Moscow",
+        "url": "https://hls-01-rbc.hostingradio.ru/rbc-fed0/playlist.m3u8",
+        "favicon": "https://img.logo.dev/rbc.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Record  - Disco Funk",
@@ -6715,6 +6720,11 @@
         "favicon": "https://img.logo.dev/radiorecord.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Record (via Marseille)",
+        "url": "https://ijackkos.duckdns.org/radio-record",
+        "favicon": "https://img.logo.dev/radiorecord.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Record 00's",
         "url": "https://radiorecord.hostingradio.ru/200096.aacp",
         "favicon": "https://img.logo.dev/radiorecord.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6722,6 +6732,11 @@
     {
         "name": "Radio Record 00's",
         "url": "https://radiorecord.hostingradio.ru/200096.aacp",
+        "favicon": "https://img.logo.dev/radiorecord.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Record 10's Dance (via Marseille)",
+        "url": "https://ijackkos.duckdns.org/10s-dance",
         "favicon": "https://img.logo.dev/radiorecord.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -6875,11 +6890,6 @@
         "favicon": "https://img.logo.dev/radiorecord.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Relax FM 90.8 Moscow",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio RiperAM",
         "url": "http://radio.oldxit.ru:8030/radio?11765309886134812",
         "favicon": "https://img.logo.dev/riperam.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6917,22 +6927,27 @@
     {
         "name": "Radio Salyut",
         "url": "http://stream.salyutfm.ru:8000/stream",
+        "favicon": "https://img.logo.dev/stream.salyutfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Salyut",
+        "url": "http://stream.salyutfm.ru:8000/stream|Radio%20Salyut",
+        "favicon": "https://img.logo.dev/stream.salyutfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Salyut",
+        "url": "http://stream.salyutfm.ru:8000/stream",
         "favicon": "https://img.logo.dev/salyutfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Salyut",
+        "url": "http://stream.salyutfm.ru:8000/stream",
+        "favicon": "https://img.logo.dev/stream.salyutfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Samara Maksimum",
         "url": "http://85.236.172.22:8000/maximum",
         "favicon": "https://img.logo.dev/radiosamara.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO SARATOV MUSIC",
-        "url": "http://radiosaratovmusic.com:1060/stream",
-        "favicon": "https://img.logo.dev/radiosaratovmusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Sefon",
-        "url": "http://193.42.108.9:8010/stream",
-        "favicon": "https://img.logo.dev/sefong.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Sfera",
@@ -7005,16 +7020,6 @@
         "favicon": "https://img.logo.dev/xn--80ada0bkdb2a3j.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Ulitka",
-        "url": "http://air.radioulitka.ru:8000/ulitka_128",
-        "favicon": "https://img.logo.dev/radioulitka.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Ulitka (stream #3, mp3, 192 kbps)",
-        "url": "https://radioulitka.ru/mount",
-        "favicon": "https://img.logo.dev/radioulitka.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Ultra",
         "url": "http://nashe1.hostingradio.ru/ultra-192.mp3",
         "favicon": "https://img.logo.dev/radioultra.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7023,6 +7028,11 @@
         "name": "Radio Ultra",
         "url": "http://nashe1.hostingradio.ru/ultra-256",
         "favicon": "https://img.logo.dev/radioultra.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Uniton",
+        "url": "https://online.uniton.ru/uniton/started_at_1781438719135",
+        "favicon": "https://img.logo.dev/uniton.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Vanya",
@@ -7045,19 +7055,9 @@
         "favicon": "https://img.logo.dev/radiovibe.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Voice of Burma",
-        "url": "http://listen7.myradio24.com/39982",
-        "favicon": "https://img.logo.dev/voiceofburma.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "radio Vysotskiy",
         "url": "http://pub0302.101.ru:8000/stream/pro/aac/64/58",
         "favicon": "https://img.logo.dev/101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Yuldash",
-        "url": "https://radio.mediacdn.ru/uldash.mp3",
-        "favicon": "https://img.logo.dev/radioyuldash.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Zenit 89.7",
@@ -7088,16 +7088,6 @@
         "name": "Radio.Fish",
         "url": "http://myradio24.org/8317",
         "favicon": "https://img.logo.dev/radio.fish?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "radio2000x.com",
-        "url": "https://air.radio2000x.com:8005/stream?x=1743658874017",
-        "favicon": "https://img.logo.dev/radio2000x.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RADIO24",
-        "url": "https://stream.vyshka24.ru/radio24",
-        "favicon": "https://img.logo.dev/radio24.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RadioGora - ATD",
@@ -7195,6 +7185,11 @@
         "favicon": "https://img.logo.dev/radcap.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RaYsKoE NaSlaZhDeNiE",
+        "url": "https://s05.volnorez.com/live-app/cid/762662/f5ce4a07e86e184b",
+        "favicon": "https://img.logo.dev/s05.volnorez.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RCM DEEP",
         "url": "https://relay.radiotoolkit.com/rcmdeep",
         "favicon": "https://img.logo.dev/rcmdeep.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7206,7 +7201,7 @@
     },
     {
         "name": "RCOK ARSENAL",
-        "url": "https://online.rockarsenal.ru/rockarsenal",
+        "url": "https://online.rockarsenal.ru/rockwotalk",
         "favicon": "https://img.logo.dev/rockarsenal.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7221,7 +7216,7 @@
     },
     {
         "name": "Record",
-        "url": "https://radio-srv1.11one.ru/record192k.mp3",
+        "url": "https://radio-srv1.11one.ru/rec64k",
         "favicon": "https://img.logo.dev/radiorecord.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7306,52 +7301,17 @@
     },
     {
         "name": "Relax FM 90,8 Moscow",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Relax FM 90,8 Moscow",
         "url": "http://pub0302.101.ru:8000/stream/trust/mp3/128/264",
         "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Relax FM 90.8 (Main) Moscow",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Relax FM 90.8 (Main) Moscow",
         "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI1ZDMwYmY4YzI2N2JjYjBiMzEwYmVjZTk4MzA3MmY5OCIsIklQIjoiOTMuMTAwLjI1Mi4yMjUiLCJVQSI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMDEuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzEwMS4wIiwidWlkX2NoYW5uZWwiOiIyMDAiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkZpcmVmb3giLCJCcm93c2VyVmVyc2lvbiI6IjEwMS4wIiwiU3lzdGVtIjoiV2luZG93cyAxMCIsImV4cCI6MTY1NTU5NDk4NX0.imcW43-YQ1BAypT_V-TqchGgYnXaGdSy05Ra22u28rk",
         "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Relax FM 90.8 (Main) Moscow",
         "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiI1ZDMwYmY4YzI2N2JjYjBiMzEwYmVjZTk4MzA3MmY5OCIsIklQIjoiOTMuMTAwLjI1Mi4yMjUiLCJVQSI6Ik1vemlsbGFcLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMDEuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzEwMS4wIiwidWlkX2NoYW5uZWwiOiIyMDAiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6IlBDIiwiQnJvd3NlciI6IkZpcmVmb3giLCJCcm93c2VyVmVyc2lvbiI6IjEwMS4wIiwiU3lzdGVtIjoiV2luZG93cyAxMCIsImV4cCI6MTY1NTU5NDk4NX0.imcW43-YQ1BAypT_V-TqchGgYnXaGdSy05Ra22u28rk",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Relax FM 90.8 (Main) Moscow",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Relax FM 90.8 Moscow",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Relax FM 90.8 Moscow",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Relax FM 90.8 Moscow",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Relax FM 90.8 Moscow",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
         "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7430,21 +7390,6 @@
         "favicon": "https://img.logo.dev/replaynews.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RES",
-        "url": "https://res.lirz.ru/listen/res/radio.mp3",
-        "favicon": "https://img.logo.dev/res.ad?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RES: REWIND",
-        "url": "https://res.lirz.ru/listen/rewind/radio.mp3",
-        "favicon": "https://img.logo.dev/res.ad?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RES: Rewind",
-        "url": "https://cst.res.ad/rw320",
-        "favicon": "https://img.logo.dev/res.ad?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "retro",
         "url": "https://retro.hostingradio.ru:8043/retro256.mp3",
         "favicon": "https://img.logo.dev/retrofm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7503,6 +7448,11 @@
         "name": "ROCK FM",
         "url": "http://nashe1.hostingradio.ru/rock-128.mp3",
         "favicon": "https://img.logo.dev/rockfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rock FM",
+        "url": "http://nashe.streamr.ru/rock-128.mp3",
+        "favicon": "https://img.logo.dev/nashe.streamr.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rock FM",
@@ -7645,36 +7595,6 @@
         "favicon": "https://img.logo.dev/radcap.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "RockWave",
-        "url": "https://live.rock-wawe.ru:8001/RockWawe",
-        "favicon": "https://img.logo.dev/xn--80akhjuciji.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Royal Club",
-        "url": "http://193.33.170.218:8000/RoyalClub",
-        "favicon": "https://img.logo.dev/royalradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Royal Lounge",
-        "url": "http://193.33.170.218:8000/RoyalLounge",
-        "favicon": "https://img.logo.dev/royalradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Royal Radio 96.8FM",
-        "url": "https://c22.radioboss.fm/stream/186",
-        "favicon": "https://img.logo.dev/royalradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Royal Radio 98.6FM",
-        "url": "https://c22.radioboss.fm/stream/186",
-        "favicon": "https://img.logo.dev/royalradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Royal Radio Sankt Peterburg",
-        "url": "https://c22.radioboss.fm/stream/186",
-        "favicon": "https://img.logo.dev/royalradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Royal radio Санкт-Петербург 98.6 FM",
         "url": "http://c22.radioboss.fm/stream/186",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7705,16 +7625,6 @@
         "favicon": "https://img.logo.dev/rtfm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "russ",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "favicon": "https://img.logo.dev/rusradio.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "russ",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "favicon": "https://img.logo.dev/rusradio.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Russian Drive",
         "url": "https://rusdriveradio.ru:8000/live_aac64",
         "favicon": "https://img.logo.dev/rusdriveradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -7732,11 +7642,6 @@
     {
         "name": "russian radio golden gramophone",
         "url": "http://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp",
-        "favicon": "https://img.logo.dev/rusradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Russian Radio Moscow",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
         "favicon": "https://img.logo.dev/rusradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7840,9 +7745,14 @@
         "favicon": "https://img.logo.dev/sectorradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Seismic Radio - Russian Service",
-        "url": "http://158.69.227.214:8143/;?1690716440786",
-        "favicon": "https://img.logo.dev/seismicradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "SECTOR Terra channel",
+        "url": "http://89.223.45.5:8000/terra-160",
+        "favicon": "https://img.logo.dev/sectorradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Segenswelle Russisch",
+        "url": "http://segenswelle.de:8000/russisch",
+        "favicon": "https://img.logo.dev/segenswelle.de?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "seva ru",
@@ -7950,69 +7860,9 @@
         "favicon": "https://img.logo.dev/soulplay.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sovietwave",
-        "url": "http://station.waveradio.org/soviet.mp3",
-        "favicon": "https://img.logo.dev/sovietwave.su?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Soyuz TV",
-        "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-tvsoyuz.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "soundpark deep",
+        "url": "https://h.getradio.me/spdeep/hls.m3u8",
+        "favicon": "https://img.logo.dev/spdeep.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Soyuz TV",
@@ -8063,11 +7913,6 @@
         "name": "STAR 33 RadioStation",
         "url": "https://online.star33radio.com:1115/stream",
         "favicon": "https://img.logo.dev/star33radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Staroe Radio",
-        "url": "http://server.audiopedia.su:8000/ices128",
-        "favicon": "https://img.logo.dev/staroeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Sticker FM",
@@ -8127,22 +7972,12 @@
     {
         "name": "SUPER RADIO remix",
         "url": "https://listen2.myradio24.com/serz",
-        "favicon": "https://img.logo.dev/superradioremix.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SUPER RADIO remix",
-        "url": "https://listen2.myradio24.com/serz",
         "favicon": "https://img.logo.dev/myradio24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "SUPER RADIO remix",
-        "url": "https://listen2.myradio24.com/serz",
-        "favicon": "https://img.logo.dev/superradioremix.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Super-Radio Remix",
-        "url": "https://listen2.myradio24.com/serz",
-        "favicon": "https://img.logo.dev/serz.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Super Радио",
+        "url": "https://stream.salyutfm.ru:8080/hls/channel_4/playlist.m3u8",
+        "favicon": "https://img.logo.dev/stream.salyutfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Surf Rock - Caprice Radio",
@@ -8195,11 +8030,6 @@
         "favicon": "https://img.logo.dev/radcap.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The first railway radio - RocK channel",
-        "url": "http://1zd.su:8030/radio",
-        "favicon": "https://img.logo.dev/rock.1zd.club?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Thrash Heavy Metal - Caprice Radio",
         "url": "http://213.141.131.10:8000/thrashheavy",
         "favicon": "https://img.logo.dev/radcap.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8245,24 +8075,9 @@
         "favicon": "https://img.logo.dev/4m3.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "TrueColorsRadio",
-        "url": "https://myradio24.org/45329",
-        "favicon": "https://img.logo.dev/truecolorsradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TrueColorsRadio",
-        "url": "https://myradio24.org/45329",
-        "favicon": "https://img.logo.dev/truecolorsradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Tunguska",
         "url": "http://revoice.ru:8000/tunguska.mp3",
         "favicon": "https://img.logo.dev/tunguska.space?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "uezdnoe",
-        "url": "http://62.192.226.178:8001/stream.ogg",
-        "favicon": "https://img.logo.dev/r29radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "UK Garage Радио Рекорд",
@@ -8295,6 +8110,16 @@
         "favicon": "https://img.logo.dev/verdure.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Verdure station",
+        "url": "http://air.verdure.net:8881/stream/192/",
+        "favicon": "https://img.logo.dev/air.verdure.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vesti fm",
+        "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+        "favicon": "https://img.logo.dev/vgtrk.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Vesti FM Nizhny Novgorod 98.6 FM",
         "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_nn",
         "favicon": "https://img.logo.dev/vestinn.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8315,6 +8140,11 @@
         "favicon": "https://img.logo.dev/vibedaplanet.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Vinyl drinks 33/13",
+        "url": "http://radio.obakiri.ru:8000/vinyl-33-13-drinks",
+        "favicon": "https://img.logo.dev/radio.obakiri.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Violin - Radio Caprice",
         "url": "http://213.141.131.10:8004/violin",
         "favicon": "https://img.logo.dev/radcap.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8327,7 +8157,7 @@
     {
         "name": "Vladivostok FM",
         "url": "http://vladfm.ru:8000/vfm",
-        "favicon": "https://img.logo.dev/vladivostok.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/vladfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VladivostokFM_4",
@@ -8338,11 +8168,6 @@
         "name": "Voices of the Univerce",
         "url": "https://stream.cassiopeia-station.ru:1175/stream",
         "favicon": "https://img.logo.dev/cassiopeia-station.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Volna FM",
-        "url": "https://listen5.myradio24.com/nvolna",
-        "favicon": "https://img.logo.dev/volna.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "VOLOSATOE RADIO (Eurodance)",
@@ -8360,11 +8185,6 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "WalсonFM",
-        "url": "https://myradio24.org/walcon",
-        "favicon": "https://img.logo.dev/walconfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Western Swing Music - Caprice Radio",
         "url": "http://79.120.12.130:8000/westernswing",
         "favicon": "https://img.logo.dev/radcap.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8373,16 +8193,6 @@
         "name": "Witch House on WaveRadio",
         "url": "https://station.waveradio.org/witch",
         "favicon": "https://img.logo.dev/web.archive.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wow Chillout",
-        "url": "https://stream.vyshka24.ru/wowchillout",
-        "favicon": "https://img.logo.dev/radio24.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Wow Cover",
-        "url": "https://stream.vyshka24.ru/wowcover",
-        "favicon": "https://img.logo.dev/radio24.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Wow Gold",
@@ -8410,24 +8220,9 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Wow Русское",
-        "url": "https://stream.vyshka24.ru/wowrusskoe",
-        "favicon": "https://img.logo.dev/radio24.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WRN Rus",
-        "url": "http://shoutcast.wrn.org:8025/WRN-R",
-        "favicon": "https://img.logo.dev/wrn.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "XIT FM",
         "url": "https://hitfm.hostingradio.ru/hitfm96.aacp",
         "favicon": "https://img.logo.dev/hitfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "XXL FM",
-        "url": "http://91.211.246.42:8000/XXL-FM",
-        "favicon": "https://img.logo.dev/xxx-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Yum FM",
@@ -8437,7 +8232,7 @@
     {
         "name": "Yumor FM",
         "url": "https://ic5.101.ru:8000/v5_1",
-        "favicon": "https://img.logo.dev/xn--80aaa9bgeke7j.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/ic5.101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Z Fm",
@@ -8463,6 +8258,11 @@
         "name": "Zydeco / Cajun / Creole Music - Radio Caprice",
         "url": "http://213.141.131.10:8002/zydeco",
         "favicon": "https://img.logo.dev/radcap.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ω  Omega - Radio",
+        "url": "https://stream.pcradio.app/omega-hi",
+        "favicon": "https://img.logo.dev/stream.pcradio.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Авторадио - FM 90.3 - Москва",
@@ -8575,6 +8375,11 @@
         "favicon": "https://img.logo.dev/alaniatv.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Алла Пугачева",
+        "url": "https://stream03.pcradio.app/Alla_Pugacheva-hi",
+        "favicon": "https://img.logo.dev/pcradio.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Алмазный край",
         "url": "https://stream.almaz-media.tv/radio",
         "favicon": "https://img.logo.dev/almaz-media.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -8663,11 +8468,6 @@
         "name": "АукцЫон",
         "url": "https://stream03.pcradio.app/auktsyon-hi",
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ашкадар",
-        "url": "https://radio.mediacdn.ru/ashkadar.mp3",
-        "favicon": "https://img.logo.dev/radio.mediacdn.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ашҡаҙар",
@@ -8825,9 +8625,9 @@
         "favicon": "https://img.logo.dev/stv-media.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Бродяга On-Line",
-        "url": "https://listen9.myradio24.com/traveller",
-        "favicon": "https://img.logo.dev/wwv.zvuch.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Буряад FM Улан-Удэ",
+        "url": "https://buryadfm.hostingradio.ru:8018/buryadfm128.mp3",
+        "favicon": "https://img.logo.dev/buryadfm.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Бутырка",
@@ -8838,6 +8638,11 @@
         "name": "Быть Добру!",
         "url": "https://misato.ru-hoster.com:8071/stream?e0ff",
         "favicon": "https://img.logo.dev/topradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "В.С. Высоцкий - Коллекция",
+        "url": "http://tushkan.dynip.online:8000/vysotsky",
+        "favicon": "https://img.logo.dev/tushkan.dynip.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Валдай FM",
@@ -9037,17 +8842,12 @@
     {
         "name": "Владивосток FM",
         "url": "http://vladfm.ru:8000/vfm?1702126392317",
-        "favicon": "https://img.logo.dev/vladivostokfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/vladfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Владимир Высоцкий",
         "url": "https://stream03.pcradio.app/Visotskiy-hi",
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Вокалоид радио (Vocaloid Radio on mikupa.ru)",
-        "url": "http://aska.ru-hoster.com:8093/mikuparu",
-        "favicon": "https://img.logo.dev/vocaloidradio.mikupa.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Волгоград ФМ",
@@ -9058,16 +8858,6 @@
         "name": "Волгоград-ФМ 101.5 FM",
         "url": "http://online.volgogradfm.ru:8000/vfm",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Волна FM",
-        "url": "http://194.67.87.50:8000/ekb",
-        "favicon": "https://img.logo.dev/volnafm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Волны Байкала",
-        "url": "http://31.134.47.205:8000/",
-        "favicon": "https://img.logo.dev/volny-baikala.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Волхов ФМ 99.3 FM",
@@ -9118,11 +8908,6 @@
         "name": "Время Джаза - Радио Monte Carlo",
         "url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
         "favicon": "https://img.logo.dev/montecarlo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Всемирная радиосеть // World Radio Network – Russia",
-        "url": "http://streaming.edmradio.online:8025/WRN-R",
-        "favicon": "https://img.logo.dev/wrn.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Всесоюзное радио",
@@ -9181,6 +8966,11 @@
     },
     {
         "name": "Говорит Москва",
+        "url": "http://media.govoritmoskva.ru:8880/rufm_m.mp3",
+        "favicon": "https://img.logo.dev/media.govoritmoskva.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Говорит Москва",
         "url": "http://media.govoritmoskva.ru:8880/ru32.mp3",
         "favicon": "https://img.logo.dev/govoritmoskva.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -9200,14 +8990,24 @@
         "favicon": "https://img.logo.dev/govsev.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Говору нет FM",
+        "url": "https://82.146.46.30:8443/",
+        "favicon": "https://img.logo.dev/govorunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Говору нет FM",
+        "url": "https://82.146.46.30:8443/govorunetfm",
+        "favicon": "https://img.logo.dev/govorunet.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Голос Ангары",
         "url": "https://radiopotok2.online/http://91.189.162.134:8006/;stream.nsv",
         "favicon": "https://img.logo.dev/top-radio.pro?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Голос Бирмы",
-        "url": "https://listen4.myradio24.com/39982",
-        "favicon": "https://img.logo.dev/voiceofburma.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "ГОЛОС АНГАРЫ",
+        "url": "http://91.189.162.134:8016/stream",
+        "favicon": "https://img.logo.dev/rga.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Гоп fm",
@@ -9388,6 +9188,11 @@
         "name": "Детское радио (ДетиFM) - Detskoye Radio",
         "url": "https://pub0101.101.ru/stream/air/aac/64/199",
         "favicon": "https://img.logo.dev/detifm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "ДЕТСКОЕ РАДИО [DETSKOE RADIO BABY FM",
+        "url": "http://a5.radioheart.ru:8012/nonstop",
+        "favicon": "https://img.logo.dev/a5.radioheart.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Детское радио Нижний Новгород 99.1 FM",
@@ -9670,19 +9475,9 @@
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Дядя Ваня на даче (18+)",
-        "url": "https://ic1.radiosignal.one/vanya-mp3",
-        "favicon": "https://img.logo.dev/radio-sound.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Европа + Кемерово",
         "url": "https://online2.gkvr.ru:8001/europa_kem_64.aac",
         "favicon": "https://img.logo.dev/online2.gkvr.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Европа Плюс",
-        "url": "http://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
-        "favicon": "https://img.logo.dev/hls-02-europaplus.emgsound.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Европа плюс",
@@ -9690,9 +9485,19 @@
         "favicon": "https://img.logo.dev/radiomap.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ЕВРОПА ПЛЮС",
+        "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3?64644ec1",
+        "favicon": "https://img.logo.dev/europaplus.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Европа Плюс",
         "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
         "favicon": "https://img.logo.dev/europaplus.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Европа Плюс (Пермь)",
+        "url": "http://emgregion.hostingradio.ru:8064/perm.europaplus.mp3",
+        "favicon": "https://img.logo.dev/emgregion.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Европа Плюс Великий Новгород 103.2 FM",
@@ -9770,6 +9575,11 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "европа плюс Магнитогорск",
+        "url": "http://radio.o2promo.ru:8000/radio",
+        "favicon": "https://img.logo.dev/radio.o2promo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Европа Плюс Москва 106.2 FM",
         "url": "http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9820,6 +9630,16 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Едрическое Радио",
+        "url": "http://tushkan.dynip.online:8000/live",
+        "favicon": "https://img.logo.dev/tushkan.dynip.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Едрическое Радио",
+        "url": "http://tushkan.dynip.online:8000/live",
+        "favicon": "https://img.logo.dev/tushkan.dynip.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Женский Stand Up",
         "url": "https://pub0102.101.ru:8443/stream/pro/aac/64/448",
         "favicon": "https://img.logo.dev/topradio.mobi?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -9843,6 +9663,11 @@
         "name": "Забытая кассета",
         "url": "https://casseta-disco.ru:6270/stream",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Забытая кассета",
+        "url": "https://discobonus.fvds.ru:6275/stream",
+        "favicon": "https://img.logo.dev/discobonus.fvds.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Звезда",
@@ -9893,6 +9718,11 @@
         "name": "Золотой Граммофон",
         "url": "https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp",
         "favicon": "https://img.logo.dev/rusradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "иван",
+        "url": "http://falcon.shoutca.st:8166/stream",
+        "favicon": "https://img.logo.dev/falcon.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Иван Кучин",
@@ -10205,14 +10035,19 @@
         "favicon": "https://img.logo.dev/cultradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Курай радиосы 73.97 Казан",
+        "url": "http://av.bimradio.ru:8066/kurai_mp3",
+        "favicon": "https://img.logo.dev/av.bimradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Күңел радиосы",
         "url": "http://live.kunelradio.ru:8000/128.mp3",
         "favicon": "https://img.logo.dev/kunelradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Лавра Успенский собор",
-        "url": "http://stream.lavra.info/USPEN",
-        "favicon": "https://img.logo.dev/stream.lavra.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "лав радио Магнитогорск",
+        "url": "http://radio.o2promo.ru:4060/stream",
+        "favicon": "https://img.logo.dev/radio.o2promo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ласковый май",
@@ -10238,11 +10073,6 @@
         "name": "Леонид Агутин",
         "url": "https://stream03.pcradio.app/Leonid_Agutin-hi",
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Лето",
-        "url": "https://online.radioletofm.ru/radioletofm",
-        "favicon": "https://img.logo.dev/wwv.zvuch.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Лидер",
@@ -10480,6 +10310,16 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Монтекарло Санкт Петербург",
+        "url": "https://hls-01-montecarlo.hostingradio.ru/montecarlo-spb/playlist.m3u8",
+        "favicon": "https://img.logo.dev/hls-01-montecarlo.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Монтекарло Санкт Петербург",
+        "url": "https://hls-01-montecarlo.hostingradio.ru/montecarlo-spb/playlist.m3u8",
+        "favicon": "https://img.logo.dev/hls-01-montecarlo.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "МУЗКОМ",
         "url": "https://geshou.s02.radio-tochka.com:5005/stream",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10520,14 +10360,14 @@
         "favicon": "https://img.logo.dev/radiomyata.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Н-Радио",
-        "url": "https://s.fmplay.ru/fc6fcf8a",
-        "favicon": "https://img.logo.dev/xn--80aimrii.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "На шашлыки!",
         "url": "https://hls-01-radiorecord.hostingradio.ru/record-nashashlyki/playlist.m3u8",
         "favicon": "https://img.logo.dev/radiorecord.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Народное Славянское Радио",
+        "url": "https://slavradio.org:8443/nsr/1/",
+        "favicon": "https://img.logo.dev/slavradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "нафталин fm",
@@ -10720,6 +10560,11 @@
         "favicon": "https://img.logo.dev/novoeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "новое радио Магнитогорск",
+        "url": "http://radio.o2promo.ru:4030/stream",
+        "favicon": "https://img.logo.dev/radio.o2promo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Новое радио Нижний Новгород 96.0 FM",
         "url": "http://emgregion.hostingradio.ru:8064/nnovgorod.novoe.mp3",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10850,6 +10695,11 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Песни всех времен",
+        "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/792012",
+        "favicon": "https://img.logo.dev/pub0102.101.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Пи FM",
         "url": "http://cdn.pifm.ru/mp3",
         "favicon": "https://img.logo.dev/pifm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -10942,7 +10792,7 @@
     {
         "name": "Победа ФM",
         "url": "http://node0.craftradio.ru:8000/169_2FC31C8F",
-        "favicon": "https://img.logo.dev/pobedafm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/node0.craftradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Повтор",
@@ -11000,16 +10850,6 @@
         "favicon": "https://img.logo.dev/radiopriboy.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Прибой",
-        "url": "http://77.232.167.247:1007/admin",
-        "favicon": "https://img.logo.dev/vobook.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Прибой",
-        "url": "http://77.232.167.247:1007/admin",
-        "favicon": "https://img.logo.dev/priboy.news?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Привет",
         "url": "http://62.16.41.97:8000/radioprivet",
         "favicon": "https://img.logo.dev/prfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -11037,7 +10877,7 @@
     {
         "name": "пурга",
         "url": "https://radiostream.chukotnet.ru/RadioPurga_48",
-        "favicon": "https://img.logo.dev/radiostream.chukotnet.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiopurga.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио \"Искатель\"",
@@ -11148,21 +10988,6 @@
         "name": "Радио 53 Валдай 99.6 FM",
         "url": "http://84.242.241.66:8000/;",
         "favicon": "https://img.logo.dev/topradio.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Радио 53 Великий Новгород",
-        "url": "http://84.242.241.66:8000/;stream.nsv",
-        "favicon": "https://img.logo.dev/radio53.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Радио 54",
-        "url": "http://91.202.68.50:8000/;stream.mp3",
-        "favicon": "https://img.logo.dev/xn--54-6kcqu0bk.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Радио 54 (Новосибирск)",
-        "url": "http://91.202.68.50:8000/;stream.mp3",
-        "favicon": "https://img.logo.dev/xn--54-6kcqu0bk.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио 7 Великий Новгород 99.4 FM",
@@ -11366,7 +11191,7 @@
     },
     {
         "name": "радио АЛЬФА",
-        "url": "https://stream1.alfafm.ru/alfa_mp3",
+        "url": "https://stream2.alfafm.ru/alfa_mp3",
         "favicon": "https://img.logo.dev/alfafm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -11398,6 +11223,11 @@
         "name": "Радио Болид",
         "url": "https://icecast-bulteam.cdnvideo.ru/bolid128",
         "favicon": "https://img.logo.dev/bolid.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио БУУ!",
+        "url": "http://buu.hostingradio.ru:8005/radio",
+        "favicon": "https://img.logo.dev/radiobu.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "РАДИО ВАНЯ",
@@ -11465,6 +11295,11 @@
         "favicon": "https://img.logo.dev/pravradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Радио Гармония",
+        "url": "https://online.garmoniyafm.com/listen/garm/256",
+        "favicon": "https://img.logo.dev/online.garmoniyafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Радио Гордость",
         "url": "https://rgordost.hostingradio.ru/rgordost64.aacp",
         "favicon": "https://img.logo.dev/xn--80agcbs0bbbkgnm4k.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -11483,6 +11318,16 @@
         "name": "Радио Град Петров / Radio Grad Petrov 73.1 FM",
         "url": "http://stream.grad-petrov.ru:8093/mp3",
         "favicon": "https://img.logo.dev/grad-petrov.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио Грозный",
+        "url": "https://e10-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/hls_live/index.m3u8",
+        "favicon": "https://img.logo.dev/e10-ll.facecast.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио Группы Солидарности с КНДР",
+        "url": "https://stream.zeno.fm/i3q4bwnzxp1uv",
+        "favicon": "https://img.logo.dev/vk.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "РАДИО ГУСЬ",
@@ -11533,6 +11378,11 @@
         "name": "Радио Дача Краснодар 88.3 FM",
         "url": "http://online-1.gkvr.ru:8000/dacha_krd_128.aac",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "радио дача Магнитогорск",
+        "url": "http://radio.o2promo.ru:8030/radio",
+        "favicon": "https://img.logo.dev/radio.o2promo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Дача Нижний Новгород 104.5 FM",
@@ -11607,12 +11457,12 @@
     {
         "name": "радио Забытая кассета",
         "url": "http://casseta-disco.ru:1090/stream",
-        "favicon": "https://img.logo.dev/radio-casseta.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/casseta-disco.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Забытая Кассета",
         "url": "https://casseta-disco.ru:6275/stream?x=1711899723831",
-        "favicon": "https://img.logo.dev/radio-casseta.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/casseta-disco.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Завод",
@@ -11745,11 +11595,6 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Радио Мария",
-        "url": "http://dreamsiteradiocp4.com:8002/",
-        "favicon": "https://img.logo.dev/radiomaria.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Радио Маяк (Radio Mayak)",
         "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps",
         "favicon": "https://img.logo.dev/radiomayak.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -11788,6 +11633,11 @@
         "name": "Радио МЕГАПОЛИС",
         "url": "http://online.radio-megapolis.ru:8000/megapolis",
         "favicon": "https://img.logo.dev/radio-megapolis.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "радио МЕГАПОЛИС 128 kb/s",
+        "url": "http://online.radio-megapolis.ru:8000/megapolis_mp3",
+        "favicon": "https://img.logo.dev/online.radio-megapolis.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Мегаполис Самара 103.6 FM",
@@ -12005,9 +11855,9 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Радио Олдхит",
-        "url": "http://radio.oldxit.ru:8030/radio",
-        "favicon": "https://img.logo.dev/radio.oldxit.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Радио Олимп",
+        "url": "http://online.olimpfm.ru:8000/olimp",
+        "favicon": "https://img.logo.dev/online.olimpfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Орфей - Бельканто 256kbps",
@@ -12138,11 +11988,6 @@
         "name": "Радио Открытие Мценск 102.0 FM",
         "url": "https://stream.discoveryfm.ru/discovery256.mp3",
         "favicon": "https://img.logo.dev/discoveryfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Радио Панельных Домов",
-        "url": "https://listen7.myradio24.com/panelka",
-        "favicon": "https://img.logo.dev/radiopanelka.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Пассаж",
@@ -12670,16 +12515,6 @@
         "favicon": "https://img.logo.dev/radiorus.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Радио России / ГТРК \"Орел\"",
-        "url": "https://vestiorel.ru/radio-rossii",
-        "favicon": "https://img.logo.dev/vestiorel.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Радио России / ГТРК \"Орел\"",
-        "url": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/radio_russia/index.m3u8",
-        "favicon": "https://img.logo.dev/vestiorel.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Радио России Абакан 91.0 FM",
         "url": "http://s0.radioheart.ru:8000/RR",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -12875,11 +12710,6 @@
         "favicon": "https://img.logo.dev/radio.jingles.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Радио Рояль",
-        "url": "https://c22.radioboss.fm:18186/stream",
-        "favicon": "https://img.logo.dev/royalradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Радио Русские Песни",
         "url": "https://listen.rusongs.ru/ru-aac-64",
         "favicon": "https://img.logo.dev/listen.rusongs.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13000,11 +12830,6 @@
         "favicon": "https://img.logo.dev/radiopotok.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Радио Странствий",
-        "url": "https://listen2.myradio24.com/4156",
-        "favicon": "https://img.logo.dev/stranstvy.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Радио Тавния",
         "url": "https://tavria.hostingradio.ru/tavria192.mp3",
         "favicon": "https://img.logo.dev/tavria.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13012,7 +12837,7 @@
     {
         "name": "Радио ТВ Твоя Волна",
         "url": "https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna",
-        "favicon": "https://img.logo.dev/tvoyavolna.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/icecast-tvoyavolna.cdnvideo.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио ТМК",
@@ -13043,6 +12868,11 @@
         "name": "Радио Точка Симферополь 98.7 FM",
         "url": "https://fm.1tvcrimea.ru:19001/stream_provod.mp3",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио Трансмит",
+        "url": "https://radio.transmit.ru/listen/transmit/transmit_128.mp3",
+        "favicon": "https://img.logo.dev/radio.transmit.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Трансмит",
@@ -13107,7 +12937,7 @@
     {
         "name": "Радио Хит (Орск)",
         "url": "https://hit.trkeurasia.ru/hit128",
-        "favicon": "https://img.logo.dev/smotri.radio?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/hit.trkeurasia.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Хит-FM Ярославль 105.6",
@@ -13147,7 +12977,12 @@
     {
         "name": "Радио Шансон - Radio Shanson",
         "url": "http://chanson.hostingradio.ru:8041/chanson256.mp3",
-        "favicon": "https://img.logo.dev/radioshanson.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/chanson.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио Шансон 24",
+        "url": "https://radiont.shansonspb.ru:1045/stream",
+        "favicon": "https://img.logo.dev/radiont.shansonspb.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Шансон Владивосток 103.2 FM",
@@ -13236,11 +13071,6 @@
     },
     {
         "name": "Радио Юность",
-        "url": "http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps",
-        "favicon": "https://img.logo.dev/radiounost.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Радио Юность",
         "url": "https://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
@@ -13268,26 +13098,6 @@
         "name": "Радонеж",
         "url": "http://icecast.radonezh.cdnvideo.ru:8000/rad",
         "favicon": "https://img.logo.dev/radonezh.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ралио Релакс Москва 90,8 FM",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ралио Релакс Москва 90,8 FM",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ралио Релакс Москва 90,8 FM",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ралио Релакс Москва 90,8 FM",
-        "url": "http://pub0302.101.ru:8000/stream/air/aac/64/200",
-        "favicon": "https://img.logo.dev/relax-fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "рекорд",
@@ -13500,6 +13310,11 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "РетроФМ",
+        "url": "http://europaplus.hostingradio.ru:8014/retro320.mp3",
+        "favicon": "https://img.logo.dev/europaplus.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "РНР Радио Начинающих Рэперов",
         "url": "https://listen6.myradio24.com/rnm",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13560,14 +13375,14 @@
         "favicon": "https://img.logo.dev/radioshanson.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Россия 1 HD",
+        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
+        "favicon": "https://img.logo.dev/vgtrk.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Россия 90-х",
         "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/33",
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Рояль",
-        "url": "https://c22.radioboss.fm:18186/stream",
-        "favicon": "https://img.logo.dev/royalradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Русская Волна",
@@ -13660,14 +13475,14 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "РУССКОЕ 1995-2005 [HDR FLAC]",
+        "url": "http://harddanceradio.ddns.is74.ru:9000/russian.ogg",
+        "favicon": "https://img.logo.dev/harddanceradio.ddns.is74.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Русское радио",
         "url": "https://radio.promedia.ru/rr-simf",
         "favicon": "https://img.logo.dev/rusradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "РУССКОЕ РАДИО",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "favicon": "https://img.logo.dev/rusradio.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Русское Радио",
@@ -13675,29 +13490,14 @@
         "favicon": "https://img.logo.dev/rusradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "РУССКОЕ РАДИО",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "favicon": "https://img.logo.dev/rusradio.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Русское Радио",
         "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "favicon": "https://img.logo.dev/rusradio.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/rusradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Русское Радио",
         "url": "https://rusradio.hostingradio.ru/rusradio128.mp3",
         "favicon": "https://img.logo.dev/rusradio.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Русское Радио",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "favicon": "https://img.logo.dev/rusradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Русское Радио Moscow",
-        "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
-        "favicon": "https://img.logo.dev/rusradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Русское радио Великий Новгород 100.4 FM",
@@ -13798,11 +13598,6 @@
         "name": "Рыжий сентябрь",
         "url": "https://listen7.myradio24.com/45071",
         "favicon": "https://img.logo.dev/all-radio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Рязанское Епархиальное Радио",
-        "url": "https://s01.radio-tochka.com:4995/radio",
-        "favicon": "https://img.logo.dev/rer102-5fm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Сapital fm",
@@ -13915,11 +13710,6 @@
         "favicon": "https://img.logo.dev/silver.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Серебряный Дождь Ставрополь",
-        "url": "https://silverrainreg.hostingradio.ru/stavropol.silver128.mp3",
-        "favicon": "https://img.logo.dev/silverstav.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Сказка FM",
         "url": "https://skazka.amgradio.ru/Skazka",
         "favicon": "https://img.logo.dev/amgradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13945,16 +13735,6 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Советская Волна",
-        "url": "https://station.waveradio.org/soviet.mp3?pltsukioahxdexkqsjgf",
-        "favicon": "https://img.logo.dev/sovietwave.su?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Советская волна",
-        "url": "http://station.waveradio.org/soviet.mp3",
-        "favicon": "https://img.logo.dev/station.waveradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Советская Классика",
         "url": "https://rr-sovclass.hostingradio.ru/sovclass96.aacp",
         "favicon": "https://img.logo.dev/m.the-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13970,11 +13750,6 @@
         "favicon": "https://img.logo.dev/sovetskie-pesni.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "СОК",
-        "url": "http://82.146.46.30:8000/radiosok-msk",
-        "favicon": "https://img.logo.dev/xn--80aamqggufo9e.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Соловьёв FM",
         "url": "http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u",
         "favicon": "https://img.logo.dev/soloviev.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13987,7 +13762,7 @@
     {
         "name": "Соловьёв life FM",
         "url": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
-        "favicon": "https://img.logo.dev/solovev-live.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/solovievfm.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Соловьёв LIVE",
@@ -14003,11 +13778,6 @@
         "name": "Соня",
         "url": "https://rr-sonya.hostingradio.ru/sonya96.aacp",
         "favicon": "https://img.logo.dev/radio-24.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Союз ФМ",
-        "url": "http://soyuzfm.su:8100//soyuzfm-320.mp3?1702169748633",
-        "favicon": "https://img.logo.dev/soyuzfm.su?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Сплин",
@@ -14083,46 +13853,6 @@
         "name": "Станция Кассиопея",
         "url": "https://stream.cassiopeia-station.ru:1075/stream",
         "favicon": "https://img.logo.dev/cassiopeia-station.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Старое доброе радио",
-        "url": "http://91.189.162.134:8008/;",
-        "favicon": "https://img.logo.dev/staroedibroe.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Старое радио - Old Radio",
-        "url": "http://195.91.237.50:8000/ices128",
-        "favicon": "https://img.logo.dev/staroeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Старое радио - Old Radio 32",
-        "url": "http://195.91.237.50:8000/ices32",
-        "favicon": "https://img.logo.dev/staroeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Старое радио - Old Radio 64",
-        "url": "http://195.91.237.50:8000/ices64",
-        "favicon": "https://img.logo.dev/staroeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Старое радио - Old Radio 64",
-        "url": "http://195.91.237.50:8000/ices64",
-        "favicon": "https://img.logo.dev/staroeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Старое радио - Музыка",
-        "url": "http://195.91.237.50:8000/music128",
-        "favicon": "https://img.logo.dev/staroeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Старое радио Музыка - Old radio Music 32",
-        "url": "http://195.91.237.50:8000/music32",
-        "favicon": "https://img.logo.dev/staroeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Старое радио Музыка - Old radio Music 64",
-        "url": "http://195.91.237.50:8000/music64",
-        "favicon": "https://img.logo.dev/staroeradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Старый Маяк",
@@ -14235,6 +13965,11 @@
         "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ТВОЁ FM - Звучим как хотим!",
+        "url": "https://listen8.myradio24.com/73332",
+        "favicon": "https://img.logo.dev/productionprod.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Твой день",
         "url": "http://a7.radioheart.ru:8035/RH8851",
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -14273,11 +14008,6 @@
         "name": "ТНТ MUSIC RADIO",
         "url": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3?radiostatistica=tntmusic.ru",
         "favicon": "https://img.logo.dev/tntmusic.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Топ",
-        "url": "http://streamer.radiovseti.ru:8000/tr_hi",
-        "favicon": "https://img.logo.dev/topradiofm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Топ Радио",
@@ -14346,18 +14076,8 @@
     },
     {
         "name": "Ульяновск FM",
-        "url": "https://online.ulskfm.ru/104i2_mp3",
-        "favicon": "https://img.logo.dev/wwv.zvuch.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ульяновск FM",
         "url": "https://online.ulskfm.ru/104i2_mp3?v=1715194992940",
         "favicon": "https://img.logo.dev/ruradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Умное Радио",
-        "url": "http://umnoe.amgradio.ru/Umnoe",
-        "favicon": "https://img.logo.dev/umnoeradio.sariv.info?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Умное Радио",
@@ -14410,6 +14130,11 @@
         "favicon": "https://img.logo.dev/tvrts.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Харьков z",
+        "url": "http://control1.craftradio.ru:8000/stream02",
+        "favicon": "https://img.logo.dev/control1.craftradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Хит FM",
         "url": "https://hls-01-hitfm.hostingradio.ru/hitfm/playlist.m3u8",
         "favicon": "https://img.logo.dev/hitfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -14428,51 +14153,6 @@
         "name": "Хит FM Двигай Лопес",
         "url": "https://hitfm-hitlopez.hostingradio.ru/hitlopez96.aacp",
         "favicon": "https://img.logo.dev/hitfm.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "ХИТ FM Пермь",
-        "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?88b9f1",
-        "favicon": "https://img.logo.dev/top-radio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ХИТ FM Пермь",
@@ -14577,7 +14257,7 @@
     {
         "name": "Шансон Радио",
         "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
-        "favicon": "https://img.logo.dev/radioshanson.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/chanson.hostingradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ШОК",
@@ -14628,11 +14308,6 @@
         "name": "ЭхоFM online",
         "url": "https://i1.echofm.online:8443/stream",
         "favicon": "https://img.logo.dev/echofm.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Юлдаш",
-        "url": "https://radio.mediacdn.ru/uldash.mp3",
-        "favicon": "https://img.logo.dev/radio.mediacdn.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Юлдаш PLUS",
@@ -14710,33 +14385,28 @@
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Юное",
-        "url": "http://xn--80aibovgem6j.xn--p1ai:8000/live256",
-        "favicon": "https://img.logo.dev/xn--80aibovgem6j.xn--p1ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Юрий Шатунов Радио",
         "url": "https://stream03.pcradio.app/Jurij_Shatunov-hi",
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ЯН-ФМ Anime",
-        "url": "http://animklatu.stream.laut.fm/animklatu?uuid=6a16578e-c39e-6731-25f8-d4cbe8bc2e28&t302=2026-10-22_14-37-43",
+        "url": "http://animklatu.stream.laut.fm/animklatu?uuid=ee9a04b6-61e6-f283-01fd-49db913b1189&t302=2026-10-27_14-04-09",
         "favicon": "https://img.logo.dev/radio90s.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ЯН-ФМ Trance",
-        "url": "https://anilibria.stream.laut.fm/anilibria?t302=2026-10-22_04-44-03&uuid=85deac43-1b26-0abe-ddc8-d2a4ce2de18e",
+        "url": "https://anilibria.stream.laut.fm/anilibria?uuid=916bfc44-85f4-a20d-dd46-ff6abbe5698b&t302=2026-11-01_05-58-04",
         "favicon": "https://img.logo.dev/radio90s.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ЯН.ФМ Диско 90х РФ",
-        "url": "https://radio90s.stream.laut.fm/radio90s?t302=2026-10-22_20-04-24&uuid=02b48336-0c24-7b5e-97a2-e81343f81059",
+        "url": "https://radio90s.stream.laut.fm/radio90s?t302=2026-10-27_19-12-25&uuid=07748b30-e328-d955-e7e7-3c72d13386d7",
         "favicon": "https://img.logo.dev/radio90s.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ЯН.ФМ Диско 90х РФ",
-        "url": "https://radio90s.stream.laut.fm/radio90s?uuid=312c8f82-06fe-1691-5251-496e1fd66ec1&t302=2026-10-22_07-29-23",
+        "url": "https://radio90s.stream.laut.fm/radio90s?t302=2026-10-27_09-01-05&uuid=b4cd8274-339a-a7eb-ae97-95ffb900e3f4",
         "favicon": "https://img.logo.dev/radio90s.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {

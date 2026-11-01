@@ -1,20 +1,5 @@
 [
     {
-        "name": ". القارئ محمد أيوب",
-        "url": "https://qurango.net/radio/mohammed_ayyub",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".. مختصر التفسير",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Ain FM",
         "url": "https://radio.ainfm.site/ainfm",
         "favicon": "https://img.logo.dev/ainfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -48,16 +33,6 @@
         "name": "Jordan Melody FM",
         "url": "http://s3.voscast.com:9966/",
         "favicon": "https://img.logo.dev/melody-fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Jordan Radio (Main)",
-        "url": "https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8",
-        "favicon": "https://img.logo.dev/jrtv-live.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "JRRadio",
-        "url": "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8",
-        "favicon": "https://img.logo.dev/jrtv-live.ercdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "JU FM 94.9 - University of Jordan Radio",
@@ -105,9 +80,14 @@
         "favicon": "https://img.logo.dev/mood.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "noursat jorden",
-        "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/svs.itworkscdn.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Nai FM 101.5",
+        "url": "https://naifm.radioca.st/;",
+        "favicon": "https://img.logo.dev/radionai.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Play 99.5 FM",
+        "url": "https://play995.radioca.st//stream",
+        "favicon": "https://img.logo.dev/play.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Quran Radio (JO)",
@@ -118,6 +98,11 @@
         "name": "Radio Dahab",
         "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
         "favicon": "https://img.logo.dev/dahab.ice.infomaniak.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fann FM 104.2",
+        "url": "http://45.63.116.205:8000/stream2",
+        "favicon": "https://img.logo.dev/radiofann.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Hala",
@@ -135,13 +120,13 @@
         "favicon": "https://img.logo.dev/fm.ttu.edu.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Watar FM",
+        "url": "https://securestreams2.autopo.st:1243/live",
+        "favicon": "https://img.logo.dev/watar.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Yarmouk University FM",
         "url": "https://yufm.yu.edu.jo/broadwave.mp3",
         "favicon": "https://img.logo.dev/yu.edu.jo?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "تفسير بن عثيمين",
-        "url": "https://qurango.net/radio/tafseer",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

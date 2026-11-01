@@ -1,15 +1,5 @@
 [
     {
-        "name": "LOVE FM: All you need is Love ♥ Clásicos del pop",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/maxplay.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Amor 90.9",
         "url": "https://stream.eleden.com:8360/amor909.aac",
         "favicon": "https://img.logo.dev/amoradiofm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -18,11 +8,6 @@
         "name": "AZ Rock",
         "url": "http://cassini.shoutca.st:9300/stream",
         "favicon": "https://img.logo.dev/azrockradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Batanga Radio",
-        "url": "https://radio.wowzahosting.com/listen/batanga_radio/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.wowzahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Catolica Radio",
@@ -38,11 +23,6 @@
         "name": "Cumbre 1470 AM - 106.3 FM",
         "url": "https://sp.unoredcdn.net/8158/stream",
         "favicon": "https://img.logo.dev/cumbre1470am.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Exa FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Fidelity 95.7",
@@ -115,9 +95,9 @@
         "favicon": "https://img.logo.dev/novawaveradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "OldiVille",
-        "url": "https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.wowzahosting.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "PR - Radio Universidad UPR Rio Piedras",
+        "url": "https://wrtustream.uprrp.edu/listen.mp3",
+        "favicon": "https://img.logo.dev/wrtu.uprrp.edu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "PR Magic 97.3",
@@ -135,11 +115,6 @@
         "favicon": "https://img.logo.dev/puragracia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Atenas 1500 AM",
-        "url": "https://radioatenas-webctgena.radioca.st/stream",
-        "favicon": "https://img.logo.dev/radioatenas-webctgena.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Casa Pueblo",
         "url": "http://s1.voscast.com:9906/;stream1523840050300/1",
         "favicon": "https://img.logo.dev/casapueblo.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -155,6 +130,11 @@
         "favicon": "https://img.logo.dev/radioisla.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Joe",
+        "url": "https://radiosdepuertorico.com/joe/",
+        "favicon": "https://img.logo.dev/radiosdepuertorico.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Oro",
         "url": "https://www.empiezatudia.com/en-vivo.html",
         "favicon": "https://img.logo.dev/empiezatudia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -163,6 +143,11 @@
         "name": "Radio Paraiso 92.9 FM",
         "url": "http://stream.eleden.com:8240/wtpm.aac",
         "favicon": "https://img.logo.dev/wtpm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Raices Pepino",
+        "url": "https://plugmedia.co/play/radio-raices-1460/",
+        "favicon": "https://img.logo.dev/radioraices1460.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Tropical",
@@ -190,34 +175,14 @@
         "favicon": "https://img.logo.dev/c9.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Super K FM",
-        "url": "http://grupomedrano.stream-audio.com:8856/SuperK",
-        "favicon": "https://img.logo.dev/superkfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Vid 90",
         "url": "http://s3.voscast.com:7720/;stream1726930102886/1",
         "favicon": "https://img.logo.dev/vid90.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "WABA",
-        "url": "https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/stream.eleden.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "WALO 1240 \"Radio Oriental\" Humacao",
         "url": "http://68.235.35.243:9031/stream?type=.mp3",
         "favicon": "https://img.logo.dev/waloradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WAPA RADIO",
-        "url": "https://livestreamcdn.net:2000/stream/waparadio",
-        "favicon": "https://img.logo.dev/waparadio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WIAC 740 AM",
-        "url": "https://sp.unoredcdn.net:8044/stream",
-        "favicon": "https://img.logo.dev/wiac740.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WKAQ 580",
@@ -248,11 +213,6 @@
         "name": "WUNO 630 \"Noti Uno\" San Juan",
         "url": "http://68.235.35.243:9027/;stream.mp3",
         "favicon": "https://img.logo.dev/notiuno.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WUPR Éxitos 1530",
-        "url": "https://exitos1530.radioca.st/stream",
-        "favicon": "https://img.logo.dev/exitos1530.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Yunque93",

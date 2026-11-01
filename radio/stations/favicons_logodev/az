@@ -5,9 +5,9 @@
         "favicon": "https://img.logo.dev/106-3fm.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "106.3 fm.az",
+        "url": "https://audiostr.atv.az/106.3fm",
+        "favicon": "https://img.logo.dev/106-3fm.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Anti Radio",
@@ -95,6 +95,11 @@
         "favicon": "https://img.logo.dev/boss.com.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Dalga fm 92.5",
+        "url": "https://live.dinle.az/dalgafm",
+        "favicon": "https://img.logo.dev/dalgafm.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "DalğaFM 92.5",
         "url": "https://live.dinle.az/dalgafm",
         "favicon": "https://img.logo.dev/dalgafm.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -103,6 +108,11 @@
         "name": "İctimai Radio – 90 FM",
         "url": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
         "favicon": "https://img.logo.dev/90fm.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "KN Music TV",
+        "url": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
+        "favicon": "https://img.logo.dev/cdn4.yayin.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Max tv Azerbaycan",
@@ -170,11 +180,6 @@
         "favicon": "https://img.logo.dev/enerjifm.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Space 104FM",
-        "url": "https://stream.zeno.fm/noozxmffa38uv",
-        "favicon": "https://img.logo.dev/spacetv.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Veten",
         "url": "https://cdn2.cloudrad.io/radioveten/0kgkkzanmueuv/source/listen.m3u",
         "favicon": "https://img.logo.dev/podbox.me?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -185,11 +190,6 @@
         "favicon": "https://img.logo.dev/rahatmarket.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Real FM 107",
-        "url": "http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a",
-        "favicon": "https://img.logo.dev/realfm.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Sağlam Radio",
         "url": "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000",
         "favicon": "https://img.logo.dev/sehiyye.gov.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -198,6 +198,16 @@
         "name": "TMB 100.5",
         "url": "http://s39.myradiostream.com:5458/",
         "favicon": "https://img.logo.dev/s39.myradiostream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vintage Radio Azerbaijan",
+        "url": "https://trucker.autoliferadio.com:1045/stream",
+        "favicon": "https://img.logo.dev/vintageradio.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Vintage Radio Azerbaijan",
+        "url": "https://trucker.autoliferadio.com:1045/stream",
+        "favicon": "https://img.logo.dev/vintageradio.az?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Xezer FM",

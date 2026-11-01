@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Hereti FM",
         "url": "http://iis.ge:8000/hereti.mp3",
         "favicon": "https://img.logo.dev/heretifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -45,6 +40,11 @@
         "favicon": "https://img.logo.dev/player.1tv.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Amra",
+        "url": "https://streamer.radio.co/s34b5469e0/listen",
+        "favicon": "https://img.logo.dev/radioamra.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio dardimandi",
         "url": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8",
         "favicon": "https://img.logo.dev/nue01-edge01.itdc.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -78,16 +78,6 @@
         "name": "არდაიდარდო",
         "url": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8",
         "favicon": "https://img.logo.dev/ardaidardo.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "თბილისი FM (Tbilisi FM)",
-        "url": "http://iis.ge:8000/radiotbilisi.mp3",
-        "favicon": "https://img.logo.dev/tbilisifm.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "რადიო აჭარა (Radio Adjara)",
-        "url": "https://edge.mixlr.com/channel/bzorq",
-        "favicon": "https://img.logo.dev/radioajara.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "რადიო იმედი (Radio Imedi)",
@@ -133,6 +123,11 @@
         "name": "რადიო ჩვენებური",
         "url": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8",
         "favicon": "https://img.logo.dev/radiochveneburi.ge?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "რიონი FM",
+        "url": "https://video.rionitv.com/s;stream",
+        "favicon": "https://img.logo.dev/radio.rionitv.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "უცნობი FM (Ucnobi FM)",

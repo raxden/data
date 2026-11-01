@@ -5,31 +5,6 @@
         "favicon": "https://img.logo.dev/squirrelfm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "# 70s 80s 90s RdMix Network",
-        "url": "https://cast1.torontocast.com:1830/stream",
-        "favicon": "https://img.logo.dev/radiodimensionemix.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "# RdMix Classic Rock 70s 80s 90s",
-        "url": "https://cast1.torontocast.com:4610/stream",
-        "favicon": "https://img.logo.dev/radiodimensionemix.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "# RdMix DJSET 70s 80s 90s",
-        "url": "https://cast1.torontocast.com:4560/stream",
-        "favicon": "https://img.logo.dev/radiodimensionemix.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "# RdMix Italo Disco 80s",
-        "url": "https://cast1.torontocast.com:2130/stream",
-        "favicon": "https://img.logo.dev/radiodimensionemix.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "#1 RdMix Love Songs",
-        "url": "https://maggie.torontocast.com:2020/stream/rdmixlovesongs",
-        "favicon": "https://img.logo.dev/radiodimensionemix.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "101.9 ROCK",
         "url": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein&args=tunein_01",
         "favicon": "https://img.logo.dev/1019rock.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -40,24 +15,9 @@
         "favicon": "https://img.logo.dev/radiobellissima.it?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "..tafsir coran",
-        "url": "https://qurango.net/radio/mukhtasartafsir",
-        "favicon": "https://img.logo.dev/qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": ".Quran",
-        "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "((( WEFUNK Radio ))) . raw uncut funk . classic & underground hip-hop . playlist & archive on wefunkradio.com",
         "url": "https://www.wefunkradio.com/play/radio.mp3",
         "favicon": "https://img.logo.dev/wefunkradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "[XRM] - Electronic",
-        "url": "http://stream.xrm.fm:8000/xrm-ele.aac",
-        "favicon": "https://img.logo.dev/xrm.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "00-Radio Canada Montreal",
@@ -80,11 +40,6 @@
         "favicon": "https://img.logo.dev/1pureradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "100 % COVERS LOUNGE",
-        "url": "https://az1.mediacp.eu/listen/100coverslounge/radio.mp3",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "100.1 BayFM",
         "url": "https://stream.statsradio.com:8148/stream",
         "favicon": "https://img.logo.dev/bayfm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -93,11 +48,6 @@
         "name": "100.9 The Wave - CKTO-FM, Truro",
         "url": "https://mbsradio-ais.leanstream.co/CKTOFM-MP3",
         "favicon": "https://img.logo.dev/thewavetruro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "100% ACID JAZZ",
-        "url": "https://mpc1.mediacp.eu:8356/stream",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "102.3 Juice FM Grand Forks BC",
@@ -165,6 +115,11 @@
         "favicon": "https://img.logo.dev/3313.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "4lobos bollywood radio",
+        "url": "http://puma.streemlion.com:4130/stream",
+        "favicon": "https://img.logo.dev/puma.streemlion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "570 News Kitchener",
         "url": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/kitchener.citynews.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -200,16 +155,6 @@
         "favicon": "https://img.logo.dev/680news.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "70 80 90 ITALIA D'AUTORE",
-        "url": "https://maggie.torontocast.com:2020/stream/708090italiadautore",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "70 80 90 Vibrazioni Rock Radio",
-        "url": "https://maggie.torontocast.com:2020/stream/vibrazionirockradio",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "7080rocks",
         "url": "https://stream.7080rocks.com/",
         "favicon": "https://img.logo.dev/7080.rocks?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -218,16 +163,6 @@
         "name": "840 CFSX",
         "url": "https://nyc-edge1-entry1.leanstream-hd.com:2113/CFSXAM",
         "favicon": "https://img.logo.dev/vocm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "88.7 The Ghoat",
-        "url": "http://72.167.53.106:8018/MP3",
-        "favicon": "https://img.logo.dev/theghoat.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "88.7 The Ghoat",
-        "url": "http://72.167.53.106:8018/MP3",
-        "favicon": "https://img.logo.dev/theghoat.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "88.9 Shine FM",
@@ -330,11 +265,6 @@
         "favicon": "https://img.logo.dev/adickted.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "A MISSISSIPPI BLUES",
-        "url": "https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "A1中文电台",
         "url": "http://s2.voscast.com:9530/",
         "favicon": "https://img.logo.dev/a1chineseradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -350,11 +280,6 @@
         "favicon": "https://img.logo.dev/canada1.reliastream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Absoluut FM",
         "url": "https://absoluutfm.stream.laut.fm/absoluutfm",
         "favicon": "https://img.logo.dev/absoluutfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -363,16 +288,6 @@
         "name": "Addicted 2 Oldies Music Radio Canada's #1 RETRO Radio",
         "url": "http://streamingp.shoutcast.com/JamendoLounge",
         "favicon": "https://img.logo.dev/liveonlineradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Addictive-50s",
-        "url": "http://quincy.torontocast.com:2920/stream",
-        "favicon": "https://img.logo.dev/radio-addictive-50s.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Addictive-50s - Golden oldies",
-        "url": "http://quincy.torontocast.com:2920/stream",
-        "favicon": "https://img.logo.dev/radio-addictive-50s.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ADRENALINE RADIO",
@@ -385,9 +300,14 @@
         "favicon": "https://img.logo.dev/ah.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "AIRPORT LOUNGE RADIO",
-        "url": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Alberta Radio",
+        "url": "https://listen.albertaradio.ca/",
+        "favicon": "https://img.logo.dev/listen.albertaradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Alexandria Radio",
+        "url": "https://mew1.shoutcat.com/listen/alexandria/radio.mp3",
+        "favicon": "https://img.logo.dev/shoutcat.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Alfred's Radio",
@@ -413,6 +333,11 @@
         "name": "Amazing Discoveries TV",
         "url": "http://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w817917838.m3u8",
         "favicon": "https://img.logo.dev/amazingdiscoveries.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ambient Art Sound",
+        "url": "https://ambientartsound.skydesignltd.com:8000/radio.mp3?refresh=1652750904243",
+        "favicon": "https://img.logo.dev/ambientartsound.skydesignltd.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "American Roots Radio",
@@ -551,7 +476,7 @@
     },
     {
         "name": "Business News Network Audio Channel",
-        "url": "http://29324.live.streamtheworld.com/TV_BNNAAC_SC",
+        "url": "http://26103.live.streamtheworld.com:3690/TV_BNNAAC_SC",
         "favicon": "https://img.logo.dev/bnn.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -720,6 +645,11 @@
         "favicon": "https://img.logo.dev/canadaatlarge.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Canal M",
+        "url": "http://cad.casthost.ca:8038/stream",
+        "favicon": "https://img.logo.dev/vuesetvoix.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Canary Radio",
         "url": "https://streaming.live365.com/a90701",
         "favicon": "https://img.logo.dev/canaryradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -736,12 +666,12 @@
     },
     {
         "name": "CBC Music (Central) - Winnipeg, MB",
-        "url": "https://27033.live.streamtheworld.com/CBWFM_CBC_SC",
+        "url": "https://26373.live.streamtheworld.com/CBWFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Music Atlantic (Halifax) MP3 Stream",
-        "url": "https://17813.live.streamtheworld.com/CBH_CBC_SC",
+        "url": "https://26183.live.streamtheworld.com/CBH_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -751,7 +681,7 @@
     },
     {
         "name": "CBC Music Central (Winnipeg) - MP3 Stream",
-        "url": "https://22983.live.streamtheworld.com/CBWFM_CBC_SC",
+        "url": "https://26373.live.streamtheworld.com/CBWFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -761,7 +691,7 @@
     },
     {
         "name": "CBC Music Eastern (Toronto) MP3 Stream",
-        "url": "https://22983.live.streamtheworld.com/CBLFM_CBC_SC",
+        "url": "https://27033.live.streamtheworld.com/CBLFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -770,13 +700,8 @@
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CBC Music Pacific",
-        "url": "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8",
-        "favicon": "https://img.logo.dev/cbcradiolive.akamaized.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CBC Music Pacific (Vancouver) MP3 Stream",
-        "url": "https://26183.live.streamtheworld.com/CBUFM_CBC_SC",
+        "url": "https://26733.live.streamtheworld.com/CBUFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -841,22 +766,22 @@
     },
     {
         "name": "CBC Radio One - Charlottetown, PE",
-        "url": "https://26733.live.streamtheworld.com/CBCTFM_CBC_SC",
+        "url": "https://17813.live.streamtheworld.com/CBCTFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Corner Brook, NL (MP3 Stream)",
-        "url": "https://26733.live.streamtheworld.com/CBYAM_CBC_SC",
+        "url": "https://17813.live.streamtheworld.com/CBYAM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Fredericton, NB (MP3 stream)",
-        "url": "https://26183.live.streamtheworld.com/CBZFFM_CBC_SC",
+        "url": "https://26733.live.streamtheworld.com/CBZFFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Grand Falls-Windsor, NL (MP3 stream)",
-        "url": "https://17813.live.streamtheworld.com/CBGAM_CBC_SC",
+        "url": "https://26183.live.streamtheworld.com/CBGAM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -866,7 +791,7 @@
     },
     {
         "name": "CBC Radio One - Happy Valley-Goose Bay, NL (MP3 stream)",
-        "url": "https://26733.live.streamtheworld.com/CFGB_CBC_SC",
+        "url": "https://26183.live.streamtheworld.com/CFGB_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -876,7 +801,7 @@
     },
     {
         "name": "CBC Radio One - Kamloops, BC (MP3 stream)",
-        "url": "https://27033.live.streamtheworld.com/CBYKFM_CBC_SC",
+        "url": "https://26373.live.streamtheworld.com/CBYKFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -886,7 +811,7 @@
     },
     {
         "name": "CBC Radio One - Kingston, ON (MP3 stream)",
-        "url": "https://15313.live.streamtheworld.com/CBCKFM_CBC_SC",
+        "url": "https://18493.live.streamtheworld.com/CBCKFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -896,12 +821,12 @@
     },
     {
         "name": "CBC Radio One - London, ON (MP3 stream)",
-        "url": "https://26183.live.streamtheworld.com/CBCLFM_CBC_SC",
+        "url": "https://18853.live.streamtheworld.com/CBCLFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Moncton, NB (MP3 stream)",
-        "url": "https://14123.live.streamtheworld.com/CBAMFM_CBC_SC",
+        "url": "https://18853.live.streamtheworld.com/CBAMFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -916,17 +841,17 @@
     },
     {
         "name": "CBC Radio One - Ottawa, ON (MP3 stream)",
-        "url": "https://26733.live.streamtheworld.com/CBOFM_CBC_SC",
+        "url": "https://26183.live.streamtheworld.com/CBOFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Peterborough, ON (MP3 stream)",
-        "url": "https://27033.live.streamtheworld.com/CBCPFM_CBC_SC",
+        "url": "https://26373.live.streamtheworld.com/CBCPFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Prince George, BC (MP3 stream)",
-        "url": "https://22983.live.streamtheworld.com/CBYGFM_CBC_SC",
+        "url": "https://27033.live.streamtheworld.com/CBYGFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -936,7 +861,7 @@
     },
     {
         "name": "CBC Radio One - Regina, SK (MP3 stream)",
-        "url": "https://27033.live.streamtheworld.com/CBKRFM_CBC_SC",
+        "url": "https://26373.live.streamtheworld.com/CBKRFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -946,57 +871,57 @@
     },
     {
         "name": "CBC Radio One - Saskatoon, SK (MP3 stream)",
-        "url": "https://22983.live.streamtheworld.com/CBK1FM_CBC_SC",
+        "url": "https://27033.live.streamtheworld.com/CBK1FM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - St. John's, NL (MP3 stream)",
-        "url": "https://26183.live.streamtheworld.com/CBN1_CBC_SC",
+        "url": "https://17813.live.streamtheworld.com/CBN1_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Sudbury, ON (MP3 stream)",
-        "url": "https://26183.live.streamtheworld.com/CBCSFM_CBC_SC",
+        "url": "https://17813.live.streamtheworld.com/CBCSFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Sydney, NS (MP3 stream)",
-        "url": "https://26183.live.streamtheworld.com/CBIS_CBC_SC",
+        "url": "https://17813.live.streamtheworld.com/CBIS_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Thunder Bay, ON (MP3 stream)",
-        "url": "https://26183.live.streamtheworld.com/CBQTFM_CBC_SC",
+        "url": "https://26733.live.streamtheworld.com/CBQTFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Toronto, ON (MP3 stream)",
-        "url": "https://26183.live.streamtheworld.com/CBLAFM_CBC_SC",
+        "url": "https://17813.live.streamtheworld.com/CBLAFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Vancouver, BC (MP3 stream)",
-        "url": "https://26373.live.streamtheworld.com/CBU2FM_CBC_SC",
+        "url": "https://22983.live.streamtheworld.com/CBU2FM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Victoria, BC (MP3 stream)",
-        "url": "https://27033.live.streamtheworld.com/CBCVFM_CBC_SC",
+        "url": "https://22983.live.streamtheworld.com/CBCVFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Whitehorse (MP3 Stream)",
-        "url": "https://27033.live.streamtheworld.com/CFWH_CBC_SC",
+        "url": "https://22983.live.streamtheworld.com/CFWH_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Windsor, ON (MP3 stream)",
-        "url": "https://26733.live.streamtheworld.com/CBEWFM_CBC_SC",
+        "url": "https://17813.live.streamtheworld.com/CBEWFM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CBC Radio One - Winnipeg, MB (MP3 stream)",
-        "url": "https://26373.live.streamtheworld.com/CBWAM_CBC_SC",
+        "url": "https://27033.live.streamtheworld.com/CBWAM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1006,7 +931,7 @@
     },
     {
         "name": "CBC Radio One Edmonton",
-        "url": "https://27033.live.streamtheworld.com/CBXAM_CBC_SC",
+        "url": "https://26373.live.streamtheworld.com/CBXAM_CBC_SC",
         "favicon": "https://img.logo.dev/cbc.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1056,7 +981,7 @@
     },
     {
         "name": "CFAX 1070 (Victoria, BC)",
-        "url": "http://17633.live.streamtheworld.com:3690/CFAXAMAAC_SC",
+        "url": "http://15053.live.streamtheworld.com:3690/CFAXAMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1141,7 +1066,7 @@
     },
     {
         "name": "CFDA \"Plaisir101.9\"  Victoriaville, QC",
-        "url": "https://18213.live.streamtheworld.com/CFDA_FM_SC",
+        "url": "https://14223.live.streamtheworld.com/CFDA_FM_SC",
         "favicon": "https://img.logo.dev/plaisir1019.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1186,7 +1111,7 @@
     },
     {
         "name": "CFGO \"TSN 1200\" Ottawa, ON",
-        "url": "http://14133.live.streamtheworld.com:3690/CFGOAMAAC_SC",
+        "url": "http://14133.live.streamtheworld.com/CFGOAMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1251,18 +1176,23 @@
     },
     {
         "name": "CFIX \"Rouge 96.9\" Saguenay, QC",
-        "url": "https://20593.live.streamtheworld.com/CFIXFMAAC_SC",
+        "url": "https://29314.live.streamtheworld.com/CFIXFMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CFIX-FM \"Rouge FM 96.9\" Saguenay, QC",
-        "url": "https://26363.live.streamtheworld.com/CFIXFMAAC_SC",
+        "url": "https://27033.live.streamtheworld.com/CFIXFMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CFJB-FM 95.7 \"Rock 95\" Barrie, ON",
         "url": "https://cob-ais.leanstream.co/CFJBFM",
         "favicon": "https://img.logo.dev/rock95.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CFJO Victoriaville",
+        "url": "https://o973.ca/",
+        "favicon": "https://img.logo.dev/o973.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CFJU 90.1 \"Route 17\" Kedgewick, NB",
@@ -1283,6 +1213,11 @@
         "name": "CFLO-FM 104.7 Mont-Laurier, 101.9 Riviere Rouge, QC",
         "url": "http://stream.statsradio.com:8088/stream",
         "favicon": "https://img.logo.dev/cflo.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CFLS92",
+        "url": "https://icecast02.sbsica.com:8443/cfls92",
+        "favicon": "https://img.logo.dev/icecast02.sbsica.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CFLT \"Jack 92.9\" Dartmouth, NS",
@@ -1481,12 +1416,12 @@
     },
     {
         "name": "CFRA \"News Talk Radio 580\" Ottawa, ON",
-        "url": "http://18063.live.streamtheworld.com:3690/CFRAAMAAC_SC",
+        "url": "http://14543.live.streamtheworld.com/CFRAAMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CFRB News/Talk 1010 (Toronto, ON)",
-        "url": "http://26313.live.streamtheworld.com:3690/CFRBAMAAC_SC",
+        "url": "http://29324.live.streamtheworld.com/CFRBAMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1621,7 +1556,7 @@
     },
     {
         "name": "CFXM 104.9 \"M 105\" Granby, QC",
-        "url": "http://17813.live.streamtheworld.com:3690/CFXMFMAAC_SC",
+        "url": "http://26733.live.streamtheworld.com:3690/CFXMFMAAC_SC",
         "favicon": "https://img.logo.dev/m105.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1881,7 +1816,7 @@
     },
     {
         "name": "CHKX \"KX-94.7\" Hamilton, ON",
-        "url": "http://15053.live.streamtheworld.com:3690/CHKXFMAAC_SC",
+        "url": "http://18373.live.streamtheworld.com:3690/CHKXFMAAC_SC",
         "favicon": "https://img.logo.dev/kx947.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1903,11 +1838,6 @@
         "name": "CHLG-FM 104.3 \"The Breeze\" - Vancouver, BC",
         "url": "http://newcap.leanstream.co/CHLGFM",
         "favicon": "https://img.logo.dev/1043thebreeze.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CHLQ 93.1 \"Q93\" Charlottetown, PE",
-        "url": "http://mbsradio.leanstream.co/CHLQFM-MP3",
-        "favicon": "https://img.logo.dev/q93.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CHLQ-FM \"MAX 93.1\" Charlottetown, PE",
@@ -1980,6 +1910,11 @@
         "favicon": "https://img.logo.dev/mytimminsnow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CHMX \"My 92.1\" Regina. SK",
+        "url": "http://chmx.streamon.fm/stream/CHMX-64k.aac",
+        "favicon": "https://img.logo.dev/chmx.streamon.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "CHMX \"Play 92.1\" Regina, SK",
         "url": "http://chmx.streamon.fm/stream/CHMX-64k.aac",
         "favicon": "https://img.logo.dev/play92.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2026,7 +1961,7 @@
     },
     {
         "name": "CHOA-FM \"WOW-FM\" 96.5 Rouyn-Noranda, 103.5 Val d'Or, 103.9 La Sarre, QC",
-        "url": "https://18213.live.streamtheworld.com/CHOA_FM_SC",
+        "url": "https://18303.live.streamtheworld.com/CHOA_FM_SC",
         "favicon": "https://img.logo.dev/wowfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2190,11 +2125,6 @@
         "favicon": "https://img.logo.dev/christmas-crooners.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Christmas Melody (MP3)",
-        "url": "https://ssl1.viastreaming.net:7000/stream?icy=http",
-        "favicon": "https://img.logo.dev/xmasmelody.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Christmas Songs Radio",
         "url": "https://cheetah.streemlion.com:1050/stream#.mp3",
         "favicon": "https://img.logo.dev/christmassongsradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2216,7 +2146,7 @@
     },
     {
         "name": "CHRM-FM \"Plaisir105.3\"  Matane, QC",
-        "url": "https://18303.live.streamtheworld.com/CHRM_FM_SC",
+        "url": "https://14223.live.streamtheworld.com/CHRM_FM_SC",
         "favicon": "https://img.logo.dev/plaisir1053.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2281,7 +2211,7 @@
     },
     {
         "name": "CHTG-FM 92.9 \"The Grand\" Caledonia, ON",
-        "url": "http://26183.live.streamtheworld.com:3690/CHTGFMAAC_SC",
+        "url": "http://26733.live.streamtheworld.com:3690/CHTGFMAAC_SC",
         "favicon": "https://img.logo.dev/929thegrand.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2311,23 +2241,13 @@
     },
     {
         "name": "CHUM TSN 1050 Toronto",
-        "url": "http://18183.live.streamtheworld.com:3690/CHUMAMAAC_SC",
+        "url": "http://26153.live.streamtheworld.com:3690/CHUMAMAAC_SC",
         "favicon": "https://img.logo.dev/tsn.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CHUO-FM 89.1  University of Ottawa, ON",
         "url": "https://stream.statsradio.com:8102/stream",
         "favicon": "https://img.logo.dev/chuo.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CHUP \"Soft Rock 97.7\" Calgary, AB",
-        "url": "http://rawlco.leanstream.co/CHUPFM-MP3",
-        "favicon": "https://img.logo.dev/softrock977.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CHUP \"Soft Rock 97.7\" Calgary, AB",
-        "url": "http://rawlco.leanstream.co/CHUPFM-MP3",
-        "favicon": "https://img.logo.dev/softrock977.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CHUR-FM \"KISS 100.5\" North Bay, ON",
@@ -2430,16 +2350,6 @@
         "favicon": "https://img.logo.dev/realcountrybrooks.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CIBU-FM \"Cool 94.5\"  Wingham, ON (AAC Stream)",
-        "url": "http://live.leanstream.co/CIBUFM",
-        "favicon": "https://img.logo.dev/wingham.coolradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CIBU-FM \"Cool 94.5\" Wingham, ON (MP3 Stream)",
-        "url": "http://live.leanstream.co/CIBUFM-MP3",
-        "favicon": "https://img.logo.dev/wingham.coolradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CIBW-FM \"Big West Country 92.9\" Drayton Valley, AB",
         "url": "https://stream.jpbgdigital.com/CIBW.m3u8",
         "favicon": "https://img.logo.dev/bigwestcountry.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2503,6 +2413,11 @@
         "name": "CIHI \"Up 93.1\" Fredericton, NB",
         "url": "http://newcap.leanstream.co/CIHIFM",
         "favicon": "https://img.logo.dev/up931.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CIHI-FM \"Rewind 93.1\" - Fredericton, NB",
+        "url": "http://newcap.leanstream.co/CIHIFM",
+        "favicon": "https://img.logo.dev/rewind931.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CIHO \"Charlevoix 96.3\" Saint-Hilarion, QC",
@@ -2750,6 +2665,11 @@
         "favicon": "https://img.logo.dev/myprincegeorgenow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CISB 106.3 Sandy Bay, Manitoba",
+        "url": "https://cast5.my-control-panel.com/proxy/michell2/live",
+        "favicon": "https://img.logo.dev/sbofn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "CISF 107.7 \"Pulse FM\" Surrey, BC",
         "url": "http://cisffm.streamon.fm/stream/CISFFM-48k.aac",
         "favicon": "https://img.logo.dev/pulsefm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2956,12 +2876,12 @@
     },
     {
         "name": "CJAB-FM \"Energie Saguenay-Lac-Saint-Jean 94.5\"  Saguenay, QC",
-        "url": "http://14133.live.streamtheworld.com/CJABFMAAC_SC",
+        "url": "http://22983.live.streamtheworld.com:3690/CJABFMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CJAD 800",
-        "url": "https://26183.live.streamtheworld.com/CJADAM_SC",
+        "url": "https://15313.live.streamtheworld.com/CJADAM_SC",
         "favicon": "https://img.logo.dev/cjad800.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3140,6 +3060,11 @@
         "favicon": "https://img.logo.dev/923country.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CJFN 102.7 \"Country Rock Radio\" Peguis, Manitoba",
+        "url": "https://cast4.my-control-panel.com/proxy/peguis1/stream",
+        "favicon": "https://img.logo.dev/peguis.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "CJFO \"Unique FM\"",
         "url": "http://stream2.statsradio.com:8038/stream",
         "favicon": "https://img.logo.dev/uniquefm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3221,7 +3146,7 @@
     },
     {
         "name": "CJKX 95.9 \"KX96 New Country FM\" - Ajax, ON",
-        "url": "http://26383.live.streamtheworld.com:3690/CJKXFMAAC_SC",
+        "url": "http://18503.live.streamtheworld.com:3690/CJKXFMAAC_SC",
         "favicon": "https://img.logo.dev/kx96.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3236,7 +3161,7 @@
     },
     {
         "name": "CJLM-FM \"O 103.5\" Joliette, QC",
-        "url": "https://18303.live.streamtheworld.com/CJLM_FM_SC",
+        "url": "https://18213.live.streamtheworld.com/CJLM_FM_SC",
         "favicon": "https://img.logo.dev/o1035.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3270,6 +3195,11 @@
         "favicon": "https://img.logo.dev/kootenaycoopradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CJMC-FM",
+        "url": "https://steanne.bleufm.ca/ecouter",
+        "favicon": "https://img.logo.dev/steanne.bleufm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "CJMD 96.9  Levis, QC",
         "url": "https://arcq.streamb.live/SB00213",
         "favicon": "https://img.logo.dev/969fm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3281,7 +3211,7 @@
     },
     {
         "name": "CJMK 98.3 \"98 Cool FM\" Saskatoon, SK",
-        "url": "http://18063.live.streamtheworld.com/CJMKFMAAC_SC",
+        "url": "http://17563.live.streamtheworld.com/CJMKFMAAC_SC",
         "favicon": "https://img.logo.dev/98cool.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3306,7 +3236,7 @@
     },
     {
         "name": "CJMR 1320 Mississauga, ON",
-        "url": "http://14123.live.streamtheworld.com/CJMRAMAAC_SC",
+        "url": "http://18493.live.streamtheworld.com:3690/CJMRAMAAC_SC",
         "favicon": "https://img.logo.dev/cjmr1320.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3383,6 +3313,11 @@
         "name": "CJPG-FM \"Mix 96.5\" Portage la Prairie, MB",
         "url": "https://goldenwest.leanstream.co/CJPGFM",
         "favicon": "https://img.logo.dev/portageonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "CJPR 94.9 \"Real Country Southwest\" Blairmore, AB",
+        "url": "http://newcap.leanstream.co/CJPRFM-MP3",
+        "favicon": "https://img.logo.dev/realcountrysouthwest.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CJQC 99.3 Queen's County Community Radio - Liverpool, NS",
@@ -3611,7 +3546,7 @@
     },
     {
         "name": "CJWW \"Country 600\" Saskatoon, SK",
-        "url": "http://27033.live.streamtheworld.com:3690/CJWWAMAAC_SC",
+        "url": "http://26373.live.streamtheworld.com:3690/CJWWAMAAC_SC",
         "favicon": "https://img.logo.dev/cjwwradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3623,11 +3558,6 @@
         "name": "CJXL \"New Country 96.9\" Moncton, NB",
         "url": "http://newcap.leanstream.co/CJXLFM",
         "favicon": "https://img.logo.dev/newcountry969.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CJXL 96.1 \"XL 96\" Moncton, NB",
-        "url": "http://newcap.leanstream.co/CJXLFM",
-        "favicon": "https://img.logo.dev/xl96.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CJXR 107.7 \"Country 107\" Steinbach, MB",
@@ -3661,7 +3591,7 @@
     },
     {
         "name": "CKAC 730 \"Radio Circulation\"  Montreal",
-        "url": "https://26353.live.streamtheworld.com/CKACAMAAC_SC",
+        "url": "https://17563.live.streamtheworld.com/CKACAMAAC_SC",
         "favicon": "https://img.logo.dev/radiocirculation.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3726,7 +3656,7 @@
     },
     {
         "name": "CKBL 92.9 \"The Bull\" Saskatoon, SK",
-        "url": "http://14543.live.streamtheworld.com/CKBLFMAAC_SC",
+        "url": "http://29319.live.streamtheworld.com:3690/CKBLFMAAC_SC",
         "favicon": "https://img.logo.dev/929thebullrocks.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3860,8 +3790,13 @@
         "favicon": "https://img.logo.dev/country104.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "CKDM 730 Dauphin, Manitoba",
+        "url": "https://ckdm.smartstreamingsolutions.ca/ssl/CKDM",
+        "favicon": "https://img.logo.dev/730ckdm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "CKDO 1580 & 107.7 Oshawa, ON",
-        "url": "http://17813.live.streamtheworld.com/CKDOFMAAC_SC",
+        "url": "http://26733.live.streamtheworld.com:3690/CKDOFMAAC_SC",
         "favicon": "https://img.logo.dev/ckdo.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3905,11 +3840,6 @@
         "favicon": "https://img.logo.dev/avrnetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CKER 101.7 \"World FM\" Edmonton, AB",
-        "url": "https://rogers-hls.leanstream.co/rogers/edm1017.stream/playlist.m3u8",
-        "favicon": "https://img.logo.dev/worldfm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CKEZ \"Z97.9\"  New Glasgow, NS",
         "url": "https://newcap.leanstream.co/CKEZFM",
         "favicon": "https://img.logo.dev/z979.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3951,7 +3881,7 @@
     },
     {
         "name": "CKGE 94.9 \"The Rock\" Oshawa, ON",
-        "url": "http://14133.live.streamtheworld.com/CKGEFMAAC_SC",
+        "url": "http://14133.live.streamtheworld.com:3690/CKGEFMAAC_SC",
         "favicon": "https://img.logo.dev/therock.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3976,7 +3906,7 @@
     },
     {
         "name": "CKGS \"Hit Country 105.5 Beauce\" Saguenay, QC",
-        "url": "https://14223.live.streamtheworld.com/CHCT_FM_SC",
+        "url": "https://18303.live.streamtheworld.com/CHCT_FM_SC",
         "favicon": "https://img.logo.dev/hitcountry.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -3991,7 +3921,7 @@
     },
     {
         "name": "CKHA 100.9 \"Canoe FM\" Haliburton, ON",
-        "url": "http://14843.live.streamtheworld.com/CKHAFMAAC_SC",
+        "url": "http://26153.live.streamtheworld.com/CKHAFMAAC_SC",
         "favicon": "https://img.logo.dev/canoefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4111,7 +4041,7 @@
     },
     {
         "name": "CKLD \"Plaisir 105.5\" Thetford Mines, QC",
-        "url": "https://14223.live.streamtheworld.com/CKLD_FM_SC",
+        "url": "https://18303.live.streamtheworld.com/CKLD_FM_SC",
         "favicon": "https://img.logo.dev/plaisir1055.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4171,7 +4101,7 @@
     },
     {
         "name": "CKLW \"AM 800\" Windsor, ON",
-        "url": "http://18073.live.streamtheworld.com/CKLWAMAAC_SC",
+        "url": "http://29314.live.streamtheworld.com/CKLWAMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4193,11 +4123,6 @@
         "name": "CKMH \"105.3 Rock\" Medicine Hat, AB",
         "url": "https://rogers-hls.leanstream.co/rogers/med1053.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/1053rock.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CKMN 96.5 FM",
-        "url": "https://arcq.streamb.live/SB00217",
-        "favicon": "https://img.logo.dev/arcq.streamb.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CKMO 101.5 \"FM101\" Orangeville, ON",
@@ -4301,7 +4226,7 @@
     },
     {
         "name": "CKOF \"FM 104.7 Outaouais\" Gatineau, QC",
-        "url": "https://18123.live.streamtheworld.com/CKOFFMAAC_SC",
+        "url": "https://17813.live.streamtheworld.com/CKOFFMAAC_SC",
         "favicon": "https://img.logo.dev/fm1047.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4326,7 +4251,7 @@
     },
     {
         "name": "CKOY \"107.7 FM Estrie\"  Sherbrooke, QC",
-        "url": "https://17563.live.streamtheworld.com/CKOYFMAAC_SC",
+        "url": "https://26353.live.streamtheworld.com/CKOYFMAAC_SC",
         "favicon": "https://img.logo.dev/fm1077.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4506,7 +4431,7 @@
     },
     {
         "name": "CKTB News/Talk 610 (St. Catharines, ON)",
-        "url": "http://29318.live.streamtheworld.com:3690/CKTBAMAAC_SC",
+        "url": "http://29318.live.streamtheworld.com/CKTBAMAAC_SC",
         "favicon": "https://img.logo.dev/iheartradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4533,11 +4458,6 @@
         "name": "CKUA Radio Network",
         "url": "https://ais-sa1.streamon.fm/7000_48k.aac",
         "favicon": "https://img.logo.dev/ckua.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CKUE-FM2 \"Cool 100.7\" Windsor, ON",
-        "url": "http://live.leanstream.co/CKUEF2",
-        "favicon": "https://img.logo.dev/windsor.coolradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CKUL \"Mix 96.5\" Halifax, NS",
@@ -4628,11 +4548,6 @@
         "name": "CKVX-FM 104.9 \"Country 104\" Kindersley, SK",
         "url": "https://hel-ais-relay3.leanstream.co/goldenwest/CKVXFM.stream/playlist.m3u8",
         "favicon": "https://img.logo.dev/westcentralonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "CKWB  \"Real Country 97.9\" Westlock, AB",
-        "url": "http://newcap.leanstream.co/CKWBFM",
-        "favicon": "https://img.logo.dev/realcountrywestlock.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "CKWD-FM \"Wild 95.3\" Calgary, AB",
@@ -4740,11 +4655,6 @@
         "favicon": "https://img.logo.dev/vancouver.redfm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "CKYL 610 \"YL Country\" Peace River, AB",
-        "url": "http://29327.live.streamtheworld.com:3690/CKYLFMAAC_SC",
-        "favicon": "https://img.logo.dev/ylcountry.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CKYQ \"Hit Country 95.7 Centre-du-Quebec\" Plessisville, QC",
         "url": "https://26313.live.streamtheworld.com/CKYQ_FM_SC",
         "favicon": "https://img.logo.dev/hitcountry.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4778,6 +4688,11 @@
         "name": "Classic 1220 AM CFAJ",
         "url": "https://s19.myradiostream.com/19156/listen.mp3",
         "favicon": "https://img.logo.dev/classic1220.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Classic Hits 109 - Classic Rock 109",
+        "url": "http://listen.classicrock109.com:10042/;",
+        "favicon": "https://img.logo.dev/listen.classicrock109.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Classic Oldies Mix",
@@ -4831,7 +4746,7 @@
     },
     {
         "name": "CP24 Audio Channel - Toronto, ON",
-        "url": "http://26103.live.streamtheworld.com/TV_CP24AAC_SC",
+        "url": "http://18183.live.streamtheworld.com/TV_CP24AAC_SC",
         "favicon": "https://img.logo.dev/cp24.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -4873,11 +4788,6 @@
         "name": "D1 Alternative",
         "url": "https://cast1.torontocast.com:2545/stream",
         "favicon": "https://img.logo.dev/d1alternative.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Dance Wave!",
-        "url": "https://dancewave.online/dance.flac.ogg",
-        "favicon": "https://img.logo.dev/dancewave.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "DAREU RAdio",
@@ -4935,6 +4845,16 @@
         "favicon": "https://img.logo.dev/dubplate.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "DylanRadio.com",
+        "url": "http://900.cloudrad.io:8138/;",
+        "favicon": "https://img.logo.dev/900.cloudrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dylanradio.com  Kentville, NS",
+        "url": "http://900.cloudrad.io:8138/",
+        "favicon": "https://img.logo.dev/900.cloudrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Early 60's - Calm Radio",
         "url": "http://streams.calmradio.com:16128/stream/1/",
         "favicon": "https://img.logo.dev/calmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -4948,6 +4868,11 @@
         "name": "Edmonton Sports Talk",
         "url": "https://s4.radio.co/sf54cd4560/listen",
         "favicon": "https://img.logo.dev/edmontonsportstalk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Énergie Montréal",
+        "url": "https://www.iheart.com/live/energie-montreal-7449",
+        "favicon": "https://img.logo.dev/radioenergie.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Energy 95.3",
@@ -4985,11 +4910,6 @@
         "favicon": "https://img.logo.dev/euronation.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Eurodance Classic ... Pure - Classic - Addictive",
-        "url": "http://quincy.torontocast.com:2380/stream",
-        "favicon": "https://img.logo.dev/radio-eurodance-classic.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "EWTN Canada",
         "url": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
         "favicon": "https://img.logo.dev/ewtn.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5020,31 +4940,6 @@
         "favicon": "https://img.logo.dev/faith999.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Fallout '26 radio",
-        "url": "https://radio.greenwoodlabs.ca/listen/fallout26/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.greenwoodlabs.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fallout '26 Radio",
-        "url": "https://radio.greenwoodlabs.ca/listen/fallout26/radio.mp3",
-        "favicon": "https://img.logo.dev/radio.greenwoodlabs.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fighting Game Community Radio",
-        "url": "https://radio.fgcast.com/listen/fgc_radio/standard.mp3",
-        "favicon": "https://img.logo.dev/radio.fgcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fighting Game Community Radio",
-        "url": "https://radio.fgcast.com/listen/fgc_radio/standard.mp3",
-        "favicon": "https://img.logo.dev/radio.fgcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Fighting Game Community Radio",
-        "url": "https://radio.fgcast.com/listen/fgc_radio/standard.mp3",
-        "favicon": "https://img.logo.dev/radio.fgcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Flow 98 7 CKFG-FM - Toronto",
         "url": "https://ice64.securenetsystems.net:80/CKFG",
         "favicon": "https://img.logo.dev/flow987.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5067,11 +4962,6 @@
     {
         "name": "FM93 Québec",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CJMFFM_SC.aac",
-        "favicon": "https://img.logo.dev/fm93.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "FM93.3",
-        "url": "https://26733.live.streamtheworld.com/CJMFFMAAC/HLS/6d1b02d3-a076-475a-8178-1e5fb361cb81/0/playlist.m3u8",
         "favicon": "https://img.logo.dev/fm93.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -5118,6 +5008,16 @@
         "name": "GGEZ",
         "url": "https://www.dropbox.com/scl/fi/ujwcgt6w8d51xemt9ziym/Kaien-Sugar-M.Sasuke-GGEZ-Official-MV.mp3?rlkey=vyhiy8wplhyqit1oy5la4av8p&st=xd0hqmic&raw=1",
         "favicon": "https://img.logo.dev/dropbox.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Global 1 FM Radio",
+        "url": "https://hq2.stationhq.io/global1fmradio/stream",
+        "favicon": "https://img.logo.dev/global1fmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Global 1 FM Radio",
+        "url": "https://hq2.stationhq.io/global1fmradio/stream",
+        "favicon": "https://img.logo.dev/global1fmradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Glory To Jesus",
@@ -5330,6 +5230,11 @@
         "favicon": "https://img.logo.dev/ironwoodradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "ItaloDance Fm",
+        "url": "http://hubble.shoutca.st:8120/stream",
+        "favicon": "https://img.logo.dev/hubble.shoutca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "J-Idols Project Radio",
         "url": "http://bluford.torontocast.com:8081/stream/;",
         "favicon": "https://img.logo.dev/j-popprojectradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5368,11 +5273,6 @@
         "name": "Jazz FM CJRT",
         "url": "https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup&uid=503beb0b-556c-4002-9ed8-cb847eb6402c&user_hash=9dctTbLqKqhACbI8GuosOLT2EbVMS0Oi&gdpr=true&aw_0_req.gdpr=true&listenerid=3f1526922470a8b11f0ebcf5ed4a4b03&awparams=companionAds%3Atrue",
         "favicon": "https://img.logo.dev/jazz.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Jazz.FM91",
-        "url": "https://jazzfm91.streamb.live/SB00009?args=web_01",
-        "favicon": "https://img.logo.dev/jazzfm91.streamb.live?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "JAZZ.FM91",
@@ -5425,6 +5325,11 @@
         "favicon": "https://img.logo.dev/seekyoursounds.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "K-Rock 975",
+        "url": "https://stingray.leanstream.co/VOCMFM?args=web_01&uid=7be41d13-aefe-4a00-897f-bb1bcdf4ceb3&user_hash=WrTpTctZfd0OzP0fyM9fT4YTkv38e4aM&aw_0_req.gdpr=true&gdpr=true",
+        "favicon": "https://img.logo.dev/player.k-rock975.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Kamloops Fire Rescue Scanner",
         "url": "http://icecast0.scanbc.com/kamloops",
         "favicon": "https://img.logo.dev/scanbc.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5438,11 +5343,6 @@
         "name": "KFM Edge",
         "url": "https://listen.radioking.com/radio/453416/stream/508289",
         "favicon": "https://img.logo.dev/kfmradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Kicx 106",
-        "url": "https://www.iheart.com/live/pure-country-106-7856",
-        "favicon": "https://img.logo.dev/iheart.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Kiss 102.3",
@@ -5486,12 +5386,12 @@
     },
     {
         "name": "KX 94.7",
-        "url": "http://15053.live.streamtheworld.com:3690/CHKXFMAAC_SC",
+        "url": "http://17653.live.streamtheworld.com:3690/CHKXFMAAC_SC",
         "favicon": "https://img.logo.dev/kx947.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "KX96",
-        "url": "http://18503.live.streamtheworld.com:3690/CJKXFMAAC_SC",
+        "url": "http://27063.live.streamtheworld.com:3690/CJKXFMAAC_SC",
         "favicon": "https://img.logo.dev/kx96.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -5652,7 +5552,7 @@
     {
         "name": "LOVE MOMENTS RADIO",
         "url": "https://radio.mediacp.eu/stream/lovemomentsradio",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radio.mediacp.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "lumiRadio - 24/7 Unofficial Homestuck Radio",
@@ -5663,11 +5563,6 @@
         "name": "Magic FM Montreal",
         "url": "https://s7.yesstreaming.net/stream/8024",
         "favicon": "https://img.logo.dev/magicfmmontreal.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Maiqly Maher",
-        "url": "https://backup.qurango.net/radio/maher",
-        "favicon": "https://img.logo.dev/backup.qurango.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Masalabeats Toronto",
@@ -5725,6 +5620,11 @@
         "favicon": "https://img.logo.dev/mixrockmetal.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Mix97FM",
+        "url": "https://panel.radiocast.net/listen/mix97fm/radio.mp3",
+        "favicon": "https://img.logo.dev/panel.radiocast.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Moose FM 93.5 Haliburton - CFZN",
         "url": "https://vistaradio.streamb.live/SB00113",
         "favicon": "https://img.logo.dev/myhaliburtonnow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5765,11 +5665,6 @@
         "favicon": "https://img.logo.dev/n10.as?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Nature Radio Rain",
-        "url": "https://maggie.torontocast.com:2020/stream/natureradiorain",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "NCI fm",
         "url": "http://201.netromedia.com/NCIFM1/NCIFM1/playlist.m3u8",
         "favicon": "https://img.logo.dev/ncifm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5800,6 +5695,11 @@
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "no talking dead",
+        "url": "https://lite1067.ca/",
+        "favicon": "https://img.logo.dev/lite1067.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Northern Dial",
         "url": "https://a10.asurahosting.com:7220/radio.mp3",
         "favicon": "https://img.logo.dev/northerndial.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5808,6 +5708,11 @@
         "name": "Northumberland 89.7",
         "url": "http://northumberland.serverroom.net:8850/;",
         "favicon": "https://img.logo.dev/northumberland897.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Nova",
+        "url": "https://streams.radio.co/s1ae1175cf/listen",
+        "favicon": "https://img.logo.dev/radionovatoronto.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Nr92",
@@ -5865,11 +5770,6 @@
         "favicon": "https://img.logo.dev/powerradio.world?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Power92 FM",
-        "url": "http://s12.myradiostream.com:5608/stream",
-        "favicon": "https://img.logo.dev/power92fm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "PowerPlant Radio",
         "url": "http://eagle.streemlion.com:4013/stream",
         "favicon": "https://img.logo.dev/powerplantradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -5905,9 +5805,14 @@
         "favicon": "https://img.logo.dev/progpalaceradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "PunkRockRadio.ca",
-        "url": "https://stream.radio.co/s904013bb1/listen",
-        "favicon": "https://img.logo.dev/punkrockradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "psoup.art brown noise",
+        "url": "https://psoup.art/radio/focus.mp3",
+        "favicon": "https://img.logo.dev/psoup.art?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Pure Pop Radio",
+        "url": "https://cheetah.streemlion.com:3900/stream",
+        "favicon": "https://img.logo.dev/purepop.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Q Country 91.5 FM",
@@ -5943,21 +5848,6 @@
         "name": "Radio 854",
         "url": "https://jenny.torontocast.com:8034/stream",
         "favicon": "https://img.logo.dev/radio854.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Addictive 50s",
-        "url": "http:quincy.torontocast.com:2920/;?type=http&nocache=1675539414",
-        "favicon": "https://img.logo.dev/radio-addictive-50s.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Addictive 50s",
-        "url": "http://quincy.torontocast.com:2920/stream",
-        "favicon": "https://img.logo.dev/radio-addictive-50s.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Beatles (MP3)",
-        "url": "http://stream.zeno.fm/mfmzpwnhd78uv",
-        "favicon": "https://img.logo.dev/radiobeatles.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Bellissima Relax",
@@ -6195,11 +6085,6 @@
         "favicon": "https://img.logo.dev/radiocrescendo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Disney Country FM 89.1",
-        "url": "https://listen.radioking.com/radio/453221/stream/508076",
-        "favicon": "https://img.logo.dev/radio.disney.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Emily.ca - Emily Carr University of Art & Design - Vancouver, BC",
         "url": "https://s3.radio.co/s072f9aefd/listen",
         "favicon": "https://img.logo.dev/radioemily.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6215,16 +6100,6 @@
         "favicon": "https://img.logo.dev/enigmastationonair.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Eurodance Classic - Pure and Addictive",
-        "url": "http://quincy.torontocast.com:2380/stream",
-        "favicon": "https://img.logo.dev/radio-eurodance-classic.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Faro",
-        "url": "https://cast1.torontocast.com:5230/stream?x=1720272389034",
-        "favicon": "https://img.logo.dev/radiofaro.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "radio faro.net",
         "url": "https://cast1.torontocast.com:5230/stream",
         "favicon": "https://img.logo.dev/cast1.torontocast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6233,6 +6108,11 @@
         "name": "Radio faro.net",
         "url": "https://cast1.torontocast.com:5230/stream",
         "favicon": "https://img.logo.dev/cast1.torontocast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Fiat+/-Lux",
+        "url": "https://qc2.fiatlux.tk:8000/premiere.aac",
+        "favicon": "https://img.logo.dev/radio.fiatlux.tk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio GTJ",
@@ -6286,23 +6166,13 @@
     },
     {
         "name": "Radio Mast",
-        "url": "https://streams.radiomast.io/ref-128k-aaclc-stereo",
+        "url": "https://streams.radiomast.io/ref-128k-mp3-stereo",
         "favicon": "https://img.logo.dev/radiomast.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Pacoul",
         "url": "https://live.radiopacoul.top/stream/radiopacoul/stream",
         "favicon": "https://img.logo.dev/radiopacoul.top?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Pakistan Toronto",
-        "url": "https://s3.radio.co/s3b10a57ef/listen",
-        "favicon": "https://img.logo.dev/radiopakistanfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Quebec Country.com - Thetford Mines, QC",
-        "url": "http://play.quebec-country.com/",
-        "favicon": "https://img.logo.dev/quebec-country.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Québec International  -- RQI1: Yesterday and Today",
@@ -6340,6 +6210,11 @@
         "favicon": "https://img.logo.dev/radiovm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio-Canada Ici Première - Montréal",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFFM_SRC.mp3",
+        "favicon": "https://img.logo.dev/ici.radio-canada.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio-Classique",
         "url": "https://listen.radioking.com/radio/228241/stream/271810",
         "favicon": "https://img.logo.dev/radioclassique.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6353,21 +6228,6 @@
         "name": "RadioSEGA (Opus LQ)",
         "url": "https://icecast.radiosega.net/rs-opus-low.ogg",
         "favicon": "https://img.logo.dev/radiosega.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioSky Music Jazz",
-        "url": "http://jazz.radioskymusic.com:7006/live",
-        "favicon": "https://img.logo.dev/radioskymusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioSkyMusic Jazz",
-        "url": "http://listen.radioskymusic.com:7006/live",
-        "favicon": "https://img.logo.dev/radioskymusic.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioSouvenirsFM",
-        "url": "http://s1.autopo.st:8227/",
-        "favicon": "https://img.logo.dev/radiosouvenirsfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Raincoast Jazz",
@@ -6386,38 +6246,13 @@
     },
     {
         "name": "Rainwave OC Remix",
-        "url": "https://relay.rainwave.cc/ocremix.mp3",
+        "url": "http://allrelays.rainwave.cc/ocremix.mp3",
         "favicon": "https://img.logo.dev/rainwave.cc?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RDMIX ITALIAN VINTAGE 70 80 90",
-        "url": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
-        "favicon": "https://img.logo.dev/radiodimensionemix.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RDMIX LOVE SONGS",
-        "url": "http://maggie.torontocast.com:8022/stream",
-        "favicon": "https://img.logo.dev/radiodimensionemix.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RED FM",
         "url": "https://ice24.securenetsystems.net/CKYE?playSessionID=FEC6C3A5-AAAF-839F-F4F9CC684849AEA6",
         "favicon": "https://img.logo.dev/vancouver.redfm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "REGGAE CHILL CAFE",
-        "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "REGGAE CHILL CAFE",
-        "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "REGGAE CHILLI CAFE",
-        "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Reggae Classics Mix",
@@ -6450,49 +6285,19 @@
         "favicon": "https://img.logo.dev/rileyandlucianfm.godaddysites.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Ritmo X99",
-        "url": "https://listen.ritmo.torontocast.stream/",
-        "favicon": "https://img.logo.dev/ritmox99.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Ritmo X99",
-        "url": "https://listen.ritmo.torontocast.stream/",
-        "favicon": "https://img.logo.dev/ritmox99.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Riverwood Radio",
-        "url": "https://stream3.hornhost.com:8054/stream",
-        "favicon": "https://img.logo.dev/riverwood-radio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Riverwood Radio - Country",
-        "url": "https://stream3.hornhost.com:8054/country",
-        "favicon": "https://img.logo.dev/riverwood-radio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Riverwood Radio - Oldies",
-        "url": "https://stream3.hornhost.com:8054/oldies",
-        "favicon": "https://img.logo.dev/riverwood-radio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Riverwood Radio (All-Hits) 1",
-        "url": "https://a12.asurahosting.com/listen/riverwood_radio/mp3stream.mp3",
-        "favicon": "https://img.logo.dev/riverwood-radio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Riverwood Radio (Country) 3",
-        "url": "https://a12.asurahosting.com/listen/riverwood_radio/country.mp3",
-        "favicon": "https://img.logo.dev/riverwood-radio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Riverwood Radio (Oldies) 2",
-        "url": "https://a12.asurahosting.com/listen/riverwood_radio/oldies.mp3",
-        "favicon": "https://img.logo.dev/riverwood-radio.online?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Rock 95",
         "url": "https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01",
         "favicon": "https://img.logo.dev/rock95.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rouge FM",
+        "url": "https://www.iheart.com/live/rouge-mauricie-7465",
+        "favicon": "https://img.logo.dev/rougefm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rouge FM Montréal",
+        "url": "https://www.iheart.com/live/rouge-montreal-7458",
+        "favicon": "https://img.logo.dev/rougefm.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Royalty Free Music 24/7 - AAC-LC - 128K Stereo",
@@ -6575,11 +6380,6 @@
         "favicon": "https://img.logo.dev/mauricie.rythmefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Sandblast Channel",
-        "url": "https://servidor31-2.brlogic.com:7052/live?identifier=Streaming%20on%20Sandblast%20Channel&source=6692",
-        "favicon": "https://img.logo.dev/sandblast.channel?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Sankofa Radio Toronto",
         "url": "https://srtlive.duckdns.org/listen/sankofaradiotoronto/radio.mp3",
         "favicon": "https://img.logo.dev/sankofaradiotoronto.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6613,11 +6413,6 @@
         "name": "Seaside FM 105.9 - CFEP-FM - Eastern Passage",
         "url": "https://seasidefm1059.radioca.st/;",
         "favicon": "https://img.logo.dev/seasidefm1059.radioca.st?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SENSUAL LOUNGE RADIO",
-        "url": "https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SerrebiRadio",
@@ -6662,7 +6457,7 @@
     {
         "name": "silentwave",
         "url": "https://cast.az-streamingserver.com/proxy/nncdcccp/stream?t=1774619684952",
-        "favicon": "https://img.logo.dev/silentwave.onrender.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/cast.az-streamingserver.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Slow Radioactive",
@@ -6673,11 +6468,6 @@
         "name": "SLOWLY RADIO",
         "url": "http://stream.slowlyradio.com/",
         "favicon": "https://img.logo.dev/slowlyradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "SMOOTH JAZZ DELUXE",
-        "url": "https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Smooth Motion FM",
@@ -6745,11 +6535,6 @@
         "favicon": "https://img.logo.dev/spud.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Squirrel FM",
-        "url": "http://s25.myradiostream.com:10092/stream/1/listen.mp3",
-        "favicon": "https://img.logo.dev/squirrel.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Stainbah online AM 1250",
         "url": "https://goldenwest.leanstream.co/goldenwest/CHSMAM.stream/playlist.m3u8?args=app_02",
         "favicon": "https://img.logo.dev/steinbachonline.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -6775,9 +6560,14 @@
         "favicon": "https://img.logo.dev/music.stingray.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Suite Jazz Radio",
-        "url": "https://jenny.torontocast.com:2000/stream/suitejazzradio",
-        "favicon": "https://img.logo.dev/radiosuitenetwork.torontocast.stream?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Stoke FM",
+        "url": "https://streams.radiomast.io/fa7ff97e-4b53-4cc8-939c-43aadc971a4c",
+        "favicon": "https://img.logo.dev/stokefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Summit 95.7 (Trail)",
+        "url": "https://vistaradio.streamb.live/SB00388?args=web_01&=&&___cb=601347251811485",
+        "favicon": "https://img.logo.dev/vistaradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "SuperFM",
@@ -6788,26 +6578,6 @@
         "name": "Surge 105",
         "url": "https://ais-sa1.streamon.fm/7737_128k.aac",
         "favicon": "https://img.logo.dev/surge105.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Techno.FM",
-        "url": "https://stream.techno.fm/radio1-320k.mp3",
-        "favicon": "https://img.logo.dev/techno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Techno.FM (CA) 192k MP3",
-        "url": "http://stream.techno.fm/radio1-192k.mp3",
-        "favicon": "https://img.logo.dev/techno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "TECHNO.FM (CA) 320 kbps",
-        "url": "http://stream.techno.fm/radio1-320k.mp3",
-        "favicon": "https://img.logo.dev/techno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Techno.FM (CA) 96k MP3",
-        "url": "http://stream.techno.fm/radio1-96k.mp3",
-        "favicon": "https://img.logo.dev/techno.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Terry Callaghan Classic Alternative",
@@ -6925,34 +6695,9 @@
         "favicon": "https://img.logo.dev/lynxradionetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Mixtape",
-        "url": "https://eagle.streemlion.com/proxy/trevor1?mp=/stream",
-        "favicon": "https://img.logo.dev/themixtaperadio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "The Moose Smithers",
         "url": "https://vistaradio.streamb.live/SB00077",
         "favicon": "https://img.logo.dev/mybulkleylakesnow.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Oasis Modern Easy Listening",
-        "url": "https://jenny.torontocast.com:2000/stream/the-oasis/stream",
-        "favicon": "https://img.logo.dev/theoasismel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Oasis Modern Easy Listening",
-        "url": "https://jenny.torontocast.com:2000/stream/the-oasis",
-        "favicon": "https://img.logo.dev/theoasismel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Oasis Modern Easy Listening",
-        "url": "https://jenny.torontocast.com:2000/stream/the-oasis/stream",
-        "favicon": "https://img.logo.dev/theoasismel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The oasis radio",
-        "url": "https://jenny.torontocast.com:2000/stream/the-oasis",
-        "favicon": "https://img.logo.dev/theoasismel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "the oscar peterson channel",
@@ -6960,14 +6705,14 @@
         "favicon": "https://img.logo.dev/jazz.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Q Online",
-        "url": "http://listen.theqonline.net:8000/radio.mp3",
-        "favicon": "https://img.logo.dev/theqonline.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "The Rooster",
+        "url": "https://s44.myradiostream.com:6488/listen.mp3",
+        "favicon": "https://img.logo.dev/theroosteronline.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "The Road & Radio",
-        "url": "https://s2.stationplaylist.com:7126/listen.aac",
-        "favicon": "https://img.logo.dev/theroadandtheradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "The Taint",
+        "url": "https://radio.thetaint.ca/listen/the_taint/radio.mp3",
+        "favicon": "https://img.logo.dev/thetaint.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "The Tri City's Alternative",
@@ -6988,11 +6733,6 @@
         "name": "Thugzone",
         "url": "https://ingold.thugzone.ca/proxy/thugzone5/stream",
         "favicon": "https://img.logo.dev/thugzone.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Time Capsule Audio Network",
-        "url": "http://sc3.mystreamserver.com:8060/",
-        "favicon": "https://img.logo.dev/timecapsuleaudionetwork.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tits.FM",
@@ -7036,7 +6776,7 @@
     },
     {
         "name": "TSN 1200",
-        "url": "http://26363.live.streamtheworld.com/CFGOAMAAC_SC",
+        "url": "http://29317.live.streamtheworld.com:3690/CFGOAMAAC_SC",
         "favicon": "https://img.logo.dev/tsn.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7050,8 +6790,13 @@
         "favicon": "https://img.logo.dev/tsn.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Tuff City Radio",
+        "url": "https://stream.aiir.com/zzrrqgywgaptv",
+        "favicon": "https://img.logo.dev/tuffcityradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "UMFM 101.5 (CJUM)",
-        "url": "http://live.umfm.com:8000/",
+        "url": "http://live.umfm.com:8005/stream/2;",
         "favicon": "https://img.logo.dev/umfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7081,7 +6826,7 @@
     },
     {
         "name": "Uturn Radio: Drum and Bass Music",
-        "url": "http://listen.uturnradio.com/classic_rock",
+        "url": "http://listen.uturnradio.com/drum_and_bass",
         "favicon": "https://img.logo.dev/uturnradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -7175,14 +6920,24 @@
         "favicon": "https://img.logo.dev/vobb.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "VotV Community Broadcaster",
+        "url": "https://radio.votvbroadcast.com/votv.mp3",
+        "favicon": "https://img.logo.dev/votvbroadcast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "VOWR 800 - Newfoundland and Labrador's Pioneer Radio Station",
         "url": "https://c21.radioboss.fm/stream/193",
         "favicon": "https://img.logo.dev/vowr.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "WAVE.FM",
-        "url": "http://17643.live.streamtheworld.com/CIWVFM_SC",
-        "favicon": "https://img.logo.dev/wave.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Wave 80",
+        "url": "http://jenny.torontocast.com:9006/",
+        "favicon": "https://img.logo.dev/wave80hits.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Wave80",
+        "url": "http://listen.wave80hits.com/",
+        "favicon": "https://img.logo.dev/listen.wave80hits.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "WEFUNK",
@@ -7200,14 +6955,14 @@
         "favicon": "https://img.logo.dev/wild953.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Yggdrasil Radio",
-        "url": "http://yggdrasil.l-w.ca:8000/live",
-        "favicon": "https://img.logo.dev/yggdrasilradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "WKND",
+        "url": "https://stream-cjec-rr01.leclerccom.com/cjec.mp3",
+        "favicon": "https://img.logo.dev/wknd.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "z103.5",
-        "url": "https://evanov.leanstream.co/CIDCFM?args=web_01",
-        "favicon": "https://img.logo.dev/evanov.leanstream.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "XERS Radio",
+        "url": "https://cheetah.streemlion.com:3120/stream",
+        "favicon": "https://img.logo.dev/xers-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Z103.5 - CIDC-FM",
@@ -7223,6 +6978,11 @@
         "name": "Z99 98.9 (CIZL)",
         "url": "https://rawlco.leanstream.co/CIZLFM-MP3?args=web_02",
         "favicon": "https://img.logo.dev/z99.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Zoomer Radio (CFZM AM 740 / 96.7 FM)",
+        "url": "https://prod-18-204-34-32.amperwave.net/mzmedia-cfzmammp3-ibc2?session-id=7f61a0b7aa7cfc6006b36a5a2f948303",
+        "favicon": "https://img.logo.dev/zoomerradio.ca?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Мегаполис Торонто",

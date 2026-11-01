@@ -1,15 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Cidade FM Cabo Verde",
         "url": "https://hts02.brascast.com:9288/stream",
         "favicon": "https://img.logo.dev/cidadefm.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -20,9 +10,29 @@
         "favicon": "https://img.logo.dev/crioulafm.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Praia FM",
+        "url": "https://mpc1.mediacp.eu:8030/stream",
+        "favicon": "https://img.logo.dev/praiafm.biz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Atlantico",
+        "url": "https://stream.cvhosting.uk/listen/radio_atlantico/radio.mp3",
+        "favicon": "https://img.logo.dev/radioatlantico.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Comercial",
+        "url": "https://stream-175.surfernetwork.com/loombkxpekavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsb29tYmt4cGVrYXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikl6Y1MxYk9sVG91RHcxMk13TWU3UXciLCJpYXQiOjE3OTMxNDMwMDAsImV4cCI6MTc5MzE0MzA2MH0.GnEz6I5osgYPPLhKsWTm9HQfnI-7h-V0jX9vUmzc4uk",
+        "favicon": "https://img.logo.dev/radiocomercial.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio La Mueve",
         "url": "https://sunaer-stream.com:7007/LA_MUEVE_CADENA_CV_SD",
         "favicon": "https://img.logo.dev/lamueve.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Morabeza",
+        "url": "https://sp0.redeaudio.com:10988/9798/stream",
+        "favicon": "https://img.logo.dev/radiomorabeza.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RCV Radio Cabo Verde",
@@ -43,5 +53,15 @@
         "name": "RCV+ Radio Cabo Verde Jovem",
         "url": "https://a8.my-control-panel.com:8670/radio.mp3",
         "favicon": "https://img.logo.dev/rtc.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Ribeira Brava FM - Ilha de Sao Nicolau",
+        "url": "https://sc1.xdevel.com/ribeirabrava",
+        "favicon": "https://img.logo.dev/ribeirabravafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "RTE – Radio Educativa",
+        "url": "https://a13.my-control-panel.com/listen/rte/radio.mp3",
+        "favicon": "https://img.logo.dev/radioeducativa.gov.cv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

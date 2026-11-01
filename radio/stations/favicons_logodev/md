@@ -67,6 +67,11 @@
     {
         "name": "Haliz Gagauz Radiosu - GRT",
         "url": "http://s02.radio-tochka.com:8020/radio?type=.mp3",
+        "favicon": "https://img.logo.dev/s02.radio-tochka.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Haliz Gagauz Radiosu - GRT",
+        "url": "http://s02.radio-tochka.com:8020/radio?type=.mp3",
         "favicon": "https://img.logo.dev/gagauzradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -208,6 +213,11 @@
         "name": "Radio Ai Noștri",
         "url": "https://s5.radio.co/sfd9f42d1d/listen",
         "favicon": "https://img.logo.dev/ainostri.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Cafe Moldova",
+        "url": "https://play.radiocafe.md:7000/radio.mp3",
+        "favicon": "https://img.logo.dev/play.radiocafe.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Chișinău",
@@ -365,6 +375,11 @@
         "favicon": "https://img.logo.dev/studentus.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Vintage",
+        "url": "https://live.radiovintage.md/vintage_main",
+        "favicon": "https://img.logo.dev/live.radiovintage.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio ZUM 1",
         "url": "https://streams.radiozum.md/listen/zum1/ZUM1",
         "favicon": "https://img.logo.dev/radiozum.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -378,11 +393,6 @@
         "name": "Radio ZUM4",
         "url": "https://streams.radiozum.md/listen/zum4/ZUM4",
         "favicon": "https://img.logo.dev/radiozum.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioBEAT",
-        "url": "https://ssl.omegahost.ro/9998/stream",
-        "favicon": "https://img.logo.dev/radiobeat.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Realitatea FM",
@@ -405,9 +415,9 @@
         "favicon": "https://img.logo.dev/smilefm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "VibeFM",
-        "url": "https://stream.radio.co/s6a544f6c9/listen",
-        "favicon": "https://img.logo.dev/vibefm.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Vocea Basarabiei",
+        "url": "https://stream.noroc.tv/radiovb_aac",
+        "favicon": "https://img.logo.dev/voceabasarabiei.md?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Первое радио в вашем мобильном",

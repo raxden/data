@@ -5,11 +5,6 @@
         "favicon": "https://img.logo.dev/237onair.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Balla Radio",
         "url": "http://167.114.11.79:5730/;stream/1",
         "favicon": "https://img.logo.dev/ballaradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -85,9 +80,34 @@
         "favicon": "https://img.logo.dev/penamundi.radio12345.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Bonne Nouvelle",
+        "url": "https://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3",
+        "favicon": "https://img.logo.dev/radiobonnenouvelle.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Equinoxe",
+        "url": "https://s6.citrus3.com/stream/radioequinoxe",
+        "favicon": "https://img.logo.dev/radioequinoxe.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Jésus Vient",
+        "url": "https://stream.zeno.fm/jsgayqgxwdstv",
+        "favicon": "https://img.logo.dev/radiojesusvient.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Maria Cameroun",
+        "url": "https://dreamsiteradiocp7.com/proxy/rmcameroon?mp=/stream",
+        "favicon": "https://img.logo.dev/radiomaria.cm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Radio Solution",
         "url": "https://compassionglobale.org:4438/radiosync/index.m3u8",
         "favicon": "https://img.logo.dev/compassionglobale.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Vie Nouvelle",
+        "url": "https://lafrequencedevie.ice.infomaniak.ch/lafrequencedevie-64.mp3",
+        "favicon": "https://img.logo.dev/radiovienouvelle.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Voice of the Cross (RVC) - Koumé",
@@ -98,6 +118,16 @@
         "name": "Radio Voice of the Cross (RVC) - Yaounde",
         "url": "https://play.radioking.io/rvc-yaounde1",
         "favicon": "https://img.logo.dev/cmfinternational.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Season Radio",
+        "url": "https://stream.zeno.fm/rvilzsnnjdutv",
+        "favicon": "https://img.logo.dev/seasonmedia.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sky FM Nguti",
+        "url": "https://streams.radio.co/s87e0ba465/listen",
+        "favicon": "https://img.logo.dev/skyfmcameroon.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Suellaba FM 105",

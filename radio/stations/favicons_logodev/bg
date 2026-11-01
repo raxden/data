@@ -45,19 +45,19 @@
         "favicon": "https://img.logo.dev/bnrnews.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "����� ������ �������",
-        "url": "http://195.34.121.140:8002/high",
-        "favicon": "https://img.logo.dev/radiovelikotarnovo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "����� ����������� ����",
+        "url": "http://radio.mitropolia-sofia.org:8610/stream",
+        "favicon": "https://img.logo.dev/radio-glas.mitropolia-sofia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "������ �������",
+        "url": "https://play-radio0.jump.bg:7146/;stream",
+        "favicon": "https://img.logo.dev/play-radio0.jump.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "1 Rock Bulgaria",
         "url": "http://31.13.223.148:8000/1_rock.mp3",
         "favicon": "https://img.logo.dev/radio1rock.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "ALMA MATER",
@@ -78,6 +78,16 @@
         "name": "Avto Radio",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac",
         "favicon": "https://img.logo.dev/avtoradio.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Bad Rock Radio 1",
+        "url": "https://play-radio0.jump.bg:7028/live",
+        "favicon": "https://img.logo.dev/play-radio0.jump.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "BadRock Classic Rock",
+        "url": "https://play-radio0.jump.bg:7489/live",
+        "favicon": "https://img.logo.dev/play-radio0.jump.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Badrock Classic Rock",
@@ -295,11 +305,6 @@
         "favicon": "https://img.logo.dev/classicfm.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Classic FM Bulgaria",
-        "url": "https://classicfm.bg/static/bg/microsites/classicfm/img/play.svg",
-        "favicon": "https://img.logo.dev/classicfm.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "DanPen Radio",
         "url": "https://server.danpenradio.net/listen/danpen_radio/radio.mp3",
         "favicon": "https://img.logo.dev/danpenradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -426,7 +431,7 @@
     },
     {
         "name": "Eilo Radio - Progressive Radio",
-        "url": "http://eilo.org:8000/progressive",
+        "url": "https://eilo.org/streamer.php?ch=progressive",
         "favicon": "https://img.logo.dev/eilo.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -560,6 +565,21 @@
         "favicon": "https://img.logo.dev/radiofresh.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Fusion 7",
+        "url": "https://radio.palamarka.com/listen/fusion7/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.palamarka.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Fusion7",
+        "url": "https://radio.palamarka.com/listen/fusion7/radio.mp3",
+        "favicon": "https://img.logo.dev/radio.palamarka.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Glarus Retro FM",
+        "url": "https://radio.comnet.bg:12301/radio-glarus-retro.mp3",
+        "favicon": "https://img.logo.dev/radio.comnet.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Gold Radio",
         "url": "http://78.83.177.106:8020/;",
         "favicon": "https://img.logo.dev/folkradionazdrave.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -573,6 +593,11 @@
         "name": "House Music Radio",
         "url": "https://home.radionrg.com/hls/housemusic/live.m3u8",
         "favicon": "https://img.logo.dev/housemusic.co?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Internacional 1",
+        "url": "https://play-radio0.jump.bg:7598/;",
+        "favicon": "https://img.logo.dev/play-radio0.jump.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Jazz FM",
@@ -605,6 +630,11 @@
         "favicon": "https://img.logo.dev/kef.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "KISS LOUNGE RADIO",
+        "url": "https://nova-radio.neterra.tv/kiss",
+        "favicon": "https://img.logo.dev/play.nova.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "KOLEDNOTO RADIO",
         "url": "https://play.global.audio/radio1-koleda.aac",
         "favicon": "https://img.logo.dev/radioplay.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -623,6 +653,11 @@
         "name": "MAGIC FM",
         "url": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
         "favicon": "https://img.logo.dev/m.magic.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MAGIC PARTY",
+        "url": "https://nova-radio.neterra.tv/magicparty",
+        "favicon": "https://img.logo.dev/play.nova.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Maxx FM Bulgaria | HQ",
@@ -755,6 +790,16 @@
         "favicon": "https://img.logo.dev/nova.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Online DJ Radio 64",
+        "url": "http://play-radio11.jump.bg:8000/stream64_autodj",
+        "favicon": "https://img.logo.dev/play-radio11.jump.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "onlineDJradio",
+        "url": "https://play.onlinedjradio.com:7000/live",
+        "favicon": "https://img.logo.dev/play.onlinedjradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Power FM 91.1",
         "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
         "favicon": "https://img.logo.dev/powerfm.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -817,7 +862,12 @@
     {
         "name": "Radio Balkanika",
         "url": "https://ssl120.radyotelekom.com.tr/8122/stream",
-        "favicon": "https://img.logo.dev/ssl120.radyotelekom.com.tr?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/radiobalkanika.free.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Bella",
+        "url": "https://online.radiobella.com/listen/radio.bella/radio.mp3",
+        "favicon": "https://img.logo.dev/radiobella.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO BGRADIO",
@@ -890,24 +940,9 @@
         "favicon": "https://img.logo.dev/radio.helikon.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Horo",
-        "url": "http://g5.turbohost.eu:8020/stream256",
-        "favicon": "https://img.logo.dev/radiohoro.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Jega Жега",
         "url": "http://g5.turbohost.eu:8004/stream",
         "favicon": "https://img.logo.dev/predavatel.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio K2",
-        "url": "http://stream.radiok2.bg:8000/rk2",
-        "favicon": "https://img.logo.dev/radiok2.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio K2",
-        "url": "http://stream.radiok2.bg:8000/rk2",
-        "favicon": "https://img.logo.dev/radiok2.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "radio kesarevo",
@@ -985,11 +1020,6 @@
         "favicon": "https://img.logo.dev/radionrg.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio OxFM",
-        "url": "https://mpc.my-control-panel.eu:8002/stream",
-        "favicon": "https://img.logo.dev/mpc.my-control-panel.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Pianica",
         "url": "http://mpc1.mediacp.eu:8024/",
         "favicon": "https://img.logo.dev/radiopi.top?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1018,6 +1048,11 @@
         "name": "Radio Ruse",
         "url": "https://radio.ruse.bg:8010/radioruse",
         "favicon": "https://img.logo.dev/radioruse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Strimonika",
+        "url": "https://play-radio0.jump.bg:7666/stream",
+        "favicon": "https://img.logo.dev/play-radio0.jump.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio The Voice",
@@ -1075,14 +1110,19 @@
         "favicon": "https://img.logo.dev/radioviva.at.ua?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "RADIO ZETRA",
+        "url": "https://radio.jump.bg/proxy/etzetrap/;stream/1",
+        "favicon": "https://img.logo.dev/zetramedia.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "radio1rock",
         "url": "https://149.13.0.81/radio1rock128",
         "favicon": "https://img.logo.dev/radio1rock.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radioplay Cafe",
-        "url": "https://play.global.audio/cafehi.aac",
-        "favicon": "https://img.logo.dev/radioplay.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "RadioAdrenalina",
+        "url": "https://ssl22.radyotelekom.com/8386/stream",
+        "favicon": "https://img.logo.dev/radioadrenalina.free.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radioplay Cafe",
@@ -1098,6 +1138,16 @@
         "name": "Radioplay Cafe",
         "url": "https://play.global.audio/cafehi.aac",
         "favicon": "https://img.logo.dev/radioplay.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radioplay Cafe",
+        "url": "https://play.global.audio/cafehi.aac",
+        "favicon": "https://img.logo.dev/radioplay.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radioto.bg",
+        "url": "https://radio.jump.bg/proxy/radiotobg2?mp=/stream",
+        "favicon": "https://img.logo.dev/radioto.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radioxaschove",
@@ -1108,6 +1158,11 @@
         "name": "Rashi Edno",
         "url": "https://s2.free-shoutcast.com/stream/18214",
         "favicon": "https://img.logo.dev/radiorashi.alle.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rila Folk",
+        "url": "https://play-radio6.jump.bg:7016/play;",
+        "favicon": "https://img.logo.dev/rilafolk.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Rosen Dimitrov",
@@ -1145,9 +1200,24 @@
         "favicon": "https://img.logo.dev/radioenergy.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "The Vibe Radio",
+        "url": "https://stream.thevibe.tv/hls/the_vibe_balkan/aac_hifi.m3u8",
+        "favicon": "https://img.logo.dev/thevibe.tv?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "The Voice of Bulgaria",
+        "url": "https://nova-radio.neterra.tv/voiceofbg",
+        "favicon": "https://img.logo.dev/thevoice.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "top.fm",
         "url": "http://91.227.77.124/topfm",
         "favicon": "https://img.logo.dev/top.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Tvoeto Radio",
+        "url": "https://stream.sweetradio.online:8001/tvr",
+        "favicon": "https://img.logo.dev/tvoetoradio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ultra Blagoevgrad",
@@ -1340,9 +1410,19 @@
         "favicon": "https://img.logo.dev/radio1.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Общинско радио Велико Търново",
-        "url": "http://195.34.121.140:8004/",
-        "favicon": "https://img.logo.dev/radiovelikotarnovo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Радио „Епархийски глас“",
+        "url": "https://radio.mitropolia-sofia.org:7610/stream",
+        "favicon": "https://img.logo.dev/radio-glas.mitropolia-sofia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио „Епархийски глас“",
+        "url": "http://radio.mitropolia-sofia.org:8610/stream",
+        "favicon": "https://img.logo.dev/radio-glas.mitropolia-sofia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио „Епархийски глас“",
+        "url": "https://radio.mitropolia-sofia.org:7610/stream",
+        "favicon": "https://img.logo.dev/radio-glas.mitropolia-sofia.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Bulgaria ON AIR Русе 103.9 FM",
@@ -1398,11 +1478,6 @@
         "name": "Радио БНР програма Христо Ботев Русе 95.7 FM",
         "url": "https://e106-ts.cdn.bg/regstations/fls/HrBotev.stream/chunklist.m3u8",
         "favicon": "https://img.logo.dev/bnrnews.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Радио Велико Търново",
-        "url": "http://195.34.121.140:8002/high",
-        "favicon": "https://img.logo.dev/radiovelikotarnovo.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Радио Вероника Русе 99.0 FM",
@@ -1465,8 +1540,23 @@
         "favicon": "https://img.logo.dev/radiopi.top?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Радио Севтополис",
+        "url": "https://radio.jump.bg/proxy/radio123/",
+        "favicon": "https://img.logo.dev/radiosevtopolis.eu?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Радио Фокус Русе 99.7 FM",
         "url": "https://focusradio.dataserv.cc/1",
         "favicon": "https://img.logo.dev/focus-radio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Радио Фолк 91.5",
+        "url": "https://radio.comnet.bg:12301/radio-folk.mp3",
+        "favicon": "https://img.logo.dev/radio-folk.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Студио Оряхово",
+        "url": "https://play-radio0.jump.bg:7146/;stream",
+        "favicon": "https://img.logo.dev/play-radio0.jump.bg?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

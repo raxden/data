@@ -10,29 +10,9 @@
         "favicon": "https://img.logo.dev/rabe.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - A List 80s",
-        "url": "http://strm112.1.fm/back280s_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - A List 80s",
-        "url": "http://strm112.1.fm/back280s_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Absolute 70's Pop Radio",
-        "url": "http://strm112.1.fm/70s_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Absolute 90s Party Zone Radio",
-        "url": "http://strm112.1.fm/partyzone90s_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "[1337 4M813N7] RADIO.MASCHINENGEIST.ORG Deep Field Transmissions",
+        "url": "https://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3",
+        "favicon": "https://img.logo.dev/radio.maschinengeist.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "1.FM - Absolute Country Hits Radio",
@@ -40,174 +20,9 @@
         "favicon": "https://img.logo.dev/strmreg.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "1.FM - Absolute Country Hits Radio",
-        "url": "http://strm112.1.fm/acountry_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Absolute Pop Latino Radio",
-        "url": "http://strm112.1.fm/latino_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Absolute TOP 40 Radio",
-        "url": "http://strm112.1.fm/top40_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Absolute Trance (Euro) Radio",
-        "url": "http://strm112.1.fm/trance_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Acappella Radio",
-        "url": "http://strm112.1.fm/acpl_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Adore Jazz Radio",
-        "url": "http://strm112.1.fm/ajazz_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Adore Jazz Radio",
-        "url": "http://strm112.1.fm/ajazz_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Adult Urban Hits Choice Radio",
-        "url": "http://strm112.1.fm/oldschool_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Afterbeat Electronica Radio",
-        "url": "http://strm112.1.fm/electronica_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - All Euro 80's Radio",
-        "url": "http://strm112.1.fm/80s_90s_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - All Times & Urban Gospel Radio",
-        "url": "http://strm112.1.fm/gospel_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Alternative Rock X Hits Radio",
-        "url": "http://strm112.1.fm/x_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Always-Christmas Radio",
-        "url": "http://strm112.1.fm/christmas_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Ambient Psychill",
-        "url": "http://strm112.1.fm/ambientpsy_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - America's Best Ballads Radio",
-        "url": "http://strm112.1.fm/onelive_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Amsterdam Trance Radio",
-        "url": "http://strm112.1.fm/atr_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Back To The 50's & 60's Radio",
-        "url": "http://strm112.1.fm/60s_70s_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Bay Smooth Jazz Radio",
-        "url": "http://strm112.1.fm/smoothjazz_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Blues Radio",
-        "url": "http://strm112.1.fm/blues_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - BOM Psytrance Radio",
-        "url": "http://strm112.1.fm/psytrance_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Bombay Beats India Radio",
-        "url": "http://strm112.1.fm/bombaybeats_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Bossa Nova Hits",
-        "url": "http://strm112.1.fm/bossanova_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Cafe Radio",
-        "url": "http://strm112.1.fm/caferadio_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.fm - Calming Piano",
-        "url": "https://strm112.1.fm/gospel_mobile_mp3",
-        "favicon": "https://img.logo.dev/radio.1cloud.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Chillout Lounge Radio",
-        "url": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Chillout Lounge Radio",
-        "url": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Circuit Pride Radio",
-        "url": "http://strm112.1.fm/circuitpride_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "1.FM - Classic Country Radio",
         "url": "https://strmreg.1.fm/ccountry_mobile_mp3",
         "favicon": "https://img.logo.dev/strmreg.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Classic Country Radio",
-        "url": "http://strm112.1.fm/ccountry_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Classic Rock Replay Radio",
-        "url": "http://strm112.1.fm/crock_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Classic Rock Replay Radio",
-        "url": "http://strm112.1.fm/crock_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Classic Rock Replay Radio",
-        "url": "http://strm112.1.fm/crock_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Club 1 Radio",
-        "url": "http://strm112.1.fm/club_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Costa Del Mar",
-        "url": "http://strm112.1.fm/costadelmarchillout_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "1.FM - Country One Radio",
@@ -215,289 +30,9 @@
         "favicon": "https://img.logo.dev/strmreg.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "1.FM - Country One Radio",
-        "url": "http://strm112.1.fm/country_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Dance One Radio",
-        "url": "http://strm112.1.fm/dance_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Deep House Radio",
-        "url": "http://strm112.1.fm/deephouse_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Deep Techno & Deep House",
-        "url": "http://strm112.1.fm/deeptech_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Destination: SPA Radio",
-        "url": "http://strm112.1.fm/spa_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Disco Ball 70's-80's Radio",
-        "url": "http://strm112.1.fm/disco_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Dubstep Forward Radio",
-        "url": "http://strm112.1.fm/dubstep_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Eternal Praise & Worship Radio",
-        "url": "http://strm112.1.fm/praise_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Exitos del Ayer Radio",
-        "url": "http://strm112.1.fm/spanisholdies_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Full Throttle Phonk",
-        "url": "http://strm112.1.fm/fullthrottlephonk_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Funky Express",
-        "url": "http://strm112.1.fm/funkyexpress_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Gorilla FM Radio",
-        "url": "http://strm112.1.fm/gorillafm_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - High Voltage Radio",
-        "url": "http://strm112.1.fm/highvoltage_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Ibiza Chill Tropical",
-        "url": "http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Italia On Air Radio",
-        "url": "http://strm112.1.fm/italiaonair_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Jamz Radio",
-        "url": "http://strm112.1.fm/jamz_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Kids FM Radio",
-        "url": "http://strm112.1.fm/kidsfm_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "1.FM - Love Classics Radio",
         "url": "https://strmreg.1.fm/loveclassics_mobile_mp3",
         "favicon": "https://img.logo.dev/strmreg.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Love Classics Radio",
-        "url": "http://strm112.1.fm/loveclassics_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Magic 80 Radio",
-        "url": "http://strm112.1.fm/magic80_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Millennial Nostalgia",
-        "url": "http://strm112.1.fm/eurovision_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Movie Soundtrack",
-        "url": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - MPB Hits Radio",
-        "url": "http://strm112.1.fm/mpb_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Otto's Baroque Music Radio",
-        "url": "http://strm112.1.fm/baroque_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Otto's Opera House",
-        "url": "http://strm112.1.fm/opera_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Otto's Opera House Music Radio",
-        "url": "http://strm112.1.fm/opera_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Radio Gaia",
-        "url": "http://strm112.1.fm/radiogaia_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Rap Pregame",
-        "url": "http://strm112.1.fm/edm_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Reggaeton Heat",
-        "url": "http://strm112.1.fm/reggaeton_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - ReggaeTrade Radio",
-        "url": "http://strm112.1.fm/reggae_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Rock Classics Radio",
-        "url": "http://strm112.1.fm/rockclassics_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Samba Hits Brazil Radio",
-        "url": "http://strm112.1.fm/samba_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Samba Rock Radio",
-        "url": "http://strm112.1.fm/sambarock_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Sax4Love",
-        "url": "http://strm112.1.fm/sax4ever_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Sertaneja Hits Radio",
-        "url": "http://strm112.1.fm/sertanejo_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Slow Jamz Radio",
-        "url": "http://strm112.1.fm/slowjamz_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Sunshine",
-        "url": "https://strm112.1.fm/allmixedup_mobile_mp3?",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Top Fiesta Radio",
-        "url": "http://strm112.1.fm/spanishparty_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM - Total Hits En Español Radio",
-        "url": "http://strm112.1.fm/spanishtophits_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM 90s Alternative Radio",
-        "url": "http://strm112.1.fm/partyzone90s_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Absolute 90's Radio",
-        "url": "https://strm112.1.fm/90s_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.fm Back To The 50's",
-        "url": "https://strm112.1.fm/60s_70s_mobile_mp3?",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Beloved Ballads",
-        "url": "https://strm112.1.fm/onelive_mobile_mp3?",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.fm classic rock",
-        "url": "https://strm112.1.fm/crock_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Essential Classical",
-        "url": "http://strm112.1.fm/polskafm_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Essential Classical Polska FM",
-        "url": "http://strm112.1.fm/polskafm_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Essential classical polska FM",
-        "url": "http://strm112.1.fm/polskafm_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Hot Country Hits Radio",
-        "url": "http://strm112.1.fm/acountry_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.fm Movie Soundtrack Hits",
-        "url": "https://strm112.1.fm/moviesoundtracks_mobile_mp3?",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.fm Otto's Baroque music",
-        "url": "http://strm112.1.fm/baroque_mobile_aac",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.fm Otto's Classical music",
-        "url": "https://strm112.1.fm/classical_mobile_aac",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.fm Otto's Classical music (http/mp3)",
-        "url": "http://strm112.1.fm/classical_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Reggae",
-        "url": "http://strm112.1.fm/reggae_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Top 40 Ballads Radio",
-        "url": "http://strm112.1.fm/top40ballads_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Top 40 Hits",
-        "url": "http://strm112.1.fm/top40_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.fm top rap",
-        "url": "https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&listenerid=bc625eb7aaf609dd3942dc610e46ed40&awparams=companionAds%3Atrue",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "1.FM Y2K Radio (2000s)",
-        "url": "http://strm112.1.fm/hits2000_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "20minuten.radio DAB+ (GOAT Radio)",
@@ -527,12 +62,12 @@
     {
         "name": "Adonia-KidsRadio",
         "url": "http://puma.streemlion.com:1930/stream",
-        "favicon": "https://img.logo.dev/adonia.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/puma.streemlion.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Adore Jazz",
-        "url": "http://strm112.1.fm/ajazz_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Adonia-KidsRadio",
+        "url": "http://puma.streemlion.com:1930/stream",
+        "favicon": "https://img.logo.dev/adonia.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Agaune Radio",
@@ -543,26 +78,6 @@
         "name": "ai-musicworld",
         "url": "http://s6.citrus3.com:8936/stream",
         "favicon": "https://img.logo.dev/s6.citrus3.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "All time Urban Gospel",
-        "url": "https://strm112.1.fm/gospel_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Alti Radio",
-        "url": "https://transmiss.ion.ovh/listen/altiradio/radio.mp3",
-        "favicon": "https://img.logo.dev/transmiss.ion.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Alti Radio",
-        "url": "https://transmiss.ion.ovh/listen/altiradio/radio.mp3",
-        "favicon": "https://img.logo.dev/transmiss.ion.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Alti Radio",
-        "url": "https://transmiss.ion.ovh/listen/altiradio/radio.mp3",
-        "favicon": "https://img.logo.dev/transmiss.ion.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ambi Nature Radio",
@@ -598,11 +113,6 @@
         "name": "Basspistol Radio",
         "url": "https://radio.basspistol.com/listen/basspistol/radio.mp3",
         "favicon": "https://img.logo.dev/basspistol.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Brazilian Birds Radio",
-        "url": "https://strm112.1.fm/brazilianbirds_mobile_mp3",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Break Radio",
@@ -681,7 +191,7 @@
     },
     {
         "name": "Electrons Libres",
-        "url": "https://listen.radioking.com/radio/427889/stream/481499",
+        "url": "https://listen.radioking.com/radio/427889/stream/481505",
         "favicon": "https://img.logo.dev/electronslibres.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -711,7 +221,7 @@
     },
     {
         "name": "Energy Zürich (NRJ)",
-        "url": "http://broadcast.infomaniak.ch/energyzuerich-high.mp3",
+        "url": "http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
         "favicon": "https://img.logo.dev/energy.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -773,6 +283,11 @@
         "name": "Geneva Latina Radio",
         "url": "http://genevalatina.ice.infomaniak.ch/genevalatina-128.mp3",
         "favicon": "https://img.logo.dev/genevalatina.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "GIN Radio 24",
+        "url": "https://app.aloncast.com/api/stream/gin-radio-24-a7f910",
+        "favicon": "https://img.logo.dev/surf.aloncast.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Global FM",
@@ -1105,6 +620,11 @@
         "favicon": "https://img.logo.dev/musicradio.ai?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "My 105 The 80s Club",
+        "url": "https://my105.stream37.radiohost.de/my105-80s_mp3-192",
+        "favicon": "https://img.logo.dev/my105.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "my105 - All The Hits",
         "url": "http://stream01.my105.ch/my105allthehits.mp3",
         "favicon": "https://img.logo.dev/my105.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1208,6 +728,11 @@
         "name": "New Clear Radio",
         "url": "http://live.ncradio.fm/320",
         "favicon": "https://img.logo.dev/ncradio.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "One Dance Ticino",
+        "url": "https://ice15.fluidstream.net/onedancech.aac",
+        "favicon": "https://img.logo.dev/ice15.fluidstream.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "One FM",
@@ -1425,16 +950,6 @@
         "favicon": "https://img.logo.dev/3fach.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Alta",
-        "url": "https://transmiss.ion.ovh/listen/alta/radio.mp3",
-        "favicon": "https://img.logo.dev/transmiss.ion.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Alta",
-        "url": "https://transmiss.ion.ovh/listen/alta/radio.mp3",
-        "favicon": "https://img.logo.dev/transmiss.ion.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Argovia",
         "url": "https://stream.streambase.ch/argovia/mp3-192/direct/",
         "favicon": "https://img.logo.dev/argovia.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1526,7 +1041,7 @@
     },
     {
         "name": "Radio Electrons Libres",
-        "url": "https://listen.radioking.com/radio/427889/stream/481499",
+        "url": "https://listen.radioking.com/radio/427889/stream/481502",
         "favicon": "https://img.logo.dev/electronslibres.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1570,11 +1085,6 @@
         "favicon": "https://img.logo.dev/radiofr.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Freundes-Dienst Schweiz",
-        "url": "https://stream.radiofd.ch/radiofd/mp3_128/radiobrowser",
-        "favicon": "https://img.logo.dev/radiofd.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Freundesdienst Schweiz",
         "url": "http://radiofdch.ice.infomaniak.ch/radiofdch.mp3",
         "favicon": "https://img.logo.dev/freundesdienst.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1583,11 +1093,6 @@
         "name": "Radio Fribourg",
         "url": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
         "favicon": "https://img.logo.dev/radiofr.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Gaia",
-        "url": "https://strm112.1.fm/radiogaia_128",
-        "favicon": "https://img.logo.dev/strm112.1.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Gloria",
@@ -1613,11 +1118,6 @@
         "name": "Radio Grischa",
         "url": "https://stream.radiogrischa.ch/radiogrischa/mp3_128/internetradioschweiz",
         "favicon": "https://img.logo.dev/radiogrischa.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Gugelhopf",
-        "url": "http://uk3.internet-radio.com:8113/stream",
-        "favicon": "https://img.logo.dev/radiogugelhopf.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Gwendalyn",
@@ -1727,7 +1227,12 @@
     {
         "name": "Radio Onyx",
         "url": "http://nr4.newradio.it:9432/stream",
-        "favicon": "https://img.logo.dev/radioonyx.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/nr4.newradio.it?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Radio Orbital ch",
+        "url": "http://orbital.ice.infomaniak.ch/orbital.mp3",
+        "favicon": "https://img.logo.dev/radioorbital.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RADIO OUISTITI",
@@ -1780,13 +1285,8 @@
         "favicon": "https://img.logo.dev/radio-rocher.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Rocket",
-        "url": "https://i9.streams.ovh/sc/radioroc/stream",
-        "favicon": "https://img.logo.dev/radiorocket.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "RADIO ROTATION",
-        "url": "http://radio-rotation.stream.laut.fm/radio-rotation?t302=2026-10-22_14-03-54&uuid=a84f3d11-06c9-a592-b619-e7f97f4df708",
+        "url": "http://radio-rotation.stream.laut.fm/radio-rotation?t302=2026-10-27_14-44-58&uuid=04b12653-83a7-7501-ba1c-c00180bcf790",
         "favicon": "https://img.logo.dev/radiorotation.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1813,11 +1313,6 @@
         "name": "Radio S",
         "url": "https://stream.radio-s.ch/stream",
         "favicon": "https://img.logo.dev/stream.radio-s.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Schlagerpark",
-        "url": "https://radio.schlagerpark.com/",
-        "favicon": "https://img.logo.dev/schlagerpark.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio SRF 1",
@@ -2315,11 +1810,6 @@
         "favicon": "https://img.logo.dev/radiotell.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Texoplex",
-        "url": "https://radio.texoplex.ch/stream",
-        "favicon": "https://img.logo.dev/radio.texoplex.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Radio Top (Ostschweiz)",
         "url": "https://radiotop.ice.infomaniak.ch/radiotop96.aac",
         "favicon": "https://img.logo.dev/toponline.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -2348,11 +1838,6 @@
         "name": "Radio X FLAC",
         "url": "https://mp3.radiox.ch/standard.ogg",
         "favicon": "https://img.logo.dev/radiox.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Zuerich Nord: Musikbox",
-        "url": "https://bayern.streampanel.cloud:11145/stream",
-        "favicon": "https://img.logo.dev/radio-zuerich-nord.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Zuerisee",
@@ -2443,11 +1928,6 @@
         "name": "RadioPolis",
         "url": "http://rs01.swissnwx.ch:20080/stream",
         "favicon": "https://img.logo.dev/radiopolis.xyz?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RadioSouvenir.com",
-        "url": "http://radio12.pro-fhi.net/radio/9136/stream",
-        "favicon": "https://img.logo.dev/radiosouvenir.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "radiox.ch",
@@ -2543,6 +2023,11 @@
         "name": "Rouge FM Suisse",
         "url": "http://rouge-suisse.ice.infomaniak.ch/rouge-suisse-128.mp3",
         "favicon": "https://img.logo.dev/rougefm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "rro Radio Rottu Oberwallis",
+        "url": "https://streaming.rro.ch/rro/mp3_128",
+        "favicon": "https://img.logo.dev/pomona.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RSI Rete Due",
@@ -2698,11 +2183,6 @@
         "name": "Sabaton радио",
         "url": "https://stream.pcradio.ru/sabaton-hi",
         "favicon": "https://img.logo.dev/pcradio.ru?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Skuizz Hits 90s-00s",
-        "url": "https://traxx024.ice.infomaniak.ch/traxx024-1.mp3",
-        "favicon": "https://img.logo.dev/skuizz.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "soundz",
@@ -2880,8 +2360,18 @@
         "favicon": "https://img.logo.dev/srf.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "SRF1 Regionaljournal Basel Baselland",
+        "url": "http://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128",
+        "favicon": "https://img.logo.dev/srf.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "SRF1 Regionaljournal Zürich-Schaffhausen",
         "url": "http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96",
+        "favicon": "https://img.logo.dev/srf.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "SRF3",
+        "url": "http://stream.srg-ssr.ch/srgssr/srf3/aac/192",
         "favicon": "https://img.logo.dev/srf.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -2893,6 +2383,16 @@
         "name": "Sunshine Radio (Switzerland)",
         "url": "https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080",
         "favicon": "https://img.logo.dev/sunshine.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Superyachtradio",
+        "url": "https://stream.radio.co/s43a403d3a/listen",
+        "favicon": "https://img.logo.dev/superyachtradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Swiss Country Radio",
+        "url": "https://streaming.swisscountryradio.ch/scr/aac_128",
+        "favicon": "https://img.logo.dev/swisscountryradio.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Swiss Groove",
@@ -2926,13 +2426,28 @@
     },
     {
         "name": "SwissGroove",
-        "url": "http://relay1.swissgroove.ch/",
+        "url": "http://relay2.swissgroove.ch/",
         "favicon": "https://img.logo.dev/swissgroove.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Swissgroove",
         "url": "https://relay1.swissgroove.ch/",
         "favicon": "https://img.logo.dev/swissgroove.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Symphoniya Wave",
+        "url": "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac",
+        "favicon": "https://img.logo.dev/symphoniya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Symphoniya Wave — Symphoniya.com",
+        "url": "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3",
+        "favicon": "https://img.logo.dev/symphoniya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Symphoniya Wave — Symphoniya.com",
+        "url": "https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3",
+        "favicon": "https://img.logo.dev/symphoniya.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Ta Radio",
@@ -2960,114 +2475,14 @@
         "favicon": "https://img.logo.dev/toxic.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "TRANSITION RADIO",
+        "url": "https://a9.asurahosting.com/listen/transition_radio/radio.mp3",
+        "favicon": "https://img.logo.dev/transition-radio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Trasformatorio",
         "url": "https://radio.dyne.org/trasformatorio-archives.mp3",
         "favicon": "https://img.logo.dev/trasformatorio.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Ambient",
-        "url": "http://traxx011.ice.infomaniak.ch/traxx011-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Classic",
-        "url": "http://traxx012.ice.infomaniak.ch/traxx012-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Cool Jam",
-        "url": "http://traxx005.ice.infomaniak.ch/traxx005-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Deep",
-        "url": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Deluxe",
-        "url": "http://traxx001.ice.infomaniak.ch/traxx001-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - France",
-        "url": "http://traxx025.ice.infomaniak.ch/traxx025-1.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Funk",
-        "url": "http://traxx016.ice.infomaniak.ch/traxx016-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Golden Oldies",
-        "url": "http://traxx023.ice.infomaniak.ch/traxx023-1.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Hits",
-        "url": "https://traxx010.ice.infomaniak.ch/traxx010-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - House",
-        "url": "http://traxx002.ice.infomaniak.ch/traxx002-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Italia",
-        "url": "http://traxx021.ice.infomaniak.ch/traxx021-1.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Jazz",
-        "url": "http://traxx014.ice.infomaniak.ch/traxx014-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Latino",
-        "url": "http://traxx008.ice.infomaniak.ch/traxx008-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Latino Pop",
-        "url": "http://traxx022.ice.infomaniak.ch/traxx022-1.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Lounge",
-        "url": "http://traxx004.ice.infomaniak.ch/traxx004-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Pop",
-        "url": "http://traxx009.ice.infomaniak.ch/traxx009-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Rap",
-        "url": "http://traxx015.ice.infomaniak.ch/traxx015-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - RnB",
-        "url": "http://traxx007.ice.infomaniak.ch/traxx007-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Rock",
-        "url": "http://traxx019.ice.infomaniak.ch/traxx019-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Soul",
-        "url": "http://traxx006.ice.infomaniak.ch/traxx006-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Traxx FM - Tech Minimal",
-        "url": "http://traxx020.ice.infomaniak.ch/traxx020-low.mp3",
-        "favicon": "https://img.logo.dev/traxx.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "True House Chill",
@@ -3130,11 +2545,6 @@
         "favicon": "https://img.logo.dev/vibration108.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Vibration Gayradio",
-        "url": "http://vibration.stream2net.eu:8480/;stream/1",
-        "favicon": "https://img.logo.dev/vibrationgayradio.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Vibration Poprock",
         "url": "http://vibrationpoprock.stream2net.eu:8030/;",
         "favicon": "https://img.logo.dev/vibration108.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -3168,21 +2578,6 @@
         "name": "VirginRadio",
         "url": "https://stream.streambase.ch/vrock/mp3-192/direct/",
         "favicon": "https://img.logo.dev/virginradio.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Volnadavida Radio",
-        "url": "http://transmiss.ion.ovh/listen/volnadavida/radio.mp3",
-        "favicon": "https://img.logo.dev/transmiss.ion.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Volnadavida Radio",
-        "url": "https://transmiss.ion.ovh/listen/volnadavida/radio.mp3",
-        "favicon": "https://img.logo.dev/transmiss.ion.ovh?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "WALTS WELT",
-        "url": "https://waltswelt.out.airtime.pro/waltswelt_a?_ga=2.33964516.474222732.1669644968-446937151.1669306237",
-        "favicon": "https://img.logo.dev/waltswelt.ch?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Wildmountain Radio",

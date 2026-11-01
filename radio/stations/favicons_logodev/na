@@ -1,10 +1,5 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Afrika-Boom",
         "url": "https://stream.radio.co/se53fee01d/listen",
         "favicon": "https://img.logo.dev/afrika-boom.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -13,6 +8,11 @@
         "name": "Desert FM",
         "url": "http://s2.stationplaylist.com:7154/listen.aac",
         "favicon": "https://img.logo.dev/stream.namibian.com.na?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Eagle FM",
+        "url": "https://s2.stationplaylist.com:7030/listen.aac",
+        "favicon": "https://img.logo.dev/eaglefm.com.na?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Energy 100 FM",

@@ -1,23 +1,8 @@
 [
     {
-        "name": "LOVE FM: All you need is Love ♥ Clásicos pop",
-        "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
-        "favicon": "https://img.logo.dev/lovefm.com.mx?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "CAWtv",
         "url": "https://stream.zeno.fm/m8aakwyw9u8uv",
         "favicon": "https://img.logo.dev/cawtv.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Exa FM",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "La Nueva Radio | Nicaragua",
@@ -41,18 +26,8 @@
     },
     {
         "name": "Radio Conexión Romántica",
-        "url": "https://stream-280.surfernetwork.com/uauw712byzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YXV3NzEyYnl6enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlVLZUJaVmtVVDZTemduUjZYUWsweHciLCJpYXQiOjE3OTI2ODIyMzAsImV4cCI6MTc5MjY4MjI5MH0.Fsur-gCIJWmLchyIsRpmigl3WL9ILQerMLBj_FGmF3I",
+        "url": "https://stream-280.surfernetwork.com/uauw712byzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YXV3NzEyYnl6enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il9DOTU0Y3ZuVHEyeGpMUko0ZTZPM1EiLCJpYXQiOjE3OTMxMTQ3OTYsImV4cCI6MTc5MzExNDg1Nn0.vIedkg6OsmxlJepTcl7UWSGRIx_X9hppkh2bm1-1iB0",
         "favicon": "https://img.logo.dev/n9.cl?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Estrella del Mar",
-        "url": "https://streamer.radio.co/sd5242d0b6/listen",
-        "favicon": "https://img.logo.dev/radioestrelladelmar.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Radio Estrella del Mar",
-        "url": "https://streamer.radio.co/sd5242d0b6/listen",
-        "favicon": "https://img.logo.dev/radioestrelladelmar.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Juan Pablo Segundo 97.7 fm",
@@ -73,11 +48,6 @@
         "name": "Radio Stereo Mundo 91.9 FM",
         "url": "https://ssl.hostingtico.com:8138/smundo2014",
         "favicon": "https://img.logo.dev/stereomundo919.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Rock FM 105.5",
-        "url": "https://securestream.us/radio/8050/radio.mp3",
-        "favicon": "https://img.logo.dev/rockfm.com.ni?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Stereo Beso 94.5 FM",

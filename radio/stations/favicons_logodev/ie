@@ -1,10 +1,5 @@
 [
     {
-        "name": ". Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "[ vinyl stacks ]",
         "url": "https://vinylstacks.uncool.club/vinyl-stacks.mp3",
         "favicon": "https://img.logo.dev/vinylstacks.uncool.club?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -202,7 +197,7 @@
     {
         "name": "Club FM  Dublin Dublins hottest dance mix",
         "url": "https://c6.radioboss.fm:8225/autodj",
-        "favicon": "https://img.logo.dev/ww25.clubfmdublin.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "favicon": "https://img.logo.dev/c6.radioboss.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Club FM Dublin",
@@ -223,6 +218,11 @@
         "name": "Community Radio Youghal",
         "url": "http://142.132.158.102:8221/stream",
         "favicon": "https://img.logo.dev/cry104fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Cool FM Belfast",
+        "url": "https://stream-al.hellorayo.co.uk/coolfm.mp3?direct=true&aw_0_1st.skey=1602676850&rp_source=1",
+        "favicon": "https://img.logo.dev/hellorayo.co.uk?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Cork 96 FM",
@@ -278,6 +278,11 @@
         "name": "Deephouse radio",
         "url": "http://ec1.everestcast.host:1490/stream?xi1amefeqvksbquhue3jidp6boikushz",
         "favicon": "https://img.logo.dev/dhr.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Dublin Digital Radio",
+        "url": "https://dublin-digital-radio.radiocult.fm/stream",
+        "favicon": "https://img.logo.dev/dublin-digital-radio.radiocult.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Dublin's 98FM",
@@ -370,6 +375,16 @@
         "favicon": "https://img.logo.dev/freedomfm.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Funky Ass Tunes",
+        "url": "https://ams1.reliastream.com/proxy/john12/stream",
+        "favicon": "https://img.logo.dev/ams1.reliastream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Funky Ass Tunes",
+        "url": "https://ams1.reliastream.com/proxy/john12/stream",
+        "favicon": "https://img.logo.dev/ams1.reliastream.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "Galway Bay FM",
         "url": "https://wg.cdn.tibus.net/galwaybay.mp3",
         "favicon": "https://img.logo.dev/galwaybayfm.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -408,6 +423,11 @@
         "name": "Gem Radio Gold",
         "url": "https://gemradio.radioca.st/stream/1/",
         "favicon": "https://img.logo.dev/gemnewwave.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Global Radio Cork (Ireland)",
+        "url": "http://media2.streambrothers.com:8186/Global",
+        "favicon": "https://img.logo.dev/media2.streambrothers.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "GOCOM Radio",
@@ -578,6 +598,11 @@
         "name": "MixLive - Progressive & Tech-house",
         "url": "https://strw3.openstream.co/939",
         "favicon": "https://img.logo.dev/mixlive.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "MixLive.ie - InsomniaFM",
+        "url": "http://635.cloudrad.io:8092/;stream",
+        "favicon": "https://img.logo.dev/635.cloudrad.io?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "MixLive.net - Psybient Sunset",
@@ -805,6 +830,11 @@
         "favicon": "https://img.logo.dev/planetradio.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "PlayFm Dublin",
+        "url": "https://stream.playfmdublin.com/radio192.mp3",
+        "favicon": "https://img.logo.dev/playfmdublin.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "PowerFM Dublin 320Kbps MP3",
         "url": "https://www.powerfm.org:8443/powerfm.mp3",
         "favicon": "https://img.logo.dev/powerfm.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -823,11 +853,6 @@
         "name": "Psybient Sunset on MixLive.net",
         "url": "https://tunein.com/radio/Psybient-Sunset-on-MixLivenet-s158099",
         "favicon": "https://img.logo.dev/mixlive.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "RabbitHole Radio",
-        "url": "http://stream.zeno.fm/c88dha3fmzzuv",
-        "favicon": "https://img.logo.dev/rabbitholeradio.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Radio Cenzura",
@@ -890,11 +915,6 @@
         "favicon": "https://img.logo.dev/siamsa.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Radio Zodiac Ireland",
-        "url": "http://www.radioking.com/play/radio-zodiac-ireland",
-        "favicon": "https://img.logo.dev/radiozodiac.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Raidió na Gaeltachta",
         "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
         "favicon": "https://img.logo.dev/rte.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -913,6 +933,11 @@
         "name": "Raídío Rí-Rá",
         "url": "https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=",
         "favicon": "https://img.logo.dev/rrr.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Rana Sundi",
+        "url": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3",
+        "favicon": "https://img.logo.dev/base44.app?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "RetroNow",
@@ -1035,11 +1060,6 @@
         "favicon": "https://img.logo.dev/rte.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Scariff Bay Community Radio",
-        "url": "https://s4.radio.co/s87ac5cf5a/listen",
-        "favicon": "https://img.logo.dev/scariffbayradio.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Shannonside",
         "url": "http://edge.audioxi.com/SHANNONSIDE",
         "favicon": "https://img.logo.dev/shannonside.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1056,7 +1076,7 @@
     },
     {
         "name": "SOLID GOLD RADIO IRELAND 1",
-        "url": "https://az11.yesstreaming.net:8020/radio.mp3",
+        "url": "https://az10.yesstreaming.net:8530/radio.mp3",
         "favicon": "https://img.logo.dev/solidgoldradioireland.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
@@ -1100,6 +1120,11 @@
         "favicon": "https://img.logo.dev/spin1038.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "St. Ita’s Hospital Radio",
+        "url": "https://de2.streamingpulse.com/ssl/8042",
+        "favicon": "https://img.logo.dev/de2.streamingpulse.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "St. Itas Hospital Radio",
         "url": "http://uk1.streamingpulse.com:7022/stream",
         "favicon": "https://img.logo.dev/ieradio.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1120,6 +1145,11 @@
         "favicon": "https://img.logo.dev/sunshineradio.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Svetur",
+        "url": "http://svetur.intellmedia.lt:8282/tiesiogiai-32aac",
+        "favicon": "https://img.logo.dev/svetur.intellmedia.lt?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "The 90s Network",
         "url": "http://uk1.streamingpulse.com:7020/stream",
         "favicon": "https://img.logo.dev/90snetwork.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1133,16 +1163,6 @@
         "name": "The Sound of Ireland",
         "url": "https://ais-sa2.cdnstream1.com/2548_128.mp3",
         "favicon": "https://img.logo.dev/thesoundofireland.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "The Zone - Dublin",
-        "url": "https://uk1.internet-radio.com/proxy/thezone/stream",
-        "favicon": "https://img.logo.dev/thezonedublin.org?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Timewarp Ireland",
-        "url": "https://broadcast.shoutstream.co.uk:8052/stream",
-        "favicon": "https://img.logo.dev/timewarpireland.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Tipp FM",
@@ -1205,11 +1225,6 @@
         "favicon": "https://img.logo.dev/todayfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "Total Country Inchicore",
-        "url": "https://totalcountry.radioca.st/stream",
-        "favicon": "https://img.logo.dev/totalcountryfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "TrancePulse [FLAC]",
         "url": "http://stream.trance.ie:8000/tpmixes",
         "favicon": "https://img.logo.dev/trancepulsefm.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1245,11 +1260,6 @@
         "favicon": "https://img.logo.dev/ucc.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
-        "name": "West Cork FM",
-        "url": "http://lyra.shoutca.st:8147/live",
-        "favicon": "https://img.logo.dev/westcorkfm.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "West Limerick 102 fm",
         "url": "http://s29.myradiostream.com/17796/listen.mp3",
         "favicon": "https://img.logo.dev/westlimerick102fm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1280,6 +1290,11 @@
         "favicon": "https://img.logo.dev/wlrfm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "XT Alternative",
+        "url": "https://xt.stream.ie:8443/xt",
+        "favicon": "https://img.logo.dev/pri.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "XT independent alternate",
         "url": "http://xt.stream.ie/xt",
         "favicon": "https://img.logo.dev/xt.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -1288,10 +1303,5 @@
         "name": "XT Independent Alternative",
         "url": "http://xt.stream.ie/xt",
         "favicon": "https://img.logo.dev/xt.ie?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Zenith Classic Rock",
-        "url": "http://91.189.64.188:3644/zenith128mp3",
-        "favicon": "https://img.logo.dev/zenithclassicrock.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

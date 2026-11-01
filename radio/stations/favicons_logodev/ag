@@ -1,10 +1,5 @@
 [
     {
-        "name": "EXA FM: Pop Music in Spanish and English",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
-        "favicon": "https://img.logo.dev/exafm.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
         "name": "Antigua Observer Radio 91.1 St. John's",
         "url": "http://s8.voscast.com:8176/;",
         "favicon": "https://img.logo.dev/antiguaobserver.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
@@ -23,10 +18,5 @@
         "name": "Radio La Senda Antigua",
         "url": "https://play10.tikast.com/proxy/lasenda?mp=/stream",
         "favicon": "https://img.logo.dev/iglesialasendaantigua.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
-    },
-    {
-        "name": "Vibz FM",
-        "url": "https://testvibz-silcomwireless.radioca.st/stream.mp3",
-        "favicon": "https://img.logo.dev/vibzfm.familyfm.ltd?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     }
 ]

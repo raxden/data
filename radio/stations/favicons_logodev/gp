@@ -1,8 +1,8 @@
 [
     {
-        "name": "Abdulbasit Abdulsamad",
-        "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
-        "favicon": "https://img.logo.dev/mp3islam.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+        "name": "Antilles Média - Kompa Gold",
+        "url": "https://antillesmedia.pro-fhi.net/antillesmediakompa",
+        "favicon": "https://img.logo.dev/antillesmedia.pro-fhi.net?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "Bel Radio Guadeloupe",
@@ -55,9 +55,19 @@
         "favicon": "https://img.logo.dev/nrjantilles.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
+        "name": "Radio Transat",
+        "url": "https://stream.rcs.revma.com/dy09pqzctwzuv",
+        "favicon": "https://img.logo.dev/radiotransat.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
         "name": "RCI guadeloupe",
         "url": "https://n10-eu.rcs.revma.com/v4hf7bwspwzuv",
         "favicon": "https://img.logo.dev/rci.fm?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
+    },
+    {
+        "name": "Sofaia Altitude",
+        "url": "http://radiosofaia.ice.infomaniak.ch/radiosofaia-high.aac",
+        "favicon": "https://img.logo.dev/radio-sofaia-altitude.com?token=pk_ZmT_ti_oQiGFau_l8tdg1g"
     },
     {
         "name": "📻 Radio Shatta Movement",
